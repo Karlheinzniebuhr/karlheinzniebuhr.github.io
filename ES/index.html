@@ -1,7 +1,7 @@
 ---
 layout: default
-title: My Blog
-category: EN
+title: "Este es mi primer post en español!"
+category: ES
 ---
 
 <div class="home">
@@ -10,7 +10,7 @@ category: EN
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.category contains 'EN' %}
+      {% if post.category contains 'ES' %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
