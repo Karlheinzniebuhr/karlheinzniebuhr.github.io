@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Experimento de un curso en udacity que llevó a una libreria python."
+title:  "Experimento en curso en udacity que llevó a una libreria python."
 date:   2015-05-10
 categories: jekyll update
 category: ES
 comments: true
 ---
 
-## La historia por detrás de [ésta libreria](https://github.com/Karlheinzniebuhr/pythonbenchmark/) de python
+### La historia por detrás de la libreria [Pythonbenchmark](https://github.com/Karlheinzniebuhr/pythonbenchmark/)
 
 ####<A HREF="#libreria">Saltar la historia</A>
 
@@ -16,8 +16,12 @@ Todo empezó en el curso de <a href="https://www.udacity.com/course/cs101" targe
 
 Se trataba de dos algoritmos para hacer una [tabla hash](http://es.wikipedia.org/wiki/Tabla_hash) para un [motor de búsqueda](http://es.wikipedia.org/wiki/Motor_de_b%C3%BAsqueda). El poder de los motores de búsqueda consiste en la velocidad con la cual logran asociar terminos de búsqueda con cientos de millones de posibles resultados. La arquitectura que utilizan motores de búsqueda como google es mucho mas compleja hablando de la totalidad pero se basan en algo bastante simple. Las tablas hash. Una tablas hash es una estructura de datos que asocia llaves o claves con valores. Hasta ahí todo normal, nada tan especial, el problema es que si existen millones de registros, el buscador tendría que correr a través de todo el registro cada vez que alguien haga una búsqueda, simplemente sería demasiado costoso y lento.  Publicaré otro post explicando como se soluciona este problema, ahora siguiendo con el tema del curso. Según el <span class="lG">profesor</span>&nbsp;<a href="http://www.cs.virginia.edu/~evans/" target="_blank">David Evans</a>&nbsp;uno de los dos algoritmos que habíamos hecho en clases era más rápido, lo cual resultó no ser cierto como descubrió un amigo que abrió un&nbsp;<a href="http://forums.udacity.com/questions/100164089/challenging-the-professor-testing-times-need-your-help-to-analyze-this-fun-discovery" target="_blank">POST</a>&nbsp;en <span class="lG">el foro de Udacity</span>. Sólo le faltaba ayuda con el algoritmo de comparación. Esto capto inmediatamente mi interés y empece a dedicar mi sábado de noche a crear un algoritmo que tomaría nuestros dos algoritmos de la clase para comprobar cual de ellos es mas rápido. 
 
-Después de muchas pruebas llegamos a la conclusión que el profesor estaba equivocado, le avise por Twitter y me respondió en poco tiempo lo cual me sorprendió, profesores tan abiertos y buena onda quisiera haber tenido más en la facultad. 
-image
+Después de muchas pruebas llegamos a la conclusión que el profesor estaba equivocado, le avise por Twitter y me respondió en poco tiempo lo cual me sorprendió, profesores tan abiertos a críticas quisiera haber tenido más en la facultad.  
+
+[El link del tweet](https://twitter.com/UdacityDave/status/448893996517953536)
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/NiebuhrKarl">@NiebuhrKarl</a> <a href="https://twitter.com/antoniogbo">@antoniogbo</a> You are correct! Thanks for the notice - I&#39;ll post a longer discussion on this in the forum...</p>&mdash; David Evans (@UdacityDave) <a href="https://twitter.com/UdacityDave/status/448893996517953536">March 26, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Siguió con un mail y un post explicando el motivo por el cual la teoría en este caso no acertó, por una cuestión de cómo esta implementado algo en python mismo. Recomiendo leer el foro para entenderlo mas a detalle.
 [El post completo](http://forums.udacity.com/questions/100164089/challenging-the-professor-testing-times-need-your-help-to-analyze-this-fun-discovery)
@@ -47,10 +51,10 @@ Thanks,<br><span class="lG">Udacity</span> Forums</p><p style="color:rgb(51,51,5
 
 <hr style="color:rgb(204,204,204);border:0px;min-height:1px;background-color:rgb(204,204,204);margin-bottom:20px"><p style="color:rgb(51,51,51);font-family:'helvetica neue',arial,Helvetica,sans-serif;line-height:18px;font-size:14px;margin-top:10px">
 
-<small style="font-family:'Lucida Grande',Trebuchet,Helvetica,sans-serif;font-size:12px"></small></p></div></td></tr></tbody></table></center></div></div><br>
+<small style="font-family:'Lucida Grande',Trebuchet,Helvetica,sans-serif;font-size:12px"></small></p></div></td></tr></tbody></table></center></div><br>
 
 ## <A NAME="libreria">La librería</A>
-Todo lo mencionado anteriormente pasó en 2014, hasta que en este año una discusión en el chat con amigos programadores me puso a reutilizar ese código hecho para el curso para comparar dos algoritmos. El tema es el siguiente, [timeit](https://docs.python.org/2/library/timeit.html), el método que viene con la librería estándar de python permite medir el tiempo de ejecución de código esta diseñado para medir "code snippets".  [(Snippet es un término del idioma inglés utilizado en programación para referirse a pequeñas partes recusables de código fuente.)](http://es.wikipedia.org/wiki/Snippet) Lo cual no me gusta para nada en la mayoría de casos, mayormente quiero comparar dos funciones y ver cuál es mas eficiente. No conociendo a ninguna librería que permite hacer eso me puse a crear mi propia librería [https://github.com/Karlheinzniebuhr/pythonbenchmark/](https://github.com/Karlheinzniebuhr/pythonbenchmark/) . 
+Todo lo mencionado anteriormente pasó en 2014, un año mas tarde tuviendo una discusión en el chat con amigos programadores me puso a reutilizar ese código hecho para el curso para comparar dos algoritmos. El tema es el siguiente, [timeit](https://docs.python.org/2/library/timeit.html), el método que viene con la librería estándar de python permite medir el tiempo de ejecución de código esta diseñado para medir "code snippets".  [(Snippet es un término del idioma inglés utilizado en programación para referirse a pequeñas partes recusables de código fuente.)](http://es.wikipedia.org/wiki/Snippet) Lo cual no me gusta para nada en la mayoría de casos, mayormente quiero comparar dos funciones y ver cuál es mas eficiente. No conociendo a ninguna librería que permite hacer eso me puse a crear mi propia librería [https://github.com/Karlheinzniebuhr/pythonbenchmark/](https://github.com/Karlheinzniebuhr/pythonbenchmark/) . 
 
 En el documento readme están las indicaciones pero lo mencionaré aquí brevemente en español. 
 
@@ -105,6 +109,6 @@ myOptimizedFunction(algo)
 {% endhighlight %}
 
 
-Si bien este método no esta tan preciso como el método timeit que viene con python, es lo suficientemente preciso para la mayoría de casos. La precisión en este caso esta definida por la granularidad del reloj de la plataforma (sistema operativo) en donde se esta ejecutando el programa. 
+Si bien este método no esta tan preciso como el método timeit que viene inlcuido con python, es lo suficientemente preciso para la mayoría de casos. La precisión en este caso esta definida por la granularidad del reloj de la plataforma (sistema operativo) en donde se esta ejecutando el programa. 
 Espero que a más personas les sirva la librería, recibo sugerencias y contribuciones con gusto.
 Saludos
