@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-## A simple demo showing how to encrypt a message using XOR ##
+#### A simple demo showing how to encrypt a message using XOR ####
 During the Stanford [Crypto-course](https://www.coursera.org/course/crypto) I made a demo in order to better understand the concept of XOR in encryption. 
 
 [http://en.wikipedia.org/wiki/Exclusive_or](http://en.wikipedia.org/wiki/Exclusive_or "What is XOR?")
@@ -58,6 +58,7 @@ def toAsc(bin_text):
 
 
 finally, after executing we get as output
+![Image image2](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/xor.PNG)
 
 
 Feel free to experiment with the code, I hope someone will find this as useful as I did to get a better understanding of the XOR encryption process. Questions are welcome. 
