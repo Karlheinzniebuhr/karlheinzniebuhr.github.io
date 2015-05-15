@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-#### A simple demo showing how to encrypt a message using XOR ####
+#### A simple demo about XOR encryption ####
 During the Stanford [Crypto-course](https://www.coursera.org/course/crypto) I made a demo in order to better understand the concept of XOR in encryption. 
 
 [http://en.wikipedia.org/wiki/Exclusive_or](http://en.wikipedia.org/wiki/Exclusive_or "What is XOR?")
