@@ -13,9 +13,11 @@ During the Stanford [Crypto-course](https://www.coursera.org/course/crypto) I ma
 
 [What is XOR?](http://en.wikipedia.org/wiki/Exclusive_or)
 
-In digital cryptography basically everything comes down to XOR'ing things. This is such a simple concept but at the same time [it is the only existing mathematically unbreakable encryption.](http://users.telenet.be/d.rijmenants/en/onetimepad.htm) 
+In digital cryptography basically everything comes down to XOR'ing things. This is such a simple concept but at the same time [it's the only existing mathematically unbreakable encryption.](http://users.telenet.be/d.rijmenants/en/onetimepad.htm) 
 
-"In cryptography, a one-time pad (OTP) is an encryption technique that cannot be cracked if used correctly. In this technique, a plaintext is paired with a random secret key (or pad). Then, each bit or character of the plaintext is encrypted by combining it with the corresponding bit or character from the pad using modular addition. If the key is truly random, is at least as long as the plaintext, is never reused in whole or in part, and is kept completely secret, then the resulting ciphertext will be impossible to decrypt or break" ~ Wikipedia
+A one-time pad (OTP) is an encryption technique that cannot be cracked if used correctly. In this technique, a plaintext is paired with a random secret key (or pad). Then, each bit or character of the plaintext is encrypted by combining it with the corresponding bit or character from the pad using modular addition. If the key is truly random, is at least as long as the plaintext, is never reused in whole or in part, and is kept completely secret, then the resulting ciphertext will be impossible to decrypt or break.<A HREF="#1">[1]</A> 
+To find key or plaintext, an adversary only has the random ciphertext at his disposal. This is an equation with two unknowns (the key and the message), which is mathematically unsolvable.  
+If someone had infinite computational power he could go through all possible keys (a brute force attack). He would find out that applying the key XVHEU on ciphertext QJKES would produce the (correct) word TODAY. Unfortunately, he would also find out that the key FJRAB would produce the word LATER, and even worse, DFPAB would produce the word NEVER. He has no idea which key is the right one. In fact, you can produce any desired word or phrase from any one-time pad -encrypted message, as long as you use the 'right' wrong key. There is no way to verify if a solution is the right one. Therefore, the one-time pad system is proven completely secure.<A HREF="#2">[2]</A>
 
 [here is a video from Khanacademy explaining OTP.](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/one-time-pad)
 
@@ -115,4 +117,8 @@ Output
 
 Feel free to experiment with the code, I hope someone will find this as useful as I did to get a better understanding of the XOR encryption process. Questions are welcome. 
 [https://github.com/Karlheinzniebuhr/XOR-encryption-demo/](https://github.com/Karlheinzniebuhr/XOR-encryption-demo/ "XOR-encryption-demo")
+
+Sources:  <br>
+<A NAME="1">[1] http://users.telenet.be/d.rijmenants/en/onetimepad.htm</A>  <br>
+<A NAME="2">[2] http://en.wikipedia.org/wiki/One-time_pad</A>
 
