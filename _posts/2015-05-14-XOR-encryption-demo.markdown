@@ -22,7 +22,7 @@ In digital cryptography basically everything comes down to XOR'ing things. This 
 [Click here for a more extensive explanation and the history behind OTP encryption. ](http://users.telenet.be/d.rijmenants/en/onetimepad.htm)
 
 **So I decided to make a proof of concept, this is what I came up with.**  
-Check out my code on [Github](https://github.com/Karlheinzniebuhr/XOR-encryption-demo/).  
+Check out my code on [Github](https://github.com/Karlheinzniebuhr/XOR-encryption-demo/) or just [try it online.](https://repl.it/oJl)  
 We take a keyboard input from the user (**message**), and generate a random password with the **same length**.
 ***Note that it's important that the password has the same length than the message.***
 
