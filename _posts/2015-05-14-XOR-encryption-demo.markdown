@@ -11,12 +11,15 @@ comments: true
 #### A simple demo about XOR encryption ####
 During the Stanford [Crypto-course](https://www.coursera.org/course/crypto) I made a demo in order to better understand the concept of XOR in encryption. 
 
-[http://en.wikipedia.org/wiki/Exclusive_or](http://en.wikipedia.org/wiki/Exclusive_or "What is XOR?")
+[What is XOR?](http://en.wikipedia.org/wiki/Exclusive_or)
 
-In digital cryptography basically everything comes down to XOR'ing things. This is such a simple concept but at the same time [the strongest encryption method.](http://en.wikipedia.org/wiki/One-time_pad). 
-["In cryptography, a one-time pad (OTP) is an encryption technique that cannot be cracked if used correctly. In this technique, a plaintext is paired with a random secret key (or pad). Then, each bit or character of the plaintext is encrypted by combining it with the corresponding bit or character from the pad using modular addition. If the key is truly random, is at least as long as the plaintext, is never reused in whole or in part, and is kept completely secret, then the resulting ciphertext will be impossible to decrypt or break"](http://en.wikipedia.org/wiki/One-time_pad)
+In digital cryptography basically everything comes down to XOR'ing things. This is such a simple concept but at the same time [it is the only existing mathematically unbreakable encryption.](http://users.telenet.be/d.rijmenants/en/onetimepad.htm) 
 
-For a nice explanation of OTP encryption I recommend [this video from Khanacademy.](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/one-time-pad)
+"In cryptography, a one-time pad (OTP) is an encryption technique that cannot be cracked if used correctly. In this technique, a plaintext is paired with a random secret key (or pad). Then, each bit or character of the plaintext is encrypted by combining it with the corresponding bit or character from the pad using modular addition. If the key is truly random, is at least as long as the plaintext, is never reused in whole or in part, and is kept completely secret, then the resulting ciphertext will be impossible to decrypt or break" ~ Wikipedia
+
+[here is a video from Khanacademy explaining OTP.](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/one-time-pad)
+
+[Click here for a more extensive explanation and the history behind OTP encryption. ](http://users.telenet.be/d.rijmenants/en/onetimepad.htm)
 
 **So I decided to make a proof of concept, this is what I came up with.**  
 Please check it out [here](https://github.com/Karlheinzniebuhr/XOR-encryption-demo/) we take a keyboard input from the user (**message**), and generate a random password with the **same length**.
