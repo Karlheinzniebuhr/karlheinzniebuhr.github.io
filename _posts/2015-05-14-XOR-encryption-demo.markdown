@@ -8,7 +8,6 @@ comments: true
 ---
 
 
-#### A simple demo about XOR encryption ####
 During the Stanford [Crypto-course](https://www.coursera.org/course/crypto) I made a demo in order to better understand the concept of XOR in encryption. 
 
 [What is XOR?](http://en.wikipedia.org/wiki/Exclusive_or)
