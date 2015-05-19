@@ -7,6 +7,7 @@ category: EN
 comments: true
 ---
 
+<h5>By Karlheinz Niebuhr, follow me on <a href="https://twitter.com/NiebuhrKarl">twitter</a>, and <a href="https://github.com/Karlheinzniebuhr">github</a></h5>
 
 During the Stanford [Crypto-course](https://www.coursera.org/course/crypto) I made a demo in order to better understand the concept of XOR in encryption. 
 
