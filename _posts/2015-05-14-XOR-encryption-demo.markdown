@@ -158,7 +158,7 @@ Feel free to experiment with the code, I hope someone will find this as useful a
 
 
 ###**Update**
-After I got great [feedback on Reddit](https://www.reddit.com/r/crypto/comments/36jzji/short_and_easy_to_understand_otp_proof_of_concept/crepf6i) I made some updates to the code, namely switching to os.urandom() which is better suited for cryptographic use than random.choice(). 
+After some great [feedback on Reddit](https://www.reddit.com/r/crypto/comments/36jzji/short_and_easy_to_understand_otp_proof_of_concept/crepf6i) I made some updates to the code, namely switching to os.urandom() which is better suited for cryptographic use than random.choice(). 
 
 Sources:  <br>
 <A NAME="1">[1] http://users.telenet.be/d.rijmenants/en/onetimepad.htm</A>  <br>
