@@ -35,6 +35,7 @@ This is the entire script
 {% highlight python %}
 import random
 import string
+import os
 
 # XOR the message and key
 # Exclusive disjunction or exclusive or is a logical operation that outputs true whenever both inputs differ (one is true, the other is false)
@@ -54,7 +55,7 @@ def xor(a,b):
 
 
 def toBin(string):
-	return ''.join('{:08b}'.format(ord(c)) for c in string)
+	return ''.join('{:08b}'.format(ord(character)) for character in string)
 
 def toAsc(bin_text):
 	return ''.join(chr(int(bin_text[i:i+8], 2)) for i in xrange(0, len(bin_text), 8))
@@ -63,7 +64,7 @@ message = raw_input('--> ')
 print("Message: " + message)
 message_bit_string = toBin(message)
 
-key = ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(len(message)))
+key = os.urandom(len(message))
 print("Key:", key)
 key_bit_string = toBin(key)
 
@@ -76,6 +77,7 @@ decrypted_message = xor(encrypted_message, key_bit_string)
 print("message decrypted = " + str(decrypted_message == message_bit_string))
 print("message in binary is: " + '"' + str(decrypted_message) + '"\n\n')
 print("message in Ascii is: " + '"' + toAsc(str(decrypted_message)) + '"\n\n')
+
 {% endhighlight %}
 
 
@@ -154,8 +156,10 @@ Output
 Feel free to experiment with the code, I hope someone will find this as useful as I did to get a better understanding of the XOR encryption process. Questions are welcome. 
 [https://github.com/Karlheinzniebuhr/XOR-encryption-demo/](https://github.com/Karlheinzniebuhr/XOR-encryption-demo/ "XOR-encryption-demo")
 
+
+###**Update**
+After I got great [feedback on Reddit](https://www.reddit.com/r/crypto/comments/36jzji/short_and_easy_to_understand_otp_proof_of_concept/crepf6i) I made some updates to the code, namely switching to os.urandom() which is better suited for cryptographic use than random.choice(). 
+
 Sources:  <br>
 <A NAME="1">[1] http://users.telenet.be/d.rijmenants/en/onetimepad.htm</A>  <br>
 <A NAME="2">[2] http://en.wikipedia.org/wiki/One-time_pad</A>
-
-
