@@ -17,9 +17,5 @@ Finalmente hace unos días volví a mencionar en el grupo de chat de los amigos 
 
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/caffeines_advice.PNG)
 
-Pero pasó desapercibido entre el flujo continuo del chat grupal que trataba de otro tema en el momento y yo estaba ocupado jodiendo con wordpress. Básicamente lo que pasó después es que apareció otro mensaje y esta vez ya me puse a investigar más del tema. 
-
-![Image image2](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/caffeines_advice2.PNG)
-
 La idea de usar a Github como hosting me gustó desde el principio, después de todo, Github es fantástico para programadores que aman compartir.  El hecho que sea gratis, y que se pueda usar páginas estáticas ayudó bastante en mi decisión. Me puse a investigar, no tenía ni idea de qué era Jekyll y mucho menos un tal “blog aware, static site generator”. Empezando por [Youtube](https://www.youtube.com/watch?v=iWowJBRMtpc) y luego yendo por un montón de páginas y [este podcast](http://5by5.tv/webahead/54), me di cuenta que algo como Jekyll era lo que necesitaba. Además programar en Jekyll es [cool y es de hackers](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html). Y aquí estoy, terminando mi primer blogpost en Jekyll. Capaz haré otro post describiendo el proceso de creación. Y si o si haré un post del podcast arriba mencionado y los beneficios de seguridad y performance de usar páginas estáticas. Así que stay tuned!.
 Hasta pronto
