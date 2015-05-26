@@ -1,0 +1,29 @@
+ <div id="typewriter"></div>
+
+
+<script>
+var str = "Happy birthday Dahie!! <3 <br> \
+Now you are a big girl :D, nah.. you were big before, it's just a new legal annotation this time. Anyways I hope this new year brings you closer to\ your<br> dreams, and  if you still don't exactly know what your dream is don't worry, you will figure it out by time. <br>It took me a long time\ too to check out what\ is it that I found most interesting to study and do :) <br> And there is still so much I didn't figure out but the journey\ in figuring out I think is equally important. \
+I want you to know that whenever you need something, maybe about computer science or whatever don’t hesitate to ask. It's a big pleasure to talk\ with you about any things we use to talk about, whether it is studying in Europe or some new discovery in science.<br> \
+Take care of yourself and stay awesome, I like you a lot.<br> \
+Have a great day today :) <br>\
+Karl\
+",
+    i = 0,
+    isTag,
+    text;
+
+(function type() {
+    text = str.slice(0, ++i);
+    if (text === str) return;
+    
+    document.getElementById('typewriter').innerHTML = text;
+
+    var char = text.slice(-1);
+    if( char === '<' ) isTag = true;
+    if( char === '>' ) isTag = false;
+
+    if (isTag) return type();
+    setTimeout(type, 80);
+}());
+</script>
