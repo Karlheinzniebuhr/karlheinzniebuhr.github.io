@@ -4,4 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I'm a CS stundent, programmer and curious person, contact me on any of the links below
+{% include typed.html %}
+
+<span class="element"></span>
+<script>
+    $(function(){
+        $(".element").typed({
+            strings: ["This section is still in process so instead, ", "Check out my links below."],
+            typeSpeed: 0
+        });
+    });
+</script>
