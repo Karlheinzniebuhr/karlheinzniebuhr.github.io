@@ -10,7 +10,7 @@ permalink: /about/
 <script>
     $(function(){
         $(".element").typed({
-            strings: ["This section is still in process..^1000 meanwhile check out the links below.^300<br>Or say hello^1000 <br> Cheers"],
+            strings: ["This section is still in process..^1000 meanwhile follow me on Twitter and Github.^300<br>Or say hello^1000 <br> Cheers"],
             typeSpeed: 0
         });
     });
