@@ -54,3 +54,11 @@ blockquote.twitter-tweet a:hover,
 blockquote.twitter-tweet a:focus {
   text-decoration: underline;
 }
+
+contact-form {
+
+}
+
+.contact-form .input {
+    width: 100%;
+}
