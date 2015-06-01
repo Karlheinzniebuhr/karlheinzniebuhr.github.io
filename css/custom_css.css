@@ -62,3 +62,15 @@ contact-form {
 .contact-form .input {
     width: 100%;
 }
+
+
+/* social media */
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+  margin-left: 0px;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
