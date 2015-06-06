@@ -161,5 +161,5 @@ Feel free to experiment with the code, I hope someone will find this as useful a
 After some great feedback on Reddit I made some updates to the code, namely switching to os.urandom() which is better suited for cryptographic use than random.choice(). 
 
 Sources:  <br>
-<A NAME="1">[1] http://users.telenet.be/d.rijmenants/en/onetimepad.htm</A>  <br>
-<A NAME="2">[2] http://en.wikipedia.org/wiki/One-time_pad</A>
+<A NAME="1" href="http://users.telenet.be/d.rijmenants/en/onetimepad.htm">[1] http://users.telenet.be/d.rijmenants/en/onetimepad.htm</A>  <br>
+<A NAME="2" href="http://en.wikipedia.org/wiki/One-time_pad">[2] http://en.wikipedia.org/wiki/One-time_pad</A>
