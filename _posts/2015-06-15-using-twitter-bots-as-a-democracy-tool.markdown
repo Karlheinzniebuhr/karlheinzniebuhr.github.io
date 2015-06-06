@@ -16,7 +16,7 @@ comments: true
 A key tool which was used by Paraguayans to fight the data retention law is a python script named “Pyrawebs”. The name of the Tool which sends automated tweets to the Paraguayan politicians, alludes to the digital version of pyragües, informers who monitored the civilian population’s movements on behalf of dictator Alfredo Stroessner, who ruled between 1954 and 1989. In this post I will explain how this script works and how it was used. Hopefully someone else can give it a meaningful use.
 
 ###How it works  
-The tools which is written in python uses the [tweepy library](https://github.com/tweepy/tweepy) to communicate with the twitter API. It can be executed via the command line and takes as input the names of two text files. One of them a list of Twitter users and the other one is the file which contains a list of all the tweets you want to send. 
+The tools which is written in python by <a href="https://twitter.com/juanbaezr">Juan</a> and <a href="https://twitter.com/melizeche">Marce</a> uses the [tweepy library](https://github.com/tweepy/tweepy) to communicate with the twitter API. It can be executed via the command line and takes as input the names of two text files. One of them a list of Twitter users and the other one is the file which contains a list of all the tweets you want to send. 
 IMAGES
 It iterates over every tweet and sends them to every single user contained in the users text file. 
 
