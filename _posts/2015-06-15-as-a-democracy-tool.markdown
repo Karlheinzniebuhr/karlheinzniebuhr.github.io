@@ -24,7 +24,7 @@ It iterates over every tweet and sends them to every single user contained in th
 One of the issues we encountered was an error message after a number of consecutive tweets.    
 ***"This request looks like it might be automated. To protect our users from spam and other malicious activity, we can't complete this action right now. Please try again later."***  
 Apparently the twitter API wasn’t amused.  
-Fortunately I could solve this by rising the inferior time limit of the random function time function. The twitter API gets suspicious if there are several new tweets in a short time period (Twitter engineers if you are reading this, don't update your code.) And that’s it, now you can deliver meaningful tweets 24/7. Hopefully it will change something for the better.  
+Fortunately I could solve this by rising the inferior time limit of the random time function. The twitter API gets suspicious if there are several new tweets in a short time period (Twitter engineers if you are reading this, don't update your code.) And that’s it, now you can deliver meaningful tweets 24/7.  
 Cheers
 
 
