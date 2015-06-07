@@ -91,7 +91,7 @@ if __name__ == "__main__":
         api.update_status(status=tweet)
         wait = randint(30,120)
         time.sleep(wait)
-        print 'wait: '+str(espera)+' seconds'
+        print 'wait: '+str(wait)+' seconds'
       except Exception as exception:
         print exception
         print "Failed to tweet:", tweet
