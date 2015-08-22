@@ -63,3 +63,8 @@ En total la lista contiene 8.000.000 números vs los **10<sup>10</sup>** = 10,00
 
 
 Favor solo usar para hacking ético.  No me hago responsable del mal uso de los diccionarios. 
+
+
+
+Otros links:  
+<a href="https://chrome.google.com/webstore/detail/whatsapp-flooder/gifobmlikjfiopmddbgcnolkgkbbbiie">Whatsapp flooder</a>
