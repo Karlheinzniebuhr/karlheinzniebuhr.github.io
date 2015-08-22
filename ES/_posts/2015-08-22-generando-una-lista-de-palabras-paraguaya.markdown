@@ -42,7 +42,7 @@ cat abcColor datamexguarani lajaula personal portalguarani skycraperPy tigo ulti
 {% endhighlight %}
 
 Me quede con una lista de **184406** palabras únicas. 
-El diccionario se puede descargar en este enlace. 
+El diccionario se puede descargar en este enlace.   
 **<a href="https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/data/wordlists/dictPy.txt" download>Descargar DictPy</a>**
 Recomiendo usarlo en combinacion con reglas de [hashcat](http://hashcat.net/oclhashcat/) por ejemplo la **best64.rule**.
 
