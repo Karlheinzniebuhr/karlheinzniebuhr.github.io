@@ -46,7 +46,7 @@ El diccionario se puede descargar en este enlace.
 <h3><a href="https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/data/wordlists/dictPy.txt" download>Descargar DictPy</a></h3>
 Recomiendo usarlo en combinacion con reglas de [hashcat](http://hashcat.net/oclhashcat/) por ejemplo la **best64.rule**.
 
-Un tiempo atrás también hice un diccionario con los números telefonicos móvil del Paraguay (mucha gente utiliza su número como contraseña del wifi por ejemplo). Para ello utilize el generador de listas de palabras [crunch]. (http://adaywithtape.blogspot.com.au/2011/05/creating-wordlists-with-crunch-v30.html) 
+Un tiempo atrás también hice un diccionario con los números telefonicos móvil del Paraguay (mucha gente utiliza su número como contraseña del wifi por ejemplo). Para ello utilize el generador de listas de palabras [crunch](http://adaywithtape.blogspot.com.au/2011/05/creating-wordlists-with-crunch-v30.html).
 
 Básicamente tome los prefijos mas utilizados y le agregue todas las combinaciones posibles de 6 dígitos (fuerza bruta) o sea **10<sup>6</sup>** = 1.000.000 números.
 0961
