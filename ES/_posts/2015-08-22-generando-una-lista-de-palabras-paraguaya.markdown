@@ -10,7 +10,7 @@ permalink: 2015-08-22/diccionario-de-palabras-Paraguayo
 
 
 **Introducción**  
-En este post explicare como hice algunos diccionarios de palabras para romper [hash's](https://es.wikipedia.org/wiki/Funci%C3%B3n_hash) de contraseñas. 
+En este post explicare como hice algunos diccionarios de palabras para romper [hash's](https://es.wikipedia.org/wiki/Funci%C3%B3n_hash) de contraseñas.  
 **Pero para que se usan las listas de palabras en el contexto de hacking?** 
 Se utilizan para un método de cracking en donde se intenta averiguar una contraseña probando todas las palabras del diccionario. Este método suele ser mucho mas eficiente que los ataques de fuerza bruta en donde se intentan todas las posibles combinaciones de letras, números y/o signos. 
 Para ver por qué es así basta con un simple ejemplo. Supongamos que queremos crackear la contraseña “**crackme**”. Probando con fuerza bruta,  suponiendo que la contraseña consiste solamente de letras en minúscula, necesitaríamos:
