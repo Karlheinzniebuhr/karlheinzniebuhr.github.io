@@ -112,3 +112,11 @@ myOptimizedFunction(algo)
 Si bien este método no esta tan preciso como el método timeit que viene inlcuido con python, es lo suficientemente preciso para la mayoría de casos. La precisión en este caso esta definida por la granularidad del reloj de la plataforma (sistema operativo) en donde se esta ejecutando el programa. 
 Espero que a más personas les sirva la librería, recibo sugerencias y contribuciones con gusto.
 Saludos
+
+
+## *** UPDATE ***
+La libreria ahora esta disponible en el gestor de paquetes PyPi. Podes instalarla con este comando:
+{% highlight bash %}
+pip install pythonbenchmark
+{% endhighlight %}
+
