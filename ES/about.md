@@ -31,7 +31,7 @@ permalink: /ES/about/
                 </div>
         </article>
         <br>
-        <h4>I'm also on <a href="https://telegram.me/karlpy">Telegram</a></h4>
+        <h4>También estoy en Telegram <a href="https://telegram.me/karlpy">Telegram</a></h4>
     </div>
  </div>
 </div>
