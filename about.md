@@ -32,8 +32,9 @@ permalink: /about/
                     <input type="submit" class="button button-blue button-big mobile-block" value="Say Hello">
                   </form>
                 </div>
-
         </article>
+        <br>
+        <h4>I'm also on <a href="https://telegram.me/karlpy">Telegram</a></h4>
     </div>
  </div>
 </div>
