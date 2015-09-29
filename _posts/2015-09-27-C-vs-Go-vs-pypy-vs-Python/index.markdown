@@ -110,6 +110,7 @@ int main ()
 
 
 Now the code runs 5x faster than C without using CFLAGS and 40% faster than Go.
+Note however that the C compiler precomputes the loop with optimisation, so in case the Go binary runs the loop every time, this won't be a fair comparison after all.
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-opt.png)
 
 

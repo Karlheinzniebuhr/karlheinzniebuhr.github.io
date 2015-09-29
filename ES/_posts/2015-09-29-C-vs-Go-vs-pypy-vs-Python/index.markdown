@@ -102,6 +102,6 @@ int main ()
 
 
 
-El código C optimizado corre 5x mas rápido comparado con el binario hecho sin utilizar CFLAGS y es 40% mas rápido que Go.
+El código C optimizado corre 5x mas rápido comparado con el binario hecho sin utilizar CFLAGS y es 40% mas rápido que Go. Nótese que usando la optimización  en C, el compilador pre calcula el resultado del loop, asi que en caso que el binario de Go corre el loop cada vez, esta comparación no es justa. 
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-opt.png)
 
