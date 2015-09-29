@@ -81,3 +81,27 @@ console.log(sum);
 Javascript realmente parece ser el lenguaje interpretado mas rápido, es increíble que tarde solo 2.4 veces mas que C
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 
+###**Update 2 misterio resolvido**
+Como mostraron en [Reddit](https://www.reddit.com/r/compsci/comments/3mss9b/any_idea_why_this_go_loop_is_faster_than_pure_c/) y los comentarios en el post en [ingles](http://karlheinzniebuhr.github.io/en/2015/09/28/C-vs-Go-vs-pypy-vs-Python/), usando [CFLAGS](https://wiki.gentoo.org/wiki/GCC_optimization) para activar la optimización del codigo C aumenta drásticamente la velocidad. También tuve que inicializar la variable sum porque de lo contrario retornaba un resultado erróneo.  
+{% highlight c %}
+#include <stdio.h>
+ 
+int main ()
+{
+   long a;
+   long sum = 0;
+   /* for loop execution */
+   for( a = 0; a < 10000000; a++ )
+   {
+      sum += a;
+   }
+    printf("sum: %ld\n", sum);
+   return 0;
+}
+{% endhighlight %}
+
+
+
+El código C optimizado corre 5x mas rápido comparado con el binario hecho sin utilizar CFLAGS y es 40% mas rápido que Go.
+![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-opt.png)
+
