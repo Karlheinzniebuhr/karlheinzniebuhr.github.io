@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "C vs Go vs pypy vs Python"
+title:  "C vs Go vs pypy vs Python vs Javascript V8"
 date:   2015-09-28
 categories: jekyll update
 category: ES
