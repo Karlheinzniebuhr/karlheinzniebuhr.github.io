@@ -13,9 +13,8 @@ category: ES
       {% if post.category contains 'ES' %}
       <li>
         <span class="post-meta">{{ post.date | date: "%-d %b, %Y" }} » </span>
-
         
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl | remove:'index.html' }}">{{ post.title }}</a>
         
       </li>
       {% endif %}

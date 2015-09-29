@@ -5,7 +5,6 @@ date:   2015-08-22
 categories: jekyll update
 category: ES
 comments: true
-permalink: 2015-08-22/diccionario-de-palabras-Paraguayo
 ---
 
 
