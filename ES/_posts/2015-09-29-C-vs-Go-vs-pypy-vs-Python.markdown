@@ -22,7 +22,6 @@ int main ()
    /* for loop execution */
    for( a = 0; a < 10000000; a++ )
    {
-      // printf("value of a: %d\n", a);
         sum += a;
    }
     printf("sum: %lu\n", sum);
