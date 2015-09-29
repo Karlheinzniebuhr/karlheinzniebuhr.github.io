@@ -74,6 +74,18 @@ The second time it took only 0.101 which is only 3 times slower than the C imple
 But the indisputable winner was Go which took only 0.010 seconds, 3x faster than C.
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go.png)
 
-Updates coming soon
+
+**Update 1**  
+I added a test with NodeJs
+{% highlight javascript %}
+var sum = 0;
+for (var i = 0; i < 10000000; i++) {
+  sum+=i;
+}
+console.log(sum);
+{% endhighlight %}
+
+Amazing, JS is without doubt the fastest interpreted language.. 0.077 just seconds! 2.4 times slower than unoptimised C and about   
+![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 
 

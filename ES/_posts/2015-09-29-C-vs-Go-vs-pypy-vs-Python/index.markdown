@@ -11,11 +11,6 @@ Siempre me gusta experimentar con performance de algoritmos y lenguajes de progr
 
 Para mi gran sorpresa el ganador es Go y no C, como esperado. Todavía no se a que se debe eso pero hare un update al post cuando tenga la respuesta, estoy seguro que me olvide de alguna optimización en el código C. 
 
-Especificaciones del hardware  
-MacBook Pro (Retina, 13-inch, Early 2015)  
-Processor 2.7 GHz Intel Core i5  
-Memory 8 GB 1867 MHz DDR3  
-
 Este es el código C
 {% highlight c %}
 #include <stdio.h>
@@ -73,6 +68,16 @@ Y la segunda vez 0.101 lo cual apenas es 3 veces mas lento que la implementació
 Pero Go arrasó con todo tardando solo 0.010 segundos
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go.png)
 
-Actualizaré pronto con mas detalles.. 
+**Update 1**  
+Agregué un test con NodeJs (como pude olvidarme de eso?)
+{% highlight javascript %}
+var sum = 0;
+for (var i = 0; i < 10000000; i++) {
+  sum+=i;
+}
+console.log(sum);
+{% endhighlight %}
 
+Se nota que Javascript es el lenguaje interpretado mas rápido, es increíble que tarde solo 2.4 veces mas que C
+![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 
