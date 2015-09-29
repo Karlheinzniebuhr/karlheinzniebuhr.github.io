@@ -81,7 +81,7 @@ console.log(sum);
 Javascript realmente parece ser el lenguaje interpretado mas rápido, es increíble que tarde solo 2.4 veces mas que C
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 
-###**Update 2 misterio resolvido**
+###**Update 2 misterio resolvido?**
 Como mostraron en [Reddit](https://www.reddit.com/r/compsci/comments/3mss9b/any_idea_why_this_go_loop_is_faster_than_pure_c/) y los comentarios en el post en [ingles](http://karlheinzniebuhr.github.io/en/2015/09/28/C-vs-Go-vs-pypy-vs-Python/), usando [CFLAGS](https://wiki.gentoo.org/wiki/GCC_optimization) para activar la optimización del codigo C aumenta drásticamente la velocidad. También tuve que inicializar la variable sum porque de lo contrario retornaba un resultado erróneo.  
 {% highlight c %}
 #include <stdio.h>
@@ -104,4 +104,64 @@ int main ()
 
 El código C optimizado corre 5x mas rápido comparado con el binario hecho sin utilizar CFLAGS y es 40% mas rápido que Go. Nótese que usando la optimización  en C, el compilador pre calcula el resultado del loop, asi que en caso que el binario de Go corre el loop cada vez, esta comparación no es justa. 
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-opt.png)
+
+###**Update 3: Go sigue siendo si no se puede aplicar optimización en C**
+
+Para prevenir que C precompile el resultado del loop, hice los tests nuevamente pasando el numero como parámetro en la linea de comando. 
+
+código C con parametro 
+{% highlight c %}
+#include <stdio.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+main(int argc, char *argv[])
+{
+
+  int arg1 = 1;
+
+    arg1 = atoi(argv[1]);
+
+   long a;
+   long sum = 0;
+   /* for loop execution */
+   for( a = 0; a < arg1; a++ )
+   {
+      sum += a;
+   }
+    printf("sum: %ld\n", sum);
+   return 0;
+}
+{% endhighlight %}
+
+código Go con parametro
+{% highlight c %}
+package main
+
+import "os"
+import "fmt"
+import "strconv"
+
+func main() {
+  arg := os.Args[1]
+
+  n, e := strconv.Atoi(arg)
+    if e != nil {
+        fmt.Println(e)
+    }
+
+  sum := 0
+  for i := 0; i < n; i++ {
+    sum += i
+  }
+  fmt.Println(sum)
+}
+{% endhighlight %}
+
+C tiene la misma velocidad que antes sin optimización.  
+![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-cmd.png)
+
+Pero Go sigue manteniendo su velocidad, es 3 veces mas rápido que C extrañamente.  
+![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go-cmd.png)
+
 
