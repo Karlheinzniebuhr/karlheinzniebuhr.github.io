@@ -78,6 +78,6 @@ for (var i = 0; i < 10000000; i++) {
 console.log(sum);
 {% endhighlight %}
 
-Se nota que Javascript es el lenguaje interpretado mas rápido, es increíble que tarde solo 2.4 veces mas que C
+Javascript realmente parece ser el lenguaje interpretado mas rápido, es increíble que tarde solo 2.4 veces mas que C
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 

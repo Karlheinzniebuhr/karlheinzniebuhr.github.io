@@ -85,7 +85,7 @@ for (var i = 0; i < 10000000; i++) {
 console.log(sum);
 {% endhighlight %}
 
-Amazing, JS is without doubt the fastest interpreted language.. 0.077 just seconds! 2.4 times slower than unoptimised C and about   
+Amazing, JS really seems to be the fastest interpreted language.. just 0.077 seconds! 2.4 times slower than unoptimised C and about 31% faster than pypy
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 
 
