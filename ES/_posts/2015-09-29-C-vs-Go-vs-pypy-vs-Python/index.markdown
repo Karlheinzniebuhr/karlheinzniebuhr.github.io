@@ -24,7 +24,7 @@ int main ()
    {
         sum += a;
    }
-    printf("sum: %lu\n", sum);
+    printf("sum: %ld\n", sum);
    return 0;
 }
 {% endhighlight %}
