@@ -89,7 +89,7 @@ Amazing, JS really seems to be the fastest interpreted language.. just 0.077 sec
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 
 ###**Update 2 Problem solved**
-As pointed out on [Reddit](https://www.reddit.com/r/compsci/comments/3mss9b/any_idea_why_this_go_loop_is_faster_than_pure_c/), using [CFLAGS](https://wiki.gentoo.org/wiki/GCC_optimization) to activate code optimisation increases the speed of C considerably. I also had to initialise the sum variable because otherwise it returned the wrong result. (And sorry for the bug in my printf I updated that one)  
+As pointed out on [Reddit](https://www.reddit.com/r/compsci/comments/3mss9b/any_idea_why_this_go_loop_is_faster_than_pure_c/) and the comments, using [CFLAGS](https://wiki.gentoo.org/wiki/GCC_optimization) to activate code optimisation increases the speed of C considerably. I also had to initialise the sum variable because otherwise it returned the wrong result. (And sorry for the bug in my printf I updated that one)  
 {% highlight c %}
 #include <stdio.h>
  
