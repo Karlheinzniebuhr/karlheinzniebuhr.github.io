@@ -88,7 +88,7 @@ console.log(sum);
 Amazing, JS really seems to be the fastest interpreted language.. just 0.077 seconds! 2.4 times slower than unoptimised C and about 31% faster than pypy
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 
-###**Update 2 Problem solved?**
+###**Update 2 Problem solved**
 As pointed out on [Reddit](https://www.reddit.com/r/compsci/comments/3mss9b/any_idea_why_this_go_loop_is_faster_than_pure_c/) and the comments, using [CFLAGS](https://wiki.gentoo.org/wiki/GCC_optimization) to activate code optimisation increases the speed of C considerably. I also had to initialise the sum variable because otherwise it returned the wrong result. (And sorry for the bug in my printf I updated that one)  
 {% highlight c %}
 #include <stdio.h>
@@ -110,14 +110,14 @@ int main ()
 
 
 Now the code runs 5x faster than C without using CFLAGS and 40% faster than Go.
-Note however that the C compiler precomputes the loop with optimisation, so in case the Go binary runs the loop every time, this won't be a fair comparison after all.
+Note however that the C compiler precomputes the loop with optimisation, so in case the Go binary runs the loop every time, this won't be a fair comparison after all.  
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-opt.png)
 
-###**Update 3: Go is still faster than C when optimisation cannot be applied**
+####**Update 3: Changed the code for command line args for further testing**
 
-To prevent C from precompiling the loop I’ve run the tests again this time passing the value as command line argument. So C cannot possibly precompile the loop. 
+To make sure that the output isn’t just a precomputed constant value made in compile time, I’ve adapted the code for command line arguments. Now I can pass any number I want, the tests where consistent with the previous measurements.  
 
-C with command line argument
+C with command line argument  
 {% highlight c %}
 #include <stdio.h>
 #include <stdio.h>
@@ -166,9 +166,15 @@ func main() {
 }
 {% endhighlight %}
 
-As shown here, C has the same speed as before (without optimisation) again.  
+C  
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-cmd.png)
 
 
-But Go keeps being 3 times faster than C.  
+What also is interesting is that it doesn’t seem to matter much if I pass in bigger numbers, here trying with 1.000.000.000  
+![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-cmd2.png)
+
+Go  
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go-cmd.png)
+
+Go takes considerably longer with 1.000.000.000  
+![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go-cmd2.png)
