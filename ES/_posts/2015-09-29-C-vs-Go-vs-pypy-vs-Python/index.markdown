@@ -146,9 +146,9 @@ func main() {
   arg := os.Args[1]
 
   n, e := strconv.Atoi(arg)
-    if e != nil {
-        fmt.Println(e)
-    }
+  if e != nil {
+      fmt.Println(e)
+  }
 
   sum := 0
   for i := 0; i < n; i++ {

@@ -128,17 +128,17 @@ main(int argc, char *argv[])
 
   int arg1 = 1;
 
-    arg1 = atoi(argv[1]);
+  arg1 = atoi(argv[1]);
 
-   long a;
-   long sum = 0;
-   /* for loop execution */
-   for( a = 0; a < arg1; a++ )
-   {
+  long a;
+  long sum = 0;
+  /* for loop execution */
+  for( a = 0; a < arg1; a++ )
+  {
       sum += a;
-   }
-    printf("sum: %ld\n", sum);
-   return 0;
+  }
+  printf("sum: %ld\n", sum);
+  return 0;
 }
 {% endhighlight %}
 
@@ -154,9 +154,9 @@ func main() {
   arg := os.Args[1]
 
   n, e := strconv.Atoi(arg)
-    if e != nil {
-        fmt.Println(e)
-    }
+  if e != nil {
+      fmt.Println(e)
+  }
 
   sum := 0
   for i := 0; i < n; i++ {
