@@ -81,7 +81,7 @@ console.log(sum);
 Javascript realmente parece ser el lenguaje interpretado mas rápido, es increíble que tarde solo 2.4 veces mas que C
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 
-###**Update 2 misterio resolvido?**
+###**Update 2 misterio resolvido**  
 Como mostraron en [Reddit](https://www.reddit.com/r/compsci/comments/3mss9b/any_idea_why_this_go_loop_is_faster_than_pure_c/) y los comentarios en el post en [ingles](http://karlheinzniebuhr.github.io/en/2015/09/28/C-vs-Go-vs-pypy-vs-Python/), usando [CFLAGS](https://wiki.gentoo.org/wiki/GCC_optimization) para activar la optimización del codigo C aumenta drásticamente la velocidad. También tuve que inicializar la variable sum porque de lo contrario retornaba un resultado erróneo.  
 {% highlight c %}
 #include <stdio.h>
@@ -102,14 +102,14 @@ int main ()
 
 
 
-El código C optimizado corre 5x mas rápido comparado con el binario hecho sin utilizar CFLAGS y es 40% mas rápido que Go. Nótese que usando la optimización  en C, el compilador pre calcula el resultado del loop, asi que en caso que el binario de Go corre el loop cada vez, esta comparación no es justa. 
+El código C optimizado corre 5x mas rápido comparado con el binario hecho sin utilizar CFLAGS y es 40% mas rápido que Go. Nótese que usando la optimización  en C, el compilador pre calcula el resultado del loop, asi que en caso que el binario de Go corre el loop cada vez, esta comparación no es justa.  
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-opt.png)
 
-###**Update 3: Go sigue siendo si no se puede aplicar optimización en C**
+####**Update 3: Adapte el código para pasar el numero de Loops como parámetro desde la linea de comandos**
 
-Para prevenir que C precompile el resultado del loop, hice los tests nuevamente pasando el numero como parámetro en la linea de comando. 
+Para asegurar que el resultado no fue precalculado en tiempo de compilación, adopte el código para que se pueda usar con parámetro desde la linea de comandos. Ahora se puede hacer la prueba con cualquier numero y el compilador no tiene forma de precalcular el resultado y devolver solo una constante. 
 
-código C con parametro 
+Código C con parametro  
 {% highlight c %}
 #include <stdio.h>
 #include <stdio.h>
@@ -134,7 +134,7 @@ main(int argc, char *argv[])
 }
 {% endhighlight %}
 
-código Go con parametro
+Código Go con parametro
 {% highlight c %}
 package main
 
@@ -158,10 +158,15 @@ func main() {
 }
 {% endhighlight %}
 
-C tiene la misma velocidad que antes sin optimización.  
+C  
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-cmd.png)
 
-Pero Go sigue manteniendo su velocidad, es 3 veces mas rápido que C extrañamente.  
+
+Lo que también es interesante es que no parece impactar en el tiempo de ejecución el tamaño del numero que le paso, en esta prueba le pase 1.000.000.000
+![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-cmd2.png)
+
+Go  
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go-cmd.png)
 
-
+Go toma un tiempo considerablemente mayor con el numero 1.000.000.000  
+![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go-cmd2.png)
