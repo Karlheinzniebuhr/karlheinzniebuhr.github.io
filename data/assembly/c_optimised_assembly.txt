@@ -1,0 +1,22 @@
+loop_sum:
+(__TEXT,__text) section
+_main:
+0000000100000f20	pushq	%rbp
+0000000100000f21	movq	%rsp, %rbp
+0000000100000f24	movq	0x8(%rsi), %rdi
+0000000100000f28	callq	0x100000f5e             ## symbol stub for: _atoi
+0000000100000f2d	xorl	%esi, %esi
+0000000100000f2f	testl	%eax, %eax
+0000000100000f31	jle	0x100000f4b
+0000000100000f33	movslq	%eax, %rcx
+0000000100000f36	leaq	-0x1(%rcx), %rax
+0000000100000f3a	leaq	-0x2(%rcx), %rdx
+0000000100000f3e	mulq	%rdx
+0000000100000f41	shldq	$0x3f, %rax, %rdx
+0000000100000f46	leaq	-0x1(%rcx,%rdx), %rsi
+0000000100000f4b	leaq	0x3e(%rip), %rdi        ## literal pool for: "sum: %ld\n"
+0000000100000f52	xorl	%eax, %eax
+0000000100000f54	callq	0x100000f64             ## symbol stub for: _printf
+0000000100000f59	xorl	%eax, %eax
+0000000100000f5b	popq	%rbp
+0000000100000f5c	retq
