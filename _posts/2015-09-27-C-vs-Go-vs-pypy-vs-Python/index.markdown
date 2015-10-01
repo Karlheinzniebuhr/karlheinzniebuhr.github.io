@@ -89,7 +89,11 @@ Amazing, JS really seems to be the fastest interpreted language.. just 0.077 sec
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 
 ###**Update 2 Problem solved**
-As pointed out on [Reddit](https://www.reddit.com/r/compsci/comments/3mss9b/any_idea_why_this_go_loop_is_faster_than_pure_c/) and the comments, using [CFLAGS](https://wiki.gentoo.org/wiki/GCC_optimization) to activate code optimisation increases the speed of C considerably. I also had to initialise the sum variable because otherwise it returned the wrong result. (And sorry for the bug in my printf I updated that one)  
+As pointed out on [Reddit](https://www.reddit.com/r/compsci/comments/3mss9b/any_idea_why_this_go_loop_is_faster_than_pure_c/) and the comments, using [CFLAGS](https://wiki.gentoo.org/wiki/GCC_optimization) to activate code optimisation of the compiler increases the speed of C considerably. I also had to initialise the sum variable because otherwise it returned the wrong result. 
+This is how I compiled 
+{% highlight bash %}
+$ gcc -O3 -march=native loop_sum.c -o loop_sum
+{% endhighlight %}
 {% highlight c %}
 #include <stdio.h>
  
@@ -110,7 +114,6 @@ int main ()
 
 
 Now the code runs 5x faster than C without using CFLAGS and 40% faster than Go.
-Note however that the C compiler precomputes the loop with optimisation, so in case the Go binary runs the loop every time, this won't be a fair comparison after all.  
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-opt.png)
 
 ####**Update 3: Changed the code for command line args for further testing**
