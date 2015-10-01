@@ -11,10 +11,16 @@ I love to perform benchmarking tests and try to optimise algorithms or compare i
 
 To my big surprise, the winner wasn’t C but Go. I have no idea why but as soon as I know I’ll update this post, maybe somebody can answer that question in the comments. For sure there is a way to further optimise the C code. 
 
-Hardware specs  
+**Specs**  
 MacBook Pro (Retina, 13-inch, Early 2015)  
 Processor 2.7 GHz Intel Core i5  
 Memory 8 GB 1867 MHz DDR3  
+
+C compiler: clang-700.0.75  
+Go version go1.5.1 darwin/amd64  
+PyPy 2.6.0 with GCC 4.2.1 Compatible Apple LLVM 5.1 (clang-503.0.40)  
+Python 2.7.10  
+Node v0.12.6  
 
 This is the C code
 {% highlight c %}

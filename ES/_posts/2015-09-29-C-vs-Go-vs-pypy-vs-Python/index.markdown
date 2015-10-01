@@ -11,6 +11,17 @@ Siempre me gusta experimentar con performance de algoritmos y lenguajes de progr
 
 Para mi gran sorpresa el ganador es Go y no C, como esperado. Todavía no se a que se debe eso pero hare un update al post cuando tenga la respuesta, estoy seguro que me olvide de alguna optimización en el código C. 
 
+**Especificaciones del sistema**  
+MacBook Pro (Retina, 13-inch, Early 2015)  
+Processor 2.7 GHz Intel Core i5  
+Memory 8 GB 1867 MHz DDR3  
+
+C compiler: clang-700.0.75  
+Go version go1.5.1 darwin/amd64  
+PyPy 2.6.0 with GCC 4.2.1 Compatible Apple LLVM 5.1 (clang-503.0.40)  
+Python 2.7.10  
+Node v0.12.6  
+
 Este es el código C
 {% highlight c %}
 #include <stdio.h>
