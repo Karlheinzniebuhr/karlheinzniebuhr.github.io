@@ -80,7 +80,7 @@ Pero Go arrasó con todo tardando solo 0.010 segundos
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go.png)
 
 **Update 1**  
-Agregué un test con NodeJs (como pude olvidarme de eso?)
+NodeJs (como pude olvidarme de eso?)
 {% highlight javascript %}
 var sum = 0;
 for (var i = 0; i < 10000000; i++) {
@@ -91,6 +91,47 @@ console.log(sum);
 
 Javascript realmente parece ser el lenguaje interpretado mas rápido, es increíble que tarde solo 2.4 veces mas que C
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
+
+**Update 1.1**  
+Agregue un test en Java por pedido de los lectores. El resultado tomado es la segunda ejecución para dejar que tenga un ‘warm-up’ la JVM. 
+También dividi en dos partes la prueba, la primera prueba usando el long primitivo de Java y en la segunda el tipo Java.lang.Long class.
+
+Codigo usando long  
+{% highlight java %}
+public class Loop_sum {
+  public static void main(String[] args) {
+          long sum = 0;
+
+          for (int i = 0; i < 10000000; i++) {
+                sum += i;
+          }
+          System.out.println(sum);
+  }
+}
+{% endhighlight %}
+
+Codigo usando Java.lang.Long Class  
+{% highlight java %}
+public class Loop_sum {
+  public static void main(String[] args) {
+          Long sum = new Long(0);
+
+          for (int i = 0; i < 10000000; i++) {
+                sum += i;
+          }
+          System.out.println(sum);
+  }
+}
+{% endhighlight %}
+
+Resultado long
+![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/java-primitive.png)
+
+Resultado Java.lang.Long Class
+![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/java-object.png)
+
+Se puede ver que usando el tipo de dato primitivo es ligeramente mas rápido. Lo cual seguramente es debido al overhead generado por la encapsulación. 
+
 
 ###**Update 2 misterio resolvido**  
 Como mostraron en [Reddit](https://www.reddit.com/r/compsci/comments/3mss9b/any_idea_why_this_go_loop_is_faster_than_pure_c/) y los comentarios en el post en [ingles](http://karlheinzniebuhr.github.io/en/2015/09/28/C-vs-Go-vs-pypy-vs-Python/), usando [CFLAGS](https://wiki.gentoo.org/wiki/GCC_optimization) para activar la optimización del codigo C aumenta drásticamente la velocidad. También tuve que inicializar la variable sum porque de lo contrario retornaba un resultado erróneo. Use CFLAGS de la siguiente manera:
