@@ -110,13 +110,13 @@ public class Loop_sum {
 }
 {% endhighlight %}
 
-Codigo usando Java.lang.Long Class  
+Codigo usando Java.lang.Long Class y Java.lang.Integer Class  
 {% highlight java %}
 public class Loop_sum {
   public static void main(String[] args) {
           Long sum = new Long(0);
 
-          for (int i = 0; i < 10000000; i++) {
+          for (Integer i = new Integer(0); i < 10000000; i++) {
                 sum += i;
           }
           System.out.println(sum);
