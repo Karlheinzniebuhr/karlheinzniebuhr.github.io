@@ -7,9 +7,9 @@ category: EN
 comments: true
 ---
 
-I love to perform benchmarking tests and try to optimise algorithms or compare implementations in different languages. This time I compared Go, C, pypy and Python with a simple loop which sums all numbers between 1 and 10.000.000
+I love to perform benchmarking tests and try to optimise algorithms, or compare implementations in different languages. This time I compared Go, C, pypy, Python and JS with a simple loop which sums all numbers between 1 and 10.000.000
 
-To my big surprise, the winner wasn’t C but Go. I have no idea why but as soon as I know I’ll update this post, maybe somebody can answer that question in the comments. For sure there is a way to further optimise the C code. 
+To my big surprise, at first the winner wasn’t C but Go. I had no idea why at first but eventually I found out.  
 
 **Specs**  
 MacBook Pro (Retina, 13-inch, Early 2015)  
@@ -91,7 +91,7 @@ for (var i = 0; i < 10000000; i++) {
 console.log(sum);
 {% endhighlight %}
 
-Amazing, JS really seems to be the fastest interpreted language.. just 0.077 seconds! 2.4 times slower than unoptimised C and about 31% faster than pypy
+Amazing, JS really seems to be the fastest interpreted language (I know).. just 0.077 seconds! 2.4 times slower than unoptimised C and about 31% faster than pypy
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 
 ###**Update 2 Problem solved**
