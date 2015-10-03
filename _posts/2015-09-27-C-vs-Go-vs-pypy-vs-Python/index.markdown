@@ -122,7 +122,7 @@ int main ()
 Now the code runs 5x faster than C without using CFLAGS and 40% faster than Go.
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-opt.png)
 
-####**Update 3: Changed the code for command line args for further testing**
+####**Update 3: Changed the code with command line args for further testing**
 
 To make sure that the output isn’t just a precomputed constant value made in compile time, I’ve adapted the code for command line arguments. Now I can pass any number I want, the tests where consistent with the previous measurements.  
 
