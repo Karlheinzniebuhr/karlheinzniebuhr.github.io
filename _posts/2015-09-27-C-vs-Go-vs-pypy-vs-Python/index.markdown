@@ -150,34 +150,52 @@ main(int argc, char *argv[])
 }
 {% endhighlight %}
 
-The C assembly code I got with the following command is just 22 lines long  
+The C assembly code I got with the following command is just 40 lines long  
 {% highlight bash %}
-$ otool -tvV loop_sum
+$ gcc loop_sum.c -S 
 {% endhighlight %}
 
 {% highlight bash %}
-(__TEXT,__text) section
-_main:
-0000000100000f20  pushq %rbp
-0000000100000f21  movq  %rsp, %rbp
-0000000100000f24  movq  0x8(%rsi), %rdi
-0000000100000f28  callq 0x100000f5e             ## symbol stub for: _atoi
-0000000100000f2d  xorl  %esi, %esi
-0000000100000f2f  testl %eax, %eax
-0000000100000f31  jle 0x100000f4b
-0000000100000f33  movslq  %eax, %rcx
-0000000100000f36  leaq  -0x1(%rcx), %rax
-0000000100000f3a  leaq  -0x2(%rcx), %rdx
-0000000100000f3e  mulq  %rdx
-0000000100000f41  shldq $0x3f, %rax, %rdx
-0000000100000f46  leaq  -0x1(%rcx,%rdx), %rsi
-0000000100000f4b  leaq  0x3e(%rip), %rdi        ## literal pool for: "sum: %ld\n"
-0000000100000f52  xorl  %eax, %eax
-0000000100000f54  callq 0x100000f64             ## symbol stub for: _printf
-0000000100000f59  xorl  %eax, %eax
-0000000100000f5b  popq  %rbp
-0000000100000f5c  retq
+  .section  __TEXT,__text,regular,pure_instructions
+  .macosx_version_min 10, 10
+  .globl  _main
+  .align  4, 0x90
+_main:                                  ## @main
+  .cfi_startproc
+## BB#0:
+  pushq %rbp
+Ltmp0:
+  .cfi_def_cfa_offset 16
+Ltmp1:
+  .cfi_offset %rbp, -16
+  movq  %rsp, %rbp
+Ltmp2:
+  .cfi_def_cfa_register %rbp
+  movq  8(%rsi), %rdi
+  callq _atoi
+  xorl  %esi, %esi
+  testl %eax, %eax
+  jle LBB0_2
+## BB#1:                                ## %.lr.ph
+  movslq  %eax, %rcx
+  leaq  -1(%rcx), %rax
+  leaq  -2(%rcx), %rdx
+  mulq  %rdx
+  shldq $63, %rax, %rdx
+  leaq  -1(%rcx,%rdx), %rsi
+LBB0_2:
+  leaq  L_.str(%rip), %rdi
+  xorl  %eax, %eax
+  callq _printf
+  xorl  %eax, %eax
+  popq  %rbp
+  retq
+  .cfi_endproc
 
+  .section  __TEXT,__cstring,cstring_literals
+L_.str:                                 ## @.str
+  .asciz  "sum: %ld\n"
+.subsections_via_symbols
 {% endhighlight %}
 
 
@@ -224,3 +242,5 @@ Go
 
 Go takes considerably longer with 1.000.000.000  
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go-cmd2.png)
+
+

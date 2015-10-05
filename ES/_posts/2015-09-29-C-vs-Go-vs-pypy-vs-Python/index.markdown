@@ -188,6 +188,54 @@ main(int argc, char *argv[])
 }
 {% endhighlight %}
 
+El código assembly de C que conseguí al compilar con el parametro -S tiene solo 40 lineas.  
+{% highlight bash %}
+$ gcc loop_sum.c -S 
+{% endhighlight %}
+
+{% highlight bash %}
+  .section  __TEXT,__text,regular,pure_instructions
+  .macosx_version_min 10, 10
+  .globl  _main
+  .align  4, 0x90
+_main:                                  ## @main
+  .cfi_startproc
+## BB#0:
+  pushq %rbp
+Ltmp0:
+  .cfi_def_cfa_offset 16
+Ltmp1:
+  .cfi_offset %rbp, -16
+  movq  %rsp, %rbp
+Ltmp2:
+  .cfi_def_cfa_register %rbp
+  movq  8(%rsi), %rdi
+  callq _atoi
+  xorl  %esi, %esi
+  testl %eax, %eax
+  jle LBB0_2
+## BB#1:                                ## %.lr.ph
+  movslq  %eax, %rcx
+  leaq  -1(%rcx), %rax
+  leaq  -2(%rcx), %rdx
+  mulq  %rdx
+  shldq $63, %rax, %rdx
+  leaq  -1(%rcx,%rdx), %rsi
+LBB0_2:
+  leaq  L_.str(%rip), %rdi
+  xorl  %eax, %eax
+  callq _printf
+  xorl  %eax, %eax
+  popq  %rbp
+  retq
+  .cfi_endproc
+
+  .section  __TEXT,__cstring,cstring_literals
+L_.str:                                 ## @.str
+  .asciz  "sum: %ld\n"
+.subsections_via_symbols
+{% endhighlight %}
+
 Código Go con parametro
 {% highlight c %}
 package main
@@ -212,9 +260,15 @@ func main() {
 }
 {% endhighlight %}
 
+El assembly de Go tiene 161.021 lineas de código, esto probablemente se debe en mayor parte a que Go usa static linking. En otras palabras, incluye todas las dependencias en el ejecutable ademas del garbage collector de Go.   
+{% highlight bash %}
+$ otool -tvV loop_sum_go  
+{% endhighlight %}  
+<a href="https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/data/assembly/go_assembly.txt.zip" download>Descargar assembly de Go</a>
+
+
 C  
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-cmd.png)
-
 
 Lo que también es interesante es que no parece impactar en el tiempo de ejecución el tamaño del numero que le paso, en esta prueba le pase 1.000.000.000
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-cmd2.png)
@@ -224,3 +278,7 @@ Go
 
 Go toma un tiempo considerablemente mayor con el numero 1.000.000.000  
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go-cmd2.png)
+
+Como tal vez ya sospechaste, el compilador de C esta usando una ecuación matemática para poder calcular la suma de cualquier numero N de loops en tiempo constante. Alguien ya hizo un blogpost [aquí](http://blog.xebia.com/2015/10/05/gcc-compiler-optimizations-dissection-of-a-benchmark/) analizando el código assembly que genero. Voy a hacer un blogpost explicándolo mas a detalle pronto ademas del rol de la matematicas en este tipo de optimizaciones.  
+Así que “stay tuned”  
+Hasta pronto  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OTP encryption demo"
+title:  "XOR + OTP encryption demo"
 date:   2015-05-14
 categories: jekyll update
 category: EN
