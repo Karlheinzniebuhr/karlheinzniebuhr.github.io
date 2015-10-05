@@ -281,6 +281,7 @@ Go toma un tiempo considerablemente mayor con el numero 1.000.000.000
 
 ####Resumiendo  
 Como tal vez ya sospechaste, el compilador Clang de C esta usando una ecuación matemática para poder calcular la suma de cualquier numero N de loop’s en tiempo constante.  
+Formula usada por Clang para deshacerse del loop.  
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/sum_formula.png)  
 Alguien ya hizo un blogpost [aquí](http://blog.xebia.com/2015/10/05/gcc-compiler-optimizations-dissection-of-a-benchmark/) analizando el código assembly que genero.  
 Después de todo, Go parece realizar mas rápidamente el loop, no lo comprobé en el código assembler de Go, pero creo que puedo asumirlo porque el tiempo de respuesta de Go es proporcional al numero que le paso como parámetro. Pero  al final C gana por evitarse el trabajo. Esto demuestra que es difícil realizar benchmarks justos. Pero hace que uno aprende mucho sobre los lenguajes en el proceso.  
