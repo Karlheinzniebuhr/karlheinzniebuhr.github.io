@@ -21,6 +21,7 @@ Go version go1.5.1 darwin/amd64
 PyPy 2.6.0 with GCC 4.2.1 Compatible Apple LLVM 5.1 (clang-503.0.40)  
 Python 2.7.10  
 Node v0.12.6  
+javac 1.6.0_65  
 
 Este es el código C
 {% highlight c %}
