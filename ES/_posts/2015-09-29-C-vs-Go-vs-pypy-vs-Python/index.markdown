@@ -279,6 +279,10 @@ Go
 Go toma un tiempo considerablemente mayor con el numero 1.000.000.000  
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go-cmd2.png)
 
-Como tal vez ya sospechaste, el compilador de C esta usando una ecuación matemática para poder calcular la suma de cualquier numero N de loops en tiempo constante. Alguien ya hizo un blogpost [aquí](http://blog.xebia.com/2015/10/05/gcc-compiler-optimizations-dissection-of-a-benchmark/) analizando el código assembly que genero. Voy a hacer un blogpost explicándolo mas a detalle pronto ademas del rol de la matematicas en este tipo de optimizaciones.  
+####Resumiendo  
+Como tal vez ya sospechaste, el compilador Clang de C esta usando una ecuación matemática para poder calcular la suma de cualquier numero N de loop’s en tiempo constante.  
+![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/sum_formula.png)  
+Alguien ya hizo un blogpost [aquí](http://blog.xebia.com/2015/10/05/gcc-compiler-optimizations-dissection-of-a-benchmark/) analizando el código assembly que genero.  
+Después de todo, Go parece realizar mas rápidamente el loop, no lo comprobé en el código assembler de Go, pero creo que puedo asumirlo porque el tiempo de respuesta de Go es proporcional al numero que le paso como parámetro. Pero  al final C gana por evitarse el trabajo. Esto demuestra que es difícil realizar benchmarks justos. Pero hace que uno aprende mucho sobre los lenguajes en el proceso.  
 Así que “stay tuned”  
 Hasta pronto  
