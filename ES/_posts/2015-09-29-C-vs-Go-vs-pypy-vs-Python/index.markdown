@@ -167,7 +167,6 @@ Para asegurar que el resultado no fue precalculado en tiempo de compilación, ad
 Código C con parametro  
 {% highlight c %}
 #include <stdio.h>
-#include <stdio.h>
 #include <stdlib.h>
 
 main(int argc, char *argv[])

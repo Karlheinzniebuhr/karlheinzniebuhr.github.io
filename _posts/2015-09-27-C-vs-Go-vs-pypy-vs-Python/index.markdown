@@ -129,7 +129,6 @@ To make sure that the output isn’t just a precomputed constant value made in c
 C with command line argument  
 {% highlight c %}
 #include <stdio.h>
-#include <stdio.h>
 #include <stdlib.h>
 
 main(int argc, char *argv[])
