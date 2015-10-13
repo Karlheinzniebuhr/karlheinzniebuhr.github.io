@@ -91,7 +91,7 @@ Content-Type: multipart/alternative; boundary=001a1145bb36566dcc0521ee8b37
 {% endhighlight %}
 
 
-####To sum up  
+####Wrapping Up  
 Bear in mind that Gmail doesn’t always hide your Ip. Depending on what method you use to send E-mails, it can show your personal IP in the header, for example when using it via desktop applications. If you don’t want to reveal your IP address you should send your mail from the Web Client or make sure that mails sent via your mobile application are anonymised likewise.  
 
 
