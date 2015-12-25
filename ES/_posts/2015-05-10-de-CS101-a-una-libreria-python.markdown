@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_es
 title:  "Experimento en curso de udacity que llevó a una libreria python."
 date:   2015-05-10
 categories: jekyll update

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_es
 title:  "Porqué Jekyll?"
 date:   2015-05-07 16:32:52
 categories: jekyll update

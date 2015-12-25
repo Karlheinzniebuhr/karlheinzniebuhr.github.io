@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_es
 title:  "Generando un diccionario de palabras Paraguayo"
 date:   2015-08-22
 categories: jekyll update
