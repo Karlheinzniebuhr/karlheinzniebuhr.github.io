@@ -58,7 +58,8 @@ Esto causó que por unos segundos miles de pensamientos pasaron por mi cabeza en
 Finalmente el 15 de diciembre llegó el tan esperado E-mail del departamento de admisión de computer science y esta vez empezaba con las letras 
 
 *"We would like to inform you that you have been admitted to the Master Program "Computer Science" for the summer term 2016 at the Saarland University. Please have a look at the attached PDF-version of your admission letter and let us know if there are any errors. Otherwise we will forward you your hard copy by post in between the next days."*  
-![](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/master-study/admission.png)
+
+![Cabeza del PDF de admisión](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/master-study/admission.png)
 
 Creo que no hace falta explicar la sensación de felicidad que me dio después de que me enfoqué desde el principio del año para terminar cursos, cumplir con todos los requisitos además de terminar a tiempo la tesis en la universidad.  
 
