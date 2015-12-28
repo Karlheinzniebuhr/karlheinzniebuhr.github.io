@@ -2,7 +2,6 @@
 layout: post_es
 title:  "Cómo complementar a la fuerza de voluntad"
 date:   2015-12-19
-categories: jekyll update
 category: ES
 comments: true
 ---
