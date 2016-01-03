@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Gmail hides your IP, but not always"
+title:  "Gmail IP substitution"
 date:   2015-10-12
 category: EN
 comments: true
 tags: security, gmail, IP, privacy
 ---
 
-I thought that Gmail hides always the origin IP from an E-mail. But as I found out today this isn’t always the case. 
+I thought that Gmail always substituted the origin IP from our E-mail's. But this isn’t always the case. 
 
-I made some tests after noticing that E-mails send via Gmail from the Apple Mail application had my IP address in the header.  
+I made some tests after noticing that E-mails send via Gmail from the Apple Mail application had my personal IP address in the header.  
 
 {% highlight text %}
 Received: from [192.168.2.2](host-24-140.b8.cmm.com.py. [200.**.183.***])

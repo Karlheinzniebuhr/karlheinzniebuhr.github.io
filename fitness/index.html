@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: fitness
 title: Fitness
 category: fitness
 ---
@@ -10,7 +10,7 @@ category: fitness
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.category contains 'ES' %}
+      {% if post.category contains 'fitness' %}
       <li>
         <span class="post-meta">{{ post.date | date: "%-d %b, %Y" }} » </span>
         
