@@ -1,5 +1,5 @@
 ---
-layout: fitness
+layout: post
 title:  "IF"
 date:   2016-01-02
 category: fitness
