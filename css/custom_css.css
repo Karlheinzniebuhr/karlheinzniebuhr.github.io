@@ -18,7 +18,9 @@
     font-size: 20px;
 }
 
-
+.web_icons {
+  max-width: 52px;
+}
 
 
 blockquote.twitter-tweet {
@@ -74,3 +76,5 @@ ul.share-buttons{
 ul.share-buttons li{
   display: inline;
 }
+
+
