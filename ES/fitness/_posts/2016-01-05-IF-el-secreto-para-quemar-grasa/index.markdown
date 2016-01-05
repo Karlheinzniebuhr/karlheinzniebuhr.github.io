@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_es
 title:  "IF, la clave para quemar grasa y muchas cosas más"
 date:   2016-01-05
 category: fitness
