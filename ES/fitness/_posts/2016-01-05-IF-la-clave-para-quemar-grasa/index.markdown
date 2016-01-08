@@ -95,6 +95,7 @@ hambre y es esencial para el buen funcionamiento del cuerpo.
 5. Deja que las cosas sean simples y placenteras__
 
 Referencias  
-[https://www.youtube.com/watch?v=gu8KqV90pKk](https://www.youtube.com/watch?v=gu8KqV90pKk)
+[https://www.youtube.com/watch?v=gu8KqV90pKk](https://www.youtube.com/watch?v=gu8KqV90pKk)  
+[Mejor Canal de YouTube sobre IF](https://www.youtube.com/channel/UC7FP6UyeIEiqvrvpw8nFRnw)  
 
 
