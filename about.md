@@ -17,6 +17,8 @@ permalink: /about/
 </script>
 
 
+![karl](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/karl.jpg)
+
 
 <div class="contact-form">
           <div class="measure">
