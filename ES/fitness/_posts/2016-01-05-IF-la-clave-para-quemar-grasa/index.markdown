@@ -90,7 +90,8 @@ posible a tu primer comida del día.
 2. Toma un montón de agua. Ayuda a eliminar parte de la sensación de
 hambre y es esencial para el buen funcionamiento del cuerpo.  
 3. Toma café en estado de ayunas para eliminar aún mas al hambre.  
-4. Deja que las cosas sean simples y placenteras__
+4. Aprovecha la 
+5. Deja que las cosas sean simples y placenteras__
 
 Referencias  
 [https://www.youtube.com/watch?v=gu8KqV90pKk](https://www.youtube.com/watch?v=gu8KqV90pKk)
