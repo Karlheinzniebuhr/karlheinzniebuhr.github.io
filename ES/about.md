@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About_es
+title: Sobre mi
 permalink: /ES/about/
 ---
 

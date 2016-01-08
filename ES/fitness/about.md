@@ -6,9 +6,8 @@ permalink: /ES/about/
 
 {% include typed.html %}
 
-<div align="center">
 ![karl](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/karl.jpg)
-</div>
+
 <span class="element"></span>
 <script>
     $(function(){
