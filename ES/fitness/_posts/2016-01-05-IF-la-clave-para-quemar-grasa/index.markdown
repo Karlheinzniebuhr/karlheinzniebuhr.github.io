@@ -48,7 +48,7 @@ Ejercicios en estado de ayuno permite al cuerpo usa grasa como combustible prima
 - Crecimiento muscular  
 - Quemador de grasa  
 
- La insulina y el HGH están relacionados indirectamente. Esta es la razón por la cual durante el sueño se libera HGH, porque tenemos una ventana de varias horas en donde no comemos nada y por lo tanto el cuerpo no libera insulina. Lo cual le permite la liberación de HGH. Pero no tiene por qué ocurrir solo a la noche, podemos alcanzar la secreción de esta hormona quedando en ayunas por un tiempo, implementando algo como el IF.
+ La insulina y el HGH están relacionados indirectamente. Esta es la razón por la cual durante el sueño se libera HGH, porque tenemos una ventana de varias horas en donde no comemos nada y por lo tanto el cuerpo no libera insulina. Lo cual le permite la liberación de HGH. Pero no tiene por qué ocurrir solo a la noche, podemos alcanzar la secreción de esta hormona quedando en ayuno por un tiempo, implementando algo como el IF.
 
 12.Mejor funcionamiento cerebral  
 - El cerebro prefiere Ketones a glucógeno como combustible  
@@ -90,8 +90,8 @@ __1. Olvídate del tiempo exacto (8/16) Sólo trata de retrasar lo máximo
 posible a tu primer comida del día.  
 2. Toma un montón de agua. Ayuda a eliminar parte de la sensación de
 hambre y es esencial para el buen funcionamiento del cuerpo.  
-3. Toma café negro en estado de ayunas para eliminar aún mas al hambre. Sin azúcar!   
-4. Aprovecha la 
+3. Toma café negro en estado de ayuno para eliminar aún mas al hambre. Café sin azúcar! 
+4. Aprovecha el tiempo de ayuno para tus actividades mas importantes del día, el cerebro estará enfocado y no tenes que distraerte con comida.  
 5. Deja que las cosas sean simples y placenteras__
 
 Referencias  
