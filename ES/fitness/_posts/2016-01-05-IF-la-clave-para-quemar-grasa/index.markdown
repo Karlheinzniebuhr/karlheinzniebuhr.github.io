@@ -90,7 +90,7 @@ __1. Olvídate del tiempo exacto (8/16) Sólo trata de retrasar lo máximo
 posible a tu primer comida del día.  
 2. Toma un montón de agua. Ayuda a eliminar parte de la sensación de
 hambre y es esencial para el buen funcionamiento del cuerpo.  
-3. Toma café negro en estado de ayuno para eliminar aún mas al hambre. Café sin azúcar! 
+3. Toma café negro en estado de ayuno para eliminar aún mas al hambre. Café sin azúcar!  
 4. Aprovecha el tiempo de ayuno para tus actividades mas importantes del día, el cerebro estará enfocado y no tenes que distraerte con comida.  
 5. Deja que las cosas sean simples y placenteras__
 
