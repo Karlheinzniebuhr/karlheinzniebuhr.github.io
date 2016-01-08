@@ -10,7 +10,7 @@ Si estas metido en el mundo fitness probablemente leíste o escuchaste de IF por
 Se demostró que a pesar de comer una comida de 2000 calorías de una sola vez, se metabolizan la misma cantidad de calorías que dividiendo los 2000 calorías en 6 comidas mas chicas. Así que el metabolismo no cambia al modo de inanición o hambre en un lapso de tiempo tan corto. 
 El verdadero modo de inanición del humano recién empieza a partir de 72-96 horas. 
 
-Para entender más sobre la capacidad del cuerpo de funcionar con sus reservas de grasa véase  [Anotaciones sobre macronutrientes].  
+Para entender más sobre la capacidad del cuerpo de funcionar con sus reservas de grasa véase  [Anotaciones sobre macronutrientes](http://karlheinzniebuhr.github.io/es/fitness/2016/01/06/anotaciones-sobre-macronutrientes/).  
 
 Ahora descartando el mito de las 5-6 comidas, podemos concentrarnos al IF. Yo lo descubrí casualmente, fue llamativo para mi la cantidad de testimonios positivos de una gran cantidad de canales Fitness de YouTube, estudios científicos, paginas web etc. Por lo cual decidí investigarlo mas a fondo.
 
