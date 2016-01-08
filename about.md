@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
+title: This is me
 permalink: /about/
 ---
 
 {% include typed.html %}
+
+![karl](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/karl.jpg)
 
 <span class="element"></span>
 <script>
@@ -15,10 +17,6 @@ permalink: /about/
         });
     });
 </script>
-
-
-![karl](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/karl.jpg)
-
 
 <div class="contact-form">
           <div class="measure">
