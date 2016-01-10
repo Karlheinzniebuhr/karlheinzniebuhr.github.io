@@ -65,4 +65,5 @@ En resumen: En general para perder peso, el mejor método es eliminar una gran p
 
 Referencias:  
 [http://www.marksdailyapple.com/a-metabolic-paradigm-shift-fat-carbs-human-body-metabolism/](http://www.marksdailyapple.com/a-metabolic-paradigm-shift-fat-carbs-human-body-metabolism/)  
-[https://es.wikipedia.org/wiki/Gluconeog%C3%A9nesis](https://es.wikipedia.org/wiki/Gluconeog%C3%A9nesis)  
+[http://www.bodybuilding.com/fun/is-cutting-carbs-the-key-to-fat-loss.html](http://www.bodybuilding.com/fun/is-cutting-carbs-the-key-to-fat-loss.html)  
+[Low Carb Diets: The Way To Go?](http://www.bodybuilding.com/fun/glen12.htm)  
