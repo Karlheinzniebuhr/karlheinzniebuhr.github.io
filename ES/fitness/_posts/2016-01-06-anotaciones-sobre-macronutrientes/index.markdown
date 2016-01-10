@@ -36,7 +36,7 @@ Dieta muy baja en carbohidratos
 - Intensidad reducida de entrenamiento --> Menos desarrollo muscular (Fever GAINS bro)  
 - Cantidad reducida de fibras y micronutrientes para el cuerpo (vitaminas y minerales)  
 - Menos producción de Testosterona por la [Hypoglycemia](https://es.wikipedia.org/wiki/Hipoglucemia)   
-- **Posible** quema de músculos por [una enzima](https://es.wikipedia.org/wiki/Complejo_deshidrogenasa_de_alfa-ceto%C3%A1cidos_de_cadena_ramificada) que hacen que el cuerpo utilice a [Aminoácidos ramificados](https://es.wikipedia.org/wiki/Amino%C3%A1cidos_ramificados) como combustible. [[0]](https://www.reddit.com/r/bodybuilding/comments/1wbw2p/does_ketosis_burn_muscle/ "Does ketosis burn muscle?")  
+- **Posible** quema de músculos por [una enzima](https://es.wikipedia.org/wiki/Complejo_deshidrogenasa_de_alfa-ceto%C3%A1cidos_de_cadena_ramificada) que hacen que el cuerpo utilice a [Aminoácidos ramificados](https://es.wikipedia.org/wiki/Amino%C3%A1cidos_ramificados) como combustible. [[2]](https://www.reddit.com/r/bodybuilding/comments/1wbw2p/does_ketosis_burn_muscle/ "Does ketosis burn muscle?")  
 
 Es importante resaltar que esto solo ocurre en una dieta *extremadamente* baja en carbohidratos. 
 
