@@ -61,7 +61,7 @@ Grasas son importantes para la producción de hormonas y muchas otras funciones 
 Una dieta baja en proteínas? NOPE. No es una opción para personas que hacen ejercicios. El cuerpo necesita proteínas para crear y reconstruir los músculos, por eso el debate de los macronutrientes se limita a grasas vs carbohidratos en el mundo fitness. 
 
 <a name="TLDR">TLDR:</a>
-En resumen: En general para perder peso, el mejor método es eliminar una gran parte de los carbohidratos de la dieta. Y para tener resultados fenomenales en bajar de peso y aumentar masa muscular en paralelo recomiendo probar al IF del cual hablo [en este post.](http://karlheinzniebuhr.github.io/es/fitness/2016/01/05/IF-la-clave-para-quemar-grasa/)
+En resumen: En general para perder peso, el mejor método es eliminar una gran parte de los carbohidratos de la dieta. Y para bajar de peso y aumentar masa muscular en paralelo recomiendo probar al IF del cual hablo [en este post.](http://karlheinzniebuhr.github.io/es/fitness/2016/01/05/IF-la-clave-para-quemar-grasa/)
 
 Referencias:  
 [http://www.marksdailyapple.com/a-metabolic-paradigm-shift-fat-carbs-human-body-metabolism/](http://www.marksdailyapple.com/a-metabolic-paradigm-shift-fat-carbs-human-body-metabolism/)  
