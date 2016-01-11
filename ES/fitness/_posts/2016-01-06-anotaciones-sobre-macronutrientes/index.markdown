@@ -7,7 +7,7 @@ comments: true
 ---
 ![macros](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/fitness/images/macronutrients.png)
 
-[Conclusión (TLDR)](#TLDR)  
+[Saltar a la Conclusión (TLDR)](#TLDR)  
 Macronutrientes son nutrientes que proveen calorías o energía. Los Nutrientes son sustancias que son necesarias para el crecimiento, metabolismo y otras funciones corporales. Ya que “macro” significa grande, los macronutrientes son nutrientes necesarios en grandes cantidades. Existen tres macronutrientes:
 1. Carbohidratos  
 2. Proteinas  
