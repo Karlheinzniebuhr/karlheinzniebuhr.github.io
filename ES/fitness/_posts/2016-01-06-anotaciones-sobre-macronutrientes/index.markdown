@@ -5,11 +5,6 @@ date:   2016-01-06
 category: fitness
 comments: true
 ---
-
-<head>
-<meta property=“og:image” content=“https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/fitness/images/macronutrients.png”/>
-</head>
-
 ![macros](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/fitness/images/macronutrients.png)
 
 [Saltar a la Conclusión (TLDR)](#TLDR)  
