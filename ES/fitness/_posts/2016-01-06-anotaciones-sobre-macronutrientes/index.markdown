@@ -11,7 +11,7 @@ Macronutrientes son nutrientes que proveen calorías o energía. Los Nutrientes 
 2. Proteinas  
 3. Grasas
 
-Los cuales proveen una cantidad de calorías específica cada uno:
+Los cuales proveen una cantidad de calorías específica cada uno:  
 **Carbohidratos** proveen **4 calorías por gramo.**  
 **Proteinas** proveen **4 calorías por gramo.**  
 **Grasas** proveen **9 calorías por gramo.**  
