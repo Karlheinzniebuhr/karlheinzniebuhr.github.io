@@ -5,7 +5,7 @@ date:   2016-01-05
 category: fitness
 comments: true
 ---
-![](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/macronutrients.png)
+![](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/fitness/images/macronutrients.png)
 
 Biología evolutiva y ciencia para estar en forma.  
 Si estas metido en el mundo fitness probablemente leíste o escuchaste de IF por sus siglas en inglés Intermittent Fasting, Ayuno Intermitente en español. IF vino para barrer a la teoría de las ‘6 comidas chicas’ que tantos años se recomendaron como mejor forma para quemar grasa. La alimentación con comidas frecuentes dicta nunca estar sin comida por mas que 2 a 3 horas para no ‘frenar al metabolismo’. La teoría de que el metabolismo se desacelera y entra en estado de emergencia o hambre en ausencia de 5 a 6 comidas diarias queda descartada si consideramos los siguientes resultados de estudios que se realizaron.  
