@@ -98,10 +98,10 @@ hambre y es esencial para el buen funcionamiento del cuerpo.
 5. Deja que las cosas sean simples y placenteras__
 
 
-Para aprender más recomiendo leer el libro Eat stop Eat de Brad Pilon. Podes descargarlo haciendo click en la imagen de abajo. 
+Para aprender más recomiendo leer el libro Eat stop Eat de Brad Pilon. Podes descargar la versión en español haciendo click en la imagen de abajo. 
 
-<<a href="https://github.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/blob/master/data/fitness/Eat_Estop_Eat.pdf">
-![eat stop eat](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/fitness/images/eat.png)
+<a href="https://github.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/raw/master/data/fitness/Eat_Estop_Eat.pdf">
+![eat stop eat](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/fitness/images/eat.jpg)
 </a>
 
 Referencias  
