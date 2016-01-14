@@ -66,3 +66,5 @@ Creo que no hace falta explicar la sensación de felicidad que me dio después d
 Cualquier tipo de preguntas son bienvenidas, puedes enviarme un correo o preguntarme en los comentarios. Espero que este post será de ayuda para personas que apuntan a un estudio en el exterior.
 Estaré contando mi experiencia el próximo año cuando esté por allá así que stay tuned.  
 Hasta pronto!
+
+Para mas información con respecto a una VISA de estudiantes en Alemania dejo [este link de los requisitos.](http://www.asuncion.diplo.de/contentblob/2214758/Daten/5409679/StudienvisumESP.pdf)  
