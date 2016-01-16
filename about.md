@@ -1,6 +1,6 @@
 ---
 layout: page
-title: This is me
+title: About me
 permalink: /about/
 ---
 
@@ -8,7 +8,6 @@ permalink: /about/
 
 ![karl](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/karl.jpg)
 
-<span class="element"></span>
 <script>
     $(function(){
         $(".element").typed({
@@ -38,6 +37,6 @@ permalink: /about/
     </div>
  </div>
 </div>
-
+<span class="element"></span>
 
 

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About_es
+title: Sobre mi
 permalink: /ES/about/
 ---
 
 {% include typed.html %}
 
-<span class="element"></span>
 <script>
     $(function(){
         $(".element").typed({
@@ -35,6 +34,7 @@ permalink: /ES/about/
     </div>
  </div>
 </div>
+<span class="element"></span>
 
 
 
