@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gmail IP substitution"
+title:  "How to hide your IP when using Gmail"
 date:   2015-10-12
 category: EN
 comments: true
