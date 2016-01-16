@@ -6,8 +6,6 @@ permalink: /about/
 
 {% include typed.html %}
 
-![karl](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/karl.jpg)
-
 <script>
     $(function(){
         $(".element").typed({
@@ -37,6 +35,9 @@ permalink: /about/
     </div>
  </div>
 </div>
+
+![karl](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/karl.jpg)
+
 <span class="element"></span>
 
 
