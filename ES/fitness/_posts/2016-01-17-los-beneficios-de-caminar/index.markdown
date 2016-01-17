@@ -21,7 +21,7 @@ Aunque yo mismo empecé a hacer caminatas escuchando audiolibros porque me parec
 Eliot Hulse, uno de los mejores coaches de fitness de YouTube siempre reitera la importancia de caminar y me motivó mas a realizar esta actividad. [[1]](https://www.youtube.com/watch?v=WqhCsgYkLJE) [[2]](https://www.youtube.com/watch?v=cKelkKvm49Y) [[3]](https://www.youtube.com/watch?v=lozkwiyVefw) [[4]]()  
 Es como que caminando el cerebro es mas creativo, de hecho existe un [estudio del Stanford](http://news.stanford.edu/news/2014/april/walking-vs-sitting-042414.html) que demuestra que las personas experimentan un aumento del 60% de inspiración creativa cuando caminan. Por qué no combinar este beneficio nutriendo al cerebro con un buen libro o podcast? Mientras al mismo tiempo teniendo un rango grande de beneficios para la salud. A continuación algunos de los hechos y beneficios para refrescar la memoria. 
 
-- Caminar usa un tercio de nuestros músculos.  
+- Caminar involucra un tercio de nuestros músculos.  
 - La cantidad recomendada de pasos por día es alrededor de 10.000  
 - Las personas que trabajan en oficinas en promedio hacen solo 3000 pasos por día.  
 - Caminar 30 minutos por día, 5 días por semana, reduce el riesgo de diabetes en las personas a más de 50%.  
