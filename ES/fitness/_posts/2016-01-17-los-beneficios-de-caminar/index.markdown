@@ -14,7 +14,7 @@ Los beneficios que trae caminar. Algo tan simple que se merece más que un Blogp
 - [Itunes](http://www.apple.com/itunes/podcasts/)  
 - [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en)  
 
-**Offline player (para poder usar con los audiolibros que descargaste)**
+**Offline player (para poder usar con los audiolibros que descargaste)**  
 - [MortPlayer](https://play.google.com/store/apps/details?id=de.stohelit.folderplayer&hl=en)  
 
 Aunque yo mismo empecé a hacer caminatas escuchando audiolibros porque me parecía siempre una buena combinación, hay personas como 
