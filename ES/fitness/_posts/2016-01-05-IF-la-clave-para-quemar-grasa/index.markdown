@@ -67,7 +67,7 @@ Ejercicios en estado de ayuno permite al cuerpo usa grasa como combustible prima
 Tipos de IF
 -----------
 
-- Ayuno de dias alternos (ADF): (36h de ayuno / 12h de alimentación)
+- Ayuno en dias alternos (ADF): (36h de ayuno / 12h de alimentación)
 - Saltar comidas aleatoriamente
 - Eat stop eat: (24h de ayuno, 1 a 2 veces por semana)
 - Leangains: (16h de ayuno / 8h de comida)
