@@ -68,3 +68,8 @@ Estaré contando mi experiencia el próximo año cuando esté por allá así que
 Hasta pronto!
 
 Para mas información con respecto a una VISA de estudiantes en Alemania dejo [este link de los requisitos.](http://www.asuncion.diplo.de/contentblob/2214758/Daten/5409679/StudienvisumESP.pdf)  
+
+**Update**  
+Casualmente encontré un dato interesante en [Google Trends](https://www.google.com/trends/), Paraguay esta en posición 54 de 137 de los países que tuvieron mas búsquedas con indicios de interés de migración a Alemania.  
+
+<iframe src="http://googletrends.github.io/iframe-scaffolder/#/s/VDMj2p" width="100%" height="450" frameborder="0" allowfullscreen></iframe>
