@@ -1,7 +1,7 @@
 ---
 layout: fitness
 title: Fitness
-category: fitness
+category: es_fitness
 ---
 
 <div class="home">
@@ -10,7 +10,7 @@ category: fitness
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.category contains 'fitness' %}
+      {% if post.category contains 'es_fitness' %}
       <li>
         <span class="post-meta">{{ post.date | date: "%-d %b, %Y" }} » </span>
         

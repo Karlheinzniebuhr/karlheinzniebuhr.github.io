@@ -2,7 +2,7 @@
 layout: post_es
 title:  "Anotaciones sobre macronutrientes"
 date:   2016-01-06
-category: fitness
+category: es_fitness
 comments: true
 ---
 ![macros](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/fitness/images/macronutrients.png)
