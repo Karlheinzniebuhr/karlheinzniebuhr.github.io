@@ -2,7 +2,6 @@
 layout: post_es
 title:  "La productividad del trabajo remoto"
 date:   2015-05-31
-categories: jekyll update
 category: ES
 comments: true
 ---
