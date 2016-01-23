@@ -53,8 +53,7 @@ share-button .sb-social.sb-center.sb-bottom {
 share-button .sb-social.sb-center.active.sb-top {
   top: -1em;
 
-  position: absolute;
-  top: 0; right: 0; bottom: 0;
+  width: 0vw; height: 0vw;
 }
 share-button .sb-social.sb-center.active.sb-bottom {
   bottom: -1em;
