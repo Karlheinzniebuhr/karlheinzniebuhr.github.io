@@ -104,9 +104,16 @@ hambre y es esencial para el buen funcionamiento del cuerpo.
 
 Para aprender más recomiendo leer el libro [Eat stop Eat](http://www.eatstopeat.com/) de Brad Pilon. Podes descargar la versión en español haciendo click en la imagen de abajo. 
 
-<a href="https://github.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/raw/master/data/fitness/Eat_Estop_Eat.pdf">
+<a href="http://www.infoculturismo.com/archivos/dietas/Eat_Estop_Eat.zip">
 ![eat stop eat](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/fitness/images/eat.jpg)
 </a>
+
+Otra cosa que te servirá mucho en mi opinion es aprender a estimar calorías. Una manera muy fácil de aprender esto es utilizando una de las excelentes aplicaciones existentes que permiten medir el consumo de calorías. La aplicación que yo uso es [MyFitnessPal](https://www.myfitnesspal.com/), permite usar scanner de código de barras para conseguir inmediatamente la información nutricional de las cosas envasadas/empaquetadas y una función de búsqueda para encontrar diversas comidas. Hasta milanesas encontré con la aplicación. Me gusta que muestra una observación por cada alimento, por ejemplo "Este alimento tiene un contenido alto de proteínas".
+
+**Conclusión**  
+Con todos los beneficios del IF probablemente no tendrás que preocuparte mas casi por tu consumo de calorías, obtendrás mejor salud, productividad y podrás lograr tus metas de fitness de forma mucho mas cómoda. Pero de igual forma, y más si te cuesta dejar algunos hábitos de bebidas o comidas muy calóricas, te será de gran beneficio si aprendes a estimar tu consumo diario de calorías. Porque por más que IF ayuda en quemar grasa, no se puede violar la ley de consumo y gasto de calorías. Para perder peso hay que quemar más calorías de las que se consumen.  No dudes en preguntarme en los comentarios cualquier duda.  
+Un Saludo  
+
 
 Referencias  
 [https://www.youtube.com/watch?v=gu8KqV90pKk](https://www.youtube.com/watch?v=gu8KqV90pKk)  
