@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How does a hash table work (simplified)"
-date:   2016-01-24
+date:   2016-01-28
 category: EN
 comments: true
 tags: search engine, hashmap, hash table, hash lookup
