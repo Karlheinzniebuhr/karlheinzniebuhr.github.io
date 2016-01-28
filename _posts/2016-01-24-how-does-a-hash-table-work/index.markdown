@@ -4,7 +4,7 @@ title:  "How does a hash table work (simplified)"
 date:   2016-01-24
 category: EN
 comments: true
-tags: search engine, hash, loookup
+tags: search engine, hashmap, hash table, hash lookup
 ---
 
 In this post I will cover and expand a little bit on something from the [CS101 Course of Udacity](https://www.udacity.com/courses/cs101) with [David Evans](https://twitter.com/udacitydave). If you like this topic I definitively recommend you to check it out, it's free.  
