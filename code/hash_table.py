@@ -1,4 +1,5 @@
-import time
+# created by Karlheinz Niebuhr
+# install pythonbenchmark with --> pip install pythonbenchmark
 from pythonbenchmark import compare, measure
 
 def add_to_index(index,keyword,url):
@@ -27,9 +28,6 @@ def make_big_index(size):
       else:
         letters[i] = 'a'
   return index
-
-
-
 
 
 
