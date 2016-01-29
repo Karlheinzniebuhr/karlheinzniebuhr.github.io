@@ -103,6 +103,6 @@ def test_hash_function(func, keys, size):
 # # [1363, 1235, 1252, 1257, 1285, 1256, 1219, 1252, 1290, 1241, 1217, 1303]
 
 
-index100000 = make_big_index(100000)
+index1000 = make_big_index(1000)
 # compare_function(function1, function2, number_of_tests, htable, lookup_key)
-compare(lookup, hashtable_lookup, 10, index100000, 'udacity')
+compare(lookup, hashtable_lookup, 10, index1000, 'udacity')
