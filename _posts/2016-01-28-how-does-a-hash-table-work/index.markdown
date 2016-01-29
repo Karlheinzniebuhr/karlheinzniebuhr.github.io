@@ -127,8 +127,8 @@ This is because as the size of the index grows, the time difference between a no
 
 Now imagine what would happen with an index of billions of entries like a search engine. Without some kind of hash table something bad would happen, you can do the math :)  
 
-For the sake of keeping this Blogpost short, I won't dive into the complete code but you can download it and try it out for yourself. It's pretty basic and by no means the best implementation of a hash table, but I think it will help to understand how a hash table works and the underlying concept.  
-Hope you liked this post, Greetings!  
+For the sake of keeping this Blogpost short, I won't dive into the complete code but you can download it and try it out for yourself. It's pretty basic and by no means the best implementation of a hash table, but I think it will help to understand how a hash table works and the underlying concept.  There are also [downsides](https://en.wikipedia.org/wiki/Hash_table#Drawbacks) to hash tables, like collisions. This implementation uses [separate chaining](http://www.csl.mtu.edu/cs2321/www/newLectures/17_Hash_Tables_Collisions.html) to resolve collisions.  
+Hope this helps  
 Karl  
 
 #### <a name="code" href="https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/code/hash_table.py">Download Code</a>
