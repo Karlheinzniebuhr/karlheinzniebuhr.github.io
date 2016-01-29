@@ -15,7 +15,7 @@ For example when looking up a value in an index of values, or key-value pairs. N
 But what if there is a better way to scale? There are different approaches, like [search trees](https://en.wikipedia.org/wiki/Search_tree) for instance. On average search trees have a [time complexity](https://en.wikipedia.org/wiki/Time_complexity) of  O(log n). This means that if the number of values is 16, the algorithm has to complete at least 4 *'steps'* to find the position of the value --> **log2(16) = 4**.  
 Of course the best thing would be to decouple the **time** (number of operations/seconds) completely from the **input size**. This is what hash tables enable to do. On average each lookup is independent from the number of elements stored in the table. Hash tables have a ***time complexity of O(1)***, meaning that they perform lookups in ***constant time***, rather than ***linear time***. This is very important as many types of software depend on constant time in order to operate efficiently, like search engines and database indexes.  
 
-![](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/hash/common_time_complexities.png)
+![](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/hash/common_time_complexities.jpg)
 
 So how exactly does a hash table work?  
 The basic concept behind hash tables is to do the computation just once on the keyword instead of the entire index. I'll try to illustrate it graphically.  
