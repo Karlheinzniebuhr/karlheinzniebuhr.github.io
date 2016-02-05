@@ -5,6 +5,7 @@ date:   2015-09-28
 categories: jekyll update
 category: ES
 comments: true
+permalink: /ES/:year/:month/:day/:title/
 ---
 
 Siempre me gusta experimentar con performance de algoritmos y lenguajes de programación. Esta vez hice una simple comparación de velocidad entre Go, C, pypy y python. El algoritmo consiste en un loop simple que suma los números de 1 a 10.000.000

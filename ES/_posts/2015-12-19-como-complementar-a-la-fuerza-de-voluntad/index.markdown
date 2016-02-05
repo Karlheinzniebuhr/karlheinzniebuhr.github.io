@@ -4,6 +4,7 @@ title:  "Cómo complementar a la fuerza de voluntad"
 date:   2015-12-19
 category: ES
 comments: true
+permalink: /ES/:year/:month/:day/:title/
 ---
 
 Este es un post corto de un tema que me hizo pensar muchas veces. El arte de complementar a la fuerza de voluntad. A veces la fuerza de voluntad no es suficiente. Hubo situaciones en no hice cierta cosa a pesar de que hubiera sido de gran uso para mi. Otras veces me puse en una situación en donde eliminaba por completo mi zona de confort. Un ejemplo fue independizarme.  

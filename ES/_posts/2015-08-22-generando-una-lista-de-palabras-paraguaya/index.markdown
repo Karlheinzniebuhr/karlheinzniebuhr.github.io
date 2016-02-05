@@ -5,6 +5,7 @@ date:   2015-08-22
 categories: jekyll update
 category: ES
 comments: true
+permalink: /ES/:year/:month/:day/:title/
 ---
 
 

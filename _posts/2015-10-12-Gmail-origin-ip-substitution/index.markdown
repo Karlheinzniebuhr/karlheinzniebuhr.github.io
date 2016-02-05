@@ -5,6 +5,7 @@ date:   2015-10-12
 category: EN
 comments: true
 tags: security, gmail, IP, privacy
+permalink: /en/:year/:month/:day/:title/
 ---
 
 I thought that Gmail always substituted the origin IP from our E-mail's. But this isn’t always the case. 

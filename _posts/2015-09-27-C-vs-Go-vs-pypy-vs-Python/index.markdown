@@ -5,6 +5,7 @@ date:   2015-09-28
 categories: jekyll update
 category: EN
 comments: true
+permalink: /en/:year/:month/:day/:title/
 ---
 
 I love to perform benchmarking tests and try to optimise algorithms, or compare implementations in different languages. This time I compared Go, C, pypy, Python and JS with a simple loop which sums all numbers between 1 and 10.000.000
