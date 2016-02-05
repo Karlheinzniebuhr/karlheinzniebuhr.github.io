@@ -5,6 +5,7 @@ date:   2016-01-28
 category: EN
 comments: true
 tags: search engine, hashmap, hash table, hash lookup
+permalink: pretty
 ---
 
 In this post I will cover and expand a little bit on something from the [CS101 Course of Udacity](https://www.udacity.com/courses/cs101) with [David Evans](https://twitter.com/udacitydave). If you like this topic I definitively recommend you to check it out, it's free.  
