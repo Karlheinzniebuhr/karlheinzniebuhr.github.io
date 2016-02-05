@@ -4,6 +4,7 @@ title:  "Los beneficios de caminar"
 date:   2016-01-17
 category: es_fitness
 comments: true
+permalink: /es/:year/:month/:day/:title/
 ---
 ![Yo caminando por Asunción city](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/fitness/images/caminando.jpg)
 

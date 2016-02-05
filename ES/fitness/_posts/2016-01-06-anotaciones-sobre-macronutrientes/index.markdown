@@ -4,7 +4,7 @@ title:  "Anotaciones sobre macronutrientes"
 date:   2016-01-06
 category: es_fitness
 comments: true
-permalink: /ES/:year/:month/:day/:title/
+permalink: /es/:year/:month/:day/:title/
 ---
 ![macros](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/fitness/images/macronutrients.png)
 
