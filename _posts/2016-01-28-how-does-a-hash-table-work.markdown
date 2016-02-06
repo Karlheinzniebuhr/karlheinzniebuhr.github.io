@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How does a hash table work (simplified)"
+title:  "How do hash tables work"
 date:   2016-01-28
 category: EN
 comments: true
