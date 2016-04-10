@@ -15,7 +15,7 @@ En los primeras semanas mientras recorría bastante pensé cómo podría resumir
 
 **Organización**  
 En cuanto a la organización de mi estudio y demás cosas, en la primera semana tuve mucho papeleo que hacer, hay mucha burocracia pero lo bueno es que se utiliza para organizar bien las cosas. Y mucho se esta digitalizando lo cual agiliza mas los procesos y es mas ecológico. Las cuentas se depositan automáticamente en la cuenta lo cual es mucho mas cómodo ya que uno no tiene que acordarse y tomarse el tiempo de pagar las cuentas básicas cada mes. En general todo esta diseñado como para ahorrar mano de obra. Los documentos del banco son enviados por maquina es decir una computadora decide cuales son los documentos faltantes y te los envía. En el supermercado lo que me sorprendió es la rapidez con la que se pasa por la caja. Mayormente hay solo dos cajeros/as pero igual pocas veces se forma una fila larga. La gran diferencia esta en que no se pierde tiempo empaquetando las cosas en la caja. Apenas se pasen los items por el lector de código de barras uno ya pone todo en su carrito, paga y da espacio para la próxima persona. Con el carrito uno va directo al auto o afuera para poner sus cosas en la mochila. No se usan hules y el cajero no pierde tiempo empaquetando las cosas para el cliente, solo se encarga de cobrar. 
-Cuando hay construcciones en la calle vi que se usan semáforos móviles como en esta imagen. 
+Cuando hay construcciones en la calle vi que se usan semáforos móviles como en esta imagen.  
 [semaforo](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/germany/semaforo.jpg)
 
 
