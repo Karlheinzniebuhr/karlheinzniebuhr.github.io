@@ -1,7 +1,7 @@
 ---
 layout: post_es
-title:  "Apuntando a un estudio en Alemania"
-date:   2015-12-27
+title: "Apuntando a un estudio en Alemania"
+date: 2015-12-27
 category: ES
 comments: true
 permalink: /es/:year/:month/:day/:title/
