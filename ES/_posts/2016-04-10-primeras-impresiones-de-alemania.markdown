@@ -7,3 +7,4 @@ comments: true
 permalink: /es/:year/:month/:day/:title/
 ---
 
+![germany](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/images/germany/technik.jpg)
