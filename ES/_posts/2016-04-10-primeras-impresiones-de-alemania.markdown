@@ -25,13 +25,13 @@ Existen maquinas para devolver botellas de vidrio/plástico y demás cosas, y en
 **Costo de vida**  
 Me sorprende lo barato que es todo, la mayoría de cosas en el super son mas baratas, 1 litro de leche cuesta 0,45 euros aproximadamente 2800 Guaraníes. Queso y productos lácteos en general son muy baratos.. amo el queso me siento como en el paraíso. 😏  
 Para comparar el poder de adquisición me gusta hacer un calculo simple, comparar cuantos bienes básicos se pueden comprar con un sueldo promedio de dos países. En este caso tomaré 3.450 euros como [sueldo promedio en Alemania](https://www.absolventa.de/karriereguide/arbeitsentgelt/durchschnittsgehalt) y 1.867.000 Gs que es el sueldo promedio del 2011 en Paraguay según [esta fuente](http://www.tusalario.org/paraguay/Portada/salario/salarios-promedio).  
-3.450 / 0.45 = **7.666** Litros de leche.  
-1.867.000  / 2886.80 = **646,9** Litros de leche.  
+3.450 / 0.55 = **6.272** Litros de leche.  
+1.867.000  / 3.524 = **529,7** Litros de leche.  
 
-**7.666/1039 = 11,8**    
+**6.272/529,7 = 11,8**   
 O sea que se pueden comprar 11 veces mas alimentos básicos (Leche) en promedio con un sueldo general en Alemania. Esto es sin tener en cuenta que la leche es mas cara en Paraguay, la ultima vez que me fije estaba por los 4300 Gs entonces seria:  
 1.867.000  / 4300 = 434,1 Litros de leche.  
-**7.666/434,1 = 17,6**    
+**6.272/434,1 = 14,44**  
 Vemos que teniendo en cuenta el precio mas alto en Paraguay la diferencia seria aún mas grande.
 
 Éste calculo es muy básico y hay que tener en cuenta otras cosas como impuestos etc. Cada uno puede sacar sus propias conclusiones o hacer un calculo mas representativo para ponerlo en la sección de comentarios. 
