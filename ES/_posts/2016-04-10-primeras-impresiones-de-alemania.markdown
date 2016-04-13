@@ -50,4 +50,5 @@ Déjenme saber sobre que les gustaría que escriba/hable.
 
 Saludos desde Saarbrücken  
 
+
 Puedes leer mas sobre un estudio en Alemania [en mi otro Blogpost](karlheinzniebuhr.github.io/es/2015/12/27/apuntando-a-un-estudio-en-alemania/).
