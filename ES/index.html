@@ -1,0 +1,26 @@
+---
+layout: es
+title: Karl's Blog
+category: ES
+---
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      {% if post.category contains 'ES' %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%-d %b, %Y" }} » </span>
+        
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl | remove:'index.html' }}">{{ post.title }}</a>
+        
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+   {% include suscribir.html %}
+
+</div>
+
