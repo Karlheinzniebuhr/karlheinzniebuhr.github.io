@@ -1,7 +1,7 @@
 ---
 layout: post_es
 title: "Algunas Universidades benefician a alumnos de mayores recursos"
-date: 2016-04-10
+date: 2016-04-16
 category: ES
 comments: true
 permalink: /es/:year/:month/:day/:title/
