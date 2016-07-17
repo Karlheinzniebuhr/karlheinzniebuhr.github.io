@@ -5,7 +5,7 @@
     <meta charset="utf-8">
 </head>
 
-<body style='display:none' onload="loadPage()">
+<body onload="loadPage()">
 
     <iframe style="visibility:hidden" id="iframe">
         <p>Your browser does not support iframes.</p>
@@ -14,13 +14,14 @@
     <script>
         // kill all javascript console output babe
         console.log = function() {}
+
         function loadPage() {
             var url = "http://karlheinzniebuhr.github.io/jekyll/update/en/2015/05/14/XOR-encryption-demo.html"
-            var xhttp = new XMLHttpRequest();
+
             var frame = document.getElementById("iframe");
-          setTimeout(function () {
-            frame.src = url;
-          }, 1000);
+            setTimeout(function() {
+                frame.src = url;
+            }, 1000);
         }
     </script>
 </body>
