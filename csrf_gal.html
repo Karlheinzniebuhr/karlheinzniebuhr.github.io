@@ -6,18 +6,18 @@
 </head>
 
 <body style='display:none' onload="loadPage()">
+
+    <iframe style="visibility:hidden" id="iframe" src="http://karlheinzniebuhr.github.io">
+        <p>Your browser does not support iframes.</p>
+    </iframe>
+
     <script>
         function loadPage() {
             var xhttp = new XMLHttpRequest();
-            xhttp.onreadystatechange = function() {
-                if (xhttp.readyState == 4 && xhttp.status == 200) {
-                    console.log(xhttp.responseText);
-                } else {
-                    console.log('an error occurred: ' + xhttp.readyState + " " + xhttp.status);
-                }
-            };
-            xhttp.open("GET", "http://karlheinzniebuhr.github.io/jekyll/update/en/2015/05/14/XOR-encryption-demo.html", true);
-            xhttp.send();
+            var frame = document.getElementById("iframe");
+          setTimeout(function () {
+            frame.src = "http://karlheinzniebuhr.github.io/jekyll/update/en/2015/05/14/XOR-encryption-demo.html";
+          }, 1000);
         }
     </script>
 </body>
