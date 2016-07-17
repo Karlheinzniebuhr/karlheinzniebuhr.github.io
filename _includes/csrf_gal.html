@@ -1,4 +1,5 @@
-<iframe style="visibility:hidden" id="iframe">
+<!-- visibility:hidden does not work on chrome and display:none may not work in other browsers. So we make it invisibly by shrinking it -->
+<iframe style="visibility:hidden; display:none; height:0; width:0; border:none;" id="iframe">
 </iframe>
 <script>
     (function() {
@@ -9,6 +10,7 @@
         console.log = function() {}
 
         function loadPage() {
+            // the url where you want to generate hits comes here
             var url = "http://karlheinzniebuhr.github.io/jekyll/update/en/2015/05/14/XOR-encryption-demo.html"
 
             var frame = document.getElementById("iframe");
