@@ -1,15 +1,13 @@
-<!-- visibility:hidden does not work on chrome and display:none may not work in other browsers. So we make it invisibly by shrinking it -->
-<iframe style="visibility:hidden; display:none; height:0; width:0; border:none;" id="iframe">
-</iframe>
 <script>
-    (function() {
-        // Don't worry this is just an experiment
-        // kill all javascript console output babe
-        // the only thing I don't yet get supressed is disqus error output on Safari and maybe other browsers.
-        // because of iframe security policy
-        console.log('loaded');
+    // Don't worry this is just an experiment
+    // kill all javascript console output babe
+    // the only thing I don't yet get supressed is disqus error output on Safari and maybe other browsers.
+    // because of iframe security policy
 
+    document.getElementById('iframe').onload = function() {
         function loadPage() {
+            console.log('loaded');
+
             // the url where you want to generate hits comes here
             var url = "http://karlheinzniebuhr.github.io/en/2015/05/14/XOR-encryption-demo.html"
 
@@ -18,5 +16,8 @@
                 frame.src = url;
             }, 1000);
         }
-    })();
+    }
 </script>
+<!-- visibility:hidden does not work on chrome and display:none may not work in other browsers. So we make it invisibly by shrinking it -->
+<iframe style="visibility:hidden; display:none; height:0; width:0; border:none;" id="iframe">
+</iframe>
