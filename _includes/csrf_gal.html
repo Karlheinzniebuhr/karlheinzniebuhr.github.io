@@ -1,17 +1,8 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset="utf-8">
-</head>
-
-<body onload="loadPage()">
-
-    <iframe style="visibility:hidden" id="iframe">
-        <p>Your browser does not support iframes.</p>
-    </iframe>
-
-    <script>
+<iframe style="visibility:hidden" id="iframe">
+</iframe>
+<script>
+    (function() {
+        // Don't worry this is just an experiment
         // kill all javascript console output babe
         // the only thing I don't yet get supressed is disqus error output on Safari and maybe other browsers.
         // because of iframe security policy
@@ -25,7 +16,5 @@
                 frame.src = url;
             }, 1000);
         }
-    </script>
-</body>
-
-</html>
+    })();
+</script>

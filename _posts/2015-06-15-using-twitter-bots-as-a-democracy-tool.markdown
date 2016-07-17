@@ -2,7 +2,6 @@
 layout: post
 title:  "Using Twitter-bots as a democracy tool"
 date:   2015-06-15
-categories: jekyll update
 category: EN
 comments: true
 ---
@@ -10,15 +9,15 @@ comments: true
 <h5>By Karlheinz Niebuhr, follow me on <a href="https://twitter.com/NiebuhrKarl">twitter</a>, and <a href="https://github.com/Karlheinzniebuhr">github</a></h5>
 
 
-***Background information***: On Thursday morning 04.06.15 the Paraguayan Senate defeated a mandatory data retention bill that would have compelled local ISPs to retain communications and location details of every user for a period of 12 months.<A HREF="#1">[1]</A> 
+***Background information***: On Thursday morning 04.06.15 the Paraguayan Senate defeated a mandatory data retention bill that would have compelled local ISPs to retain communications and location details of every user for a period of 12 months.<A HREF="#1">[1]</A>
 
 ###Introduction
 A key tool which was used by Paraguayans to fight the data retention law is a python script named “Pyrawebs”. The name of the Tool which sends automated tweets to the Paraguayan politicians, alludes to the digital version of pyragües, informers who monitored the civilian population’s movements on behalf of dictator Alfredo Stroessner, who ruled between 1954 and 1989. In this post I will explain how this script works and how it was used. Hopefully someone else can give it a meaningful use.
 
 ###How it works  
-The tools which is written in python by <a href="https://twitter.com/juanbaezr">Juan</a> and <a href="https://twitter.com/melizeche">Marce</a> uses the [tweepy library](https://github.com/tweepy/tweepy) to communicate with the twitter API. It can be executed via the command line and takes as input the names of two text files. One of them a list of Twitter users and the other one is the file which contains a list of all the tweets you want to send. 
+The tools which is written in python by <a href="https://twitter.com/juanbaezr">Juan</a> and <a href="https://twitter.com/melizeche">Marce</a> uses the [tweepy library](https://github.com/tweepy/tweepy) to communicate with the twitter API. It can be executed via the command line and takes as input the names of two text files. One of them a list of Twitter users and the other one is the file which contains a list of all the tweets you want to send.
 IMAGES
-It iterates over every tweet and sends them to every single user contained in the users text file. 
+It iterates over every tweet and sends them to every single user contained in the users text file.
 
 ###Evading spam patrol
 One of the issues we encountered was an error message after a number of consecutive tweets.    
@@ -69,7 +68,7 @@ if __name__ == "__main__":
 
   s_tweets   = f_tweets.readlines()
   s_targets  = f_targets.readlines()
-  
+
   # create list of target twitter accounts
   for line in s_targets:
     l_targets.append(line.strip().decode('utf-8'))
@@ -86,7 +85,7 @@ if __name__ == "__main__":
       if target != '':
         actual_target = target
       print tweet
-      
+
       try:
         api.update_status(status=tweet)
         wait = randint(30,120)
@@ -95,7 +94,7 @@ if __name__ == "__main__":
       except Exception as exception:
         print exception
         print "Failed to tweet:", tweet
-      
+
 {% endhighlight %}
 
 #### key file key.py

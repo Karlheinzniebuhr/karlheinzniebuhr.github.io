@@ -2,23 +2,22 @@
 layout: post
 title:  "XOR + OTP encryption demo"
 date:   2015-05-14
-categories: jekyll update
 category: EN
 comments: true
 ---
 
 <h5>By Karlheinz Niebuhr, follow me on <a href="https://twitter.com/NiebuhrKarl">twitter</a>, and <a href="https://github.com/Karlheinzniebuhr">github</a></h5>
 
-During the Stanford [Crypto-course](https://www.coursera.org/course/crypto) I made a demo about OTP encryption using the boolean "exclusive or" (XOR) function in order to better understand the concept behind it. 
+During the Stanford [Crypto-course](https://www.coursera.org/course/crypto) I made a demo about OTP encryption using the boolean "exclusive or" (XOR) function in order to better understand the concept behind it.
 
 [What is XOR?](http://en.wikipedia.org/wiki/Exclusive_or)
 
-In digital cryptography basically everything comes down to XOR'ing things. It got my attention because his is such a simple concept but can be literally unbreakable when combined with OTP encryption. [OTP is the only mathematically proved unbreakable encryption.](http://users.telenet.be/d.rijmenants/en/onetimepad.htm) 
+In digital cryptography basically everything comes down to XOR'ing things. It got my attention because his is such a simple concept but can be literally unbreakable when combined with OTP encryption. [OTP is the only mathematically proved unbreakable encryption.](http://users.telenet.be/d.rijmenants/en/onetimepad.htm)
 
 Now you may ask why I used OTP encryption in my demo. It turns out that OTP can be implemented with little code and therefore is perfect for a XOR example.
 
 ### One-time pad encryption
-A one-time pad (OTP) is an encryption technique that cannot be cracked if used correctly. In this technique, a plaintext is paired with a random secret key (or pad). Then, each bit or character of the plaintext is encrypted by combining it with the corresponding bit or character from the pad using modular addition. If the key is truly random, is at least as long as the plaintext, is never reused in whole or in part, and is kept completely secret, then the resulting ciphertext will be impossible to decrypt or break.<A HREF="#1">[1]</A> 
+A one-time pad (OTP) is an encryption technique that cannot be cracked if used correctly. In this technique, a plaintext is paired with a random secret key (or pad). Then, each bit or character of the plaintext is encrypted by combining it with the corresponding bit or character from the pad using modular addition. If the key is truly random, is at least as long as the plaintext, is never reused in whole or in part, and is kept completely secret, then the resulting ciphertext will be impossible to decrypt or break.<A HREF="#1">[1]</A>
 
 To find key or plaintext, an adversary only has the random ciphertext at his disposal. This is an equation with two unknowns (the key and the message), which is mathematically unsolvable.  
 If someone had infinite computational power he could go through all possible keys (a brute force attack). He would find out that applying the key XVHEU on ciphertext QJKES would produce the (correct) word TODAY. Unfortunately, he would also find out that the key FJRAB would produce the word LATER, and even worse, DFPAB would produce the word NEVER. He has no idea which key is the right one. In fact, you can produce any desired word or phrase from any one-time pad -encrypted message, as long as you use the 'right' wrong key. There is no way to verify if a solution is the right one. Therefore, the one-time pad system is proven completely secure.<A HREF="#2">[2]</A>
@@ -153,12 +152,12 @@ Output
 ![Image image2](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/xor.PNG)
 
 
-Feel free to experiment with the code, I hope someone will find this as useful as I did to get a better understanding of the XOR encryption process. Questions are welcome. 
+Feel free to experiment with the code, I hope someone will find this as useful as I did to get a better understanding of the XOR encryption process. Questions are welcome.
 [https://github.com/Karlheinzniebuhr/XOR-encryption-demo/](https://github.com/Karlheinzniebuhr/XOR-encryption-demo/ "XOR-encryption-demo")
 
 
 ###**Update**
-After some great feedback on Reddit I made some updates to the code, namely switching to os.urandom() which is better suited for cryptographic use than random.choice(). 
+After some great feedback on Reddit I made some updates to the code, namely switching to os.urandom() which is better suited for cryptographic use than random.choice().
 
 Sources:  <br>
 <A NAME="1" href="http://users.telenet.be/d.rijmenants/en/onetimepad.htm">[1] http://users.telenet.be/d.rijmenants/en/onetimepad.htm</A>  <br>

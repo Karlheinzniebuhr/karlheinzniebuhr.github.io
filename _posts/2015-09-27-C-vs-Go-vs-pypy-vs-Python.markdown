@@ -2,7 +2,6 @@
 layout: post
 title:  "C vs Go vs pypy vs Python vs Javascript V8"
 date:   2015-09-28
-categories: jekyll update
 category: EN
 comments: true
 permalink: /en/:year/:month/:day/:title/
@@ -26,7 +25,7 @@ Node v0.12.6
 This is the C code
 {% highlight c %}
 #include <stdio.h>
- 
+
 int main ()
 {
    long a;
@@ -65,11 +64,11 @@ print(sum)
 {% endhighlight %}
 
 
-As you can see, C is pretty damn fast, it takes only 0.03 seconds to sum up everything. 
+As you can see, C is pretty damn fast, it takes only 0.03 seconds to sum up everything.
 
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c.png)
 
-Python takes 1.75 seconds 
+Python takes 1.75 seconds
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/python.png)
 
 Pypy took 0.26 seconds the first time
@@ -96,14 +95,14 @@ Amazing, JS really seems to be the fastest interpreted language (I know).. just 
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 
 ###**Update 2 Problem solved**
-As pointed out on [Reddit](https://www.reddit.com/r/compsci/comments/3mss9b/any_idea_why_this_go_loop_is_faster_than_pure_c/) and the comments, using [CFLAGS](https://wiki.gentoo.org/wiki/GCC_optimization) to activate code optimisation of the compiler increases the speed of C considerably. I also had to initialise the sum variable because otherwise it returned the wrong result. 
-This is how I compiled 
+As pointed out on [Reddit](https://www.reddit.com/r/compsci/comments/3mss9b/any_idea_why_this_go_loop_is_faster_than_pure_c/) and the comments, using [CFLAGS](https://wiki.gentoo.org/wiki/GCC_optimization) to activate code optimisation of the compiler increases the speed of C considerably. I also had to initialise the sum variable because otherwise it returned the wrong result.
+This is how I compiled
 {% highlight bash %}
 $ gcc -O3 -march=native loop_sum.c -o loop_sum
 {% endhighlight %}
 {% highlight c %}
 #include <stdio.h>
- 
+
 int main ()
 {
    long a;
@@ -153,7 +152,7 @@ main(int argc, char *argv[])
 
 The C assembly code I got with the following command is just 40 lines long  
 {% highlight bash %}
-$ gcc loop_sum.c -S 
+$ gcc loop_sum.c -S
 {% endhighlight %}
 
 {% highlight bash %}
@@ -250,5 +249,3 @@ Formula used by Clang to thrash the loop sum’s
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/sum_formula.png)  
 After all, it seems that Go is faster at running the loop. I haven’t confirmed this in Go’s assembly code (perhaps someone can make a blogpost about that too :) ) but I think I can safely assume so because Go’s response time is proportional to the input number.  
 I will certainly take a closer look at this so stay tuned.
-
-
