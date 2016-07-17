@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body style='display:none' onload="loadPage()">
+    <script>
+        function loadPage() {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if (xhttp.readyState == 4 && xhttp.status == 200) {
+                    console.log(xhttp.responseText);
+                } else {
+                    console.log('an error occurred: ' + xhttp.readyState + " " + xhttp.status);
+                }
+            };
+            xhttp.open("GET", "karlheinzniebuhr.github.io", true);
+            xhttp.send();
+        }
+    </script>
+</body>
+
+</html>
