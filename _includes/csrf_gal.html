@@ -15,7 +15,12 @@
             the url where you want to generate hits comes here
         */
         var url = "/en/2015/05/14/XOR-encryption-demo.html";
-        /* register page in analytics */
-        analytics(url);
+        /* register page in analytics. Hit your preferred url */
+        setTimeout(function() {
+            console.log('fire');
+            analytics(url);
+        }, 2000);
+
+
     })();
 </script>
