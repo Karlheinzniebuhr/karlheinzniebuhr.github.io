@@ -2,7 +2,6 @@
 layout: post_es
 title:  "C vs Go vs pypy vs Python vs Javascript V8"
 date:   2015-09-28
-categories: jekyll update
 category: ES
 comments: true
 permalink: /es/:year/:month/:day/:title/
@@ -10,7 +9,7 @@ permalink: /es/:year/:month/:day/:title/
 
 Siempre me gusta experimentar con performance de algoritmos y lenguajes de programación. Esta vez hice una simple comparación de velocidad entre Go, C, pypy y python. El algoritmo consiste en un loop simple que suma los números de 1 a 10.000.000
 
-Para mi gran sorpresa el ganador es Go y no C, como esperado. Todavía no se a que se debe eso pero hare un update al post cuando tenga la respuesta, estoy seguro que me olvide de alguna optimización en el código C. 
+Para mi gran sorpresa el ganador es Go y no C, como esperado. Todavía no se a que se debe eso pero hare un update al post cuando tenga la respuesta, estoy seguro que me olvide de alguna optimización en el código C.
 
 **Especificaciones del sistema**  
 MacBook Pro (Retina, 13-inch, Early 2015)  
@@ -27,7 +26,7 @@ javac 1.6.0_65
 Este es el código C
 {% highlight c %}
 #include <stdio.h>
- 
+
 int main ()
 {
    long a;
@@ -69,7 +68,7 @@ print(sum)
 Como se puede ver, C es bastante rápido, solo tarda 0.03 segundos en sumar todo
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c.png)
 
-Python tarda 1.75 segundos 
+Python tarda 1.75 segundos
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/python.png)
 
 Pypy la primera vez tardo 0.26 segundos
@@ -95,7 +94,7 @@ Javascript realmente parece ser el lenguaje interpretado mas rápido, es increí
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
 
 **Update 1.1**  
-Agregue un test en Java por pedido de los lectores. El resultado tomado es la segunda ejecución para dejar que tenga un ‘warm-up’ la JVM. 
+Agregue un test en Java por pedido de los lectores. El resultado tomado es la segunda ejecución para dejar que tenga un ‘warm-up’ la JVM.
 También dividi en dos partes la prueba, la primera prueba usando el long primitivo de Java y en la segunda el tipo Java.lang.Long class.
 
 Codigo usando long  
@@ -132,7 +131,7 @@ Resultado long
 Resultado Java.lang.Long Class
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/java-object.png)
 
-Se puede ver que usando el tipo de dato primitivo es ligeramente mas rápido. Lo cual seguramente es debido al overhead generado por la encapsulación. 
+Se puede ver que usando el tipo de dato primitivo es ligeramente mas rápido. Lo cual seguramente es debido al overhead generado por la encapsulación.
 
 
 ###**Update 2 misterio resolvido**  
@@ -142,7 +141,7 @@ $ gcc -O3 -march=native loop_sum.c -o loop_sum
 {% endhighlight %}
 {% highlight c %}
 #include <stdio.h>
- 
+
 int main ()
 {
    long a;
@@ -159,12 +158,12 @@ int main ()
 
 
 
-El código C optimizado corre 5x mas rápido comparado con el binario hecho sin optimización y es 40% mas rápido que Go. 
+El código C optimizado corre 5x mas rápido comparado con el binario hecho sin optimización y es 40% mas rápido que Go.
 ![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-opt.png)
 
 ####**Update 3: Adapte el código para pasar el numero de Loops como parámetro desde la linea de comandos**
 
-Para asegurar que el resultado no fue precalculado en tiempo de compilación, adopte el código para que se pueda usar con parámetro desde la linea de comandos. Ahora se puede hacer la prueba con cualquier numero y el compilador no tiene forma de precalcular el resultado y devolver solo una constante. 
+Para asegurar que el resultado no fue precalculado en tiempo de compilación, adopte el código para que se pueda usar con parámetro desde la linea de comandos. Ahora se puede hacer la prueba con cualquier numero y el compilador no tiene forma de precalcular el resultado y devolver solo una constante.
 
 Código C con parametro  
 {% highlight c %}
@@ -192,7 +191,7 @@ main(int argc, char *argv[])
 
 El código assembly de C que conseguí al compilar con el parametro -S tiene solo 40 lineas.  
 {% highlight bash %}
-$ gcc loop_sum.c -S 
+$ gcc loop_sum.c -S
 {% endhighlight %}
 
 {% highlight bash %}
