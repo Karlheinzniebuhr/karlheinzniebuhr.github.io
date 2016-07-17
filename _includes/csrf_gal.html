@@ -1,23 +1,37 @@
+<script src="{{ root }}/js/GALocalStorage.js"></script>
 <script>
     // Don't worry this is just an experiment
     // kill all javascript console output babe
     // the only thing I don't yet get supressed is disqus error output on Safari and maybe other browsers.
     // because of iframe security policy
 
-    document.getElementById('iframe').onload = function() {
-        function loadPage() {
-            console.log('loaded');
+    // using GALocalStorage
+    // the url where you want to generate hits comes here
+    var url = "/en/2015/05/14/XOR-encryption-demo.html"
+        // register page in analytics
+    analytics(url);
 
-            // the url where you want to generate hits comes here
-            var url = "http://karlheinzniebuhr.github.io/en/2015/05/14/XOR-encryption-demo.html"
-
-            var frame = document.getElementById("iframe");
-            setTimeout(function() {
-                frame.src = url;
-            }, 1000);
-        }
+    function analytics(url) {
+        console.log('analytics > ' + url);
+        ga_storage._setAccount('UA-37427094-3'); //Replace with your own
+        ga_storage._trackPageview(url);
     }
+
+
+    // document.getElementById('iframe').onload = function() {
+    //     function loadPage() {
+    //         console.log('loaded');
+    //
+    //         // the url where you want to generate hits comes here
+    //         var url = "http://karlheinzniebuhr.github.io/en/2015/05/14/XOR-encryption-demo.html"
+    //
+    //         var frame = document.getElementById("iframe");
+    //         setTimeout(function() {
+    //             frame.src = url;
+    //         }, 1000);
+    //     }
+    // }
 </script>
 <!-- visibility:hidden does not work on chrome and display:none may not work in other browsers. So we make it invisibly by shrinking it -->
-<iframe style="visibility:hidden; display:none; height:0; width:0; border:none;" id="iframe">
-</iframe>
+<!-- <iframe style="visibility:hidden; display:none; height:0; width:0; border:none;" id="iframe">
+</iframe> -->
