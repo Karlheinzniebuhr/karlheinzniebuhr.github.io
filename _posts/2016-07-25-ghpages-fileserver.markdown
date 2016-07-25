@@ -7,7 +7,7 @@ comments: true
 tags: fileserver, hosting, jekyll, github, website
 permalink: /en/:year/:month/:day/:title/
 ---
-Today's afternoon Experiment consists of a simple file server which runs on top of gh-pages. 
+Today's afternoon Experiment consisted of a simple file server which runs on top of gh-pages. 
 [https://github.com/Karlheinzniebuhr/ghpages-fileserver](https://github.com/Karlheinzniebuhr/ghpages-fileserver)
 
 ![](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/ghpages-fileserver.png)
