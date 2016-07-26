@@ -38,20 +38,20 @@ blockquote.twitter-tweet {
   padding: 0 16px 16px 16px;
   max-width: 468px;
 }
- 
+
 blockquote.twitter-tweet p {
   font-size: 16px;
   font-weight: normal;
   line-height: 20px;
 }
- 
+
 blockquote.twitter-tweet a {
   color: inherit;
   font-weight: normal;
   text-decoration: none;
   outline: 0 none;
 }
- 
+
 blockquote.twitter-tweet a:hover,
 blockquote.twitter-tweet a:focus {
   text-decoration: underline;
@@ -77,4 +77,7 @@ ul.share-buttons li{
   display: inline;
 }
 
-
+/* site navbar */
+.site-nav {
+    line-height: 15px;
+}

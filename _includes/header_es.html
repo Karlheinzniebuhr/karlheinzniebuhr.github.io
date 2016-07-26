@@ -14,10 +14,15 @@
       </a>
 
       <div class="trigger">
-          <a class="page-link" href="/ES/fitness/">Fitness</a>    
-          <a class="page-link" href="/">EN</a> 
-          <a class="page-link" href="/ES/about/">About</a>
-          
+
+          <div style="width: 400px;">
+              <div style="float: right; width: 100px;">{% include paypal_donate.html %}</div>
+              <div style="float: right; width: 70px;"><a class="page-link" href="/ES/fitness/">Fitness</a> </div>
+              <div style="float: right; width: 37px;"><a class="page-link" href="/">EN</a></div>
+              <div style="float: right; width: 60px;"><a class="page-link" href="/ES/about/">About</a></div>
+              <br style="clear: right;" />
+          </div>
+
         <!-- {% for page in site.pages %}
           {% if page.category contains 'EN' %}
               {% if page.title %}
