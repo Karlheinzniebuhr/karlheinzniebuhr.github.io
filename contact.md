@@ -70,7 +70,6 @@ permalink: /contact/
 </fieldset>
 </form>
 </div>
-    </div><!-- /.container -->
 
 </body>
 </html>
