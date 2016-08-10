@@ -71,5 +71,4 @@ permalink: /contact/
 </form>
 </div>
 
-</body>
 </html>
