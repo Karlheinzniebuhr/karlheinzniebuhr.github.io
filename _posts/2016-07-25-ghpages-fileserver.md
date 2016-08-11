@@ -10,7 +10,8 @@ banner_image: ghpages-fileserver.png
 Today's afternoon Experiment consisted of a simple file server which runs on top of gh-pages. 
 [https://github.com/Karlheinzniebuhr/ghpages-fileserver](https://github.com/Karlheinzniebuhr/ghpages-fileserver)
 <!--more-->
-![](karlheinzniebuhr.github.io/images/posts/ghpages-fileserver.png)
+{% include image_full.html imageurl="/images/posts/ghpages-fileserver.png" title="" caption="" %}
+
 
 Github is an awesome way to have virtually free hosting. The problem I noticed is that there was no easy way to "serve" files once you have them uploaded.
 Inserting every Link manually in Markdown is a very time-consuming and boring task. There has to be an easier way. Luckily Jekyll supports static files [http://jekyllrb.com/docs/static-files/.](http://jekyllrb.com/docs/static-files/)
