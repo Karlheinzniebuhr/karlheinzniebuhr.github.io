@@ -51,7 +51,7 @@ permalink: /contact/
     <div class="col-md-4 inputGroupContainer">
     <div class="input-group">
         <span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
-        	<textarea class="form-control" name="comment" placeholder="Message"></textarea>
+        	<textarea rows="10" class="form-control" name="comment" placeholder="Message"></textarea>
   </div>
   </div>
 </div>
