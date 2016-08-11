@@ -8,7 +8,7 @@ banner_image: flooder.png
 ---
 
 Hoy recibí un correo de Google y no, no fue la respuesta a la vulnerabilidad que espere. Fue un takedown notice.  
-![germany](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/takedown.png)
+![germany](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/images/posts/takedown.png)
 <!--more-->
 Una notificación de que quitaron de sus servidores una creación mía. Que podría ser eso? Ah cierto, una mini aplicación para romper las bolas en WhatsApp, que hice en un día cuando estaba bastante aburrido.
 Lo que permite hacer es enviar un montón de mensajes de seguido, básicamente el la cantidad que ingreses en el campo.  
