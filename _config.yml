@@ -37,7 +37,7 @@ navigation:
   url: https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&SESSION=5nL9xgogPawJL5A7iNnWS9-01haMaGreeUVIiHW5jk3tVSK6D9VZx3WciY0&dispatch=5885d80a13c0db1f8e263663d3faee8de2b8031b89187c030b37e57608011f58
 
 # The shortname for your Disqus site to enable comments.
-disqus:
+disqus: karlsjekyllblog
 
 # Author information - author info at the bottom of the post
 author_name: "Karl Niebuhr"
