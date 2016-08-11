@@ -43,7 +43,7 @@ cat abcColor datamexguarani lajaula personal portalguarani skycraperPy tigo ulti
 
 Me quede con una lista de **184406** palabras únicas.
 El diccionario se puede descargar en este enlace.   
-**<a href="https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/downloads/wordlists/dictPy.txt" download>Descargar DictPy</a>**  
+**<a href="karlheinzniebuhr.github.io/downloads/wordlists/dictPy.txt" download>Descargar DictPy</a>**  
 Recomiendo usarlo en combinacion con reglas de [hashcat](http://hashcat.net/oclhashcat/) por ejemplo la **best64.rule**.
 
 Un tiempo atrás también hice un diccionario con los números telefonicos móvil del Paraguay (mucha gente utiliza su número como contraseña del wifi por ejemplo). Para ello utilize el generador de listas de palabras [crunch](http://adaywithtape.blogspot.com.au/2011/05/creating-wordlists-with-crunch-v30.html).
@@ -59,7 +59,7 @@ Básicamente tome los prefijos mas utilizados y le agregue todas las combinacion
 0991
 En total la lista contiene 8.000.000 números vs los **10<sup>10</sup>** = 10,000,000,000 que se utilizarían usando solamente fuerza bruta.
 
-**<a href="https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/downloads/wordlists/NumerosTelPY.txt" download>Descargar Dict-Numeros-Paraguay</a>**
+**<a href="karlheinzniebuhr.github.io/downloads/wordlists/NumerosTelPY.txt" download>Descargar Dict-Numeros-Paraguay</a>**
 
 
 Favor solo usar para hacking ético.  No me hago responsable del mal uso de los diccionarios.

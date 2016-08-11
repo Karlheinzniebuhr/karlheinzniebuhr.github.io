@@ -26,7 +26,7 @@ Received: from [192.168.2.2](host-24-140.b8.cmm.com.py. [200.**.183.***])
 {% endhighlight %}  
 This metadata can be found in the header of the E-mail. You can easily check it out from the Gmail Web Client just by clicking on the button on the right side of the received E-mail and then on “show original” as shown in the Image (in German). Then search for the “Received:” field(s).  
 
-![Image IP_test](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/data/gmail_ip/ip_test.png)  
+![Image IP_test](karlheinzniebuhr.github.io/data/gmail_ip/ip_test.png)  
 
 After this finding I tried again using the Web Client, apparently Gmail replaces the origin IP with their internal server’s IP just fine in this case. No client IP nor other client information shown.  
 Notice that there can be multiple "Received from" fields and the order in which they appear is related to the servers involved in passing along your E-mail until it reaches its final destination.
