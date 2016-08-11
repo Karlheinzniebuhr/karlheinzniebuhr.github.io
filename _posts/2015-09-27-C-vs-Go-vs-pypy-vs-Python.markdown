@@ -66,19 +66,19 @@ print(sum)
 
 As you can see, C is pretty damn fast, it takes only 0.03 seconds to sum up everything.
 
-![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c.png)
+![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/c.png)
 
 Python takes 1.75 seconds
-![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/python.png)
+![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/python.png)
 
 Pypy took 0.26 seconds the first time
-![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/pypy1.png)
+![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/pypy1.png)
 
 The second time it took only 0.101 which is only 3 times slower than the C implementation
-![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/pypy2.png)
+![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/pypy2.png)
 
 But the indisputable winner was Go which took only 0.010 seconds, 3x faster than C.
-![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go.png)
+![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/go.png)
 
 
 **Update 1**  
@@ -92,7 +92,7 @@ console.log(sum);
 {% endhighlight %}
 
 Amazing, JS really seems to be the fastest interpreted language (I know).. just 0.077 seconds! 2.4 times slower than unoptimised C and about 31% faster than pypy
-![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/nodejs.png)
+![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/nodejs.png)
 
 ###**Update 2 Problem solved**
 As pointed out on [Reddit](https://www.reddit.com/r/compsci/comments/3mss9b/any_idea_why_this_go_loop_is_faster_than_pure_c/) and the comments, using [CFLAGS](https://wiki.gentoo.org/wiki/GCC_optimization) to activate code optimisation of the compiler increases the speed of C considerably. I also had to initialise the sum variable because otherwise it returned the wrong result.
@@ -120,7 +120,7 @@ int main ()
 
 
 Now the code runs 5x faster than C without using CFLAGS and 40% faster than Go.
-![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-opt.png)
+![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/c-opt.png)
 
 ####**Update 3: Changed the code with command line args for further testing**
 
@@ -231,21 +231,21 @@ $ otool -tvV loop_sum_go
 <a href="https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/data/assembly/go_assembly.txt.zip" download>Download Go assembly code</a>
 
 C  
-![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-cmd.png)
-
+![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/c-cmd.png)
+karlheinzniebuhr.github.io/ES/_posts/img/
 
 What also is interesting is that it doesn’t seem to matter much if I pass in bigger numbers, here trying with 1.000.000.000  
-![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/c-cmd2.png)
+![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/c-cmd2.png)
 
 Go  
-![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go-cmd.png)
+![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/go-cmd.png)
 
 Go takes considerably longer with 1.000.000.000  
-![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/go-cmd2.png)
+![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/go-cmd2.png)
 
 ####To sum up  
 I noticed that the optimised code executes in constant time, no matter what number I throw at it. Suspecting that the compiler did a trick there, as mentioned I changed the code to pass the number as command line parameter. Doing so I made sure that the result itself wasn’t precomputed. Despite that the response time remained constant, so the only remaining logical explanation was that the compiler used math to compute the sum and it was confirmed in [this neat blogpost](http://blog.xebia.com/2015/10/05/gcc-compiler-optimizations-dissection-of-a-benchmark/). The nifty Clang compiler uses sum of an arithmetic sequence formula to get away with executing the task without doing the heavy lifting of the loop. Clever, but this shows that it is really hard to do fair benchmarks.  
 Formula used by Clang to thrash the loop sum’s   
-![Image image1](https://raw.githubusercontent.com/Karlheinzniebuhr/karlheinzniebuhr.github.io/master/ES/_posts/img/sum_formula.png)  
+![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/sum_formula.png)  
 After all, it seems that Go is faster at running the loop. I haven’t confirmed this in Go’s assembly code (perhaps someone can make a blogpost about that too :) ) but I think I can safely assume so because Go’s response time is proportional to the input number.  
 I will certainly take a closer look at this so stay tuned.
