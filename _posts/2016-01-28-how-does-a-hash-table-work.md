@@ -15,13 +15,13 @@ For example when looking up a value in an index of values, or key-value pairs. N
 But what if there is a better way to scale? There are different approaches, like [search trees](https://en.wikipedia.org/wiki/Search_tree) for instance. On average search trees have a [time complexity](https://en.wikipedia.org/wiki/Time_complexity) of  O(log n). This means that if the number of values is 16, the algorithm has to complete at least 4 *'steps'* to find the position of the value --> **log2(16) = 4**.  
 Of course the best thing would be to decouple the **time** (number of operations/seconds) completely from the **input size**. This is what hash tables enable to do. On average each lookup is independent from the number of elements stored in the table. Hash tables have a ***time complexity of O(1)***, meaning that they perform lookups in ***constant time***, rather than ***linear time***. This is very important as many types of software depend on constant time in order to operate efficiently, like search engines and database indexes.  
 
-![](karlheinzniebuhr.github.io/images/hash/common_time_complexities.jpg)
+{% include image_full.html imageurl="/images/posts/common_time_complexities.jpg" title="" caption="" %}
 
 So how exactly does a hash table work?  
 The basic concept behind hash tables is to do the computation just once on the keyword instead of the entire index. I'll try to illustrate it graphically.  
 
-![](karlheinzniebuhr.github.io/images/hash/linear_search.png)
-![](karlheinzniebuhr.github.io/images/hash/hash_function.png)
+{% include image_full.html imageurl="/images/posts/linear_search.png" title="" caption="" %}
+{% include image_full.html imageurl="/images/posts/hash_function.png" title="" caption="" %}
 
 There are multiple ways to compute a hash, a simple way would be to base it on the first letter in each keyword, similar to an alphabetic index of a book. Each entry in the index of the table corresponds to a letter and contains all the keywords beginning with that letter. This isn't the best method. The problem with this method is that it can only speed up the look up by a factor of 26, as there are 26 letters in the alphabet (26 buckets for our words). And this again would only be efficient if the buckets had the same size, which isn't the case because there are more words starting with S and T than with X and Q for example. Thus the buckets would have very different sizes.  
 This can be fixed by solving two problems:
@@ -94,7 +94,8 @@ index10 = make_big_index(10)
 compare(lookup, hashtable_lookup, 10, index10, 'udacity')
 {% endhighlight %}
 Output:  
-![](karlheinzniebuhr.github.io/images/hash/10.png)
+{% include image_full.html imageurl="/images/posts/10.png" title="" caption="" %}
+
 
 So far the lookup function is faster than the hash table lookup. This is probably due to the fact that the index size is so tiny, the cost of going through the 10 values is cheaper than calculating the hash of the keyword.  
 Lets test with an index of 100.  
@@ -103,7 +104,7 @@ index100 = make_big_index(100)
 # compare_function(function1, function2, number_of_tests, htable, lookup_key)
 compare(lookup, hashtable_lookup, 10, index100, 'udacity')
 {% endhighlight %}
-![](karlheinzniebuhr.github.io/images/hash/100.png)
+{% include image_full.html imageurl="/images/posts/100.png" title="" caption="" %}
 
 Index: 1000  
 {% highlight python %}
@@ -111,7 +112,7 @@ index1000 = make_big_index(1000)
 # compare_function(function1, function2, number_of_tests, htable, lookup_key)
 compare(lookup, hashtable_lookup, 10, index1000, 'udacity')
 {% endhighlight %}
-![](karlheinzniebuhr.github.io/images/hash/1000.png)
+{% include image_full.html imageurl="/images/posts/1000.png" title="" caption="" %}
 
 Index: 100000  
 {% highlight python %}
@@ -119,11 +120,11 @@ index100000 = make_big_index(100000)
 # compare_function(function1, function2, number_of_tests, htable, lookup_key)
 compare(lookup, hashtable_lookup, 10, index100000, 'udacity')
 {% endhighlight %}
-![](karlheinzniebuhr.github.io/images/hash/100000.png)
+{% include image_full.html imageurl="/images/posts/100000.png" title="" caption="" %}
 
 Notice how much faster the hash table is with an index of just 100.000  
 This is because as the size of the index grows, the time difference between a normal lookup and a hash table grows linearily with the input size as shown in this graphic.  
-![](karlheinzniebuhr.github.io/images/hash/hash_table_efficiency.png)
+{% include image_full.html imageurl="/images/posts/hash_table_efficiency.png" title="" caption="" %}
 
 Now imagine what would happen with an index of billions of entries like a search engine. Without some kind of hash table something bad would happen, you can do the math :)  
 
