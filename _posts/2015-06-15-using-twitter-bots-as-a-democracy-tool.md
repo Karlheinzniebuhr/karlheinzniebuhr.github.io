@@ -3,7 +3,7 @@ layout: post
 title:  "Using Twitter-bots as a democracy tool"
 date:   2015-06-15
 permalink: /en/:year/:month/:day/:title/
-tags: [digital rights, privacy, cryptography, governement, paraguay, pyrawebs]
+tags: [digital rights, privacy, governement, paraguay, pyrawebs]
 banner_image: pyrawebs.jpg
 ---
 
