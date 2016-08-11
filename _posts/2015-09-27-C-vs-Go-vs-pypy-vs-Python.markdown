@@ -232,7 +232,6 @@ $ otool -tvV loop_sum_go
 
 C  
 ![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/c-cmd.png)
-karlheinzniebuhr.github.io/ES/_posts/img/
 
 What also is interesting is that it doesn’t seem to matter much if I pass in bigger numbers, here trying with 1.000.000.000  
 ![Image image1](karlheinzniebuhr.github.io/ES/_posts/img/c-cmd2.png)
