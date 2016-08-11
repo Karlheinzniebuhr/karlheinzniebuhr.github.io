@@ -34,7 +34,7 @@ navigation:
 - text: Contact
   url: /contact/
 - text: Donate
-  url: https://www.paypal.com/uk/cgi-bin/webscr?cmd=_flow&SESSION=5nL9xgogPawJL5A7iNnWS9-01haMaGreeUVIiHW5jk3tVSK6D9VZx3WciY0&dispatch=5885d80a13c0db1f8e263663d3faee8de2b8031b89187c030b37e57608011f58
+  url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U33SUYT78828G
 
 # The shortname for your Disqus site to enable comments.
 disqus: karlsjekyllblog
