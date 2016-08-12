@@ -29,6 +29,9 @@ navigation:
   url: /
 - text: Archives
   url: /tags/
+- text: Link Feed
+  url: /link feed/
+
 - text: About
   url: /about/
 - text: Contact
