@@ -19,6 +19,7 @@ baseurl:
 
 sass:
   sass_dir: _sass
+  style: compressed
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: "http://karlheinzniebuhr.github.io"
