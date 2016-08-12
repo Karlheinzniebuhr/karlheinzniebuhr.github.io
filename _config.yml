@@ -75,6 +75,7 @@ paginate: 5
 paginate_path: '/blog/page:num/'
 gems: [jekyll-paginate]
 
+
 permalink: pretty
 markdown: kramdown
 kramdown:
