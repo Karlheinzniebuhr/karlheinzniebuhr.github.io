@@ -3,7 +3,7 @@ layout: post
 title: "Primeras impresiones de Alemania"
 date: 2016-04-10
 permalink: /es/:year/:month/:day/:title/
-tags: [español, education, study]
+tags: [español, education, germany]
 ---
 
 {% include image_full.html imageurl="/images/posts/technik.jpg" title="" caption="" %}

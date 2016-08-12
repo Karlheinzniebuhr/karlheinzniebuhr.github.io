@@ -3,7 +3,7 @@ layout: post
 title:  "Github pages fileserver"
 date:   2016-07-25
 permalink: /en/:year/:month/:day/:title/
-tags: [fileserver, hosting, jekyll, github, website]
+tags: [fileserver, hosting, github, programming]
 banner_image: ghpages-fileserver.png
 ---
 

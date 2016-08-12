@@ -3,7 +3,7 @@ layout: post
 title:  "Anotaciones sobre macronutrientes"
 date:   2016-01-06
 permalink: /es/:year/:month/:day/:title/
-tags: [fitness, nutrition, health, macronutrientes]
+tags: [fitness, nutrition, health]
 ---
 
 {% include image_full.html imageurl="/images/posts/macronutrients.png" title="macronutrients" caption="" %}

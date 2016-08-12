@@ -3,7 +3,7 @@ layout: post
 title:  "How to hide your IP when using Gmail"
 date:   2015-10-12
 permalink: /en/:year/:month/:day/:title/
-tags: [security, gmail, networking, privacy]
+tags: [security, networking, privacy]
 banner_image: ip_test.png
 ---
 

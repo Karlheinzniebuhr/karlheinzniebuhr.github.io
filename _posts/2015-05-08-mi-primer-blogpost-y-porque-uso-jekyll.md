@@ -3,7 +3,7 @@ layout: post
 title:  "Porqué Jekyll?"
 date:   2015-05-07 16:32:52
 permalink: /en/:year/:month/:day/:title/
-tags: [español, fileserver, hosting, jekyll, github, website]
+tags: [español, blogging]
 banner_image: caffeines_advice.png
 ---
 

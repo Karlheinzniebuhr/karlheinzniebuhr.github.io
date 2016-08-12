@@ -2,7 +2,7 @@
 layout: post
 title:  "Experimento en curso de udacity que llevó a una libreria python."
 date:   2015-05-10
-tags: [español, fileserver, hosting, jekyll, github, website, python, benchmark]
+tags: [español, programming, benchmark]
 banner_image: udacity_logo.png
 ---
 

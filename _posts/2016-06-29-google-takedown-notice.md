@@ -3,7 +3,7 @@ layout: post
 title: "Google takedown notice y whatsapp flooder"
 date: 2016-06-29
 permalink: /es/:year/:month/:day/:title/
-tags: [español, google, whatsapp, flooder, security]
+tags: [español, google, whatsapp, security]
 banner_image: flooder.png
 ---
 

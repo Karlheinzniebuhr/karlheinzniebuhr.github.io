@@ -2,9 +2,8 @@
 layout: post
 title:  "Los beneficios de caminar"
 date:   2016-01-17
-category: es_fitness
-comments: true
 permalink: /es/:year/:month/:day/:title/
+tags: [español, fitness, nutrition, health]
 ---
 {% include image_full.html imageurl="/images/posts/caminando.jpg" title="" caption="Yo caminando por Asunción city" %}
 

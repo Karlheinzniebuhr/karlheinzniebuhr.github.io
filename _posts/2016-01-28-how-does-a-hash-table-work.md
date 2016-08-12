@@ -3,7 +3,7 @@ layout: post
 title:  "How do hash tables work"
 date:   2016-01-28
 permalink: /en/:year/:month/:day/:title/
-tags: [search engine, hashmap, hash table, hash lookup]
+tags: [computer science]
 banner_image: hash_function.png
 ---
 

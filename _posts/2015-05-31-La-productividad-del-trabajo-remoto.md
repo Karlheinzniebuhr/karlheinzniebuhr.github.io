@@ -3,7 +3,7 @@ layout: post
 title:  "La productividad del trabajo remoto"
 date:   2015-05-31
 permalink: /en/:year/:month/:day/:title/
-tags: [español, productividad, trabajo, programacion, software, developer]
+tags: [español, productividad]
 ---
 
 En su libro [Remote office not requiered](http://37signals.com/remote/) David Heinemeier el creador del framework Ruby on Rails habla sobre los beneficios que trae el trabajo remoto. Los datos de este post saque de [esta entrevista con David](https://www.youtube.com/watch?v=pTjS0o-ZIRg ).
