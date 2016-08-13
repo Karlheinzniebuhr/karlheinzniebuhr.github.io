@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Link Log automatically generated from Pocket --> Google Spreadsheets --> This Blog
+title: Auto-generated Link Log from Pocket
 description: This is a log of links I find interesting
 ---
 
@@ -9,13 +9,11 @@ body {
     margin: 0;            /* Reset default margin */
 }
 iframe {
-  position: fixed;
-  background: #000;
-  border: none;
-  top: 0; right: 0;
-  bottom: 0; left: 0;
-  width: 100%;
-  height: 100%;
+    display: block;       /* iframes are inline by default */
+    background: #000;
+    border: 1px;         /* Reset default border */
+    height: 100vh;        /* Viewport-relative units */
+    width: 100vw;
 }
 </style>
 
