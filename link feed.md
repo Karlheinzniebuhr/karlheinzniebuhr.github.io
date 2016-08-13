@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Link Log (most recent first)
-description: This is a log of links I liked
+description: This is a log of links I find interesting
 ---
 
 [this guy is crazy, I think this says something about the effectiveness of lectures (or lack of)](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
