@@ -5,7 +5,7 @@ description: This is a log of links I find interesting
 ---
 
 
-
+[10 IFTTT Recipes for Extreme Productivity](https://www.youtube.com/watch?v=S7NlBnsHC14)
 [Baby I just discovered the Crème de la crème of automatization](https://ifttt.com/)  
 [this guy is crazy, I think this says something about the effectiveness of lectures (or lack of)](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)  
 [SPS is not necessarily good for concepts](https://www.scotthyoung.com/blog/2014/11/07/srs-for-concepts/)  
