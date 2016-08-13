@@ -3,6 +3,9 @@ layout: page
 title: Link Log (most recent first)
 description: This is a log of links I find interesting
 ---
+
+
+[this package makes the use of GIT from Atom orgasmic fun](https://atom.io/packages/markdown-toc)
 [Baby I just discovered the Crème de la crème of automatization](https://ifttt.com/)
 [this guy is crazy, I think this says something about the effectiveness of lectures (or lack of)](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 [SPS is not necessarily good for concepts](https://www.scotthyoung.com/blog/2014/11/07/srs-for-concepts/)
