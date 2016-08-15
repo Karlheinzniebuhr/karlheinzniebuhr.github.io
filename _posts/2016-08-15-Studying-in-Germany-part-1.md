@@ -19,7 +19,7 @@ Image credits: Saarschleife by [Christopher Jenal](https://500px.com/christopher
 		- [7. Visa / Residence Permit](#7-visa-residence-permit)
 	- [Academic experience](#academic-experience)
 		- [Artificial Intelligence](#artificial-intelligence)
-	- [Workload](#workload)
+		- [Workload](#workload)
 		- [Security](#security)
 	- [Grading: Norm-Referenced Grading at it's best?](#grading-norm-referenced-grading-at-its-best)
 	- [Student activities](#student-activities)
@@ -87,7 +87,7 @@ And this is perhaps one of the things which differentiate German or perhaps more
 Don't get me wrong the education is superb. The professor of the AI lecture is one of the top experts in this field. His Ph.D. even is mentioned in the ["Bible of AI"](http://aima.cs.berkeley.edu/) due to his contributions in [Planning](https://en.wikipedia.org/wiki/Automated_planning_and_scheduling) a crucial branch of AI that involves the realization of strategies or action sequences. The course dealt with the very leading edge of research.
 So I don't feel the need to babysit the strengths and will rather dig into some critics because that is where after all, improvement can happen.
 
-## Workload
+### Workload
 You might have heard about [the ECTS credit points](http://www.mastersportal.eu/articles/388/all-you-need-to-know-about-the-european-credit-system-ects.html). Basically, its aim is to "make programs and the performance of students of higher education more transparent and comparable European-wide and to replace or complement the different local (national) standards within Europe."
 In other words, it is a rough estimate of the time required to earn one credit point. The workload per credit point varies somewhat between countries despite the effort of making a standard. In the case of Germany, it happens to be close to 30 hours per point.
 
