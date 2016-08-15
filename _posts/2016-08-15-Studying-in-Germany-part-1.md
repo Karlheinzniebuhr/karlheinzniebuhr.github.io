@@ -7,7 +7,26 @@ tags: [education, germany]
 banner_image: saar-schleife.jpg
 ---
 Image credits: Saarschleife by [Christopher Jenal](https://500px.com/christopherjenal)
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Some comments about Germany's education as I experienced it.](#some-comments-about-germanys-education-as-i-experienced-it)
+	- [Application & Enrollment](#application-enrollment)
+	- [List of all practical steps in order](#list-of-all-practical-steps-in-order)
+		- [2. Online enrollment](#2-online-enrollment)
+		- [3. Accommodation](#3-accommodation)
+		- [4. Registering at the Administrative Office for Citizens](#4-registering-at-the-administrative-office-for-citizens)
+		- [5. Opening a bank account](#5-opening-a-bank-account)
+		- [7. Visa / Residence Permit](#7-visa-residence-permit)
+	- [Academic experience](#academic-experience)
+		- [Artificial Intelligence](#artificial-intelligence)
+	- [Workload](#workload)
+		- [Security](#security)
+	- [Grading: Norm-Referenced Grading at it's best?](#grading-norm-referenced-grading-at-its-best)
+	- [Student activities](#student-activities)
+	- [Non-Academic Activities](#non-academic-activities)
+	- [Summing-Up](#summing-up)
+
+<!-- /TOC -->
 
 # Some comments about Germany's education as I experienced it.
 
