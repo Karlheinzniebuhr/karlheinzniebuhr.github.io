@@ -12,7 +12,7 @@ So nothing happened at first but then a friend sent me a screenshot..
 ![](/images/posts/instaspam.jpeg)
 
 Apparently, the effect is that friends got tagged massively in my pictures.
-
+<!--more-->
 Could anyone reverse engineer this, and explain why this happens?
 
 This is the link  
