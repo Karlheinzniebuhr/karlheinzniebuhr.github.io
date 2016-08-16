@@ -11,7 +11,8 @@ I posted the link in the Website input and pressed submit. After that, I got an 
 So nothing happened at first but then a friend sent me a screenshot..
 ![](/images/posts/instaspam.jpeg)
 
-Apparently, the effect is that friends got tagged massively in my pictures.
+Apparently, the effect is that friends that were previously tagged in pictures, get re-tagged.
+
 <!--more-->
 Could anyone reverse engineer this, and explain why this happens?
 
