@@ -6,7 +6,7 @@ permalink: /en/:year/:month/:day/:title/
 tags: [security]
 banner_image: insta_tagger.png
 ---
-Today I asked someone on Instagram why she had this weird link on her description box. She told me that someone had told her that it makes the profile more "visible." So being the curious character I am, and I thought, what the heck I'll test it as the link didn't contain Javascript and thus is not some kind of XSS which would risk my account.
+Today I asked someone on Instagram why she had this weird link on her description box. She told me that someone had told her that it makes the profile more "visible." So being the curious character I am, I thought, what the heck I'll test it as the link does not contain Javascript and thus is not some kind of XSS which would risk my account.
 I posted the link in the Website input and pressed submit. After that, I got an error and some message about spam. LOL  
 So nothing happened at first but then a friend sent me a screenshot..
 ![](/images/posts/instaspam.jpeg)
