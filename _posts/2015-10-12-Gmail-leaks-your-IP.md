@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to hide your IP when using Gmail"
+title:  "Gmail leaks your IP"
 date:   2015-10-12
 permalink: /en/:year/:month/:day/:title/
 tags: [security, networking, privacy]
