@@ -4,6 +4,8 @@
     <section class="widget widget-text">
         <h2 class="widget-title">About {{ site.author_name }}</h2>
         <p>{{ site.author_bio }}</p>
+
+        {% include social_follow_buttons.html %}
     </section><!-- .widget-text -->
     {% endif %}
 
