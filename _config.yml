@@ -32,6 +32,8 @@ navigation:
   url: /tags/
 - text: Link Feed
   url: /link feed/
+- text: Books
+  url: /books/
 
 - text: About
   url: /about/
