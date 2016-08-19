@@ -3,7 +3,8 @@
 			- [Mi investigación](#mi-investigacin)
 			- [Reflexiones con respecto a los requerimientos](#reflexiones-con-respecto-a-los-requerimientos)
 
-<!-- /TOC -->---
+<!-- /TOC -->
+---
 layout: post
 title: "Apuntando a un estudio en Alemania"
 date: 2015-12-27
