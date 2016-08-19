@@ -1,4 +1,9 @@
----
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+			- [Mi investigación](#mi-investigacin)
+			- [Reflexiones con respecto a los requerimientos](#reflexiones-con-respecto-a-los-requerimientos)
+
+<!-- /TOC -->---
 layout: post
 title: "Apuntando a un estudio en Alemania"
 date: 2015-12-27
