@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'github-pages'
 
-group :jekyll_plugins do
+group :plugins_dir do
   gem "jekyll-time-to-read"
 end
