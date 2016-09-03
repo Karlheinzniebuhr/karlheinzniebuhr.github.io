@@ -2,10 +2,9 @@
 layout: post
 title:  "A social engineers experiment"
 date:   2016-07-05
-category: EN
+categories: en
 comments: true
 tags: Security, Infosec, social-engineering, Paraguay, Informatica
-permalink: /en/:year/:month/:day/:title/
 ---
 This is a guest-post from a friend of mine. Without further ado, here it is.  
 
