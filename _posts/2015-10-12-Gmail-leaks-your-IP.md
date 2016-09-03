@@ -2,7 +2,7 @@
 layout: post
 title:  "Gmail leaks your IP"
 date:   2015-10-12
-permalink: /en/:year/:month/:day/:title/
+categories: en
 tags: [security, networking, privacy]
 banner_image: ip_test.png
 ---

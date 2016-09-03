@@ -2,7 +2,7 @@
 layout: post
 title:  "Cómo complementar a la fuerza de voluntad"
 date:   2015-12-19
-permalink: /es/:year/:month/:day/:title/
+categories: en
 tags: [personal development]
 banner_image: willpower.jpg
 ---

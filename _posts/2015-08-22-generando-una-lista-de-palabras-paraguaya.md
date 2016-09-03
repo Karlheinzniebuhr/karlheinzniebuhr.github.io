@@ -2,7 +2,7 @@
 layout: post
 title:  "Generando un diccionario de palabras Paraguayo"
 date:   2015-08-22
-permalink: /es/:year/:month/:day/:title/
+categories: en
 tags: [español, security]
 banner_image: hops.png
 ---

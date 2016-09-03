@@ -2,7 +2,7 @@
 layout: post
 title:  "Anotaciones sobre macronutrientes"
 date:   2016-01-06
-permalink: /es/:year/:month/:day/:title/
+categories: es
 tags: [fitness, nutrition, health]
 ---
 

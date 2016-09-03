@@ -2,7 +2,7 @@
 layout: post
 title:  "La productividad del trabajo remoto"
 date:   2015-05-31
-permalink: /en/:year/:month/:day/:title/
+categories: en
 tags: [español, productividad]
 ---
 

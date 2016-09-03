@@ -2,7 +2,7 @@
 layout: post
 title:  "XOR + OTP encryption demo"
 date:   2015-05-14
-permalink: /en/:year/:month/:day/:title/
+categories: en
 tags: [cryptography, math, computer science]
 banner_image: xor.png
 ---

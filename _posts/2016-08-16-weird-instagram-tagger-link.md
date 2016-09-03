@@ -2,7 +2,7 @@
 layout: post
 title:  "Weird Instagram tagger link"
 date:   2016-08-16
-permalink: /en/:year/:month/:day/:title/
+categories: en
 tags: [security]
 banner_image: insta_tagger.png
 ---

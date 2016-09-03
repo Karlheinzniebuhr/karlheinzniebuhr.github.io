@@ -2,7 +2,7 @@
 layout: post
 title:  "How do hash tables work"
 date:   2016-01-28
-permalink: /en/:year/:month/:day/:title/
+categories: en
 tags: [computer science]
 banner_image: hash_function.png
 ---
