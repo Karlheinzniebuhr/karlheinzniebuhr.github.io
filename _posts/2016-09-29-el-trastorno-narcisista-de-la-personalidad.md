@@ -4,7 +4,6 @@ title:  "Que es el trastorno narcisista de la personalidad?"
 date:   2016-09-29
 categories: en
 tags: [psicologia, divagues]
-banner_image: browser-post.png
 ---
 Alguna vez se preguntaron por qué algunas personas viven criticando a los demás, pero a la hora de recibir crítica, ellos se ofenden, se ponen emocional y hasta agresivos? En la psicología ese trastorno se llama "Trastorno narcisista de la personalidad."  
 Según la definición de Wikipedia: Las personas con trastorno narcisista de la personalidad se caracterizan por exagerados sentimientos de auto-importancia. Creen que siempre tienen la razón y demuestran grandiosidad en sus creencias y comportamiento. Tienen una fuerte necesidad de admiración, pero carecen de sentimientos de empatía hacia los demás.  
