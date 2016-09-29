@@ -14,3 +14,5 @@ Para protegerse construyen una barrera grande alrededor para evitar de recibir c
 
 Para estas personas es difícil crecer y desarrollarse, ya que viven detrás de una fachada. La fachada falsa que exponen al mundo para conseguir validación y así, proteger a su frágil interior.
 Para leer mas:   [https://www.psychologytoday.com/blog/the-procrastination-equation/201110/hard-work-beats-talent-only-if-talent-doesn-t-work-hard](https://www.psychologytoday.com/blog/the-procrastination-equation/201110/hard-work-beats-talent-only-if-talent-doesn-t-work-hard)
+
+Mi recomendación para resolver este problema sería, meditar. Pero diferentes cosas funcionan para diferentes personas. Lo peor seria no hacer nada al respecto.  
