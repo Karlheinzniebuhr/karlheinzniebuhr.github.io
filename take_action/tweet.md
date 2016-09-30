@@ -53,7 +53,7 @@ Instrucciones de uso
 
 <button class="button" type="button" onclick="generar_tweets()">Generar Tweets!</button>
 <br>
-<button class="button2" type="button" onclick="open_all()">Abrir todos!</button>
+<button class="button2" type="button" onclick="open_all()">Abrir todos! (Solo desde la computadora)</button>
 
 <div id="container"></div>
 
