@@ -37,7 +37,7 @@ permalink: /take_action/
 </head>
 <body>
 
-<h2>Acción Politica Paraguay</h2>
+<h2>Acción de la Ciudadanía Paraguay</h2>
 Esta pagina permite generar tweets para los senadores con el fin de comunicar opiniones de la ciudadanía.
 <br><br>
 Instrucciones de uso
@@ -48,7 +48,7 @@ Instrucciones de uso
   <li>Enviar uno por uno en la(s) pestaña(s) abierta(s)</li>
 </ol>
 
-<textarea name='fname' class='tweetinput' id='tweetinput' rows="4" cols="50" maxlength="110" autofocus>#No_a_los_aguinaldos_extras ! 
+<textarea name='fname' class='tweetinput' id='tweetinput' rows="4" cols="50" maxlength="110" autofocus>#No_a_los_aguinaldos_extras !
 </textarea>
 
 <button class="button" type="button" onclick="generar_tweets()">Generar Tweets!</button>
