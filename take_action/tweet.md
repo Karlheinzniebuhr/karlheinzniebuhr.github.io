@@ -37,7 +37,7 @@ permalink: /take_action/
 </head>
 <body>
 
-<h2>Acción de la Ciudadanía Paraguay</h2>
+<h1>No a los aguinaldos extras!</h1>
 Esta pagina permite generar tweets para los senadores con el fin de comunicar opiniones de la ciudadanía.
 <br><br>
 Instrucciones de uso
