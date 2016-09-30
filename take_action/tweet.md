@@ -44,7 +44,7 @@ Instrucciones de uso
 <ol>
   <li>Ingresar el contenido del Tweet</li>
   <li>Apretar el botón “Generar Tweets!”</li>
-  <li>Enviar los Tweets uno por uno, o apretar el botón Enviar todos!</li>
+  <li>Enviar los Tweets uno por uno, o apretar el botón Abrir todos!</li>
   <li>Enviar uno por uno en la(s) pestaña(s) abierta(s)</li>
 </ol>
 
