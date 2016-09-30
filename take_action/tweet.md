@@ -48,7 +48,7 @@ Instrucciones de uso
   <li>Enviar uno por uno en la(s) pestaña(s) abierta(s)</li>
 </ol>
 
-<textarea name='fname' class='tweetinput' id='tweetinput' rows="4" cols="50" maxlength="110" autofocus>#No_a_los_aguinaldos_extras !
+<textarea name='fname' class='tweetinput' id='tweetinput' rows="4" cols="50" maxlength="110" autofocus>No a los aguinaldos extras! Yo exijo que se invierta el dinero en prioridades del país!
 </textarea>
 
 <button class="button" type="button" onclick="generar_tweets()">Generar Tweets!</button>
