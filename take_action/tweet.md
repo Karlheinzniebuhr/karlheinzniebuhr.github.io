@@ -58,7 +58,7 @@ Instrucciones de uso
 <div id="container"></div>
 
 
-<a href="https://github.com/Karlheinzniebuhr/take_action">Github repo</a>
+<small><a href="https://github.com/Karlheinzniebuhr/take_action">Github repo</a></small>
 <script>
 window.onload = document.getElementById('tweetinput').select();
 var senadores = "@AbdonMiguel @ArnoldoWiens @BlancaChiarajm @BlasLlanoPy @CarlosAAmarilla @carlosfilizzola @carlosnunezag @Castiglioni_L @desimasi2 @enzocardozoj @esperanza_py @FSilvaFacetti @GiuzzioArnaldo @HugoRicher_ @law_senador @LilianSamaniego @lugo_py @MaritoAbdo @mirtagusinky @ovelar_blanca @PETTA08 @Pykare @SenadoresPy @senadorMLopezP @SixtoPereira @victorbogadopy @zulmagomezc @EmiliaAlfaro @EnriBacchetta @YoyitoFranco @KaleGalaverna @blmignarro @OsorioDerlis @TitoSaguier @Cachito_Salomon";
