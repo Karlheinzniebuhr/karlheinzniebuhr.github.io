@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What happened with Chrome?"
+title:  "Browser speed test 2016, Safari the ultimate winner?"
 date:   2016-09-27
 categories: en
 tags: [programming]
