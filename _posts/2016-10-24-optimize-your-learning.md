@@ -4,7 +4,6 @@ title:  "Optimize your learning!"
 date:   2016-10-24
 categories: es
 tags: [brain, learning]
-banner_image: brain.png
 ---
 
 **"Knowledge is only potential power; it becomes power when we act on it."**
