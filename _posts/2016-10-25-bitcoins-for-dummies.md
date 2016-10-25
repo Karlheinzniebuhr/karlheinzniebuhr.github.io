@@ -20,7 +20,7 @@ En síntesis, hasta los servicios menos anónimos de bitcoin generalmente siguen
 Si te interesa comenzar a usar bitcoins entonces la primera pregunta es, dónde comenzar?
 Recomiendo que hagas tu propia investigación para informarte más. Pero probablemente no tengas paciencia para eso. Por esa razón preparé los pasos que con poca inversión de tiempo darán grandes resultados.
 
-1. Abrir cuenta en [Coinbase](https://www.coinbase.com/).
+1. Abrir cuenta en [Coinbase](https://www.coinbase.com/join/579dfd99b42f8d53684446bd).
 El proximo paso es transferir recursos a Coinbase ya que las necesitas para comprar bitcoins. Puedes transferir recursos via tarjeta de crédito o transferencia bancaria (ver instrucciones de la pagina).
 Si no tienes posibilidad de realizar esa transferencia, puedes comprar bitcoins directamente.
 
