@@ -24,7 +24,7 @@ Recomiendo que hagas tu propia investigación para informarte más. Pero probabl
 El proximo paso es transferir recursos a Coinbase ya que las necesitas para comprar bitcoins. Puedes transferir recursos via tarjeta de crédito o transferencia bancaria (ver instrucciones de la pagina).
 Si no tienes posibilidad de realizar esa transferencia, puedes comprar bitcoins directamente.
 
-3. Abrir cuenta en [localbitcoins](https://localbitcoins.com). Localbitcoins es un servicio que permite comprar bitcoins.
+3. Abrir cuenta en [localbitcoins](https://localbitcoins.com/?ch=7kwx). Localbitcoins es un servicio que permite comprar bitcoins.
 
 4. Una vez abierta la cuenta de localbitcoins, puedes comprar los bitcoins y transferirlos a tu wallet (billetera) de Coinbase. Si estas en Paraguay, puedes comprar directamente de mi aquí [buy-bitcoins-with-cash-asuncion-paraguay](https://localbitcoins.com/ad/384248/buy-bitcoins-with-cash-asuncion-paraguay)
 
