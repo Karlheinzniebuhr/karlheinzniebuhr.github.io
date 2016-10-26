@@ -14,7 +14,7 @@ permalink: /contact/
 
 <div class="container">
 
-    <form class="well form-horizontal" id="contact_form" action="https://formspree.io/karlheinzniebuhr89@gmail.com"
+    <form class="well form-horizontal" id="contact_form" action="https://formspree.io/karl.booklover@gmail.com"
       method="POST">
 <fieldset>
 
