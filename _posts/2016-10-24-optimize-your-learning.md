@@ -20,7 +20,7 @@ T Teach**
 
 Now let’s go into the details about every state.
 
-- Be **present**!  (Forget everything else and just focus on learning) For more details check out:  7 (plus or minus two) short term memory http://www.simplypsychology.org/short-term-memory.html
+- Be present!  (**Forget** everything else and just focus on learning) For more details check out:  7 (plus or minus two) short term memory http://www.simplypsychology.org/short-term-memory.html
 - Be an **active** learner, ask questions!  (how am I going to use this, apply this, teach this to others) Put comments etc.
 - Don’t outsource your brain (digital dementia), train it!
 - Take notes! It boosts retention by 50%
