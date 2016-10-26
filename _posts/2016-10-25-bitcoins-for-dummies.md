@@ -18,7 +18,7 @@ Lo que mas cuesta siempre a la hora de empezar a usar algo radicalmente nuevo, e
 ![](/images/posts/bitcoinvalue.png)
 [Link del histograma](https://www.coinbase.com/charts?locale=es)
 
-Así que haciendo una inversion grande, uno muy probablemente podría multiplicar sus fondos en el transcurso de unos años en un **factor de 3** !!  
+Así que haciendo una inversion grande, uno muy probablemente podría multiplicar sus fondos en el transcurso de unos años en un **factor múltiple de la inversión** !!  
 Pero volviendo al problema de la fluctuación a corto plazo, las empresas como coinbase logran eliminar ese riesgo, ofreciendo un wallet (billetera) tanto en bitcoins, como en monedas tradicionales, USD, Euro etc. Uno puede cargar un monto X de dólares sobre su cuenta, y espontáneamente según necesidad, comprar bitcoins con esos fondos tradicionales.  
 Formas como estas representarían la menor curva de aprendizaje para personas que quieren disfrutar de los beneficios de bitcoin, con la pequeña desventaja que la anonimidad no es la misma como cuando uno corre el wallet localmente. Es decir, uno tiene la posibilidad de controlar todos los factores del wallet en su computadora local, esta es la forma de uso que mas anonimidad ofrece, ya que no esta bajo ningún tipo de control externo como en el caso de los wallets del tipo coinbase. Pero este beneficio no viene sin un [trade-off](https://es.wikipedia.org/wiki/Trade-off). Hay que sacrificar algo de facilidad de uso es decir, correr una billetera propia es un proceso que necesita conocimiento técnico, ya que un error como perder la contraseña de la billetera por ejemplo, causaría la pérdida de los fondos en la billetera.  
 
