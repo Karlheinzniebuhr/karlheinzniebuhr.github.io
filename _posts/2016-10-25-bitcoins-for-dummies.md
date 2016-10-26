@@ -5,6 +5,8 @@ date:   2016-10-25
 categories: es
 tags: [bitcoin, cryptography, español]
 ---
+{% include facebook_buttons.html %}
+
 >Cansado de pagar cargos bancarios, de la falta de privacidad y flexibilidad?  
 
 Por qué las criptomonedas son *importantes* y *útiles*?
@@ -52,4 +54,3 @@ Si no tienes posibilidad de realizar esa transferencia, puedes comprar bitcoins 
 Espero que esta guía te anime a aventurarte en el mundo de los bitcoins. Si tienes dudas y preguntas puedes hacerlas en [este grupo de telegram](https://telegram.me/joinchat/AZH_dz6m8CDg5dH20JBR2A).  
 Cheers 👽  
 No olvides de compartir el post  
-<div class="fb-like" data-href="http://karlheinzniebuhr.github.io/es/2016/10/25/bitcoins-for-dummies/" data-layout="button_count" data-action="recommend" data-size="small" data-show-faces="true" data-share="true"></div>
