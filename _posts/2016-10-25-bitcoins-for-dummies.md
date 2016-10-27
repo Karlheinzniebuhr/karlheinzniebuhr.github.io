@@ -28,6 +28,10 @@ Si uno usa servicios como Coinbase, siempre tiene la facilidad de llamar a la em
 
 En síntesis, hasta los servicios menos anónimos de bitcoin generalmente siguen ofreciendo una forma de pago mas anónima que transacciones tradicionales.
 
+
+### Enviando fondos a través de Coinbase  
+![](/images/posts/coinbase.png)
+
 # Dónde comenzar?
 Si te interesa comenzar a usar bitcoins entonces la primera pregunta es, dónde comenzar?
 Recomiendo que hagas tu propia investigación para informarte más. Pero probablemente no tengas paciencia para eso. Por esa razón preparé los pasos que con poca inversión de tiempo darán grandes resultados.
@@ -48,7 +52,9 @@ Si no tienes posibilidad de realizar esa transferencia, puedes comprar bitcoins 
 
 8. Pagar con tu tarjeta en casi cualquier lugar en cualquier país, sin necesidad de hacer contratos con un banco ;)
 
-![](/images/posts/coinbase.png)
+
+### La tarjeta de débito virtual de e-coin (completamente gratis)  
+![](/images/posts/ecoin.png)
 
 ***Conclusión***  
 Espero que esta guía te anime a aventurarte en el mundo de los bitcoins. Si tienes dudas y preguntas puedes hacerlas en [este grupo de telegram](https://telegram.me/joinchat/AZH_dz6m8CDg5dH20JBR2A).  
