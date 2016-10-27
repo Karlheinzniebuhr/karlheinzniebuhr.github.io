@@ -7,7 +7,7 @@ tags: [bitcoin, cryptography, español]
 ---
 <div class="fb-like" data-href="http://karlheinzniebuhr.github.io/es/2016/10/25/bitcoins-for-dummies/" data-layout="button_count" data-action="recommend" data-size="small" data-show-faces="true" data-share="true"></div><br>
 
->Cansado de pagar cargos bancarios, de la falta de privacidad y flexibilidad?  
+>Cansado de pagar cargos bancarios, de falta de privacidad y flexibilidad?  
 
 Por qué las criptomonedas son *importantes* y *útiles*?
 En mi opinion las criptomonedas juegan un rol muy importante en el libre comercio y la privacidad. Las criptomonedas no están bajo la regulación de ningún ente centralizado y por lo tanto, son casi immunes a la censura. Muy a contrario de los bancos y corporaciones como paypal, que en ocaciones cedieron a la presión de gobiernos para censurar a ciertos individuos o instituciones, el caso mas famoso probablemente sea el de Julian Assange. PayPal y demás instituciones financieras estuvieron obligadas de enfriar sus bienes y así, evitar que la gente done dinero a causa de Wikileaks. Más detalles [aquí](https://www.wired.com/2010/12/paypal-wikileaks/).
