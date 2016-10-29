@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Optimize your learning!"
+title:  "Optimize your learning -- advanced learning tips by Jim Kwik"
 date:   2016-10-24
 categories: es
 tags: [brain, learning]

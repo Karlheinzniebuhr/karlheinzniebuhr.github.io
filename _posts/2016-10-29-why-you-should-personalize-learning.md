@@ -3,7 +3,7 @@ layout: post
 title:  "Why you should personalize your learning"
 date:   2016-10-29
 categories: en
-tags: [learning]
+tags: [learning, education, brain]
 ---
 <div class="fb-like" data-href="http://karlheinzniebuhr.github.io/en/2016/10/29/why-you-should-personalize-learning/" data-layout="button_count" data-action="recommend" data-size="small" data-show-faces="true" data-share="true"></div><br>
 
