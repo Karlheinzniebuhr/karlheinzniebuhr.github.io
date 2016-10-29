@@ -41,7 +41,7 @@ navigation:
   url: /contact/
 - text: Donate
   url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U33SUYT78828G
-- text: Donate Bitcoins
+- text: Bitcoins
   url: https://www.coinbase.com/checkouts/13178bcf327037d39c843fd6b80614ac
 
 
