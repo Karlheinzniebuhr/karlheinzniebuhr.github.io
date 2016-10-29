@@ -11,7 +11,7 @@ tags: [learning, education, brain]
 I'm always getting a kick out of learning something entirely new. Perhaps that's why I like to read about things outside of my expertise.
 
 Conceivably that preference of mine has something to do with the fact that we learn new skills in a logarithmic time curve as I learned in [this TEDx talk](https://www.youtube.com/watch?v=5MgBikgcWnY&ab_channel=TEDxTalks). The logarithmic curve means that initially, we get better very fast when we learn a new skill, and then our improvement slows down gradually like observed in the graph below.
-
+<!--more-->
 ![](/images/posts/how-good.png)
 
 Another side effect of getting better at a task it that we take less and less time in the execution of it as seen in the performance time of this graph. Once again, the time improvement in our performance slows down logarithmically.
