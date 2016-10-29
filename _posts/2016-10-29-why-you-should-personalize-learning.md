@@ -5,7 +5,7 @@ date:   2016-10-29
 categories: en
 tags: [learning]
 ---
-<div class="fb-like" data-href="http://karlheinzniebuhr.github.io/es/2016/10/29/why-you-should-personalize-learning/" data-layout="button_count" data-action="recommend" data-size="small" data-show-faces="true" data-share="true"></div><br>
+<div class="fb-like" data-href="http://karlheinzniebuhr.github.io/en/2016/10/29/why-you-should-personalize-learning/" data-layout="button_count" data-action="recommend" data-size="small" data-show-faces="true" data-share="true"></div><br>
 
 I'm one of those individuals who often are uncomfortable and bored in traditional educational settings. I always learned better and had more fun doing it, when reading a book. Except when I got a very enthusiastic teacher, perhaps that's one reason why I like MOOC's so much, they tend to be made by teachers who are highly passionate about education. Today I happened to watch some talks about learning and the brain.
 
