@@ -5,7 +5,7 @@ date:   2016-11-01
 categories: en
 tags: [learning, education, brain]
 ---
-<div class="fb-like" data-href="http://karlheinzniebuhr.github.io/en/2016/11/01/learn-faster-by-linking-information/" data-layout="button_count" data-action="recommend" data-size="small" data-show-faces="true" data-share="true"></div><br>
+<div class="fb-like" data-href="http://karlheinzniebuhr.github.io/en/2016/11/01/learning-faster-by-linking-information/" data-layout="button_count" data-action="recommend" data-size="small" data-show-faces="true" data-share="true"></div><br>
 
 Ever since I learned complex concepts, I noticed a trend. Whenever my grasp of the basics was solid, or I could relate the new information to already known concepts, my learning and retention were much better.
 <!--more-->
