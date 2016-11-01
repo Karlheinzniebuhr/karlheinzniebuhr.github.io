@@ -16,6 +16,6 @@ It always imagined that the brain is a type of data grid where new concepts have
 >“…if we know exactly how our brain uses prior knowledge, we could try to address that knowledge more selectively before we start learning new information. For example, you could consider how the new information is related to what you already know.” [source](http://thebrainflux.com/how-to-learn-faster-using-prior-knowledge/)
 
 **Implications for education systems**  
-The above studies should be a clear indicator for how our education works. In my personal experience, I've noticed that the best universities apply this concept in their didactic methodology. For example, in the several online courses, I took from Stanford the professors always put great emphasis in the relation between concepts and reality. That's why I probably learned more in those courses than at any other University.
+The above studies should be a clear indicator for how education ought to be designed. In my personal experience, I've noticed that the best universities apply this concept in their didactic methodology. For example, in the several online courses, I took from Stanford the professors always put great emphasis in the relation between concepts and reality. That's why I probably learned more in those courses than at any other University.
 
 Cheers  
