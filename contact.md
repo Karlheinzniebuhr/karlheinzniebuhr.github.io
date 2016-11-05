@@ -20,7 +20,7 @@ permalink: /contact/
 
 <!-- Form Name -->
 <legend>Contact me here!</legend><p>(Check my Public Key below)</p>
-
+<p>Or try <a href="https://telegram.me/karlpy">Telegram.</a>
 <!-- Text input-->
 
 <div class="form-group">
@@ -119,9 +119,3 @@ gzyBgKnOWmz5itRRT6ozGn2xcJMXG6kkZ5+xldo=
 =m5Ax  
 <br>
 -----END PGP PUBLIC KEY BLOCK-----  
-
-</fieldset>
-</form>
-</div>
-
-</html>
