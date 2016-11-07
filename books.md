@@ -54,6 +54,8 @@ float: right;
 }
 </style>
 
+Follow me on <a href="https://www.goodreads.com/user/show/57070276-karl-niebuhr">Goodreads</a>
+
 <div id="gr_custom_widget_1471534716">
     <div class="gr_custom_container_1471534716">
 <h2 class="gr_custom_header_1471534716">
