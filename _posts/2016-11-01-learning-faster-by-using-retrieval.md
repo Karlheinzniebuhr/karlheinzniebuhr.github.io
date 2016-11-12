@@ -58,3 +58,6 @@ There seems to be almost an inverse relationship between perception of learning 
 Retrieval turns out to be one of the most efficient uses of your study time, use it.
 
 Cheers 👽
+
+
+[source](http://thebrainflux.com/how-to-learn-faster-using-retrieval/)
