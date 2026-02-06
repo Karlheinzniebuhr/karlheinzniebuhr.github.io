@@ -55,6 +55,7 @@
     float: right;
     font-size: 15px;
     margin-bottom: 30px;
+    padding-top: 16px;
     width: 22%;
 }
 
@@ -166,8 +167,8 @@
 
 .site-header {
     background: linear-gradient(135deg, $bg-dark 0%, darken($bg-card, 2%) 100%);
-    padding-bottom: 60px;
-    padding-top: 56px;
+    padding-bottom: 36px;
+    padding-top: 36px;
     border-bottom: 1px solid $bg-surface;
 }
 
@@ -224,13 +225,20 @@
     padding-right: 30px;
 }
 
+.entry-content {
+    font-size: 17px;
+    line-height: 1.8;
+    color: $text-body;
+}
+
 .entry-content h1,
 .entry-content h2,
 .entry-content h3,
 .entry-content h4,
 .entry-content h5,
 .entry-content h6 {
-    margin-top: 36px;
+    margin-top: 40px;
+    margin-bottom: 16px;
 }
 
 .entry-content > h1:first-child,
@@ -240,6 +248,32 @@
 .entry-content > h5:first-child,
 .entry-content > h6:first-child {
     margin-top: 0;
+}
+
+.entry-content p {
+    margin-bottom: 20px;
+}
+
+.entry-content a {
+    text-decoration: underline;
+    text-decoration-color: rgba($accent-light, 0.4);
+    text-underline-offset: 3px;
+    &:hover {
+        text-decoration-color: $accent-glow;
+    }
+}
+
+.entry-content img {
+    margin: 8px 0 16px;
+}
+
+.entry-content ul,
+.entry-content ol {
+    margin-bottom: 20px;
+}
+
+.entry-content li {
+    margin-bottom: 6px;
 }
 
 /**
@@ -298,13 +332,19 @@
     clear: both;
     color: $white;
     float: left;
-    font-size: 28px;
-    margin: 40px 0 0;
-    max-width: 80%;
-    padding: 20px 24px;
+    font-size: 26px;
+    margin: 30px 0 0;
+    max-width: 85%;
+    padding: 18px 24px;
     -ms-word-wrap: break-word;
     word-wrap: break-word;
     font-family: 'Literata', Georgia, serif;
+    line-height: 1.3;
+}
+
+/* Larger title on single post pages */
+.site-main > .post .entry-title {
+    font-size: 30px;
 }
 
 .post-thumbnail + .entry-title {
@@ -326,11 +366,11 @@
     background-color: $accent-light;
     clear: both;
     color: $white;
-    font-size: 12px;
+    font-size: 11px;
     float: left;
     letter-spacing: 1px;
     line-height: 1.5;
-    padding: 12px 24px;
+    padding: 10px 24px;
     text-transform: uppercase;
 }
 
@@ -344,12 +384,22 @@
 }
 
 .entry-meta .meta-sep {
-    margin: 0 6px;
-    opacity: 0.5;
+    margin: 0 8px;
+    opacity: 0.4;
 }
 
 .entry-meta .post-categories a {
+    background: rgba(255,255,255,0.15);
+    border-radius: 3px;
+    padding: 2px 8px;
     text-decoration: none;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    margin-right: 2px;
+    transition: background 0.2s;
+    &:hover {
+        background: rgba(255,255,255,0.25);
+    }
 }
 
 .read-more {
@@ -740,7 +790,7 @@ a.archive-top-link:hover {
 
 .widget:first-child {
     border-top: 0;
-    padding-top: 0;
+    padding-top: 8px;
 }
 
 .widget-title {
