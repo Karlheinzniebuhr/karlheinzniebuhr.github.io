@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Stress impacts motivation"
+date: 2017-10-09 13:39:06 +0000
+categories: ["Book Excerpts"]
+tags: ["sports", "endurance", "success", "nutrition", "plant-based"]
+---
+
+I've read many books about motivation, [drive](https://www.karlbooklover.com/drive-summary/) and [willpower](https://www.karlbooklover.com/willpower-summary/), but I had never seen lack of motivation from the stress angle. It makes a lot of sense, as I myself feel more energized and motivated since I switched to a plant-based diet. Brendan Brazier's explains in his book [Thrive](https://www.amazon.com/Thrive-Diet-Brendan-Brazier/dp/0143052365?tag=kasbl023-20) that stress is a big deal when it comes to unfulfilled goals and lack of ambition in peoples lives. Here is what he has to say:
+
+> In addition to its negative physical effects, uncomplementary stress has been shown to have a significant adverse effect on the psyche and motivation. Scientists now believe that will power is finite; its supply can become exhausted at the hands of excess stress, most notably uncomplementary stress. A person’s desire to achieve is closely tied to stress level. That came as a surprise to me. I had always thought that motivation was simply a personality trait—that a person either did or didn’t have drive. While personality is a factor, it now seems that there is more to it than that. Regardless of the desire to excel, if a person is forced to deal with mounting stress, that stress can cause motivation to flicker or extinguish altogether.
+>
+> To use an analogy of a car, will power is burned like fuel. As gasoline is to the internal combustion engine, will power is to stress. Each time the car meets a headwind, it burns more fuel. The greater the resistance, the greater the fuel consumption. If a person is dissatisfied with her workplace—the hours, the lack of aptitude required, and the paycheck all become a source of discontentment. She will be required to “burn” will power to cope with her situation. Having to push herself to get through each workday, she will arrive home, her motivation exhausted. Even minor challenges will appear great. It’s important to understand this. Many people believe that those who have trouble obtaining their goals are lazy or simply not motivated. Yet, it might well be that stress is extinguishing their drive; it is stress that is standing between them and their goals, not lack of ability or fortitude.
+>
+> I can’t overemphasize the importance of enjoying your livelihood: You can’t be discontent for that many hours of each day and expect to be healthy in other aspects of your life. Even if only subconsciously, your determination will be eroded and making changes, even those as simple as dietary ones, will be a challenge. The Thrive Diet requires fewer biological resources—less expenditure of energy digesting—and therefore won’t place stress on the body. Plus, it is highly nourishing, which is itself a stress-reducing quality. Less uncomplementary stress translates into more drive, and drive is the catalyst for change. Following the dietary principles of the Thrive Diet will have a snow- ball effect: The body will begin to adapt to the changes, thereby reducing its stress level, which in turn will pave the way for even greater progress.
+
+Uncomplementary stress is the term Brendan uses to describe stress that produces no benefit, for example, anxiety. For those interested in this books diet, it is a high nutritional density plant-based especially tuned for high-performance athletes. Brendan created this diet for himself so that he could have an edge as an Ironman triathlete. Stay tuned for more publications about this book.
+Stay tuned for more publications about this book.

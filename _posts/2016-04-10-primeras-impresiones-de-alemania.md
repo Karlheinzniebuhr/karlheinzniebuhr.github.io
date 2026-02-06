@@ -1,9 +1,11 @@
 ---
+
 layout: post
 title: "Primeras impresiones de Alemania"
 date: 2016-04-10
 categories: es
 tags: [español, education, germany]
+archived: true
 ---
 
 {% include image_full.html imageurl="/images/posts/technik.jpg" title="" caption="" %}

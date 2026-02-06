@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: "Apuntando a un estudio en Alemania"
 date: 2015-12-27
 categories: es
 tags: [español, education, germany]
 banner_image: ranking2.png
+archived: true
 ---
 
 En este post contaré los motivos por los cuales decidí a estudiar en Alemania. Explicare por qué y con qué criterios me decidí por la universidad Saarland y los requerimientos que tuve que cumplir para que me aceptaran. Me imagino que la parte de los requerimientos será de interés para personas interesadas en ir a estudiar en Europa. Me parece que los principios que me ayudaron para ingresar en mi universidad se pueden aplicar bastante bien a cualquier otra institución del país/continente.

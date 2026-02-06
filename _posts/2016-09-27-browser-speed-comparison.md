@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title:  "Browser speed test 2016, Safari the ultimate winner?"
 date:   2016-09-27
 categories: en
 tags: [programming]
 banner_image: browser-post.png
+archived: true
 ---
 Today I started Safari for the first time after updating to OS X Sierra. I'm a long term Chrome user because in my experience it pretty much always beats the rest of browsers regarding speed. But today after opening Safari I was in awe. Web pages opened so crisply, even Facebook completely loaded in about 2 seconds, something which I can't remember experiencing in Chrome.
 <!--more-->

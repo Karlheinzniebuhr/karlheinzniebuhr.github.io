@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title:  "Github pages fileserver"
 date:   2016-07-25
 categories: en
 tags: [fileserver, hosting, github, programming]
 banner_image: ghpages-fileserver.png
+archived: true
 ---
 
 Today's afternoon Experiment consisted of a simple file server which runs on top of gh-pages. 

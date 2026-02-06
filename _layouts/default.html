@@ -5,29 +5,18 @@ layout: compress
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="baseurl" content="{{ site.baseurl }}">
     <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" />
     <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-
-    <!-- Custom stuff -->
-    {% include google_analytics.html %}
     {% seo %}
-    {% include facebook_sdk.html %}
-
-    <script>
-      var x = 0;
-      setTimeout(function() {
-        if(x==0){
-        if(window.prompt('Pssst, check out my new Blog 📚❤️','https://www.karlbooklover.com'))
-        location.href='https://www.karlbooklover.com';
-      x = 1; }
-}, 60000);
-    </script>
 </head>
 <body>
     <nav id="top" class="site-navigation">
@@ -44,21 +33,28 @@ layout: compress
                     <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
                   </li>
                 {% endfor %}
+                  <li class="nav-search">
+                    <button class="search-trigger" data-search-trigger aria-label="Search">
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                      <kbd>&#8984;K</kbd>
+                    </button>
+                  </li>
                 </ul>
             </div><!-- .nav-menu -->
-            <a class="subscribe-button fa-feed square fill-horizontal" href="{{site.baseurl}}/feed.xml"><span class="screen-reader-text">Subscribe</span></a>
         </div><!-- .inner -->
     </nav><!-- .site-navigation -->
     <header class="site-header">
         <div class="inner">
-            <h1 class="site-title"><a class="logo-text" href="{{ site.baseurl }}/">{{{site.title}}</a></h1>
-            <p class="site-description">{{site.tagline}}</p>
+            <h1 class="site-title"><a class="logo-text" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+            <p class="site-description">{{ site.tagline }}</p>
         </div><!-- .inner -->
     </header>
-    {{content}}
+    {{ content }}
     {% include footer.html %}
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}/js/plugins.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}/js/custom.js"></script>
+    {% include search-modal.html %}
+    <script src="{{ site.baseurl }}/js/plugins.js"></script>
+    <script src="{{ site.baseurl }}/js/custom.js"></script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/search.js"></script>
 </body>
 </html>

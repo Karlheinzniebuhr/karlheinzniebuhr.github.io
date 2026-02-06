@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: "Google takedown notice y whatsapp flooder"
 date: 2016-06-29
 categories: es
 tags: [español, google, whatsapp, security]
 banner_image: flooder.png
+archived: true
 ---
 
 Hoy recibí un correo de Google y no, no fue la respuesta a la vulnerabilidad que espere. Fue un takedown notice.  

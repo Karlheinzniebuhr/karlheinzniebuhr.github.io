@@ -1,91 +1,69 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site title
-title: "Karl's Blog"
-
-# A description of your site for social meta tag, search engines, and feed.xml
-description: "Karl's Blog is a Blog about a diversity of fascinating topics"
-
-# Tagline near the site title
-tagline: "A place where I share my stuff."
-
-# The subpath of your site, e.g. /blog, for generating urls
-baseurl:
+# Site settings
+title: "Karlbooklover"
+description: "Love for learning — Book summaries, highlights, and lessons on psychology, business, health, investing, and more."
+tagline: "Distilling wisdom from great books."
+baseurl: ""
+url: "https://karlheinzniebuhr.github.io"
 
 sass:
   sass_dir: _sass
   style: compressed
 
-# The base hostname & protocol of your site for where absolute urls are needed
-url: "http://karlheinzniebuhr.github.io"
-
-# Site navigation - each item must have a title and a url.
+# Navigation
 navigation:
 - text: Home
   url: /
-- text: Archives
-  url: /tags/
-- text: Link Feed
-  url: /link feed/
-- text: Books
-  url: /books/
-
+- text: Topics
+  url: /topics/
+- text: Archive
+  url: /archive/
 - text: About
   url: /about/
 - text: Contact
   url: /contact/
-- text: Donate
-  url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U33SUYT78828G
-- text: Bitcoins
-  url: https://www.coinbase.com/checkouts/13178bcf327037d39c843fd6b80614ac
 
-
-# The shortname for your Disqus site to enable comments.
+# Disqus commenting
 disqus: karlsjekyllblog
 
-# Author information - author info at the bottom of the post
-author_name: "Karl Niebuhr"
-author_bio: "Karl is a passionate reader, thought leader, author, learning enthusiast, ex knife combat champ, student and general entropy reduction maniac"
-author_url:  "http://karlheinzniebuhr.github.io"
-author_location: "Saarbrücken Germany"
+# Author
+author_name: "Karl"
+author_bio: "Passionate reader and lifelong learner. Sharing the best ideas from great books on psychology, business, health, investing, and more."
+author_url: "https://karlheinzniebuhr.github.io"
+author_location: ""
 author_image: /images/authorimage.jpg
 
-# Sidebar Add banner
-adsense_activated: true
-# banner_url: "http://karlheinzniebuhr.github.io"
-# banner_image: images/banner.jpg
-
-# Sidebar newsletter widget - add your form action url for MailChimp signup form here
-mailchimp_url: "http://eepurl.com/by15bT"
-
-# Social links in the site footer
-twitter_username: "NiebuhrKarl"
-facebook_username: "karlheinzniebuhr"
-googleplus_username: "+KarlheinzNiebuhr"
+# Social
 github_username: "karlheinzniebuhr"
-codepen_username: "Karlheinzniebuhr"
-dribbble_uername: "karlpy"
-medium_username: "@karlpy"
-instagram_username: "karl_niebuhr"
-pinterest_username: "karlheinzniebuh"
+twitter_username: "NiebuhrKarl"
 linkedin_username: "karlheinz-niebuhr-89227371"
 
-# http://jekyllrb.com/docs/pagination/
-paginate: 5
+# Pagination
+paginate: 12
 paginate_path: '/blog/page:num/'
-gems:
- - jekyll-paginate
- - jekyll-time-to-read
- - jekyll-seo-tag
- - jekyll-sitemap
 
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 permalink: pretty
 markdown: kramdown
 kramdown:
-    auto_ids: false
+  auto_ids: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - documentation/
+  - downloads/
+  - resources/

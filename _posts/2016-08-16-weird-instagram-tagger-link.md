@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title:  "Weird Instagram tagger link"
 date:   2016-08-16
 categories: en
 tags: [security]
 banner_image: insta_tagger.png
+archived: true
 ---
 Today I asked someone on Instagram why she had this weird link on her description box. She told me that someone had told her that it makes the profile more "visible." So being the curious character I am, I thought, what the heck I'll test it as the link does not contain Javascript and thus is not some kind of XSS which would risk my account.
 I copy-pasted the link into the "Website field" input and pressed submit. After that, I got an error and some message about spam. LOL  

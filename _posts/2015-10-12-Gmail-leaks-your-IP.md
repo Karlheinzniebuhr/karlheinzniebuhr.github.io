@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title:  "Gmail leaks your IP"
 date:   2015-10-12
 categories: en
 tags: [security, networking, privacy]
 banner_image: ip_test.png
+archived: true
 ---
 
 I thought that Gmail always substituted the origin IP from our E-mail's. But this isn’t always the case.

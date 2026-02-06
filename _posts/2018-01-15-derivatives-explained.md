@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Derivatives explained"
+date: 2018-01-15 08:41:41 +0000
+categories: ["Book Excerpts"]
+tags: ["derivatives", "economy", "books", "business", "investing"]
+---
+
+Excerpt from the book [The Snowball: Warren Buffett and the Business of Life](https://www.amazon.com/Snowball-Warren-Buffett-Business-Life-ebook/dp/B009MYD9F8/ref=sr_1_1?ie=UTF8&qid=1516019995&sr=8-1&keywords=snowball+warren+buffet&tag=kasbl023-20)
+
+---
+
+“At the time that Buffett invested in Salomon, the market was near a breaking point. In his shareholder letter the previous March, he had said that money managers were so hyperkinetic they made “whirling dervishes appear sedated.” He didn’t have a partnership to dissolve, but over the next few months he started dumping stocks. He knew that as the market continued upward, part of what was driving it was a new invention, the “S&P 500 future.” Salomon, like all major banks, now traded derivative contracts that were a way of betting how high or low the index of S&P 500 stocks would be on a certain date.6 Derivative contracts work like this: In the Rockwood Chocolate deal, the value of the futures contract was “derived from” the price of cocoa beans on a certain date. If the beans turned out to be worth less than the price agreed to by the contract, the person who had bought the futures contract as insurance “won.” Her losses were covered. If the beans were worth more, the person who had sold the futures contract as insurance “won.” The contract entitled him to buy the beans below the then-current market price.
+Suppose that in the weight deal Buffett had made with Howie for the rent on his farm, he didn’t want to risk Howie’s actually losing weight, which would drop the rent. Since this was under Howie’s control, Warren might want to buy insurance from someone else. He could say to Susie, “Lookit, I’ll pay you a hundred bucks today. If Howie loses twenty pounds and keeps it off for the next six months, you’ll pay me the two thousand dollars of rent that I’ll lose. If he doesn’t keep it off for the whole six months, you don’t have to pay me the rent and you get to keep the hundred bucks.” The index that determined the gain or loss was “derived” from Howie’s weight, and whether or not Buffett would make such a deal was based on a handicap of the odds that Howie would be able to lose the weight and keep it off.
+Another example: Suppose that Warren made a deal with Astrid to give up eating potato chips for a year. If he ate a potato chip he had to pay her a thousand bucks. This would not be a derivative contract. Warren and Astrid were simply making a deal. Whether Warren ate a potato chip was not “derived from” anything. It was under his own control.
+However, if Astrid and Warren made that agreement and then Astrid paid Warren’s sister Bertie a hundred bucks as insurance, in exchange for a thousand dollars if Astrid lost the bet, the deal with Bertie would be a derivative contract. It would be “derived from” whether Warren ate the potato chips, which was not under either Bertie’s or Astrid’s control. Astrid stood to lose the hundred bucks to Bertie if Warren didn’t eat the chips, and Bertie would lose a thousand bucks if he did. “Derivatives,” therefore, are either a type of insurance (for Astrid) or an outright gamble (for Bertie).7”

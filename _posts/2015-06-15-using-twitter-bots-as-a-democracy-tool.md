@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title:  "Using Twitter-bots as a democracy tool"
 date:   2015-06-15
 categories: en
 tags: [digital rights, privacy, governement, paraguay, pyrawebs]
 banner_image: pyrawebs.jpg
+archived: true
 ---
 
 <h5>By Karlheinz Niebuhr, follow me on <a href="https://twitter.com/NiebuhrKarl">twitter</a>, and <a href="https://github.com/Karlheinzniebuhr">github</a></h5>

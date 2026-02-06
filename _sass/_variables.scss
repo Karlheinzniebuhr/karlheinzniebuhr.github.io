@@ -1,20 +1,25 @@
 /**
- * Variables
+ * Variables — Modernized warm dark palette
  * ----------------------------------------------------------------------------
  */
 
-/* Colors */
-$alabaster: #fafafa;
-$gallery: #ededed;
-$gray: #818181;
-$mine-shaft: #333333;
-$picton-blue: #22b3eb;
-$silver: #c6c6c6;
-$tundora: #474747;
-$white: #ffffff;
+/* Core palette */
+$bg-dark:       #1c1917;   /* stone-900 – main background */
+$bg-card:       #292524;   /* stone-800 – card surfaces */
+$bg-surface:    #44403c;   /* stone-700 – borders, nav */
+$text-primary:  #fafaf9;   /* stone-50  – headings */
+$text-body:     #d6d3d1;   /* stone-300 – body text */
+$text-muted:    #a8a29e;   /* stone-400 – meta text */
+$accent:        #b45309;   /* amber-700 – primary accent */
+$accent-light:  #d97706;   /* amber-600 – hover accent */
+$accent-glow:   #f59e0b;   /* amber-500 – highlights */
 
-
-
-
-
-
+/* Legacy aliases (keeps existing references working) */
+$alabaster:     #fafaf9;
+$gallery:       #44403c;
+$gray:          #a8a29e;
+$mine-shaft:    #1c1917;
+$picton-blue:   #b45309;
+$silver:        #a8a29e;
+$tundora:       #292524;
+$white:         #fafaf9;

@@ -1,9 +1,11 @@
 ---
+
 layout: post
 title:  "Learn faster by using retrieval"
 date:   2016-11-12
 categories: en
 tags: [learning, education, brain]
+archived: true
 ---
 <div class="fb-like" data-href="http://karlheinzniebuhr.github.io/en/2016/11/12/learning-faster-by-using-retrieval/" data-layout="button_count" data-action="recommend" data-size="small" data-show-faces="true" data-share="true"></div><br>
 

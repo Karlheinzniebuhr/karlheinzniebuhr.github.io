@@ -1,0 +1,30 @@
+---
+layout: default
+title: Archive
+---
+<div class="site-content">
+    <div class="inner">
+        <main class="site-main">
+            <header class="page-header">
+                <h1 class="page-title">Archive</h1>
+                <p class="page-description">Legacy posts from the early days of this blog (2015&ndash;2017).</p>
+            </header>
+            <div class="archive-list">
+                {% assign archived_posts = site.posts | where: "archived", true %}
+                {% assign posts_by_year = archived_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+                {% for year in posts_by_year %}
+                <h2 class="archive-year">{{ year.name }}</h2>
+                <ul class="archive-posts">
+                    {% for post in year.items %}
+                    <li>
+                        <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d" }}</time>
+                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endfor %}
+            </div>
+        </main><!-- .site-main -->
+        {% include sidebar.html %}
+    </div><!-- .inner -->
+</div><!-- .site-content -->

@@ -3,7 +3,7 @@
 ---
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import 
+@import
     "variables",
     "icons",
     "reset",
@@ -22,7 +22,9 @@
  *   3.3 Post/Paging Navigation
  * 4. Site Footer
  * 5. Widgets
- * 6. Media Queries
+ * 6. Search Modal
+ * 7. Archive & Topics Pages
+ * 8. Media Queries
  */
 
 /**
@@ -46,14 +48,14 @@
 .site-main {
     float: left;
     margin-bottom: 30px;
-    width: 75%;
+    width: 74%;
 }
 
 .sidebar {
     float: right;
-    font-size: 16px;
+    font-size: 15px;
     margin-bottom: 30px;
-    width: 21.666%;
+    width: 22%;
 }
 
 /**
@@ -62,7 +64,8 @@
  */
 
 .site-navigation {
-    background: lighten( $mine-shaft, 4% );
+    background: $bg-card;
+    border-bottom: 1px solid $bg-surface;
 }
 
 .site-navigation .inner {
@@ -70,32 +73,34 @@
 }
 
 .nav-menu {
-    padding-right: 60px;
+    padding-right: 0;
 }
 
 .nav-menu ul {
     list-style: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    align-items: center;
 }
 
 .nav-menu li {
-    float: left;
-    font-size: 12px;    
-    line-height: 1.5;    
-    padding: 16px 0;
+    font-size: 12px;
+    line-height: 1.5;
+    padding: 14px 0;
     position: relative;
 }
 
 .nav-menu a {
-    border-left: 2px solid $tundora;
-    color: #818181;
+    border-left: 1px solid $bg-surface;
+    color: $text-muted;
     display: block;
-    font-weight: bold;
+    font-weight: 600;
     letter-spacing: 1px;
-    padding: 0 15px;
+    padding: 0 16px;
     text-decoration: none;
-    text-transform: uppercase;    
+    text-transform: uppercase;
+    transition: color 0.2s;
 }
 
 .nav-menu li:first-child > a {
@@ -105,18 +110,53 @@
 
 .nav-menu li:hover > a,
 .nav-menu .nav-current > a {
-    color: $picton-blue;
+    color: $accent-glow;
+}
+
+.nav-search {
+    margin-left: auto;
+    padding: 8px 0 !important;
+}
+
+.search-trigger {
+    background: $bg-surface !important;
+    border: 1px solid lighten($bg-surface, 8%) !important;
+    border-radius: 6px !important;
+    color: $text-muted !important;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px !important;
+    font-weight: 400 !important;
+    letter-spacing: 0 !important;
+    padding: 6px 12px !important;
+    text-transform: none !important;
+    transition: all 0.2s;
+
+    &:hover {
+        border-color: $accent !important;
+        color: $text-primary !important;
+        background: lighten($bg-surface, 4%) !important;
+    }
+
+    svg {
+        opacity: 0.6;
+    }
+
+    kbd {
+        background: $bg-dark;
+        border: 1px solid $bg-surface;
+        border-radius: 3px;
+        font-family: inherit;
+        font-size: 11px;
+        padding: 1px 5px;
+        color: $text-muted;
+    }
 }
 
 #menu-toggle {
     display: none;
-}
-
-.subscribe-button {
-    color: $white;
-    position: absolute;
-    right: 0;
-    top: 0;
 }
 
 /**
@@ -125,43 +165,47 @@
  */
 
 .site-header {
-    padding-bottom: 75px;
-    padding-top: 70px;
+    background: linear-gradient(135deg, $bg-dark 0%, darken($bg-card, 2%) 100%);
+    padding-bottom: 60px;
+    padding-top: 56px;
+    border-bottom: 1px solid $bg-surface;
 }
 
 .site-title {
-    font-size: 36px;
+    font-size: 32px;
     float: left;
     line-height: 1;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
     margin-right: 20px;
-    text-transform: uppercase;
+    text-transform: none;
+    font-family: 'Literata', Georgia, serif;
 }
 
 .site-title a {
-    color: $white;
+    color: $text-primary;
     display: block;
     text-decoration: none;
 }
 
 .site-title a:hover {
-    color: lighten( $picton-blue, 11% );
+    color: $accent-glow;
 }
 
 .site-title .logo-text {
-    border-left: 10px solid $picton-blue;
-    padding-left: 20px;
+    border-left: 4px solid $accent;
+    padding-left: 16px;
 }
 
 .site-description {
-    color: #818181;
+    color: $text-muted;
     float: left;
-    font-size: 14px;    
+    font-size: 14px;
     font-style: italic;
+    font-family: 'Literata', Georgia, serif;
     line-height: 1.5;
     margin-bottom: 0;
     margin-top: 6px;
-    max-width: 40%;
+    max-width: 50%;
 }
 
 /**
@@ -204,9 +248,18 @@
  */
 
 .post {
-    background-color: $white;
-    margin-bottom: 60px;
-    padding-bottom: 40px;
+    background-color: $bg-card;
+    border-radius: 6px;
+    margin-bottom: 40px;
+    padding-bottom: 36px;
+    border: 1px solid $bg-surface;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.3);
 }
 
 .post.featured {
@@ -214,7 +267,7 @@
 }
 
 .post .featured-post {
-    background-color: lighten( $picton-blue, 11% );
+    background-color: $accent;
     color: $white;
     font-size: 14px;
     height: 30px;
@@ -227,7 +280,7 @@
 }
 
 .entry-header {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .entry-header-wrap {
@@ -237,28 +290,30 @@
 
 .post-thumbnail img {
     width: 100%;
+    border-radius: 0;
 }
 
 .entry-title {
-    background-color: $picton-blue;
+    background-color: $accent;
     clear: both;
     color: $white;
     float: left;
-    font-size: 36px;
-    margin: 60px 0 0;    
-    max-width: 75%;
-    padding: 30px;
+    font-size: 28px;
+    margin: 40px 0 0;
+    max-width: 80%;
+    padding: 20px 24px;
     -ms-word-wrap: break-word;
     word-wrap: break-word;
+    font-family: 'Literata', Georgia, serif;
 }
 
 .post-thumbnail + .entry-title {
     bottom: 0px;
     left: 0px;
-    position: absolute;    
+    position: absolute;
 }
 
-.entry-title a {    
+.entry-title a {
     color: $white;
     text-decoration: none;
 }
@@ -268,36 +323,49 @@
 }
 
 .entry-meta {
-    background-color: lighten( $picton-blue, 11% ); 
+    background-color: $accent-light;
     clear: both;
     color: $white;
     font-size: 12px;
     float: left;
     letter-spacing: 1px;
     line-height: 1.5;
-    padding: 16px 30px;   
-    text-transform: uppercase;    
+    padding: 12px 24px;
+    text-transform: uppercase;
 }
 
 .entry-meta a {
-    color: $white;
-    font-weight: bold;
+    color: rgba(255,255,255,0.9);
+    font-weight: 600;
+    text-decoration: none;
+    &:hover {
+        color: $white;
+    }
+}
+
+.entry-meta .meta-sep {
+    margin: 0 6px;
+    opacity: 0.5;
+}
+
+.entry-meta .post-categories a {
     text-decoration: none;
 }
 
 .read-more {
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 .read-more .more-link {
-    background-color: $picton-blue;
+    background-color: $accent;
+    border-radius: 4px;
     color: $white;
     display: inline-block;
     font-size: 12px;
-    font-weight: bold;
+    font-weight: 600;
     letter-spacing: 1px;
     line-height: 1.5;
-    padding: 8px 15px;
+    padding: 8px 18px;
     text-decoration: none;
     text-transform: uppercase;
     -webkit-transition: background-color 0.3s;
@@ -306,19 +374,19 @@
 }
 
 .read-more .more-link:hover {
-    background-color: lighten( $picton-blue, 11% );
+    background-color: $accent-light;
 }
 
 .entry-footer {
     font-size: 11px;
     letter-spacing: 1px;
     line-height: 1.5;
-    margin-top: 30px;
+    margin-top: 24px;
     text-transform: uppercase;
 }
 
 .share-post {
-    margin-bottom: 30px;
+    margin-bottom: 24px;
 }
 
 .share-post a {
@@ -330,8 +398,8 @@
 }
 
 .tag-links {
-    border-top: 2px solid $gallery;    
-    padding-top: 30px;
+    border-top: 1px solid $bg-surface;
+    padding-top: 24px;
 }
 
 .tag-links a {
@@ -341,11 +409,12 @@
 
 .share-post a,
 .tag-links a {
-    background-color: $gallery;
-    color: #818181;
+    background-color: $bg-surface;
+    color: $text-muted;
     display: inline-block;
     margin-left: 5px;
     text-decoration: none;
+    border-radius: 3px;
     -webkit-transition: all 0.3s;
     -moz-transition:    all 0.3s;
     transition:         all 0.3s;
@@ -353,24 +422,26 @@
 
 .share-post a:hover,
 .tag-links a:hover {
-    background-color: $picton-blue;
+    background-color: $accent;
     color: $white;
 }
 
 /* Author box */
 .author-box {
-    background-color: $white;
+    background-color: $bg-card;
+    border: 1px solid $bg-surface;
+    border-radius: 6px;
     margin-bottom: 40px;
-    padding-bottom: 40px;
-    padding-top: 40px;
+    padding-bottom: 36px;
+    padding-top: 36px;
 }
 
 .post + .author-box {
-    margin-top: -40px;
+    margin-top: -20px;
 }
 
 .author-info {
-    font-size: 16px;
+    font-size: 15px;
     line-height: 1.5;
     min-height: 85px;
 }
@@ -394,46 +465,47 @@
 }
 
 .author-info .author-title {
-    font-size: 16px;    
+    font-size: 16px;
     letter-spacing: 1px;
-    margin-bottom: 15px;
+    margin-bottom: 12px;
     text-transform: uppercase;
 }
 
 .author-location,
 .author-website,
 .author-stats {
-    color: $silver;
+    color: $text-muted;
     font-size: 12px;
-    font-weight: bold;
+    font-weight: 600;
     letter-spacing: 1px;
     margin-right: 10px;
-    text-transform: uppercase;    
+    text-transform: uppercase;
 }
 
 .author-website a {
-    color: $silver;
+    color: $text-muted;
 }
 
 .author-website a:hover {
-    color: $picton-blue;
+    color: $accent-glow;
 }
 
 /* Tags archive */
 .archive-tags-list {
-    margin-bottom: 24px;    
+    margin-bottom: 24px;
 }
 
 .archive-tags-list a,
 a.archive-top-link {
-    background-color: $gallery;
-    color: #818181;
+    background-color: $bg-surface;
+    color: $text-muted;
     display: inline-block;
     letter-spacing: 1px;
-    line-height: 1.5;    
+    line-height: 1.5;
     padding: 4px 10px;
     text-decoration: none;
     text-transform: uppercase;
+    border-radius: 3px;
     -webkit-transition: all 0.3s;
     -moz-transition:    all 0.3s;
     transition:         all 0.3s;
@@ -451,7 +523,7 @@ a.archive-top-link {
 
 .archive-tags-list a:hover,
 a.archive-top-link:hover {
-    background-color: $picton-blue;
+    background-color: $accent;
     color: $white;
 }
 
@@ -465,7 +537,7 @@ a.archive-top-link:hover {
 }
 
 .archive-meta {
-    color: #818181;
+    color: $text-muted;
     font-size: 12px;
     letter-spacing: 1px;
     line-height: 1.5;
@@ -478,19 +550,21 @@ a.archive-top-link:hover {
  */
 
 .comments-area {
-    background-color: $white;
-    margin-bottom: 60px;
-    padding-bottom: 60px;
-    padding-top: 40px;
+    background-color: $bg-card;
+    border: 1px solid $bg-surface;
+    border-radius: 6px;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    padding-top: 36px;
 }
 
 .comments-title {
-    border-bottom: 2px solid $gallery;
+    border-bottom: 1px solid $bg-surface;
     font-size: 20px;
     text-transform: uppercase;
-    letter-spacing: 1px; 
-    padding-bottom: 30px;
-    margin-bottom: 40px;
+    letter-spacing: 1px;
+    padding-bottom: 24px;
+    margin-bottom: 30px;
 }
 
 /**
@@ -500,15 +574,17 @@ a.archive-top-link:hover {
 
 .pagination,
 .post-navigation {
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 }
 
 .pagination {
-    background-color: lighten( $mine-shaft, 4% );
-    color: #818181;
+    background-color: $bg-card;
+    border: 1px solid $bg-surface;
+    border-radius: 6px;
+    color: $text-muted;
     font-size: 12px;
     letter-spacing: 1px;
-    padding: 15px 60px;
+    padding: 14px 60px;
     position: relative;
     text-align: center;
     text-transform: uppercase;
@@ -516,9 +592,10 @@ a.archive-top-link:hover {
 
 .newer-posts,
 .older-posts {
-    color: $white;
+    color: $text-primary;
     position: absolute;
     top: 0;
+    border-radius: 6px;
 }
 
 .newer-posts {
@@ -530,17 +607,25 @@ a.archive-top-link:hover {
 }
 
 .post + .post-navigation {
-    margin-top: -20px;
+    margin-top: -10px;
 }
 
 .post-navigation .nav-next,
 .post-navigation .nav-previous {
-    background-color: $tundora;
-    border-left: 3px solid $picton-blue; 
-    margin-bottom: 20px;
-    padding-bottom: 50px;
-    padding-top: 30px;
+    background-color: $bg-card;
+    border: 1px solid $bg-surface;
+    border-left: 3px solid $accent;
+    border-radius: 6px;
+    margin-bottom: 16px;
+    padding-bottom: 40px;
+    padding-top: 24px;
     position: relative;
+    transition: border-color 0.2s;
+}
+
+.post-navigation .nav-next:hover,
+.post-navigation .nav-previous:hover {
+    border-left-color: $accent-glow;
 }
 
 .post-navigation .nav-thumb {
@@ -550,24 +635,25 @@ a.archive-top-link:hover {
     position: absolute;
     right: 0;
     top: 0;
-    width: 260px;
+    width: 240px;
+    border-radius: 0 6px 6px 0;
 }
 
 .post-navigation .nav-title {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
-    line-height: 1.16667;
+    line-height: 1.2;
     margin-bottom: 5px;
     margin-right: 240px;
 }
 
 .post-navigation .nav-title a {
-    color: $white;
+    color: $text-primary;
     text-decoration: none;
 }
 
 .post-navigation .nav-title a:hover {
-    color: $picton-blue;
+    color: $accent-glow;
 }
 
 .post-navigation .nav-before,
@@ -579,8 +665,8 @@ a.archive-top-link:hover {
 }
 
 .post-navigation .nav-before {
-    color: $silver;
-    margin-bottom: 15px;
+    color: $text-muted;
+    margin-bottom: 12px;
 }
 
 /**
@@ -589,7 +675,8 @@ a.archive-top-link:hover {
  */
 
 .site-footer {
-    background-color: lighten( $mine-shaft, 4% );
+    background-color: $bg-card;
+    border-top: 1px solid $bg-surface;
 }
 
 .site-footer .inner {
@@ -597,25 +684,25 @@ a.archive-top-link:hover {
 }
 
 .social-links {
-    border-bottom: 2px solid $tundora;
-    padding-bottom: 60px;
-    padding-right: 90px;
-    padding-top: 60px;
+    border-bottom: 1px solid $bg-surface;
+    padding-bottom: 40px;
+    padding-right: 60px;
+    padding-top: 40px;
 }
 
 .social-links a {
     float: left;
-    margin: 0 3px 3px 0;
+    margin: 0 4px 4px 0;
 }
 
 .site-info {
-    color: #666;
+    color: $text-muted;
     font-size: 12px;
     letter-spacing: 1px;
     line-height: 1.5;
-    padding-bottom: 60px;
-    padding-right: 90px;
-    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 60px;
+    padding-top: 30px;
     text-transform: uppercase;
 }
 
@@ -624,16 +711,16 @@ a.archive-top-link:hover {
 }
 
 .site-info .top-link {
-    color: $white;
+    color: $text-primary;
     font-size: 14px;
     margin: 0;
     position: absolute;
     right: 0;
-    top: 40px;
+    top: 30px;
 }
 
 .social-links + .site-info .top-link {
-    top: 60px;
+    top: 40px;
 }
 
 .site-info a {
@@ -646,9 +733,9 @@ a.archive-top-link:hover {
  */
 
 .widget {
-    border-top: 2px solid $tundora;
-    margin-bottom: 40px;
-    padding-top: 30px;
+    border-top: 1px solid $bg-surface;
+    margin-bottom: 36px;
+    padding-top: 24px;
 }
 
 .widget:first-child {
@@ -657,10 +744,12 @@ a.archive-top-link:hover {
 }
 
 .widget-title {
-    color: $silver;
-    font-size: 14px;
-    letter-spacing: 1px;
-    text-transform: uppercase; 
+    color: $text-muted;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-weight: 600;
 }
 
 .widget input[type="text"],
@@ -689,60 +778,372 @@ a.archive-top-link:hover {
 }
 
 .widget-recent-posts li {
-    margin-bottom: 12px;
+    margin-bottom: 14px;
     line-height: 1.5;
 }
 
 .widget-recent-posts a {
-    color: $white;
+    color: $text-primary;
     text-decoration: none;
+    font-size: 14px;
+    line-height: 1.4;
+    display: block;
+    transition: color 0.2s;
 }
 
 .widget-recent-posts a:hover {
-    color: $picton-blue;
+    color: $accent-glow;
 }
 
 .widget-recent-posts span {
-    color: #818181;
+    color: $text-muted;
     display: block;
-    font-size: 12px;
+    font-size: 11px;
     letter-spacing: 1px;
     line-height: 1.5;
     text-transform: uppercase;
+    margin-top: 2px;
 }
 
 .widget-tags a {
-    background-color: $tundora;
-    color: $silver;
+    background-color: $bg-surface;
+    color: $text-muted;
     display: inline-block;
     font-size: 10px;
     letter-spacing: 1px;
     margin: 0 4px 8px 0;
-    padding: 6px 8px;    
+    padding: 5px 8px;
     text-decoration: none;
     text-transform: uppercase;
+    border-radius: 3px;
     -webkit-transition: all 0.3s;
     -moz-transition:    all 0.3s;
     transition:         all 0.3s;
 }
 
 .widget-tags a:hover {
-    background-color: $picton-blue;
+    background-color: $accent;
     color: $white;
 }
 
-.widget-newsletter label {
-    display: block;
-    margin-bottom: 15px;
-}
+/* Search widget */
+.sidebar-search-btn {
+    background: $bg-surface !important;
+    border: 1px solid lighten($bg-surface, 10%) !important;
+    border-radius: 6px !important;
+    color: $text-muted !important;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px !important;
+    font-weight: 400 !important;
+    letter-spacing: 0 !important;
+    padding: 10px 14px !important;
+    text-transform: none !important;
+    width: 100%;
+    transition: all 0.2s;
 
-.widget-newsletter input[type="email"] {
-    display: block;
-    margin-bottom: 15px;
+    &:hover {
+        border-color: $accent !important;
+        color: $text-primary !important;
+    }
+
+    kbd {
+        background: $bg-dark;
+        border: 1px solid $bg-surface;
+        border-radius: 3px;
+        font-family: inherit;
+        font-size: 11px;
+        padding: 1px 5px;
+        margin-left: auto;
+        color: $text-muted;
+    }
 }
 
 /**
- * 6. Media Queries
+ * 6. Search Modal
+ * ----------------------------------------------------------------------------
+ */
+
+.search-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.7);
+    backdrop-filter: blur(4px);
+    z-index: 9999;
+    justify-content: center;
+    padding-top: 12vh;
+}
+
+.search-overlay.active {
+    display: flex;
+}
+
+.search-modal {
+    background: $bg-card;
+    border: 1px solid $bg-surface;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 600px;
+    max-height: 480px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+    overflow: hidden;
+    animation: searchSlideIn 0.2s ease;
+}
+
+@keyframes searchSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px) scale(0.98);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+.search-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 20px;
+    border-bottom: 1px solid $bg-surface;
+
+    svg {
+        color: $text-muted;
+        flex-shrink: 0;
+    }
+
+    input {
+        flex: 1;
+        background: transparent;
+        border: none !important;
+        color: $text-primary;
+        font-size: 16px;
+        padding: 0 !important;
+        outline: none;
+
+        &::placeholder {
+            color: $text-muted;
+        }
+    }
+}
+
+.search-close {
+    background: none !important;
+    border: none !important;
+    color: $text-muted !important;
+    cursor: pointer;
+    font-size: 24px !important;
+    line-height: 1;
+    padding: 0 4px !important;
+    letter-spacing: 0 !important;
+    text-transform: none !important;
+
+    &:hover {
+        color: $text-primary !important;
+        background: none !important;
+    }
+}
+
+.search-results {
+    overflow-y: auto;
+    padding: 8px;
+    flex: 1;
+}
+
+.search-empty {
+    color: $text-muted;
+    font-size: 14px;
+    padding: 24px 12px;
+    text-align: center;
+}
+
+.search-result-item {
+    display: block;
+    padding: 12px 14px;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background 0.15s;
+
+    &:hover {
+        background: $bg-surface;
+    }
+
+    .search-result-title {
+        color: $text-primary;
+        font-weight: 600;
+        font-size: 15px;
+        margin-bottom: 4px;
+    }
+
+    .search-result-date {
+        color: $text-muted;
+        font-size: 12px;
+    }
+
+    .search-result-excerpt {
+        color: $text-body;
+        font-size: 13px;
+        margin-top: 4px;
+        line-height: 1.4;
+    }
+}
+
+/**
+ * 7. Archive & Topics Pages
+ * ----------------------------------------------------------------------------
+ */
+
+.page-header {
+    margin-bottom: 40px;
+}
+
+.page-title {
+    background-color: $accent;
+    color: $white;
+    display: inline-block;
+    font-size: 28px;
+    padding: 16px 24px;
+    margin-bottom: 12px;
+}
+
+.page-description {
+    color: $text-muted;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.archive-list {
+    background: $bg-card;
+    border: 1px solid $bg-surface;
+    border-radius: 6px;
+    padding: 30px;
+}
+
+.archive-year {
+    color: $accent-glow;
+    font-size: 20px;
+    margin-top: 30px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid $bg-surface;
+
+    &:first-child {
+        margin-top: 0;
+    }
+}
+
+.archive-posts {
+    list-style: none;
+    padding: 0;
+
+    li {
+        padding: 8px 0;
+        border-bottom: 1px solid rgba($bg-surface, 0.5);
+        display: flex;
+        gap: 16px;
+        align-items: baseline;
+
+        &:last-child {
+            border-bottom: 0;
+        }
+    }
+
+    time {
+        color: $text-muted;
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        white-space: nowrap;
+        min-width: 60px;
+    }
+
+    a {
+        color: $text-primary;
+        text-decoration: none;
+        font-size: 15px;
+        transition: color 0.2s;
+
+        &:hover {
+            color: $accent-glow;
+        }
+    }
+}
+
+/* Topics page */
+.topics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px;
+    margin-bottom: 40px;
+}
+
+.topic-card {
+    background: $bg-card;
+    border: 1px solid $bg-surface;
+    border-radius: 8px;
+    padding: 24px;
+    transition: transform 0.2s, border-color 0.2s;
+
+    &:hover {
+        transform: translateY(-2px);
+        border-color: $accent;
+    }
+}
+
+.topic-card h3 {
+    font-size: 18px;
+    margin-bottom: 12px;
+
+    a {
+        color: $text-primary;
+        text-decoration: none;
+
+        &:hover {
+            color: $accent-glow;
+        }
+    }
+}
+
+.topic-card .post-count {
+    color: $accent;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+
+.topic-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+        padding: 4px 0;
+        font-size: 14px;
+
+        a {
+            color: $text-body;
+            text-decoration: none;
+
+            &:hover {
+                color: $accent-glow;
+            }
+        }
+    }
+}
+
+/**
+ * 8. Media Queries
  * ----------------------------------------------------------------------------
  */
 
@@ -757,7 +1158,7 @@ a.archive-top-link:hover {
     .sidebar,
     .site-main {
         float: none;
-        margin-bottom: 60px;
+        margin-bottom: 40px;
         width: auto;
     }
 
@@ -766,12 +1167,12 @@ a.archive-top-link:hover {
     .comments-area,
     .pagination,
     .post-navigation {
-        margin-bottom: 30px;
+        margin-bottom: 24px;
     }
 
     .post + .author-box,
     .post + .post-navigation {
-        margin-top: -10px;
+        margin-top: -8px;
     }
 
     .widget {
@@ -787,6 +1188,15 @@ a.archive-top-link:hover {
         margin-right: auto;
         max-width: 500px;
     }
+
+    .sidebar-search-btn {
+        max-width: 300px;
+        margin: 0 auto;
+    }
+
+    .topics-grid {
+        grid-template-columns: 1fr;
+    }
 }
 
 @media only screen and (max-width: 800px) {
@@ -799,8 +1209,8 @@ a.archive-top-link:hover {
     }
 
     .site-header {
-        padding-bottom: 60px;
-        padding-top: 48px;
+        padding-bottom: 48px;
+        padding-top: 40px;
     }
 
     .post,
@@ -810,7 +1220,7 @@ a.archive-top-link:hover {
     .post-navigation,
     .post-navigation .nav-next,
     .post-navigation .nav-previous {
-        margin-bottom: 15px;
+        margin-bottom: 12px;
     }
 
     .post + .author-box,
@@ -819,7 +1229,7 @@ a.archive-top-link:hover {
     }
 
     .nav-menu {
-        background-color: #2d2d2d;
+        background-color: $bg-card;
         clear: left;
         display: none;
         margin-left: -15px;
@@ -828,8 +1238,12 @@ a.archive-top-link:hover {
         padding-right: 15px;
     }
 
+    .nav-menu ul {
+        display: block;
+    }
+
     .nav-menu li {
-        border-bottom: 2px solid lighten( $mine-shaft, 4% );
+        border-bottom: 1px solid $bg-surface;
         display: block;
         float: none;
         padding: 0;
@@ -841,24 +1255,34 @@ a.archive-top-link:hover {
 
     .nav-menu a {
         border-left: 0;
-        padding: 15px 0;
+        padding: 12px 0;
+    }
+
+    .nav-search {
+        margin-left: 0;
+        padding: 8px 0 !important;
+    }
+
+    .search-trigger kbd {
+        display: none;
     }
 
     #menu-toggle {
         background-color: transparent;
         border: 0;
-        color: #818181;
+        color: $text-muted;
         display: block;
         float: left;
-        height: 50px;
+        height: 48px;
         padding-left: 20px;
         padding-right: 0;
         position: relative;
-    }
 
-    #menu-toggle:hover,
-    #menu-toggle:focus {
-        background-color: transparent;
+        &:hover,
+        &:focus {
+            background-color: transparent;
+            color: $text-primary;
+        }
     }
 
     #menu-toggle:before {
@@ -879,12 +1303,12 @@ a.archive-top-link:hover {
     }
 
     #menu-toggle.toggled-on {
-        color: lighten( $picton-blue, 11% );
+        color: $accent-glow;
     }
 
     #menu-toggle.toggled-on:before {
         content: "\f00d";
-    }    
+    }
 }
 
 @media only screen and (max-width: 640px) {
@@ -894,11 +1318,11 @@ a.archive-top-link:hover {
 
     h1,
     .site-title {
-        font-size: 34px;
+        font-size: 28px;
     }
 
     h2 {
-        font-size: 28px;
+        font-size: 24px;
     }
 
     .alignleft,
@@ -913,55 +1337,60 @@ a.archive-top-link:hover {
     }
 
     .entry-title {
-        font-size: 28px;
-        padding: 20px 15px 15px 20px;
+        font-size: 22px;
+        padding: 16px 18px;
     }
 
     .entry-meta {
-        padding: 15px 15px 15px 20px;
+        padding: 12px 18px;
+    }
+
+    .search-modal {
+        width: 95%;
+        max-height: 70vh;
     }
 }
 
 @media only screen and (max-width: 600px) {
     .post-navigation .nav-next,
     .post-navigation .nav-previous {
-        padding-bottom: 30px;
-        padding-top: 20px;
+        padding-bottom: 24px;
+        padding-top: 16px;
     }
 
     .post-navigation .nav-thumb {
-        width: 200px;
+        width: 180px;
     }
 
     .post-navigation .nav-title,
     .post-navigation .nav-before,
     .post-navigation .nav-date {
-        margin-right: 200px;
+        margin-right: 180px;
     }
 
     .post-navigation .nav-title {
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 
 @media only screen and (max-width: 480px) {
     h1 {
-        font-size: 30px;
+        font-size: 26px;
     }
 
     h2,
     .site-title {
-        font-size: 24px;
+        font-size: 22px;
     }
 
     h3,
     .entry-title {
-        font-size: 20px;
+        font-size: 18px;
     }
 
     h4,
     blockquote {
-        font-size: 18px;
+        font-size: 17px;
     }
 
     h5,
@@ -983,16 +1412,16 @@ a.archive-top-link:hover {
     }
 
     .site-header {
-        padding-bottom: 48px;
-        padding-top: 36px;
+        padding-bottom: 36px;
+        padding-top: 30px;
     }
 
     .entry-header {
-        margin-bottom: 24px;
+        margin-bottom: 20px;
     }
 
     .entry-title {
-        margin-top: 30px;
+        margin-top: 20px;
         max-width: none;
         padding: 10px 15px;
     }
@@ -1013,27 +1442,27 @@ a.archive-top-link:hover {
 
     .post-navigation .nav-next,
     .post-navigation .nav-previous {
-        padding-bottom: 20px;
-        padding-top: 15px;
+        padding-bottom: 16px;
+        padding-top: 12px;
     }
 
     .post-navigation .nav-thumb {
-        width: 120px;
+        width: 100px;
     }
 
     .post-navigation .nav-title {
-        font-size: 16px;
-        margin-right: 120px;
+        font-size: 15px;
+        margin-right: 100px;
     }
 
     .post-navigation .nav-before,
     .post-navigation .nav-date {
         font-size: 10px;
-        margin-right: 120px;
+        margin-right: 100px;
     }
 
     .post-navigation .nav-before {
-        margin-bottom: 10px;
+        margin-bottom: 8px;
     }
 
     .social-links {
@@ -1041,14 +1470,19 @@ a.archive-top-link:hover {
     }
 
     .site-info {
-        padding-bottom: 40px;
+        padding-bottom: 30px;
         padding-right: 0;
         text-align: center;
     }
 
     .site-info .top-link {
         display: block;
-        margin: 30px auto 0;
+        margin: 24px auto 0;
         position: static;
+    }
+
+    .archive-posts li {
+        flex-direction: column;
+        gap: 2px;
     }
 }

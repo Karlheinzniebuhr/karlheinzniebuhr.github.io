@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title:  "It's time for a new Blog"
 date:   2017-02-15
 categories: en
 tags: []
 banner_image: books.jpg
+archived: true
 ---
 
 Since I started my Blog on Jekyll in 2015, I've had great fun and experiences. [One of my Blogposts still gets thousands of visits every month](http://karlheinzniebuhr.github.io/en/2015/09/28/C-vs-Go-vs-pypy-vs-Python/). But now it's time to move to a new platform. I've always liked the simplicity and the control over a platform like this, but there are also some cons.

@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title:  "XOR + OTP encryption demo"
 date:   2015-05-14
 categories: en
 tags: [cryptography, math, computer science]
 banner_image: xor.png
+archived: true
 ---
 
 <h5>By Karlheinz Niebuhr, follow me on <a href="https://twitter.com/NiebuhrKarl">twitter</a>, and <a href="https://github.com/Karlheinzniebuhr">github</a></h5>

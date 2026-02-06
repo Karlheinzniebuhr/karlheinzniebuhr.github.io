@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title:  "Studying in Germany part 1"
 date:   2016-08-15
 categories: en
 tags: [education, germany]
 banner_image: saar-schleife.jpg
+archived: true
 ---
 Image credits: Saarschleife by [Christopher Jenal](https://500px.com/christopherjenal)
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
