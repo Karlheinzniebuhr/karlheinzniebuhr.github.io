@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-<form class="contact-form" action="https://formspree.io/karl.booklover@gmail.com" method="POST">
+<form class="contact-form" action="https://formspree.io/f/karl.booklover@gmail.com" method="POST">
   <input type="hidden" name="_subject" value="New message from Karlbooklover blog">
   <input type="text" name="_gotcha" style="display:none">
 
