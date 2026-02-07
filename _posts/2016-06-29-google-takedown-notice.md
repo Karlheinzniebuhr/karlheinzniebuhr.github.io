@@ -3,7 +3,7 @@
 layout: post
 title: "Google takedown notice y whatsapp flooder"
 date: 2016-06-29
-categories: es
+categories: [Technology]
 tags: [Blogging, Technology]
 banner_image: flooder.png
 archived: true

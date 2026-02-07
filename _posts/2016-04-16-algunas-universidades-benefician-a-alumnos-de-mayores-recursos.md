@@ -3,7 +3,7 @@
 layout: post
 title: "Algunas Universidades benefician a alumnos de mayores recursos"
 date: 2016-04-16
-categories: es
+categories: [Education]
 tags: [Culture, Education]
 archived: true
 ---

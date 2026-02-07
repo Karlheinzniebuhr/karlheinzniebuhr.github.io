@@ -3,7 +3,7 @@
 layout: post
 title:  "Learn faster by using retrieval"
 date:   2016-11-12
-categories: en
+categories: [Education]
 tags: [Education, Psychology]
 archived: true
 ---

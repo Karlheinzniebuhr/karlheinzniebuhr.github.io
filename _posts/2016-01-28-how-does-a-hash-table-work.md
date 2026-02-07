@@ -3,7 +3,7 @@
 layout: post
 title:  "How do hash tables work"
 date:   2016-01-28
-categories: en
+categories: [Technology]
 tags: [Technology]
 banner_image: hash_function.png
 archived: true

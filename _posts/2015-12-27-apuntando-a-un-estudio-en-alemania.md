@@ -3,7 +3,7 @@
 layout: post
 title: "Apuntando a un estudio en Alemania"
 date: 2015-12-27
-categories: es
+categories: [Education]
 tags: [Culture, Education]
 banner_image: ranking2.png
 archived: true

@@ -3,7 +3,7 @@
 layout: post
 title:  "Bitcoin para dummies, una guía simple"
 date:   2016-10-25
-categories: es
+categories: [Technology]
 tags: [Crypto, Technology]
 archived: true
 ---

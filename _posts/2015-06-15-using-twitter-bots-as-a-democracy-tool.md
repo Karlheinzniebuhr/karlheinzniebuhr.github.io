@@ -3,7 +3,7 @@
 layout: post
 title:  "Using Twitter-bots as a democracy tool"
 date:   2015-06-15
-categories: en
+categories: [Blogging]
 tags: [Blogging, Culture]
 banner_image: pyrawebs.jpg
 archived: true

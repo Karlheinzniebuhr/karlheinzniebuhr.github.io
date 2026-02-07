@@ -2,8 +2,9 @@
 layout: post
 title:  "Anotaciones sobre macronutrientes"
 date:   2016-01-06
-categories: es
-tags: [fitness, nutrition, health]
+categories: [Blog, Health]
+tags: [Health]
+archived: true
 ---
 
 {% include image_full.html imageurl="/images/posts/macronutrients.png" title="macronutrients" caption="" %}

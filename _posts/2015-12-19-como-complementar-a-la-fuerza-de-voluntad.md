@@ -3,7 +3,7 @@
 layout: post
 title:  "Cómo complementar a la fuerza de voluntad"
 date:   2015-12-19
-categories: en
+categories: [Self-Improvement]
 tags: [Self-Improvement]
 banner_image: willpower.jpg
 archived: true

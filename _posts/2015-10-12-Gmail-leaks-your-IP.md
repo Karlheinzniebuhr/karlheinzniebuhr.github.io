@@ -3,7 +3,7 @@
 layout: post
 title:  "Gmail leaks your IP"
 date:   2015-10-12
-categories: en
+categories: [Technology]
 tags: [Blogging, Technology]
 banner_image: ip_test.png
 archived: true

@@ -3,7 +3,7 @@
 layout: post
 title:  "Learn faster by linking information"
 date:   2016-11-01
-categories: en
+categories: [Education]
 tags: [Education, Psychology]
 archived: true
 ---

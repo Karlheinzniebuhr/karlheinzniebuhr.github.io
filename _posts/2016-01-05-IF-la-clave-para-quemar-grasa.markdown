@@ -2,8 +2,9 @@
 layout: post
 title:  "Ayuno Intermitente o IF, la clave para quemar grasa y ganar músculos"
 date:   2016-01-05
-categories: es
-tags: [fitness, nutrition, health]
+categories: [Blog, Health]
+tags: [Health]
+archived: true
 ---
 
 {% include image_full.html imageurl="/images/posts/if.png" title="IF" caption="" %}

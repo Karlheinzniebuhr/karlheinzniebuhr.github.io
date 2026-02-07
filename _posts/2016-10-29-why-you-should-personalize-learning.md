@@ -3,7 +3,7 @@
 layout: post
 title:  "Why you should personalize your learning"
 date:   2016-10-29
-categories: en
+categories: [Education]
 tags: [Education, Psychology]
 archived: true
 ---

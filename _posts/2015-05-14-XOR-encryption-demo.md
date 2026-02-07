@@ -3,7 +3,7 @@
 layout: post
 title:  "XOR + OTP encryption demo"
 date:   2015-05-14
-categories: en
+categories: [Technology]
 tags: [Technology]
 banner_image: xor.png
 archived: true

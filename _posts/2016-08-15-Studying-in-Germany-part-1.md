@@ -3,7 +3,7 @@
 layout: post
 title:  "Studying in Germany part 1"
 date:   2016-08-15
-categories: en
+categories: [Education]
 tags: [Culture, Education]
 banner_image: saar-schleife.jpg
 archived: true

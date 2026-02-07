@@ -3,7 +3,7 @@
 layout: post
 title:  "It's time for a new Blog"
 date:   2017-02-15
-categories: en
+categories: [Blog]
 tags: []
 banner_image: books.jpg
 archived: true
