@@ -6,7 +6,7 @@ categories: [Blog]
 tags: [Health, Science]
 ---
 
-La mayoría de personas tienen esta noción de "todo en moderación" cuando de alimentación se trata, es lo más sano. Ese argumento no hace mas sentido que decir que fumar en moderación es sano. Hay cosas que no son sanas por más que se consuman en moderación incluso si formen parte de la dieta estándar de la mayoría de las personas. En este artículo analizaremos si comer carne en moderación es sano/aceptable.
+La mayoría de personas tienen esta noción de "todo en moderación" cuando de alimentación se trata, es lo más sano. Ese argumento no hace mas sentido que decir que fumar en moderación es sano. Hay cosas que no son sanas por más que se consuman en moderación incluso si forman parte de la dieta estándar de la mayoría de las personas. En este artículo analizaremos si comer carne en moderación es sano/aceptable.
 
 Sabemos desde hace décadas que una dieta basada en plantas nos protege del diabetes. [[1](https://www.ncbi.nlm.nih.gov/pubmed/5100965)] Estudios demostraron que comer carne un día o mas por semana aumenta significativamente el riesgo a diabetes, y mientras más frecuente era el consumo de carne, más frecuente los casos de diabetes. [[2](https://www.ncbi.nlm.nih.gov/pubmed/3985239)]
 

@@ -9,7 +9,7 @@ categories: [Blog, Investing]
 
 Crypto es la mejor oportunidad de inversión desde el nacimiento de Bitcoin, y la mejor oportunidad para las nuevas generaciones. Alguien dijo "crypto is the great equalizer" y hay mucha verdad en eso. No importa si sos una persona humilde que vive en un país del tercer mundo, con nada más que una conexión de Internet. Si lo haces con estrategia y paciencia, puedes salir de la pobreza invirtiendo en la crypto economía.
 
-Hay muchas formas de hacer dinero en la crypto economía, la forma [más simple](https://www.karlbooklover.com/la-manera-mas-simple-de-invertir-en-bitcoin/) es comprar por ejemplo BTC, y esperar unos años. Pero hay que tener cierto conocimiento para maximizar la ganancia. Por definición, pocas personas tienen el conocmiento o el tiempo para adquirirlo. Por lo tanto, para la mayoría de personas tiene sentido invertir en un index fund, o una estrategia activa en una plataforma como Iconomi.
+Hay muchas formas de hacer dinero en la crypto economía, la forma [más simple](https://www.karlbooklover.com/la-manera-mas-simple-de-invertir-en-bitcoin/) es comprar por ejemplo BTC, y esperar unos años. Pero hay que tener cierto conocimiento para maximizar la ganancia. Por definición, pocas personas tienen el conocimiento o el tiempo para adquirirlo. Por lo tanto, para la mayoría de personas tiene sentido invertir en un index fund, o una estrategia activa en una plataforma como Iconomi.
 
 ## Qué es Iconomi?
 

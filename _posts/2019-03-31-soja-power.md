@@ -15,7 +15,7 @@ sobre el alimento.
 
 La Soja es una de las fuentes de proteínas más sanas que existen. Se ha demostrado que protege de la recurrencia del cáncer de mama en mujeres que fueron diagnosticados y aumenta la supervivencia del cáncer de mama en general. [1](https://nutritionfacts.org/topics/soy/).
 
-Hace mucho se asocia con menor riesgo al cáncer. Residentes de EEUU y el Reino Unido consumen la taza menor de soja, y tienen las tasas más altas de cáncer de próstata y cáncer de mama. Residentes Japoneses en comparación tienen las tazas más baja en esos tipos de cáncer, y son los mayores consumidores de alimentos derivados de la soja. [7](https://www.ncbi.nlm.nih.gov/pubmed/2071799),[8](https://www.nrc.gov/docs/ML0716/ML071640135.pdf)
+Hace mucho se asocia con menor riesgo al cáncer. Residentes de EEUU y el Reino Unido consumen la tasa menor de soja, y tienen las tasas más altas de cáncer de próstata y cáncer de mama. Residentes Japoneses en comparación tienen las tazas más baja en esos tipos de cáncer, y son los mayores consumidores de alimentos derivados de la soja. [7](https://www.ncbi.nlm.nih.gov/pubmed/2071799),[8](https://www.nrc.gov/docs/ML0716/ML071640135.pdf)
 
 Además
 se ha demostrado el beneficio a los riñones, que funcionan mejor con
