@@ -12,7 +12,7 @@ archived: true
 **Introducción** 
 En este post explicare como hice algunos diccionarios de palabras para romper [hash's](https://es.wikipedia.org/wiki/Funci%C3%B3n_hash) de contraseñas. 
 **Pero para que se usan las listas de palabras en el contexto de hacking?** 
-Se utilizan para un método de cracking en donde se intenta averiguar una contraseña probando todas las palabras del diccionario. Este método suele ser mucho mas eficiente que los ataques de fuerza bruta en donde se intentan todas las posibles combinaciones de letras, números y/o signos. <!--more-->
+Se utilizan para un método de cracking en donde se intenta averiguar una contraseña probando todas las palabras del diccionario. Este método suele ser mucho más eficiente que los ataques de fuerza bruta en donde se intentan todas las posibles combinaciones de letras, números y/o signos. <!--more-->
 Para ver por qué es así basta con un simple ejemplo. Supongamos que queremos crackear la contraseña “**crackme**”. Probando con fuerza bruta, suponiendo que la contraseña consiste solamente de letras en minúscula, necesitaríamos:
 **27<sup>7</sup> = 10,460,353,203** posibles pruebas hasta adivinar la contraseña.
 27 letras del alfabeto elevado por la cantidad de letras o la longitud de la contraseña.
@@ -26,15 +26,15 @@ Los diccionarios se producen de forma que ya casi siempre incluyen palabras como
 Los diccionarios de palabras se suelen crear para un lenguaje o un lugar/empresa en especifico. Mientras mas especifico el diccionario mas eficiente el ataque. Resulta que en nuestro país usamos palabras poco comunes en otras partes del mundo. Obviamente esta el guaraní pero hasta el castellano tiene ciertas palabras que uno no encuentra en las listas de palabras descargadas de internet. Por este motivo decidí hacer mi propio diccionario.
 
 **El proceso de armar el diccionario**
-Me puse a pensar que la forma mas fácil de generar una lista de palabras seria coleccionar palabras de paginas web y foros paraguayos de forma automática con ayuda de un script. No tardé en encontrar una herramienta existente para realizar esta tarea llamada [CeWL](https://digi.ninja/projects/cewl.php).
-Empecé con el foro http://www.lajaula.com.py/ en el cual deje que la [araña web](https://es.wikipedia.org/wiki/Ara%C3%B1a_web) de CeWL entre a profundidad 3. La profundidad o “hops” en ingles son la cantidad de links que se aleja la araña web desde la pagina central.
+Me puse a pensar que la forma mas fácil de generar una lista de palabras seria coleccionar palabras de páginas web y foros paraguayos de forma automática con ayuda de un script. No tardé en encontrar una herramienta existente para realizar esta tarea llamada [CeWL](https://digi.ninja/projects/cewl.php).
+Empecé con el foro http://www.lajaula.com.py/ en el cual deje que la [araña web](https://es.wikipedia.org/wiki/Ara%C3%B1a_web) de CeWL entre a profundidad 3. La profundidad o “hops” en ingles son la cantidad de links que se aleja la araña web desde la página central.
 
 {% include image_full.html imageurl="/images/posts/hops.png" title="" caption="" %}
 
 En esta imagen ya se ve un patron de palabras muy familiares en nuestro país.
 {% include image_full.html imageurl="/images/posts/captura-dict-lajaula.png" title="" caption="Lajaula" %}
 
-Luego procese la pagina de abc-color, ultimahora, datamexguarani, portalguarani y el foro paraguayo en skyscrapercity ademas de unas otras paginas que prefiero no nombrar por seguridad. En cada pagina coleccionaba entre 20 y 55.000 palabras únicas. Ahora solo quedaba unificar todos los diccionarios y eliminar las palabras duplicadas.
+Luego procese la página de abc-color, ultimahora, datamexguarani, portalguarani y el foro paraguayo en skyscrapercity ademas de unas otras páginas que prefiero no nombrar por seguridad. En cada página coleccionaba entre 20 y 55.000 palabras únicas. Ahora solo quedaba unificar todos los diccionarios y eliminar las palabras duplicadas.
 En esta tarea los comando bash son la mejor ayuda. Primero puse los diferentes diccionarios en una carpeta.
 Luego junte, odene y elimine los duplicados.
 
@@ -60,7 +60,7 @@ Básicamente tome los prefijos mas utilizados y le agregue todas las combinacion
 0991
 En total la lista contiene 8.000.000 números vs los **10<sup>10</sup>** = 10,000,000,000 que se utilizarían usando solamente fuerza bruta.
 
-**<a href="karlheinzniebuhr.github.io/downloads/wordlists/NumerosTelPY.txt" download>Descargar Dict-Numeros-Paraguay</a>**
+**<a href="karlheinzniebuhr.github.io/downloads/wordlists/NumerosTelPY.txt" download>Descargar Dict-Números-Paraguay</a>**
 
 Favor solo usar para hacking ético. No me hago responsable del mal uso de los diccionarios.
 

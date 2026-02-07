@@ -13,9 +13,9 @@ No se cuantas veces escuché esa frase. En vez de responder voy a responder con 
 
 De donde quitas el tiempo para comer tres veces por día?
 
-Cómo tienes tiempo para dormir?
+¿Cómo tienes tiempo para dormir?
 
-Cómo tienes tiempo para salir el fin de semana?
+¿Cómo tienes tiempo para salir el fin de semana?
 
 De donde quitas el tiempo para respirar?
 
@@ -29,7 +29,7 @@ Con una respuesta honesta como esa estaré satisfecho. Pero no me vengas con la 
 
 Voy a relevar el secreto ahora. Si tomas en serio tu progreso personal, leer tiene que dejar de ser una actividad recreativa y tiene que empezar a ser **algo natural como comer y respirar**.
 
-No lees porque se te antoja si no porque necesitas leer!
+No lees porque se te antoja sino porque necesitas leer!
 
 Un día sin leer debe causarte ansiedad y angustia.
 
@@ -93,11 +93,11 @@ Pero realmente el costo no debería preocuparnos ya que es una inversión que ti
 
 ### Los beneficios que tendrás
 
-Los humanos han registrado su conocimiento en forma de libros desde hace mas que 5,000 años. Eso significa que el problema con cual estas luchando ahora, probablemente esté resuelto en un libro que escribió alguien quien dedicó una gran parte de su vida en resolverlo. Muchas veces comprimiendo 10–30 años de experiencia en un libro que podemos leer en 8 horas o menos.
+Los humanos han registrado su conocimiento en forma de libros desde hace más que 5,000 años. Eso significa que el problema con cual estas luchando ahora, probablemente esté resuelto en un libro que escribió alguien quien dedicó una gran parte de su vida en resolverlo. Muchas veces comprimiendo 10–30 años de experiencia en un libro que podemos leer en 8 horas o menos.
 
-Cuál es la excusa para no aprovechar eso y mejorar tu calidad de vida ahora mismo? Por qué aguantar y tener que encontrar todas esas soluciones tu mismo si ya está todo resuelto en algún lugar?
+¿Cuál es la excusa para no aprovechar eso y mejorar tu calidad de vida ahora mismo? ¿Por qué aguantar y tener que encontrar todas esas soluciones tu mismo si ya está todo resuelto en algún lugar?
 
-Pero más allá de conocimiento crudo, leer es una experiencia humana, no solo ayuda a aprender si no que ayuda a encontrar significado, entendimiento y mejorar la vida.
+Pero más allá de conocimiento crudo, leer es una experiencia humana, no solo ayuda a aprender sino que ayuda a encontrar significado, entendimiento y mejorar la vida.
 
 Cuando leer será una parte integral de tu vida serás la persona a la cual la gente le pregunta: “Cómo lo haces?”
 

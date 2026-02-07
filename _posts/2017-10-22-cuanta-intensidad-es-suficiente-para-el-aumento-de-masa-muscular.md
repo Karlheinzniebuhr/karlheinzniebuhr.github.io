@@ -27,7 +27,7 @@ El segundo estudio fue un meta-análisis de 9 estudios diferentes. El resultado?
 
 El último estudio comparó a dos grupos, el primer grupo realizo entre 20-35 repeticiones  y el segundo grupo entre 8-12. Pero con la diferencia del studio anterior, que el grupo de repeticiones altas realizó el doble del volumen del grupo de bajas repeticiones. Esta vez ambos grupos obtuvieron el mismo crecimiento muscular. Que nos dice esto? **Que si entrenamos con repeticiones altas, entonces deberíamos entrenar mucho más también. Nuestro volumen de entrenamiento debe ser más alto.**
 
-> Entonces resumiendo, qué debes tener en cuenta si quieres aumentar masa muscular? Lo mas fácil es asegurar que estés entrenando con una intensidad mayor del 50% de tu 1RM. Si entrenas con repeticiones altas entonces debes asegurarte de llegar cerca a la falla muscular además de usar más volumen.
+> Entonces resumiendo, qué debes tener en cuenta si quieres aumentar masa muscular? Lo más fácil es asegurar que estés entrenando con una intensidad mayor del 50% de tu 1RM. Si entrenas con repeticiones altas entonces debes asegurarte de llegar cerca a la falla muscular además de usar más volumen.
 
 **Referencias**
 

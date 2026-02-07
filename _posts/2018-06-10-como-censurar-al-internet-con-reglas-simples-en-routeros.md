@@ -38,11 +38,11 @@ add action=drop chain=forward comment="block torrent dns" disabled=no dst-port=5
 
 Para hacer toda la configuración simplemente hay que copiar y pegar el script de arriba en la terminal de RouterOS.
 Las reglas de firewall de RouterOS se ejecutan en secuencia para ahorrar computación, así que si por ejemplo la regla 1 filtra parte del trafico, la regla 2 ya no tiene que procesarlo.
-En esta imagen vemos que la regla de bloqueo del DNS se ejecuta cuando trato de acceder a una de las paginas listadas en el regex o si contiene la palabra "torrent".
+En esta imagen vemos que la regla de bloqueo del DNS se ejecuta cuando trato de acceder a una de las páginas listadas en el regex o si contiene la palabra "torrent".
 ![](/assets/images/DNS-firewall-rule-1024x516.png)
 Si activo la regla que verifica los GET requests, vemos que se ejecuta mucho (hay muchos requests saliendo de la computadora a cada rato) por lo tanto consumira bastante recursos de CPU del router si hay mucho trafico en la red.
 ![](/assets/images/GET-firewall-rule-1024x485.png)
 Al acceder a una página que tiene la palabra torrent en su nombre ya no nos debería cargar.
-![](/assets/images/pagina-inaccessible-300x169.png)
-Es así de simple, y lo notable es que no necesitas a un servidor para bloquear al tráfico, se puede hacer de forma local y descentralizada en los mismos routers de cada cliente. La tecnología en sí es buena ya que permite a los ISP's detener a ataques de red lo mas cercanamente al origen del ataque sin que afecte a la red de los demás. Pero si se usa para censurar por supuesto que no es bueno. Por lo tanto si notas que no puedes acceder a ciertas páginas, lo primero que recomiendo hacer es hacer un reclamo a tu proveedor de Internet.
+![](/assets/images/página-inaccessible-300x169.png)
+Es así de simple, y lo notable es que no necesitas a un servidor para bloquear al tráfico, se puede hacer de forma local y descentralizada en los mismos routers de cada cliente. La tecnología en sí es buena ya que permite a los ISP's detener a ataques de red lo más cercanamente al origen del ataque sin que afecte a la red de los demás. Pero si se usa para censurar por supuesto que no es bueno. Por lo tanto si notas que no puedes acceder a ciertas páginas, lo primero que recomiendo hacer es hacer un reclamo a tu proveedor de Internet.
 Si como clientes dejamos que nos censuren, es probable que lo hagan, pero si reclamamos y nos cambiamos a otro proveedor como última instancia, capaz podamos presionar a las ISP's. Si aún así no te desbloquean, puedes hacer varias cosas, lo más fácil es usar un servicio de VPN que cuesta muy poco, con unos $5-10 por mes ya puedes conseguir uno bueno y usarlo como túnel para tu tráfico de torrent.

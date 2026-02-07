@@ -20,7 +20,7 @@ Para registrarte apretá el botón **REGISTER** o **REGISTRAR.**Aparecerá la si
 [![](/assets/images/Screen-Shot-2017-05-24-at-14.59.57.png)](https://cex.io/r/0/up105698913/0/)
 Puedes optar por registrarte con alguna red social como Facebook o con tu correo. Yo lo hice con Facebook. Si lo haces con Facebook directamente recibirás un correo de confirmación en donde debes hacer click en Activar o Activate.
 ![](/assets/images/Screen-Shot-2017-05-24-at-15.50.55.png)
-Luego se abrirá otra pagina en donde tienes que hacer click en **Registro Completo.**
+Luego se abrirá otra página en donde tienes que hacer click en **Registro Completo.**
 
 ## Paso 3: Activar autenticación de 2 pasos
 
@@ -51,7 +51,7 @@ Ni te preocupes no hace falta que ingreses el monto. Simplemente volvé después
 Si completaste correctamente los pasos anteriores y esperaste 30 minutos hasta que se confirme tu tarjeta, deberías ver a tu tarjeta en la pantalla de [Depósito](https://cex.io/trade/deposit#?back_to=%2Ftrade%2Fbuysell).
 ![](/assets/images/Screen-Shot-2017-05-24-at-16.45.03-1024x591.png)
 Sólo te falta ingresar el monto a depositar. El monto mínimo es de 20 dólares **pero te recomiendo depositar $30**. Enseguida sabrás por qué. Luego click en el botón confirmar. Felicidades!! ya estas casi listo para comprar Bitcoin!![](/assets/images/Screen-Shot-2017-05-24-at-16.45.31-1024x750.png)El mensaje en pantalla significa que tu depósito será procesado en breve y se te notificará a tu correo apenas este terminado.
-Puedes apretar el botón cerrar para volver a la pagina anterior y luego Cerrar para ir a la página principal.
+Puedes apretar el botón cerrar para volver a la página anterior y luego Cerrar para ir a la página principal.
 
 ## Paso 6: Comprar Bitcoin 🤑
 

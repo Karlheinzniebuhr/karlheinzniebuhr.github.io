@@ -31,15 +31,15 @@ Algunos de los beneficios estudiados del BW son:
 
 La respiración es una función autónoma controlada por el sistema nervioso autónomo (inconsciente), pero también puede ser regulada conscientemente. Esto la convierte en un puente único entre lo consciente y lo inconsciente. Por ejemplo puedes cambiar el ritmo, la profundidad y duración de la inhalación/exhalación y así influir en tu estado físico y emocional.
 
-La respiración está estrechamente ligada a las emociones. Estados emocionales como el miedo, la ira o la calma se reflajan en patrones respiratorios específicos. Una vez que sepas cuáles son estos patrones, puedes hacer un "check in" contigo al observar a tu respiración. También puedes alterar esos estados emocionales al regular la respiración conscientemente.
+La respiración está estrechamente ligada a las emociones. Estados emocionales como el miedo, la ira o la calma se reflejan en patrones respiratorios específicos. Una vez que sepas cuáles son estos patrones, puedes hacer un "check in" contigo al observar a tu respiración. También puedes alterar esos estados emocionales al regular la respiración conscientemente.
 
 ## Mi experiencia
 
-La primera vez que encontré al BW fue via el [libro de Wim Hof](https://www.karlbooklover.com/lessons-from-what-doesnt-kill-us-the-wim-hoff-method/). Pero no le dí mucha atención hasta que años después mi coach me enseño que el BW es ideal para estabilizarnos cuando estamos en el proceso de reprogrammar a nuestro subconsciente.
+La primera vez que encontré al BW fue via el [libro de Wim Hof](https://www.karlbooklover.com/lessons-from-what-doesnt-kill-us-the-wim-hoff-method/). Pero no le dí mucha atención hasta que años después mi coach me enseño que el BW es ideal para estabilizarnos cuando estamos en el proceso de reprogramar a nuestro subconsciente.
 
 Lo puse a prueba y funcionó. Haré un post dedicado a la reprogramación pero basta decir aquí que practico BW a diario por lo bien que me hace sentir y la mejora en mi calidad de vida en general.
 
-Otro beneficio sorprendente es que durante la práctica frequentemente recibo perspectivas/ideas/soluciones a problemas de trabajo como sobre mi vida en general.
+Otro beneficio sorprendente es que durante la práctica frecuentemente recibo perspectivas/ideas/soluciones a problemas de trabajo como sobre mi vida en general.
 
 ## Cómo empezar a practicar ejercicios de respiración?
 

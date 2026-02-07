@@ -69,7 +69,7 @@ Un momento, pero por qué entonces los reportes extraños que implican que hay u
 
 El ajuste del análisis multivariante simplemente anuló al efecto beneficioso del consumo de VFL lo cual hizo aparentar de que el tope sano de VFL es de tres porciones por día. La tarea del ajuste del modelo de multivariables fue corregir el impacto del efecto beneficioso de un estado socioeconómico mas alto, mejor educación, mejor empleo, más ejercicios, y una vida mas sana y segura en general. El modelo toma todos esos factores y los resta del efecto positivo VFL para tratar de identificar a un solo factor, en este caso el factor de longevidad del consumo de VFL. Como es de predecir, el efecto positivo del consumo de VFL fue reducido, sólo que fue reducido demasiado. Llevando a una aparente disminución de calidad de nutrición después de consumir cierta cantidad de VFL.
 
-En síntesis entonces, un mayor consumo de VFL no pasaba en aislamiento si no que en conjunto con varias otros factores que hacen que uno ya no pueda atribuir el cambio positivo a un solo factor. Eso no significa que consumir mas VFL es menos beneficioso, simplemente significa que es difícil medir el impacto positivo de VFL en un estudio como este.
+En síntesis entonces, un mayor consumo de VFL no pasaba en aislamiento sino que en conjunto con varias otros factores que hacen que uno ya no pueda atribuir el cambio positivo a un solo factor. Eso no significa que consumir mas VFL es menos beneficioso, simplemente significa que es difícil medir el impacto positivo de VFL en un estudio como este.
 
 **Y que hay del reporte sobre los macronutrientes?**
 
@@ -93,7 +93,7 @@ Hay otro tema muy importante que tocar, el preocupante hecho de que un estudio o
 
 Primero vienen los estudios observacionales, luego los estudios de intervención para identificar o refutar causa y efecto. Una vez que se realizaron estudios de intervención, sería muy raro querer refutarlos con un estudio observacional. Esto no obstante es lo que muchos medios y páginas dignas de poca confianza hicieron.
 
-Tenemos estudios aleatorizados que demuestran que un cambio de una dieta típicamente occidental a una dieta rica en verduras, frutas, granos enteros, poroto, lentejas, nueces, semillas, y consecuentemente reducida en carbohidratos refinados, azúcar y grasas saturadas, reduce drásticamente el riesgo a diabetes del tipo 2 en adultos de alto riesgo, mucho mas eficientemente incluso que medicamentos. [[22](https://www.ncbi.nlm.nih.gov/pubmed/11832527)]
+Tenemos estudios aleatorizados que demuestran que un cambio de una dieta típicamente occidental a una dieta rica en verduras, frutas, granos enteros, poroto, lentejas, nueces, semillas, y consecuentemente reducida en carbohidratos refinados, azúcar y grasas saturadas, reduce drásticamente el riesgo a diabetes del tipo 2 en adultos de alto riesgo, mucho más eficientemente incluso que medicamentos. [[22](https://www.ncbi.nlm.nih.gov/pubmed/11832527)]
 
 Tenemos estudios aleatorizados que demuestran que un cambio de una dieta típica del norte de europa, rica en carne y leche, a una dieta mediterránea con menos cantidad de leche y carne y más abundancia en verduras, frutas y legumbres, causa una reducción drástica en ataques de corazón en adultos de riesgo elevado. [[23](https://www.ncbi.nlm.nih.gov/pubmed/9989963)]
 

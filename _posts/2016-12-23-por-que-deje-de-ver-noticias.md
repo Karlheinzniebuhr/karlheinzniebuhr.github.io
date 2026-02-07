@@ -19,7 +19,7 @@ Ahora llegamos a la frase de Mark Twain mas arriba. Los medios están llenos de 
 > La prioridad número 1 de la mayoría de medios es quitar noticias **lo antes posible** y con el **título más sensacionalista** **posible** para que la gente les de clicks.
 
 La calidad de información no es prioridad porque las noticias tienen una vida útil tan corta que después de unas de 1 día mayormente ya casi nadie entra a leerlos. Esto explica perfectamente la malísima calidad de las noticias.
-Quién va invertir un montón de trabajo en una noticia buena con datos bien corroborados si los periodistas están forzados en lanzar algo en pocos minutos, muchas veces en 10 minutos o menos, para lanzar la publicación a las redes sociales antes que los demás medios y así coleccionar más clicks?
+¿Quién va invertir un montón de trabajo en una noticia buena con datos bien corroborados si los periodistas están forzados en lanzar algo en pocos minutos, muchas veces en 10 minutos o menos, para lanzar la publicación a las redes sociales antes que los demás medios y así coleccionar más clicks?
 Una noticia que se redactó en (con suerte) pocas horas vs un libro en el cual se trabajó años o décadas, cuál es mas probable de contener información de calidad?
 
 #### Pero, cómo puedo informarme mejor?

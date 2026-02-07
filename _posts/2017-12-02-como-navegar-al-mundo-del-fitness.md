@@ -6,8 +6,8 @@ categories: [Blog]
 tags: [Health]
 ---
 
-Cuando primero empecé a entrenar en el gym no era muy buen investigador. Tenía 16 años mas o menos y única fuente de información eran los consejos que me daban en el gimnasio. Tuve la suerte de entrenar con la persona que más conocimientos sobre bodybuilding tenía en mi ciudad. Pero yo quería saber más.
-Me apasionaba tanto el entrenamiento que pronto ya hice el primer paso en mi investigación personal, compré la "[biblia del fisicoculturismo](https://www.amazon.com/New-Encyclopedia-Modern-Bodybuilding-Updated/dp/0684857219?tag=kasbl023-20)" de Arnold Schwarzenegger. Después de poco tiempo las personas ya me preguntaban cada vez mas por consejos de entrenamiento que obtuve de ese feroz libro que pesa por lo menos 2kg, y por mi progreso rápido.
+Cuando primero empecé a entrenar en el gym no era muy buen investigador. Tenía 16 años más o menos y única fuente de información eran los consejos que me daban en el gimnasio. Tuve la suerte de entrenar con la persona que más conocimientos sobre bodybuilding tenía en mi ciudad. Pero yo quería saber más.
+Me apasionaba tanto el entrenamiento que pronto ya hice el primer paso en mi investigación personal, compré la "[biblia del fisicoculturismo](https://www.amazon.com/New-Encyclopedia-Modern-Bodybuilding-Updated/dp/0684857219?tag=kasbl023-20)" de Arnold Schwarzenegger. Después de poco tiempo las personas ya me preguntaban cada vez más por consejos de entrenamiento que obtuve de ese feroz libro que pesa por lo menos 2kg, y por mi progreso rápido.
 Pero la duda que hoy quiero tocar es, cómo uno puede investigar sobre cuestiones de fitness cuando hay tanta información y desinformación en el internet?
 
 ## Pensamiento crítico

@@ -6,11 +6,11 @@ categories: [Blog]
 tags: [Crypto, Investing]
 ---
 
-En este post comparto el método más óptimo y fácil de hacer dinero invirtiendo en la crypto economía según mi experiencia personal, aparte de utilizar [Iconomi](https://www.karlbooklover.com/maximizar-retorno-de-inversion-en-la-cripto-economia/).
+En este post comparto el método más óptimo y fácil de hacer dinero invirtiendo en la crypto economía según mi experiencia personal, aparte de utilizar [Iconomi](https://www.karlbooklover.com/maximizar-retorno-de-inversion-en-la-cripto-economía/).
 
 El método consiste en comprar cerca la zona baja del ciclo, y vender en las cercanías de la zona alta. ¿Cómo identificar correctamente a las zonas?
 
-Para eso trazamos un líneas de trend sobre el gráfico en la escala logarítmica. Un gráfico logarítmico es nada mas que un método de visualizar al precio a largo plazo. Permite visualizar a los trends de forma más fácil. Aquí un ejemplo:
+Para eso trazamos un líneas de trend sobre el gráfico en la escala logarítmica. Un gráfico logarítmico es nada más que un método de visualizar al precio a largo plazo. Permite visualizar a los trends de forma más fácil. Aquí un ejemplo:
 
 ![](/assets/images/image-1024x422.png)
 

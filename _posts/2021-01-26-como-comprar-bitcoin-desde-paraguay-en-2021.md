@@ -31,4 +31,4 @@ Requisito es, tener una tarjeta de crédito.
 
 Por qué recomiendo Iconomi? Iconomi es una plataforma de "Open Fund Management" que te va a ayudar en minimizar al riesgo a través de la diversificación de tu inversión. También puede darte un retorno mucho más grande en tu inversión. Estamos hablando de 700% y más que 1500% en los portfolios ganadores del 2020.
 
-### [En este post explico los primeros pasos en Iconomi.](https://www.karlbooklover.com/maximizar-retorno-de-inversion-en-la-cripto-economia/)
+### [En este post explico los primeros pasos en Iconomi.](https://www.karlbooklover.com/maximizar-retorno-de-inversion-en-la-cripto-economía/)

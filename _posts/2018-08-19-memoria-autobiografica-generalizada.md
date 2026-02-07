@@ -10,7 +10,7 @@ Quiero escribir brevemente sobre algo que acabo de leer en el libro [Mindfulness
 
 Alguna vez has estado tan mal por un tiempo prolongado que pensaste que ya nunca más estarías bien? Es esa sensación de irreversibilidad que uno siente en esas situaciones puede ser un producto de PTSD, (post traumatic stress disorder) que normalmente es provocado por un evento traumático.
 
-El libro cuenta del caso de Kate. Kate terminó en un hospital por una sobredosis de antidepresivos. Ella no sabía como terminó así ya que le daba vergüenza pero, de algun modo terminó sentiendose así luego de haber tenido un accidente en donde llevaba a su sobrina. Todos los participantes salieron illesos del accidente pero de alguna forma ella se sentía culpable. Cada vez entraba más profundo a un ciclo negativo. Con el tiempo esos sentimientos solo podían describirse como estados mentales dolorosos y prolongados. Agitación, vacío, desesperanza, confusión. Ya no pensaba tanto en el evento si no que se enfocaba cada vez mas en su estado mental negativo en sí.
+El libro cuenta del caso de Kate. Kate terminó en un hospital por una sobredosis de antidepresivos. Ella no sabía como terminó así ya que le daba vergüenza pero, de algun modo terminó sentiendose así luego de haber tenido un accidente en donde llevaba a su sobrina. Todos los participantes salieron illesos del accidente pero de alguna forma ella se sentía culpable. Cada vez entraba más profundo a un ciclo negativo. Con el tiempo esos sentimientos solo podían describirse como estados mentales dolorosos y prolongados. Agitación, vacío, desesperanza, confusión. Ya no pensaba tanto en el evento sino que se enfocaba cada vez más en su estado mental negativo en sí.
 
 Cualquier
 persona que ha experimentado algo así sabrá que en momentos parece
@@ -45,7 +45,7 @@ con un humor genial, probablemente pensará que simplemente no le
 vieron. Pero si la persona se siente con angustia, puede ser que
 concluya que sus amistades estan tratando de evitarla.
 
-Vemos que mientras mas fuerte nuestra memoria general, mas se congela nuestra vista del mundo y tendemos a ver todo en forma general. No como eventos aislados si no que en blanco y negro. Lo bueno es, que podemos salir de esta situación, aunque no nos parezca posible.
+Vemos que mientras mas fuerte nuestra memoria general, mas se congela nuestra vista del mundo y tendemos a ver todo en forma general. No como eventos aislados sino que en blanco y negro. Lo bueno es, que podemos salir de esta situación, aunque no nos parezca posible.
 
 Un estudio ha encontrado que ocho semanas de entrenamiento mindfulness ayuda a nuestra memoria a trabajar más específicamente y menos overgeneral.
 

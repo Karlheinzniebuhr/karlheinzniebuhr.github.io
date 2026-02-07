@@ -6,7 +6,7 @@ categories: [Health]
 tags: [Health]
 ---
 
-Esta sopa es facil de preparar y increiblemente deliciosa/nutritiva. Especial para el invierno, y para los que practican deportes como yo y por lo tanto se benefician de una buena cantidad de proteínas.
+Esta sopa es fácil de preparar y increiblemente deliciosa/nutritiva. Especial para el invierno, y para los que practican deportes como yo y por lo tanto se benefician de una buena cantidad de proteínas.
 
 Ingredientes:
 

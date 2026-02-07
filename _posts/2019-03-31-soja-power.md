@@ -143,7 +143,7 @@ cáncer de mama, endometrial y de próstata.
 Estudios de animales demostraron que el isoflavone daidzein
 encontrado en SPI tiene un efecto normalizador sobre la produccion de
 hormonas sexuales en ambos generos. Los machos mostraron mas
-excreción de testosterona y la hormona de crecimiento, asi como
+excreción de testosterona y la hormona de crecimiento, así como
 crecimiento de masa muscular, mientras que las hembras experimentaron
 una reducción de esas hormonas y un aumento de pérdida de grasa.
 [3](https://www.researchgate.net/publication/8509565_Regulation_of_Male_Sex_Hormone_Levels_by_Soy_Isoflavones_in_Rats),[4](https://www.researchgate.net/publication/224956270_Bioavailability_and_Pharmacokinetics_of_Genistein_Mechanistic_Studies_on_its_ADME)

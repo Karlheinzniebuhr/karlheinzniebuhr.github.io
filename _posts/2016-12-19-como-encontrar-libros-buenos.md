@@ -10,7 +10,7 @@ Las personas más exitosas tienen algo en común. Hacen un hábito de por vida d
 Por estas y más razones, personas como Elon Musk (el empresario y geek celebrado), Jeff Bezos (CEO de Amazon, pero también devora libros), Warren Buffet (el inversionista mas famoso y rico) y Bill Gates, son ávidos lectores.
 > “Pero hay más que 120 millones de libros allí afuera, cómo puedo encontrar los que son realmente buenos y valen la pena??”
 
-Yo tengo dos estrategias para filtrar libros buenos. La primera consiste en buscar listas de los mejores libros de una categoría. El segundo metodo consiste en revisar qué leen y recomiendan las personas que admiro. Muchas veces el segundo filtro es mas preciso. Es decir una persona brillante puede estar en mejor posicion de dar recomendaciones que los votos populares en sitios como Amazon y Goodreads. Pero lo mejor es siempre combinar ambas estrategias. Empecemos con la primera.
+Yo tengo dos estrategias para filtrar libros buenos. La primera consiste en buscar listas de los mejores libros de una categoría. El segundo método consiste en revisar qué leen y recomiendan las personas que admiro. Muchas veces el segundo filtro es mas preciso. Es decir una persona brillante puede estar en mejor posicion de dar recomendaciones que los votos populares en sitios como Amazon y Goodreads. Pero lo mejor es siempre combinar ambas estrategias. Empecemos con la primera.
 
 #### Buscar listas de Bestsellers
 

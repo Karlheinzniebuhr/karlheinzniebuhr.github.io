@@ -13,7 +13,7 @@ Me re alegré cuando alguien compartió este excelente writeup sobre periodismo 
 
 [periodismo-de-datos](https://www.karlbooklover.com/wp-content/uploads/2020/09/periodismo-de-datos.pdf)[Download](https://www.karlbooklover.com/wp-content/uploads/2020/09/periodismo-de-datos.pdf)
 
-Últimamente estoy integrando cada vez mas al cloud en mis workflows, pero Google Cloud Dataprep fue algo nuevo para mi. Por supuesto lo probé enseguida y quedé encantado. Es tan potente como Power Query de PowerBI.
+Últimamente estoy integrando cada vez más al cloud en mis workflows, pero Google Cloud Dataprep fue algo nuevo para mi. Por supuesto lo probé enseguida y quedé encantado. Es tan potente como Power Query de PowerBI.
 
 ![Captura de pantalla de Power BI Desktop en la que se muestra el panel Configuración de la consulta del Editor de Power Query.](/assets/images/queryoverview_withdataconnection.png)
 

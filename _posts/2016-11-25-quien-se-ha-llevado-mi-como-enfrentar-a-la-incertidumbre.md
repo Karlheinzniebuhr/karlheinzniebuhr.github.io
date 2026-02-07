@@ -16,7 +16,7 @@ La parábola trata de dos personas pequeñas y dos ratones que viven dentro de u
 2. **Nada es para siempre, así que mantén los ojos abiertos hacia los cambios.** En vez de aferrarnos a cosas temporales, nos conviene mas adaptar la actitud simple de los ratones y dejar al lado el pasado para prestar atención a cosas nuevas.
 3. **Siempre habrá queso nuevo que encontrar, y el minuto en que comienzas a moverte todo cambiará para bien.** Esta última lección enseña que muchas veces los miedos acumulados son peores que los desafíos en si. Y una vez que comenzamos a movernos, las oportunidades nuevas surgirán de cualquier lugar.
 
-Como vemos los tres puntos apuntan hacia la misma dirección, cuando hay tanta incertidumbre que ni nuestros cerebros avanzados pueden crear un plan estratégico, a veces es mejor adaptar la actitud simple de los ratones, que no piensan demasiado si no que se mueven y buscan sin parar, hasta encontrar a su queso.
+Como vemos los tres puntos apuntan hacia la misma dirección, cuando hay tanta incertidumbre que ni nuestros cerebros avanzados pueden crear un plan estratégico, a veces es mejor adaptar la actitud simple de los ratones, que no piensan demasiado sino que se mueven y buscan sin parar, hasta encontrar a su queso.
 Espero que se pudo aprender algo de este resumen, no olvides en recomendarlo,
 Salud ?
 [Ah, y sígueme aquí para mas artículos en español](https://medium.com/karlamantedelibros)

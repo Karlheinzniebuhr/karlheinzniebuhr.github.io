@@ -41,7 +41,7 @@ Luego sólo quedaba parsear la tabla html que fue la parte que implicó más tra
 
 <https://github.com/Karlheinzniebuhr/the-weather-scraper>
 
-También aproveché y implementé una [búsqueda binaria](https://github.com/Karlheinzniebuhr/the-weather-scraper/blob/262681370d074fd7e884486bf4f13c2a6afb00b7/util/Utils.py#L49) para encontrar más rápidamente la primera fecha desde la cual existan datos registrados en cada estación. Fue la primera vez que implementé un algoritmo avanzado para resolver un problema real debido a que hoy en día en la ingeniería de software ya casi todo siempre está resuelto con alguna librería existente.
+También aproveché y implementé una [búsqueda binaria](https://github.com/Karlheinzniebuhr/the-weather-scraper/blob/262681370d074fd7e884486bf4f13c2a6afb00b7/útil/Utils.py#L49) para encontrar más rápidamente la primera fecha desde la cual existan datos registrados en cada estación. Fue la primera vez que implementé un algoritmo avanzado para resolver un problema real debido a que hoy en día en la ingeniería de software ya casi todo siempre está resuelto con alguna librería existente.
 
 ## El análisis de los datos
 
