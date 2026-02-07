@@ -8,7 +8,7 @@ tags: [Self-Improvement]
 archived: true
 ---
 
-En su libro [Remote office not requiered](http://37signals.com/remote/) David Heinemeier el creador del framework Ruby on Rails habla sobre los beneficios que trae el trabajo remoto. Los datos de este post saque de [esta entrevista con David](https://www.youtube.com/watch?v=pTjS0o-ZIRg ).
+En su libro [Remote office not required](http://37signals.com/remote/) David Heinemeier el creador del framework Ruby on Rails habla sobre los beneficios que trae el trabajo remoto. Los datos de este post saque de [esta entrevista con David](https://www.youtube.com/watch?v=pTjS0o-ZIRg ).
 Hoy en dia gracias al Internet y una variedad grande de herramientas que facilitan la cooperación de equipos online, el trabajo remoto se ha vuelto extremadamente fácil. Esto hace 20 años no hubiera sido posible. 
 <!--more-->
 *Por qué es mejor el trabajo remoto?* 

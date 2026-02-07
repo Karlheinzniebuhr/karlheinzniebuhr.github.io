@@ -12,7 +12,7 @@ Warren Buffet es el inversor más famoso y exitoso del mundo. Pero su sabiduría
 
 Warren le gusta hacer un pequeño experimento cuando interactúa con alumnos. El juego va así.
 > "Si pudieran elegir a uno de sus compañeros y recibirían el 10% de sus ingresos por el resto de sus vidas, a quién elegirían?
-> Y en qué piensan cuando hacen una elección? Probablemente no elegirían a la persona con las mejores notas en la clase. No hay nada malo con buenas notas, pero no será esa la cualidad que diferencia a un ganador grande del resto. Piensen en quién elegirían y por qué. Pienso que todos aquí tienen la energía, todos tienen la inteligencia, pero algunos de ustedes serán ganadores mas grandes que otros.
+> Y en qué piensan cuando hacen una elección? Probablemente no elegirían a la persona con las mejores notas en la clase. No hay nada malo con buenas notas, pero no será esa la cualidad que diferencia a un ganador grande del resto. Piensen en quién elegirían y por qué. Pienso que todos aquí tienen la energía, todos tienen la inteligencia, pero algunos de ustedes serán ganadores más grandes que otros.
 > Y resulta que depende de cualidades que curiosamente están hechas por esfuerzo propio. Son un montón de cualidades que resultan de Ben Franklin o el Boy Scout codes, o lo que sea. Es integridad, es honestidad, es generosidad, es la disposición de hacer más de lo requerido, son todas estas cualidades que resultan del esfuerzo propio.
 > Cuando contratamos a personas miramos a inteligencia, energía e integridad. Pero si no poseen la ultima cualidad, las primeras dos te matarán. Porque cuando tienes a alguien sin integridad, lo quieres flojo y tonto. Así que es la tercera cualidad la esencial, y todo sobre esa cualidad es tú decisión.
 > ...

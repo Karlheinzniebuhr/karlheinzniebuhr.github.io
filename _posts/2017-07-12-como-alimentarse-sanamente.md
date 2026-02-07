@@ -6,7 +6,7 @@ categories: [Blog]
 tags: [Health]
 ---
 
-Leí muchos libros sobre nutrición y salud. Hasta ahora ninguno le superó al libro de Michael Gregor. Su libro llamado [Comer para no morir](https://www.amazon.com/Comer-para-morir-cient%C3%ADficamente-enfermedades-ebook/dp/B01DV0XBU6?tag=kasbl023-20). Por qué? Por la cantidad de estudios en los que se basó. No conozco otro doctor que haya pasado semejante cantidad de años investigando la evidencia científica sobre la nutrición sana. En síntesis, es el libro con mas ciencia de nutrición que conozco. Y la tesis central del libro es, que hay un montón de enfermedades típicas que se pueden revertir con un simple cambio a una alimentación basada en plantas.
+Leí muchos libros sobre nutrición y salud. Hasta ahora ninguno le superó al libro de Michael Gregor. Su libro llamado [Comer para no morir](https://www.amazon.com/Comer-para-morir-cient%C3%ADficamente-enfermedades-ebook/dp/B01DV0XBU6?tag=kasbl023-20). Por qué? Por la cantidad de estudios en los que se basó. No conozco otro doctor que haya pasado semejante cantidad de años investigando la evidencia científica sobre la nutrición sana. En síntesis, es el libro con más ciencia de nutrición que conozco. Y la tesis central del libro es, que hay un montón de enfermedades típicas que se pueden revertir con un simple cambio a una alimentación basada en plantas.
 Estas son algunas de las condiciones que una alimentación de origen vegetal puede prevenir o incluso tratar:
 
 - diabetes
@@ -60,5 +60,5 @@ Me preguntan con frecuencia qué como a diario. Y siempre dudo en responder, por
 
 ---
 
-Si leísto todo se te debieron prender algunas luces. Una vez que entiendas a la ciencia, es fácil orientarse por el semáforo de la alimentación sana de arriba. No te olvides de compartir el artículo para ayudarle a otras personas cambiarse a una alimentación mas sana.
+Si leíste todo se te debieron prender algunas luces. Una vez que entiendas a la ciencia, es fácil orientarse por el semáforo de la alimentación sana de arriba. No te olvides de compartir el artículo para ayudarle a otras personas cambiarse a una alimentación más sana.
 Referencias disponibles en [el libro](https://www.amazon.com/Comer-morir-Michael-Greger-Stone/dp/844933215X?tag=kasbl023-20)

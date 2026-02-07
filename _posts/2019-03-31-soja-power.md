@@ -132,7 +132,7 @@ potente. Lo importante de entender es que es 1000 veces más débil
 que estradiol, el estrogeno primario del cuerpo. Esto significa que
 daidzein compite con los estrógenos más fuertes para ocupar sitios
 disponibles de receptores de estrógeno del cuerpo. Es interesante
-para fisicoculturistas ya que con daidzeine, una cantidad mas alta de
+para fisicoculturistas ya que con daidzeine, una cantidad más alta de
 receptores de estrógeno se mantienen inactivos. Muchos
 investigadores creen que esta es la razón por la cual se encontró
 que la soja reduce el riesgo de diferentes tipos de cáncer como el
@@ -170,7 +170,7 @@ Glutamine (per 100g)
 #### **Los super-poderes de la Glutamina**
 
 A pesar de que muchos fisicoculturistas saben de los beneficios de la
-glutamina, pocos saben que SPI contiene la concentración mas alta de
+glutamina, pocos saben que SPI contiene la concentración más alta de
 este aminoácido, más que el doble que el whey protein! [5](https://www.metabolismjournal.com/article/0026-0495(89)90131-5/pdf)
 
 Glutamina ha sido utilizada por años en hospitales para acelerar a

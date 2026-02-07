@@ -47,7 +47,7 @@ Ok supongamos por un momento que por alguna razón misteriosa realmente sos una 
 
 Tengo unos tips para esa situación. **Hay métodos para leer a pesar de no tener tiempo para sentarse tranquilamente con un libro. Por ejemplo hacer uso de audiolibros.**
 
-Audiolibros son una de las mejores métodos para aprender que trajo la tecnología. TODOS tenemos smartphone, así que no hay excusa. Cualquier smartphone nos da la posibilidad de instalar una aplicación y escuchar mientras que estamos **yendo al trabajo**, mientras que estamos **haciendo ejercicios**, mientras que estamos **comiendo,** o durante cualquier otra actividad en donde podemos escuchar algo con auriculares.
+Audiolibros son uno de los mejores métodos para aprender que trajo la tecnología. TODOS tenemos smartphone, así que no hay excusa. Cualquier smartphone nos da la posibilidad de instalar una aplicación y escuchar mientras que estamos **yendo al trabajo**, mientras que estamos **haciendo ejercicios**, mientras que estamos **comiendo,** o durante cualquier otra actividad en donde podemos escuchar algo con auriculares.
 
 #### Audible es una de las mejores aplicaciones de audiolibros
 
@@ -109,7 +109,7 @@ Fui inspirado por [este post](http://ryanholiday.net/how-to-read-more-a-lot-more
 
 [No olvides de suscribirte a mi mailing list nueva en donde enviaré resumenes de libros!](https://tinyletter.com/booklover)
 
-Si te gusto el post, favor recomiéndalo.
+Si te gustó el post, favor recomiéndalo.
 
 ![](/assets/images/1_I4YmEwNKkCif1LYXWDQy9A.gif)
 

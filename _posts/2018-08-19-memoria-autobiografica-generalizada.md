@@ -45,7 +45,7 @@ con un humor genial, probablemente pensará que simplemente no le
 vieron. Pero si la persona se siente con angustia, puede ser que
 concluya que sus amistades estan tratando de evitarla.
 
-Vemos que mientras mas fuerte nuestra memoria general, mas se congela nuestra vista del mundo y tendemos a ver todo en forma general. No como eventos aislados sino que en blanco y negro. Lo bueno es, que podemos salir de esta situación, aunque no nos parezca posible.
+Vemos que mientras más fuerte nuestra memoria general, mas se congela nuestra vista del mundo y tendemos a ver todo en forma general. No como eventos aislados sino que en blanco y negro. Lo bueno es, que podemos salir de esta situación, aunque no nos parezca posible.
 
 Un estudio ha encontrado que ocho semanas de entrenamiento mindfulness ayuda a nuestra memoria a trabajar más específicamente y menos overgeneral.
 

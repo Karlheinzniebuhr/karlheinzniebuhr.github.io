@@ -14,7 +14,7 @@ tags: [Health]
 - Thursday: Shoulders/Calves
 - Friday: Biceps/Triceps
 
-Claramente este método funciona. Pero es realmente la forma más óptima de aumentar masa muscular o hay otros planes de entrenamiento que nos darían resultados aún mas grandes? Existen estudios que nos pueden dar mas claridad sobre el asunto? Por suerte sí, ahora tenemos varios estudios con datos muy interesantes.
+Claramente este método funciona. Pero es realmente la forma más óptima de aumentar masa muscular o hay otros planes de entrenamiento que nos darían resultados aún más grandes? Existen estudios que nos pueden dar mas claridad sobre el asunto? Por suerte sí, ahora tenemos varios estudios con datos muy interesantes.
 
 [El primer estudio](https://www.researchgate.net/publication/232186690_Comparison_of_1_Day_and_3_Days_Per_Week_of_Equal-Volume_Resistance_Training_in_Experienced_Subjects) que tenemos comparó a dos grupos de atletas profesionales. Es muy interesante aquí el hecho de que eran atletas profesionales porque así podemos excluir la posibilidad de que no obtuvieron resultados buenos por no manejar bien las técnicas etc. El primer grupo entrenó 1 vez por semana y el segundo grupo 3 veces por semana.
 

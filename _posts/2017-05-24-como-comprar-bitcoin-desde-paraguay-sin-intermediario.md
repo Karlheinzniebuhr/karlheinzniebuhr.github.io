@@ -7,7 +7,7 @@ tags: [Business, Crypto, Investing]
 ---
 
 Después de mi post sobre [como invertir en Bitcoin](http://www.karlbooklover.com/la-manera-mas-simple-de-invertir-en-bitcoin/) muchos me preguntaron como pueden comprar Bitcoin desde Paraguay. Coinbase y otros servicios no esta habilitado para nuestro país. Para resolver este problema mostrare paso a paso como comprar Bitcoins sin recurrir a intermediarios.
-Utilizaremos un servicio que se llama [CEX](https://cex.io/r/0/up105698913/0/). *Qué es Cex y por qué necesito una cuenta*? Para comprar bitcoins uno necesita una billetera virtual. Debido a que la moneda es digital, uno necesita una billetera digital para guardarlos. La opción mas fácil para abrir una billetera es utilizando uno de los servicios confiables como ~~Coinbase~~ y Cex.
+Utilizaremos un servicio que se llama [CEX](https://cex.io/r/0/up105698913/0/). *Qué es Cex y por qué necesito una cuenta*? Para comprar bitcoins uno necesita una billetera virtual. Debido a que la moneda es digital, uno necesita una billetera digital para guardarlos. La opción más fácil para abrir una billetera es utilizando uno de los servicios confiables como ~~Coinbase~~ y Cex.
 
 ## Paso 1: Entrar en [CEX](https://cex.io/r/0/up105698913/0/)
 
@@ -27,7 +27,7 @@ Luego se abrirá otra página en donde tienes que hacer click en **Registro Comp
 La seguridad es sumamente importante en las billeteras digitales. Por lo tanto se recomienda activar la autenticación de 2 pasos.
 ![](/assets/images/Screen-Shot-2017-05-24-at-15.56.45-1024x737.png)
 Hay dos formas de activar la autenticación de 2 pasos, vía **SMS** o vía una aplicación llamada **Google Authenticator**.
-Para usar **Google Authenticator** tienes que buscar  e instalar primero la aplicación "Google Authenticator" a través delapp store o play store. Luego agregar tu cuenta de Gmail/Google a dicha aplicación.
+Para usar **Google Authenticator** tienes que buscar  e instalar primero la aplicación "Google Authenticator" a través del app store o play store. Luego agregar tu cuenta de Gmail/Google a dicha aplicación.
 El siguiente paso es hacer click en el primer botón arriba (Smartphone app). Te aparecerá un código QR el cual tienes que escanear con tu aplicación Google Authenticator.
 Si prefieres activar vía SMS tienes que hacer click en el segundo botón (SMS/Phone request) y luego ingresar el código del país y tu número. Luego hacer click en Código SMS o Llamada. Te llegará el código que después ingresas al campo indicado.
 ![](/assets/images/Screen-Shot-2017-05-24-at-16.07.03-300x245.png)
@@ -55,9 +55,9 @@ Puedes apretar el botón cerrar para volver a la página anterior y luego Cerrar
 
 ## Paso 6: Comprar Bitcoin 🤑
 
-En la página principal te aparecerá tu capital recien depositado.
+En la página principal te aparecerá tu capital recién depositado.
 ![](/assets/images/Screen-Shot-2017-05-24-at-17.24.59-1024x187.png)
-Para comprar Bitcoin simplemente tienes que ingresar el monto deseado mas abajo. El monto mínimo es de 0.01 Bitcoin, por esta razón recomendé depositar 30 o mas $.
+Para comprar Bitcoin simplemente tienes que ingresar el monto deseado más abajo. El monto mínimo es de 0.01 Bitcoin, por esta razón recomendé depositar 30 o más $.
 ![](/assets/images/Screen-Shot-2017-05-24-at-17.27.07-1024x557.png)
 Ya está! Tu Capital de Bitcoin aparecerá arriba al lado del capital en USD.
 Si te ayudó este post compártelo con tus amigos, juntos podemos salvar al país de los esquemas fraudulentos.

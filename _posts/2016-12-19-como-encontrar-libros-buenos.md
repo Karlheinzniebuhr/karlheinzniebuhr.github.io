@@ -7,10 +7,10 @@ tags: [Books, Education, Self-Improvement]
 ---
 
 Las personas más exitosas tienen algo en común. Hacen un hábito de por vida del aprendizaje. Y una de las mejores formas de aprender es leer libros. La humanidad ha transferido su conocimiento a los libros desde hace más que 5000 años.
-Por estas y más razones, personas como Elon Musk (el empresario y geek celebrado), Jeff Bezos (CEO de Amazon, pero también devora libros), Warren Buffet (el inversionista mas famoso y rico) y Bill Gates, son ávidos lectores.
+Por estas y más razones, personas como Elon Musk (el empresario y geek celebrado), Jeff Bezos (CEO de Amazon, pero también devora libros), Warren Buffet (el inversionista más famoso y rico) y Bill Gates, son ávidos lectores.
 > “Pero hay más que 120 millones de libros allí afuera, cómo puedo encontrar los que son realmente buenos y valen la pena??”
 
-Yo tengo dos estrategias para filtrar libros buenos. La primera consiste en buscar listas de los mejores libros de una categoría. El segundo método consiste en revisar qué leen y recomiendan las personas que admiro. Muchas veces el segundo filtro es mas preciso. Es decir una persona brillante puede estar en mejor posicion de dar recomendaciones que los votos populares en sitios como Amazon y Goodreads. Pero lo mejor es siempre combinar ambas estrategias. Empecemos con la primera.
+Yo tengo dos estrategias para filtrar libros buenos. La primera consiste en buscar listas de los mejores libros de una categoría. El segundo método consiste en revisar qué leen y recomiendan las personas que admiro. Muchas veces el segundo filtro es más preciso. Es decir una persona brillante puede estar en mejor posicion de dar recomendaciones que los votos populares en sitios como Amazon y Goodreads. Pero lo mejor es siempre combinar ambas estrategias. Empecemos con la primera.
 
 #### Buscar listas de Bestsellers
 
@@ -34,7 +34,7 @@ Por supuesto todas estas recomendaciones están en Inglés. Si no quieres leer e
 
 #### Listas en Goodreads
 
-Las listas en Goodreads son otra mina de oro. Goodreads es una de las plataformas mas grandes de lectores, y un conjunto así tiene capacidad inmensa de filtrar los libros buenos. También me encontrarás ahi aunque no siempre actualizo lo que leo.
+Las listas en Goodreads son otra mina de oro. Goodreads es una de las plataformas más grandes de lectores, y un conjunto así tiene capacidad inmensa de filtrar los libros buenos. También me encontrarás ahi aunque no siempre actualizo lo que leo.
 Para abrir el buscador de listas de Goodreads entra en este enlace: <https://www.goodreads.com/list/>
 Una de mis listas favoritas es la de negocios.
 [Best Business Books](https://www.goodreads.com/list/show/1170.Best_Business_Books#)

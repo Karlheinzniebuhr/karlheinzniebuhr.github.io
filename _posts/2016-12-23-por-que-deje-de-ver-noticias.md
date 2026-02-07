@@ -8,19 +8,19 @@ categories: [Blog]
 > “If you don’t read the newspaper, you’re uninformed. If you read the newspaper, you’re mis-informed.” — Mark Twain
 
 En informática hay un término “**garbage in, garbage out**”. Basura entra, basura sale. Lastimosamente al consumir cualquier noticia en las redes sociales, exponemos a nuestro cerebro al mismo principio.
-Hace años dejé de mirar a la tele y fue una de as mejores decisiones que hice. Pero a pesar de eso seguía leyendo noticias en Internet. Es muchísimo mejor que TV porque en Internet puedo elegir la fuente de información y no me expongo a la ? de los programas de televisión.
+Hace años dejé de mirar a la tele y fue una de las mejores decisiones que hice. Pero a pesar de eso seguía leyendo noticias en Internet. Es muchísimo mejor que TV porque en Internet puedo elegir la fuente de información y no me expongo a la ? de los programas de televisión.
 Pero hace aproximadamente un año dejé de leer casi por completo noticias. Y fue otro gran paso adelante que me hizo muy bien. Al parar de leer noticias que de todas formas mayormente eran irrelevantes para mi vida personal, me liberé de un montón de tiempo que podía usar para leer cosas que si valen la pena, como libros.
 Parar de leer noticias no es irresponsable y no te convierte en una persona desinformada necesariamente. Lo que yo hago es activar las notificaciones push de una aplicación de un noticiero de calidad como [FAZ](http://faz.net) y configuré para que solamente me envíe noticias de **alta prioridad**. Por ejemplo cuando hay un ataque terrorista.
 De esta forma aseguro enterarme de sucesos realmente importantes que potencialmente me influyan más directamente, que es lo que me interesa.
 
 #### Uno puede estar mejor informado leyendo libros
 
-Ahora llegamos a la frase de Mark Twain mas arriba. Los medios están llenos de mierda lastimosamente como bien dijo [Denzel en esta entrevista](https://www.youtube.com/watch?v=KrE1ZvldiFE).
+Ahora llegamos a la frase de Mark Twain más arriba. Los medios están llenos de mierda lastimosamente como bien dijo [Denzel en esta entrevista](https://www.youtube.com/watch?v=KrE1ZvldiFE).
 > La prioridad número 1 de la mayoría de medios es quitar noticias **lo antes posible** y con el **título más sensacionalista** **posible** para que la gente les de clicks.
 
 La calidad de información no es prioridad porque las noticias tienen una vida útil tan corta que después de unas de 1 día mayormente ya casi nadie entra a leerlos. Esto explica perfectamente la malísima calidad de las noticias.
 ¿Quién va invertir un montón de trabajo en una noticia buena con datos bien corroborados si los periodistas están forzados en lanzar algo en pocos minutos, muchas veces en 10 minutos o menos, para lanzar la publicación a las redes sociales antes que los demás medios y así coleccionar más clicks?
-Una noticia que se redactó en (con suerte) pocas horas vs un libro en el cual se trabajó años o décadas, cuál es mas probable de contener información de calidad?
+Una noticia que se redactó en (con suerte) pocas horas vs un libro en el cual se trabajó años o décadas, cuál es más probable de contener información de calidad?
 
 #### Pero, cómo puedo informarme mejor?
 

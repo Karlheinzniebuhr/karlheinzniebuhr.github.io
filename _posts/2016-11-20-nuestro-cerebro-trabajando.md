@@ -23,7 +23,7 @@ La solución es hacer TO-DO lists ordenando las tareas por prioridad. De esta fo
 
 Ganar hace sentirnos bien y libera ciertas hormonas (dopamina, serotonina) y baja otras como el cortisol, la hormona de estrés.
 
-Resulta ser que las hormonas que bajan el estrés y nos hacen sentir bien también mejoran la conectividad de las neuronas, haciendo que nuestro cerebro trabaje de forma mas eficiente. ¿Quien no quisiera eso?
+Resulta ser que las hormonas que bajan el estrés y nos hacen sentir bien también mejoran la conectividad de las neuronas, haciendo que nuestro cerebro trabaje de forma más eficiente. ¿Quien no quisiera eso?
 
 Pero si competimos contra otros siempre vamos a perder en algún momento, una mejor estrategia es competir contra nosotros mismos. Tratando de mejorar un poco cada día, estamos mejores que ayer, y por lo tanto tenemos una respuesta hormonal positiva.
 

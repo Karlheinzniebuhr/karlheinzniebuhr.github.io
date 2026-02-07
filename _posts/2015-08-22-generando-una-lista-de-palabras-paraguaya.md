@@ -23,10 +23,10 @@ Números de esa magnitud con [slow hash's](http://crypto.stackexchange.com/quest
 Los diccionarios se producen de forma que ya casi siempre incluyen palabras como “crackme123”. Es un fenómeno conocido que las personas tienden a agregar números al final de sus contraseñas, probablemente lo hayas hecho también. Si en este momento su contraseña sigue siendo de esta forma “MiConTraseÑa123” te recomiendo cambiar por algo como “MiCon321TraseÑa”. ;)  
 
 **Un diccionario para el Paraguay?**
-Los diccionarios de palabras se suelen crear para un lenguaje o un lugar/empresa en especifico. Mientras mas especifico el diccionario mas eficiente el ataque. Resulta que en nuestro país usamos palabras poco comunes en otras partes del mundo. Obviamente esta el guaraní pero hasta el castellano tiene ciertas palabras que uno no encuentra en las listas de palabras descargadas de internet. Por este motivo decidí hacer mi propio diccionario.
+Los diccionarios de palabras se suelen crear para un lenguaje o un lugar/empresa en especifico. Mientras más especifico el diccionario más eficiente el ataque. Resulta que en nuestro país usamos palabras poco comunes en otras partes del mundo. Obviamente esta el guaraní pero hasta el castellano tiene ciertas palabras que uno no encuentra en las listas de palabras descargadas de internet. Por este motivo decidí hacer mi propio diccionario.
 
 **El proceso de armar el diccionario**
-Me puse a pensar que la forma mas fácil de generar una lista de palabras seria coleccionar palabras de páginas web y foros paraguayos de forma automática con ayuda de un script. No tardé en encontrar una herramienta existente para realizar esta tarea llamada [CeWL](https://digi.ninja/projects/cewl.php).
+Me puse a pensar que la forma más fácil de generar una lista de palabras seria coleccionar palabras de páginas web y foros paraguayos de forma automática con ayuda de un script. No tardé en encontrar una herramienta existente para realizar esta tarea llamada [CeWL](https://digi.ninja/projects/cewl.php).
 Empecé con el foro http://www.lajaula.com.py/ en el cual deje que la [araña web](https://es.wikipedia.org/wiki/Ara%C3%B1a_web) de CeWL entre a profundidad 3. La profundidad o “hops” en ingles son la cantidad de links que se aleja la araña web desde la página central.
 
 {% include image_full.html imageurl="/images/posts/hops.png" title="" caption="" %}

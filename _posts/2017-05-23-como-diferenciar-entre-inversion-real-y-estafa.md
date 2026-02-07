@@ -16,7 +16,7 @@ Inversiones reales implican riesgo y uno no puede saber de antemano cuanto diner
 
 ### Inversionistas reales no reclutan gente con afiliación pagada
 
-Si alguien te quiere reclutar para entrar en un programa en donde debes pagar "invertir" cierto monto para entrar, y luego reclutar a mas personas, debe prenderse tu alarma. Se trata de un esquema fraudulento llamado Ponzi en donde la ROI se financia con el dinero de los "inversores" nuevos.
+Si alguien te quiere reclutar para entrar en un programa en donde debes pagar "invertir" cierto monto para entrar, y luego reclutar a más personas, debe prenderse tu alarma. Se trata de un esquema fraudulento llamado Ponzi en donde la ROI se financia con el dinero de los "inversores" nuevos.
 Las inversiones reales esperan a ser descubiertas por gente que entiende de inversiones. Alguna vez has visto personas de Microsoft, Google, Tesla etc recorrer a las redes para reclutar inversionistas con afiliaciones? Inversionistas reales no se van a reclutar gente al menos que seas un multi-millonario famoso.
 
 ### Googlea...
