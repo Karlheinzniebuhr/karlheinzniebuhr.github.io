@@ -2,8 +2,9 @@
 layout: post
 title: "How to Win Friends & Influence People — Summary"
 date: 2016-12-16 14:17:43 +0000
-categories: ["Book Summaries", "Success", "Social"]
-tags: ["social", "friends", "networking", "success", "business"]
+categories: [Book Summaries, Culture, Self-Improvement]
+tags: [Business, Culture, Self-Improvement, Technology]
+book: true
 ---
 
 > This is one of the books everyone should read to get the most out of life.

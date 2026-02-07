@@ -2,8 +2,8 @@
 layout: post
 title: "Soja power"
 date: 2019-03-31 13:47:29 +0000
-categories: ["Blog-es"]
-tags: ["fitness", "proteina"]
+categories: [Blog]
+tags: [Health]
 excerpt: "Todo empezó cuando por casualidad tomé mi smootie de proteína de soja, antes de ir a entrenar en el gimnasio. Normalmente lo tomaba después, pero por alguna razón ese día lo tomé antes. Noté una gran "
 ---
 

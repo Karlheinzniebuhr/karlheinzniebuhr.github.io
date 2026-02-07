@@ -11,8 +11,10 @@ sass:
 
 # Navigation
 navigation:
-- text: Home
+- text: Blog
   url: /
+- text: Books
+  url: /books/
 - text: Topics
   url: /topics/
 - text: Archive

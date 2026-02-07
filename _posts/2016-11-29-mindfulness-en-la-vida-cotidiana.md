@@ -2,7 +2,8 @@
 layout: post
 title: "‘Mindfulness en la vida cotidiana’"
 date: 2016-11-29 12:40:41 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 [*Mindfulness en la vida cotidiana* es un libro que enseña cómo practicar *mindfulness* o conciencia plena sin practicar meditación formal.](https://www.amazon.com/gp/product/8449322774/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=8449322774&linkId=7f48a8caadb78e22fbaa056909893570)

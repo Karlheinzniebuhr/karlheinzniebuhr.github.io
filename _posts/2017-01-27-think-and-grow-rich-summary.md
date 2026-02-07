@@ -2,8 +2,9 @@
 layout: post
 title: "Think and grow rich — Summary"
 date: 2017-01-27 21:55:36 +0000
-categories: ["Book Summaries", "Success", "Business"]
-tags: ["success", "business", "money", "self-development", "self-improvement"]
+categories: [Book Summaries, Business, Self-Improvement]
+tags: [Business, Investing, Self-Improvement]
+book: true
 ---
 
 > Learn from the classic book of Success

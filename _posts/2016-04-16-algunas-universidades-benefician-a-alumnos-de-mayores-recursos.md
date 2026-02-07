@@ -4,7 +4,7 @@ layout: post
 title: "Algunas Universidades benefician a alumnos de mayores recursos"
 date: 2016-04-16
 categories: es
-tags: [español, education, paraguay]
+tags: [Culture, Education]
 archived: true
 ---
 

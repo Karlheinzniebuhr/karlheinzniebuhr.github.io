@@ -2,8 +2,8 @@
 layout: post
 title: "Cómo encontrar libros buenos"
 date: 2016-12-19 12:56:16 +0000
-categories: ["Blog-es"]
-tags: ["Libros", "exito", "aprendizaje", "leer"]
+categories: [Blog]
+tags: [Books, Education, Self-Improvement]
 ---
 
 Las personas más exitosas tienen algo en común. Hacen un hábito de por vida del aprendizaje. Y una de las mejores formas de aprender es leer libros. La humanidad ha transferido su conocimiento a los libros desde hace más que 5000 años.

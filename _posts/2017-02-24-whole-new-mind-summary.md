@@ -2,8 +2,9 @@
 layout: post
 title: "A whole new mind -- Summary"
 date: 2017-02-24 14:46:35 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["mind", "happiness", "holistic", "psychology", "self-development", "spirituality"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Health, Meditation, Psychology, Self-Improvement]
+book: true
 ---
 
 > Learn why big picture-holistic thinking is, and will become even more important in the future.

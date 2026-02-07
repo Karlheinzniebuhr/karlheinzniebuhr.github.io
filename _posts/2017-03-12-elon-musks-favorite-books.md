@@ -2,8 +2,9 @@
 layout: post
 title: "Elon Musk's favorite Books"
 date: 2017-03-12 21:27:50 +0000
-categories: ["Book Recommendations"]
-tags: ["books", "Elon Musk", "science", "self-development", "self-improvement"]
+categories: [Book Excerpts]
+tags: [Biographies, Books, Science, Self-Improvement]
+book: true
 ---
 
 Hey Musk, how do you learn to build rockets?

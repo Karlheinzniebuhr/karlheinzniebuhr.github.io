@@ -2,8 +2,8 @@
 layout: post
 title: "Cómo alimentarse sanamente basado en la ciencia de la nutrición"
 date: 2017-07-12 15:20:41 +0000
-categories: ["Blog-es"]
-tags: ["nutricion", "salud", "fitness", "veganismo", "alimentacion"]
+categories: [Blog]
+tags: [Health]
 ---
 
 Leí muchos libros sobre nutrición y salud. Hasta ahora ninguno le superó al libro de Michael Gregor. Su libro llamado [Comer para no morir](https://www.amazon.com/Comer-para-morir-cient%C3%ADficamente-enfermedades-ebook/dp/B01DV0XBU6?tag=kasbl023-20). Por qué? Por la cantidad de estudios en los que se basó. No conozco otro doctor que haya pasado semejante cantidad de años investigando la evidencia científica sobre la nutrición sana. En síntesis, es el libro con mas ciencia de nutrición que conozco. Y la tesis central del libro es, que hay un montón de enfermedades típicas que se pueden revertir con un simple cambio a una alimentación basada en plantas.

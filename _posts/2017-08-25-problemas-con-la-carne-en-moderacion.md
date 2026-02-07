@@ -2,8 +2,8 @@
 layout: post
 title: "Es mejor carne en \"moderación\" o no comer carne en absoluto?"
 date: 2017-08-25 20:13:03 +0000
-categories: ["Blog-es"]
-tags: ["nutricion", "salud", "medicina", "ciencia", "diabetes"]
+categories: [Blog]
+tags: [Health, Science]
 ---
 
 La mayoría de personas tienen esta noción de "todo en moderación" cuando de alimentación se trata, es lo más sano. Ese argumento no hace mas sentido que decir que fumar en moderación es sano. Hay cosas que no son sanas por más que se consuman en moderación incluso si formen parte de la dieta estándar de la mayoría de las personas. En este artículo analizaremos si comer carne en moderación es sano/aceptable.

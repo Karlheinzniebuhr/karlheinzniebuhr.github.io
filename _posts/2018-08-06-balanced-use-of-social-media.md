@@ -2,7 +2,7 @@
 layout: post
 title: "Balanced use of social media"
 date: 2018-08-06 17:58:04 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 In this last year, I noticed my social media usage dropped roughly inversely proportional to my meditation practice. I found that very interesting. It wasn't that I hadn't heard or read about the harm of heavy social media usage, but I didn't consider myself to be a heavy social media user at all.

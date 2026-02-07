@@ -2,8 +2,8 @@
 layout: post
 title: "Brócoli Salteado"
 date: 2018-09-05 14:22:24 +0000
-categories: ["Recipes"]
-tags: ["recetas veganas", "veggie"]
+categories: [Health]
+tags: [Health]
 ---
 
 Una de mis recetas favoritas es el brócoli salteado con arroz. Es rápido de preparar como casi todas mis recetas.

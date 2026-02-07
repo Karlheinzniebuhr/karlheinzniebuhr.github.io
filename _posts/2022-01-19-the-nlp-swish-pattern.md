@@ -2,7 +2,7 @@
 layout: post
 title: "The NLP Swish Pattern"
 date: 2022-01-19 10:26:18 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 Tony Robbin's Personal Power II helped me a lot to re-program myself and my life. One technique that particularly got my attention is the Swish Pattern. Here is an example from [this post about anchoring in PPII](https://ezinearticles.com/?Tony-Robbins---Personal-Power-II---Day-16---Successful-Anchoring&id=5449542).

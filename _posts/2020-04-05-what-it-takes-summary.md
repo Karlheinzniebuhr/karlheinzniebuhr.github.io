@@ -2,8 +2,9 @@
 layout: post
 title: "What It Takes -- Summary"
 date: 2020-04-05 16:34:14 +0000
-categories: ["Investing", "Education", "Business", "Biographies", "Book Summaries"]
-tags: ["Biographies", "wall street", "investing"]
+categories: [Biographies, Book Summaries, Business, Education, Investing]
+tags: [Biographies, Investing]
+book: true
 ---
 
 My high expectations for this book turned out to be accurate. [What it takes](https://www.amazon.com/What-Takes-Lessons-Pursuit-Excellence/dp/1501158147?tag=kasbl023-20) is a must read if you are interested in the reasoning process one of the biggest investors uses to make good decisions.

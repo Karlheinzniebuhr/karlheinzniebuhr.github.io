@@ -2,8 +2,9 @@
 layout: post
 title: "Becoming Steve Jobs - Summary"
 date: 2017-11-21 10:45:00 +0000
-categories: ["Book Summaries", "Biographies"]
-tags: ["Steve Jobs", "Innovation", "success", "Entrepreneurship", "technology"]
+categories: [Biographies, Book Summaries]
+tags: [Biographies, Blogging, Business, Science, Self-Improvement]
+book: true
 ---
 
 > Learn about the fascinating evolution of Steve Jobs

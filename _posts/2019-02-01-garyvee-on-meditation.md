@@ -2,8 +2,8 @@
 layout: post
 title: "GaryVee on meditation"
 date: 2019-02-01 20:31:22 +0000
-categories: ["Blog"]
-tags: ["meditation", "success"]
+categories: [Blog]
+tags: [Meditation, Self-Improvement]
 ---
 
 With the level of self-awareness, confidence, kindness, and practicality of Gary Vaynerchuk exudes, and his great ability to teach, have made me a big fan of him. I absorb his content like a sponge. But how did he become that way? He says that he got lucky and has good DNA. Besides that, he put in a lot of work, work on himself, that’s how I believe he got to that point.

@@ -4,7 +4,7 @@ layout: post
 title:  "Bitcoin para dummies, una guía simple"
 date:   2016-10-25
 categories: es
-tags: [bitcoin, cryptography, español]
+tags: [Crypto, Technology]
 archived: true
 ---
 <div class="fb-like" data-href="http://karlheinzniebuhr.github.io/es/2016/10/25/bitcoins-for-dummies/" data-layout="button_count" data-action="recommend" data-size="small" data-show-faces="true" data-share="true"></div><br>

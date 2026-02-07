@@ -2,8 +2,9 @@
 layout: post
 title: "The Checklist Manifesto — Summary"
 date: 2016-12-22 13:01:00 +0000
-categories: ["Book Summaries", "Cognitive Science", "Success"]
-tags: ["reasoning", "management", "operations", "self-improvement"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Business, Psychology, Self-Improvement]
+book: true
 ---
 
 > This book shows how we can deal with the complexity in our lives

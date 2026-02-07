@@ -2,8 +2,9 @@
 layout: post
 title: "Lessons from The Happiness Advantage"
 date: 2018-04-21 08:38:46 +0000
-categories: ["Book Summaries", "Meditation"]
-tags: ["positive psychology", "psychology", "mindset", "science", "brain", "neuroscience"]
+categories: [Book Summaries, Meditation]
+tags: [Psychology, Science]
+book: true
 ---
 
 I recently stumbled on [Shawn Achor's Ted Talk about Happiness](https://www.youtube.com/watch?v=GXy__kBVq1M). I immediately liked what he presented when he talked about the Cult of the average in psychology.

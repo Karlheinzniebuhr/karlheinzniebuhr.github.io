@@ -2,8 +2,8 @@
 layout: post
 title: "My euro trip from the south to the north"
 date: 2017-10-05 11:22:40 +0000
-categories: ["Blog"]
-tags: ["travel", "trip", "europa", "photography", "amsterdam", "edinburgh", "viena", "milan", "germany"]
+categories: [Blog]
+tags: [Culture]
 ---
 
 ### First destiny, Milan

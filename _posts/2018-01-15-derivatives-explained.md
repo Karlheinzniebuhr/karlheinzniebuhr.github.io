@@ -2,8 +2,9 @@
 layout: post
 title: "Derivatives explained"
 date: 2018-01-15 08:41:41 +0000
-categories: ["Book Excerpts"]
-tags: ["derivatives", "economy", "books", "business", "investing"]
+categories: [Book Excerpts]
+tags: [Books, Business, Investing]
+book: true
 ---
 
 Excerpt from the book [The Snowball: Warren Buffett and the Business of Life](https://www.amazon.com/Snowball-Warren-Buffett-Business-Life-ebook/dp/B009MYD9F8/ref=sr_1_1?ie=UTF8&qid=1516019995&sr=8-1&keywords=snowball+warren+buffet&tag=kasbl023-20)

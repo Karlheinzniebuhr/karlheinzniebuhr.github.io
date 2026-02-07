@@ -2,7 +2,8 @@
 layout: post
 title: "The 4 Hour Work Week — Summary"
 date: 2017-01-04 16:58:44 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 > Learn how to automate your income and live a Rich Lifestyle

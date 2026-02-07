@@ -2,8 +2,8 @@
 layout: post
 title: "How to learn"
 date: 2018-01-24 14:40:54 +0000
-categories: ["Blog", "Education"]
-tags: ["Entrepreneurship", "Elon Musk", "learning", "education", "success"]
+categories: [Blog, Education]
+tags: [Biographies, Business, Education, Self-Improvement]
 ---
 
 The general way education works in our society is that we learn X amount of years and then we execute on the acquired knowledge. In many cases, this methodology is necessary. Doctors and pilots need to learn a lot of things before they start practicing. Buf often careers are only partially useful and applicable in the real world.

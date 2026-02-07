@@ -2,7 +2,8 @@
 layout: post
 title: "Kevin Mitnick: The making of a Hacker -- Excerpt"
 date: 2017-10-15 10:09:03 +0000
-categories: ["Book Excerpts"]
+categories: [Book Excerpts]
+book: true
 ---
 
 > *Yjcv ku vjg pcog qh vjg uauvgo wugf da jco qrgtcvqtu  

@@ -2,7 +2,8 @@
 layout: post
 title: "Eat to live — Summary"
 date: 2017-01-09 22:39:07 +0000
-categories: ["Book Summaries", "Nutrition"]
+categories: [Book Summaries, Health]
+book: true
 ---
 
 > Create a healthy diet from the author’s research on 2000+ scientific papers

@@ -2,8 +2,9 @@
 layout: post
 title: "Mindset — Summary"
 date: 2016-12-24 22:03:03 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["mindset", "self-development", "success", "psychology", "growth"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > People with a fixed mindset — those who believe that abilities are fixed — are far less likely to flourish than those with a growth mindset.

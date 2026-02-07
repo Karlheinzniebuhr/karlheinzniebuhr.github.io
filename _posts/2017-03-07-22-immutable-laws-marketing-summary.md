@@ -2,8 +2,9 @@
 layout: post
 title: "The 22 immutable laws of marketing -- Summary"
 date: 2017-03-07 19:13:28 +0000
-categories: ["Book Summaries", "Business", "Creativity"]
-tags: ["marketing", "business", "success", "money"]
+categories: [Book Summaries, Business, Self-Improvement]
+tags: [Business, Investing, Self-Improvement]
+book: true
 ---
 
 > This book packs so much useful information about marketing, if you read one book about marketing let it be this one.

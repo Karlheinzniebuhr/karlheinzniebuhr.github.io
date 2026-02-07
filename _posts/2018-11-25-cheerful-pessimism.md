@@ -2,8 +2,8 @@
 layout: post
 title: "Cheerful Pessimism"
 date: 2018-11-25 08:44:35 +0000
-categories: ["Blog"]
-tags: ["psychology", "investing", "optimism", "positive psychology", "success"]
+categories: [Blog]
+tags: [Investing, Psychology, Self-Improvement]
 ---
 
 Even though optimistic people live more successful lives, pessimism has its place in the short term. Pessimism can support the realism we so often need. Confused? Think about a pilot, for instance, you’d rather have him an upbeat outlook at security or a mercilessly realistic one? Let’s call it practical pessimism because it serves us well. It is pessimism in the short term. You can still be optimistic about the end goal. But as Tai Lopez says, practical pessimism will lead you to your optimistic end goal.

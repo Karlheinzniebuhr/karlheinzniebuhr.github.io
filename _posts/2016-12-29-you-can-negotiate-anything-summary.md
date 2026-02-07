@@ -2,8 +2,9 @@
 layout: post
 title: "You Can Negotiate Anything — Summary"
 date: 2016-12-29 16:55:28 +0000
-categories: ["Book Summaries", "Business", "Psychology", "Success", "Social"]
-tags: ["business", "negotiation", "success", "self-improvement", "social"]
+categories: [Book Summaries, Business, Culture, Psychology, Self-Improvement]
+tags: [Business, Culture, Self-Improvement]
+book: true
 ---
 
 > Become a powerful negotiator in all areas of your life

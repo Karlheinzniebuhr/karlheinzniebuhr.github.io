@@ -2,7 +2,7 @@
 layout: post
 title: "Si tu empleador no te permite crecer, renuncia"
 date: 2019-04-13 12:03:50 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 Es fácil enfocarse sólo en la recompensa monetaria en los laburos. Dependiendo en si estas empezando recién o si tienes experiencia, es decir junior/senior, la remuneración debería tener una importancia diferente. Cuando recién empiezas y después de decidir lo que quieres hacer, deberías enfocarte netamente aprender. Hazte la pregunta: Con cual empresa/organización/emprendimiento aprenderé más?

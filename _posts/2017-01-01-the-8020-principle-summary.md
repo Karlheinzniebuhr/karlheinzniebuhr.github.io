@@ -2,8 +2,9 @@
 layout: post
 title: "The 80/20 Principle — Summary"
 date: 2017-01-01 12:55:12 +0000
-categories: ["Book Summaries", "Cognitive Science", "Learning", "Success"]
-tags: ["economics", "success", "reasoning", "work", "education"]
+categories: [Book Summaries, Education, Psychology, Self-Improvement]
+tags: [Business, Education, Investing, Psychology, Self-Improvement]
+book: true
 ---
 
 > Explore this principle of nature to improve your life

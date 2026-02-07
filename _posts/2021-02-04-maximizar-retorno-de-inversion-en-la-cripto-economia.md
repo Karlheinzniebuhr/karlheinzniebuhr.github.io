@@ -2,7 +2,7 @@
 layout: post
 title: "Maximizar retorno de inversión en la cripto economía"
 date: 2021-02-04 10:56:03 +0000
-categories: ["Investing", "Blog-es"]
+categories: [Blog, Investing]
 ---
 
 ## Introducción

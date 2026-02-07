@@ -2,8 +2,8 @@
 layout: post
 title: "Cuál es la mejor alimentación para mantener un peso corporal ideal?"
 date: 2019-01-31 10:06:37 +0000
-categories: ["Blog-es"]
-tags: ["alimentacion", "veganismo"]
+categories: [Blog]
+tags: [Health]
 ---
 
 Mi hermana me preguntó qué opino de la dieta cetogénica y pensé que las dietas serían un buen tema que tratar en mi blog.

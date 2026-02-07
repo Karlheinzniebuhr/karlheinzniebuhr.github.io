@@ -2,8 +2,9 @@
 layout: post
 title: "How Buddhism relates to Science"
 date: 2017-07-02 13:49:50 +0000
-categories: ["Book Excerpts"]
-tags: ["meditation", "buddhism", "science", "happiness", "books"]
+categories: [Book Excerpts]
+tags: [Books, Meditation, Psychology, Science]
+book: true
 ---
 
 📚 **Happiness | Science | Meditation| Buddhism**

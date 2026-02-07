@@ -2,8 +2,8 @@
 layout: post
 title: "Warren Buffett Quotes"
 date: 2020-03-22 11:42:53 +0000
-categories: ["Blog", "Investing"]
-tags: ["warren buffet", "investing", "business", "self-development"]
+categories: [Blog, Investing]
+tags: [Business, Investing, Self-Improvement]
 ---
 
 Years ago I created a collection of my favorite Quotes from Warren. I think investors like him and Charlie Munger are great aggregators of wisdom because it's a requisite of long-term investing in my opinion. And with investing I don't just mean money, time is the most important investment we all make, whether we do it intentionally or not.

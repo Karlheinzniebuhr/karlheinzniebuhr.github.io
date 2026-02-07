@@ -2,7 +2,7 @@
 layout: post
 title: "Confidence, delusion, faith and your progress"
 date: 2018-12-27 18:51:20 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 This post was

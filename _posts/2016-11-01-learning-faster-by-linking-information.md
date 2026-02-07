@@ -4,7 +4,7 @@ layout: post
 title:  "Learn faster by linking information"
 date:   2016-11-01
 categories: en
-tags: [learning, education, brain]
+tags: [Education, Psychology]
 archived: true
 ---
 <div class="fb-like" data-href="http://karlheinzniebuhr.github.io/en/2016/11/01/learning-faster-by-linking-information/" data-layout="button_count" data-action="recommend" data-size="small" data-show-faces="true" data-share="true"></div><br>

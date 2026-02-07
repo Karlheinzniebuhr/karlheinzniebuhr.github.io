@@ -2,7 +2,7 @@
 layout: post
 title: "Post-traumatic growth without the trauma"
 date: 2018-11-09 08:36:23 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 Do you remember how you felt as a kid playing your favorite games? I do, and for me, it is like one of the best feelings I’ve experienced in my life. Somehow I’ve to a great deal, unlearned the skill to enjoy games as I did back then. I have a much better PC now which lets me play the newest games on high graphical specs. But It has become harder for myself to submerge so deeply in a game that I forget everything else. But I’m convinced this problem can be remedied. Especially after watching Jane McGonigal’s TED talks.

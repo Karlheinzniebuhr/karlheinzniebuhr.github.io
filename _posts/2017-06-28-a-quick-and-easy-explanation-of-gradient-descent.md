@@ -2,8 +2,8 @@
 layout: post
 title: "A quick and intuitive explanation of gradient descent"
 date: 2017-06-28 17:34:46 +0000
-categories: ["Machine Learning", "Tech-blog"]
-tags: ["Machine Learning", "deep learning", "computer science", "math", "programming"]
+categories: [Technology]
+tags: [Technology]
 ---
 
 This short writeup is from Udacity's [Deep Learning Nanodegree.](https://classroom.udacity.com/nanodegrees/nd101/parts/a66f046b-4885-498e-b036-37ba7d7b0e24/modules/7aed441d-1f4c-47d7-9904-0264d77f6053/lessons/b6deebe4-7f78-4947-b2c6-fc660ca942fb/concepts/ce4e18b2-2777-40ca-9514-c659ada3f09a)

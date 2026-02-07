@@ -2,8 +2,9 @@
 layout: post
 title: "The Blue Zones -- Book Summary"
 date: 2017-09-02 12:17:11 +0000
-categories: ["Book Summaries", "Nutrition"]
-tags: ["nutrition", "books", "diet", "medicine", "life-style"]
+categories: [Book Summaries, Health]
+tags: [Books, Health, Self-Improvement]
+book: true
 ---
 
 > Learn how to live a long, healthy life

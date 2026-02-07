@@ -2,8 +2,9 @@
 layout: post
 title: "The sleep revolution — Summary"
 date: 2016-12-05 16:10:47 +0000
-categories: ["Book Summaries", "Success"]
-tags: ["sleep", "life", "prodictivity", "self-development"]
+categories: [Book Summaries, Self-Improvement]
+tags: [Health, Self-Improvement]
+book: true
 ---
 
 > This book explores the relationship of sleep with our health, our job performance, our relationships and our happiness.

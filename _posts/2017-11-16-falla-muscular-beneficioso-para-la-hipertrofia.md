@@ -2,8 +2,8 @@
 layout: post
 title: "Falla muscular, beneficioso para la hipertrofia?"
 date: 2017-11-16 13:42:50 +0000
-categories: ["Blog-es"]
-tags: ["fitness", "hipertrofia", "ejercicios", "ciencia", "deporte"]
+categories: [Blog]
+tags: [Health, Science]
 ---
 
 Entrenamiento de resistencia es la forma principal para obtener crecimiento muscular. [Se sabe](https://www.karlbooklover.com/cuantas-pesas-son-suficientes-para-el-aumento-de-masa-muscular/) que para obtener los mejores resultados es mejor entrenar con una intensidad mayor a 50% del one rep max. Pero que tan necesario es ir hasta la falla muscular? Llegar a la falla muscular significa que uno ya no puede ejecutar una repetición completa en el ejercicio.

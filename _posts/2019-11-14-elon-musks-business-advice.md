@@ -2,8 +2,8 @@
 layout: post
 title: "Elon Musk's Business Advice"
 date: 2019-11-14 14:02:50 +0000
-categories: ["Business", "Blog"]
-tags: ["business", "engineering"]
+categories: [Blog, Business]
+tags: [Business, Technology]
 ---
 
 Yesterday I sat down to enjoy [Elon's interview](https://www.youtube.com/watch?v=lS3nIyetS4I&t=5s) at Air Force Space Pitch Day and wrote down some notes. Elon is brilliant at distilling business to the core principles. It's his way of applying first-principles thinking.

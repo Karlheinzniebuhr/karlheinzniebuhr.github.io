@@ -2,8 +2,8 @@
 layout: post
 title: "Cómo navegar al mundo del fitness"
 date: 2017-12-02 10:29:59 +0000
-categories: ["Blog-es"]
-tags: ["fitness", "fisicoculturismo", "atletismo"]
+categories: [Blog]
+tags: [Health]
 ---
 
 Cuando primero empecé a entrenar en el gym no era muy buen investigador. Tenía 16 años mas o menos y única fuente de información eran los consejos que me daban en el gimnasio. Tuve la suerte de entrenar con la persona que más conocimientos sobre bodybuilding tenía en mi ciudad. Pero yo quería saber más.

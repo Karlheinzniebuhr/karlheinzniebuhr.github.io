@@ -2,7 +2,7 @@
 layout: post
 title: "Cómo aplicar al Ayuno Intermitente"
 date: 2016-01-05 00:00:00 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 ![](/assets/images/0_uzWTI3hAaJp9rZ7X.png)

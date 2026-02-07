@@ -2,8 +2,8 @@
 layout: post
 title: "Cómo meditar"
 date: 2018-03-16 09:27:03 +0000
-categories: ["Blog-es", "Meditation"]
-tags: ["meditation", "mindfulness", "cerebro", "neuroplasticidad"]
+categories: [Blog, Meditation]
+tags: [Meditation, Psychology]
 ---
 
 Leí muchos libros sobre meditación y hasta hice un curso de Mindfulness. Aparte de Mindfulness, también practiqué mantra meditation y muchas meditaciones guiadas. Con el tiempo refiné mi proceso y aprendí algunas cosas muy útiles que quiero compartir.

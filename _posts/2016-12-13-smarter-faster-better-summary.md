@@ -2,8 +2,9 @@
 layout: post
 title: "Smarter Faster Better — Summary"
 date: 2016-12-13 16:43:03 +0000
-categories: ["Book Summaries", "Psychology", "Success", "Creativity"]
-tags: ["self-development", "brain", "mind", "productivity", "work"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Business, Psychology, Self-Improvement]
+book: true
 ---
 
 > This book explores the science of productivity, and why managing *how* you think is more important than *what* you think.

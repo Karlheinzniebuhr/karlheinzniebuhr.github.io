@@ -2,7 +2,8 @@
 layout: post
 title: "The Power in Plants -- Finding Ultra Book Excerpt"
 date: 2017-08-30 18:55:20 +0000
-categories: ["Book Excerpts"]
+categories: [Book Excerpts]
+book: true
 ---
 
 The following excerpt is from the book Finding Ultra.

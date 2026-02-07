@@ -2,7 +2,7 @@
 layout: post
 title: "We learn faster by linking information"
 date: 2016-11-01 00:00:00 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 Ever since I learned complex concepts, I noticed a trend. Whenever my grasp of the basics was solid, or I could relate the new information to already known concepts, my learning and retention were much better. It always imagined that the brain is a type of data grid where new concepts have to be linked to already present ones in order to be remembered. Perhaps that is not a perfect analogy but it does a good job to get an intuitive understanding of how we learn.

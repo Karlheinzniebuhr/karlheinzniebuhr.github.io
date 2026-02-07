@@ -2,7 +2,8 @@
 layout: post
 title: "Every Skill You Acquire Doubles Your Odds of Success -- Excerpt from Scott Adam's book"
 date: 2019-05-12 14:24:29 +0000
-categories: ["Success", "Book Excerpts"]
+categories: [Book Excerpts, Self-Improvement]
+book: true
 ---
 
 There is a lot of good things I have to say about Scott Adam's book [How to Fail at Almost Everything and Still Win Big](https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4?tag=kasbl023-20). The reason I'm sharing this excerpt is that I feel like I paid too much attention to the importance of being very good at something. What Scott displays here is that you don't need to be very good at anything. The combination of your skills will add up and give you something bigger than the sum.

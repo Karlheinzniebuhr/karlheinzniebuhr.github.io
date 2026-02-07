@@ -2,8 +2,9 @@
 layout: post
 title: "Trillion Dollar Coach -- Summary"
 date: 2020-01-24 08:38:10 +0000
-categories: ["Book Summaries", "Business", "Biographies", "Tech"]
-tags: ["success", "business"]
+categories: [Biographies, Book Summaries, Business, Technology]
+tags: [Business, Self-Improvement]
+book: true
 ---
 
 This book entered my reading list while listening to the Tim Ferriss [show 367](https://tim.blog/2019/04/11/the-tim-ferriss-show-transcripts-eric-schmidt-367/). Bill Campbell, the coach this book writes about, immediately caught my interest. Here is Eric from the podcast:

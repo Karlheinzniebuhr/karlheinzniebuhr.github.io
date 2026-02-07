@@ -2,7 +2,8 @@
 layout: post
 title: "Getting Things Done: The Art of Stress-Free Productivity — Summary"
 date: 2017-01-04 11:19:32 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 > **Learn from the Bible of business and personal productivity**

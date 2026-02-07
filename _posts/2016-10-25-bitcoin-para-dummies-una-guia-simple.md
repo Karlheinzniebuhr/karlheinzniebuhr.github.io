@@ -2,8 +2,8 @@
 layout: post
 title: "Bitcoin para dummies, una guía simple"
 date: 2016-10-25 00:00:00 +0000
-categories: ["Blog-es"]
-tags: ["bitcoin"]
+categories: [Blog]
+tags: [Crypto]
 ---
 
 > *Cansado de pagar cargos bancarios, de falta de privacidad y flexibilidad?*

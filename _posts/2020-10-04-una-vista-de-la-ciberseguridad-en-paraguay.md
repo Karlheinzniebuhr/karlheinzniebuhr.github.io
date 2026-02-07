@@ -2,7 +2,7 @@
 layout: post
 title: "Una vista de la Ciberseguridad en Paraguay"
 date: 2020-10-04 17:49:58 +0000
-categories: ["Tech", "Blog-es"]
+categories: [Blog, Technology]
 ---
 
 ## Introducción

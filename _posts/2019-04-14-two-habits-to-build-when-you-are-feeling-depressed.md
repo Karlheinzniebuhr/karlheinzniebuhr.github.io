@@ -2,8 +2,8 @@
 layout: post
 title: "Two habits to build when you are feeling depressed"
 date: 2019-04-14 10:53:27 +0000
-categories: ["Blog"]
-tags: ["psychology", "superbetter", "depression", "brain"]
+categories: [Blog]
+tags: [Health, Psychology]
 ---
 
 The first habit you should form if you have a ratio of positive/negative emotions equal to or lower than 1:1 -- that is you feel at least as many negative emotions during the day as positive ones -- is exercise. As Tim Ferris [noted](https://www.youtube.com/watch?v=NxgRg7c2278) in one of his interviews with Tony Robbins, at a point in his life he wasn't able to cope mentally with his negative mental state:

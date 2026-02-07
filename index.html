@@ -5,7 +5,7 @@ layout: default
     <div class="inner">
         <main class="site-main">
             {% for post in paginator.posts %}
-            {% unless post.archived %}
+            {% unless post.archived or post.book %}
             <article class="post">
                 <header class="entry-header">
                     <div class="entry-header-wrap">

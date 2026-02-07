@@ -2,8 +2,9 @@
 layout: post
 title: "Payoff -- Summary"
 date: 2017-03-15 17:15:34 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["work", "productivity", "motivation", "success", "self-development"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Business, Self-Improvement]
+book: true
 ---
 
 > Learn how to motivate yourself and others from this "little brother" of the book Drive.

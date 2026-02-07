@@ -2,8 +2,9 @@
 layout: post
 title: "A one minute mindfulness meditation"
 date: 2017-07-14 17:01:07 +0000
-categories: ["Book Excerpts", "Meditation"]
-tags: ["mindfulness", "meditation", "health", "vitality", "books"]
+categories: [Book Excerpts, Meditation]
+tags: [Books, Health, Meditation]
+book: true
 ---
 
 Do you feel overwhelmed and don't know what to do about it? Did you hear about [the benefits](http://liveanddare.com/benefits-of-meditation/) of meditation but you think you have not enough time to practice? Worry no more, in this excerpt the authors of the very recommended book [Mindfulness](https://www.amazon.com/Mindfulness-Eight-Week-Finding-Peace-Frantic/dp/1609618955/ref=sr_1_1?ie=UTF8&qid=1500051252&sr=8-1&keywords=Mindfulness+finding+peace+in&tag=kasbl023-20) explain how you can meditate in just 1 minute.

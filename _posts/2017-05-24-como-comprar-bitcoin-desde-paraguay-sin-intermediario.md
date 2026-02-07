@@ -2,8 +2,8 @@
 layout: post
 title: "Como comprar Bitcoin desde Paraguay SIN intermediario"
 date: 2017-05-24 21:49:46 +0000
-categories: ["Blog-es"]
-tags: ["dinero", "bitcoin", "criptomonedas", "inversiones", "emprendedorismo"]
+categories: [Blog]
+tags: [Business, Crypto, Investing]
 ---
 
 Después de mi post sobre [como invertir en Bitcoin](http://www.karlbooklover.com/la-manera-mas-simple-de-invertir-en-bitcoin/) muchos me preguntaron como pueden comprar Bitcoin desde Paraguay. Coinbase y otros servicios no esta habilitado para nuestro país. Para resolver este problema mostrare paso a paso como comprar Bitcoins sin recurrir a intermediarios.

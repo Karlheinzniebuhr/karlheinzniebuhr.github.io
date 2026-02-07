@@ -2,8 +2,9 @@
 layout: post
 title: "Mistakes were made, how we justify bad decisions -- Summary"
 date: 2017-01-30 20:35:40 +0000
-categories: ["Psychology", "Cognitive Science", "Success", "Book Summaries"]
-tags: ["psychology", "reasoning", "success", "self-improvement", "self-development"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > Learn why it is important and in our best interest to admit our mistakes

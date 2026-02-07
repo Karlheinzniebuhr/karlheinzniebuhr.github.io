@@ -2,8 +2,9 @@
 layout: post
 title: "The gifts of imperfection -- Summary"
 date: 2017-10-13 19:14:57 +0000
-categories: ["Book Summaries", "Psychology", "Social"]
-tags: ["psychology", "success", "spirituality", "books", "fun"]
+categories: [Book Summaries, Culture, Psychology]
+tags: [Books, Culture, Meditation, Psychology, Self-Improvement]
+book: true
 ---
 
 Learn how to be yourself

@@ -2,8 +2,8 @@
 layout: post
 title: "Games: Epic mindsets for epic challenges"
 date: 2018-06-26 14:26:47 +0000
-categories: ["Blog"]
-tags: ["success", "psychology", "brain", "games", "self-development"]
+categories: [Blog]
+tags: [Psychology, Self-Improvement, Technology]
 ---
 
 I recently made a post about [Daphne's Ted Talk](https://www.youtube.com/watch?v=FktsFcooIG8&t=55s) about how the brain benefits from video games. I loved that talk but Jane McGonigal's talk is as good in a different or shall I say more epic way. The things she talks about are just brilliant, [go watch the video after reading this](https://www.youtube.com/watch?v=dE1DuBesGYM). I'll just briefly list the key points here.

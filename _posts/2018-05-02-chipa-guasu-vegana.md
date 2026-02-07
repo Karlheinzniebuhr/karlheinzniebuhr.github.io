@@ -2,7 +2,7 @@
 layout: post
 title: "Chipa Guasu Vegana"
 date: 2018-05-02 09:49:47 +0000
-categories: ["Recipes"]
+categories: [Health]
 ---
 
 Otra receta de @poepam, let's try it ;)

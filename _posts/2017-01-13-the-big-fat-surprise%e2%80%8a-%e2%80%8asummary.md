@@ -2,8 +2,9 @@
 layout: post
 title: "The Big Fat surprise — Summary"
 date: 2017-01-13 17:43:21 +0000
-categories: ["Book Summaries", "Nutrition"]
-tags: ["nutrition", "health", "food", "fat", "diet"]
+categories: [Book Summaries, Health]
+tags: [Health]
+book: true
 ---
 
 > Learn the difference between “good” and “bad” cholesterol and what impact fat has on our health

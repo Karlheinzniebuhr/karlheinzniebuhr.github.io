@@ -2,8 +2,9 @@
 layout: post
 title: "Rework Summary"
 date: 2019-02-21 20:52:19 +0000
-categories: ["Book Summaries"]
-tags: ["books", "productivity", "success", "business"]
+categories: [Book Summaries]
+tags: [Books, Business, Self-Improvement]
+book: true
 ---
 
 Definitively this book is under my top books that deliver high value in a concise manner. No fillers made it into this book that is for sure! Just as I like it.   

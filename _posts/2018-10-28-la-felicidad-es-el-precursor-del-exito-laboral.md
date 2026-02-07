@@ -2,7 +2,7 @@
 layout: post
 title: "La felicidad es el precursor del éxito laboral"
 date: 2018-10-28 20:19:50 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 Tradicionalmente el trabajo fue visto como algo que se toma en serio y con disciplina pero los tiempos cambian y con ello sus paradigmas. Actualmente dominan los trabajos que demandan creatividad y razonamiento. En cuanto a lo anterior, estudios demostraron que en trabajos intelectualmente intensivos la presión tiene un impacto negativo sobre el rendimiento y empresas como Google y Facebook lo saben. Esa es una de las razones por las cuales crearon culturas de trabajo con una motivación intrínseca.

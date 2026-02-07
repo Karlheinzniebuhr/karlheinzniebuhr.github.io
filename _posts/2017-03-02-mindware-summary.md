@@ -2,8 +2,9 @@
 layout: post
 title: "Mindware -- Summary"
 date: 2017-03-02 12:12:40 +0000
-categories: ["Book Summaries", "Cognitive Science"]
-tags: ["brain", "reasoning", "self-development", "success", "decision making"]
+categories: [Book Summaries, Psychology]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > Learn to reason more rationally

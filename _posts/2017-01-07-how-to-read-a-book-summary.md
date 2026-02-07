@@ -2,7 +2,8 @@
 layout: post
 title: "HOW TO READ A BOOK — Summary"
 date: 2017-01-07 11:24:50 +0000
-categories: ["Book Summaries", "Books", "Education"]
+categories: [Book Excerpts, Book Summaries, Education]
+book: true
 ---
 
 > Learn how to read and understand different genres of books from this classic work

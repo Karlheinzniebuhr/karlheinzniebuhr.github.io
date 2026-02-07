@@ -2,8 +2,9 @@
 layout: post
 title: "Bill Gate's favorite Books"
 date: 2017-03-12 21:30:40 +0000
-categories: ["Book Recommendations"]
-tags: ["books", "reading", "success", "self-development", "self-improvement"]
+categories: [Book Excerpts]
+tags: [Books, Self-Improvement]
+book: true
 ---
 
 Bill Gates has a section dedicated to book reviews on [his blog](https://www.gatesnotes.com/Books#All). Here are some of his favorites.

@@ -2,8 +2,9 @@
 layout: post
 title: "The desire map -- Summary"
 date: 2017-03-10 18:50:45 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["success", "goals", "achievement", "self-improvement"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Self-Improvement]
+book: true
 ---
 
 > Learn to embrace your desires to accomplish your highest goals and achieve fulfillment

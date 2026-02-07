@@ -2,8 +2,9 @@
 layout: post
 title: "Your Brain at Work — Summary"
 date: 2016-12-30 22:55:41 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["neuroscience", "productivity", "work", "brain", "success"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Business, Psychology, Self-Improvement]
+book: true
 ---
 
 > This book will teach you how to maximize your mental resources

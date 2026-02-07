@@ -2,8 +2,8 @@
 layout: post
 title: "Estrategias para invertir en criptomonedas"
 date: 2017-10-20 13:00:23 +0000
-categories: ["Blog-es"]
-tags: ["criptomonedas", "inversiones", "negocios", "bitcoin", "invertir"]
+categories: [Blog]
+tags: [Business, Crypto, Investing]
 ---
 
 El éxito de Bitcoin ha causado un hype de las criptomonedas. Con éxito me refiero al tremendo crecimiento del valor de bitcoin y su mercado lo cual ha causado un gran ROI (retorno de la inversión). Bitcoin popularizó un mercado que hace poco no existía, el mercado de las criptomonedas. Hoy en día hay [cientas de criptomonedas](http://coinmarketcap.com/currencies/) en circulación lo cual atrae no solo a entusiastas tecnológicos sino que a inversores en general. Pero es seguro invertir en cualquier moneda? Como en cualquier mercado, las monedas digitales también compiten entre sí. Entonces la pregunta es, ¿En cuál moneda debería invertir?

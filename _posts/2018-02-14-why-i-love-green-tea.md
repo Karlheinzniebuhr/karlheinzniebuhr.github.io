@@ -2,8 +2,8 @@
 layout: post
 title: "Why I love green tea"
 date: 2018-02-14 15:26:16 +0000
-categories: ["Blog"]
-tags: ["health", "nutrition", "brain", "performance", "bio-hacking"]
+categories: [Blog]
+tags: [Health, Psychology]
 ---
 
 Today I felt very good in the morning, not that I usually don't, but it may have something to do with this plant, [Camellia sinensis](https://es.wikipedia.org/wiki/Camellia_sinensis). All the most consumed teas — white, green, oolong, and black — come from the leaves of the same plant, *Camilla sinensis*. We will focus on green tea because it is the least processed tea made with camilla sinensis.

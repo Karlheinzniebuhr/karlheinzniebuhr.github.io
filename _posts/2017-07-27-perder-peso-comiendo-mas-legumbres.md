@@ -2,8 +2,9 @@
 layout: post
 title: "Perder peso comiendo más legumbres"
 date: 2017-07-27 14:47:49 +0000
-categories: ["Pasajes de libros"]
-tags: ["nutricion", "salud", "medicina", "Libros", "ciencia"]
+categories: [Book Excerpts]
+tags: [Books, Health, Science]
+book: true
 ---
 
 Quieres reducir tu peso corporal y al mismo tiempo mejorar tu salud en general, y hacer todo eso sin una restricción de calorías? Estudios mostraron que es posible, Dr. Michael Gregor te explica cómo en su [excelente libro](https://www.amazon.com/Comer-para-no-morir/dp/844933215X?tag=kasbl023-20):

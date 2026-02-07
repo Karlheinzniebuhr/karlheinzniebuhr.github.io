@@ -2,7 +2,7 @@
 layout: post
 title: "Granola fácil"
 date: 2017-11-08 12:01:41 +0000
-categories: ["Recipes"]
+categories: [Health]
 ---
 
 Granola forma parte fija de mi desayuno no solo porque es deliciosa, sino porque es muy nutritiva. Aporta una gran cantidad de vitaminas, minerales, proteínas y hasta omega-3 si usas a esta receta 😉

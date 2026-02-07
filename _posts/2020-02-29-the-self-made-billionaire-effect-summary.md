@@ -2,8 +2,9 @@
 layout: post
 title: "The Self-made Billionaire Effect -- Summary"
 date: 2020-02-29 10:47:38 +0000
-categories: ["Success", "Investing", "Business", "Book Summaries"]
-tags: ["business", "investing", "Entrepreneurship", "billionaires"]
+categories: [Book Summaries, Business, Investing, Self-Improvement]
+tags: [Business, Investing]
+book: true
 ---
 
 This book is so good I read it twice, and probably will read it again within a year. There is just so much insight and it rings to true to me.

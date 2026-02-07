@@ -2,8 +2,8 @@
 layout: post
 title: "Stop chasing the magical formula, It's who you become become"
 date: 2019-03-29 11:13:08 +0000
-categories: ["Blog"]
-tags: ["success", "self-awareness"]
+categories: [Blog]
+tags: [Psychology, Self-Improvement]
 ---
 
 Quincy Jones said that Nat King Cole used to always tell him: ‘Quincy, your music can be no more or no less than you are as a human being.’    

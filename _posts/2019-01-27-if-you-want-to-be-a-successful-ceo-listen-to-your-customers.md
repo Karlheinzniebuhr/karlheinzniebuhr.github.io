@@ -2,8 +2,9 @@
 layout: post
 title: "If you want to be a successful CEO, listen to your customers"
 date: 2019-01-27 09:46:27 +0000
-categories: ["Book Excerpts"]
-tags: ["books"]
+categories: [Book Excerpts]
+tags: [Books]
+book: true
 ---
 
 I work in a company where we as engineers often also are the decision makers. We often listen and talk to our customers asking them for feedback. In fact, as of yet, we don’t really have a help-desk between our customers and our engineers. It baffles me how some of the bigger companies, or should I say most of the bigger companies in this country are unable to listen to their customers. The top executives are totally hidden behind big filters formed by their secretaries and are basically unreachable. Reading [Mark Cuban's book](https://www.amazon.com/How-Win-Sport-Business-Can-ebook/dp/B006AX6ONI?tag=kasbl023-20) I stumbled on some chapters where he addresses exactly this problem.

@@ -2,8 +2,8 @@
 layout: post
 title: "How to program"
 date: 2018-07-24 22:14:28 +0000
-categories: ["Blog", "Tech-blog"]
-tags: ["coding", "programming", "computer science", "education", "thinking"]
+categories: [Blog, Technology]
+tags: [Education, Psychology, Technology]
 ---
 
 [In this talk](https://www.youtube.com/watch?v=KNjiKbSSlCM), Justin Searls breaks down the basic process a programmer follows while coding. Suppose we have a big, very complex problem. So much complexity scares us, we feel overwhelmed. So it's much better to not tackle all at once.

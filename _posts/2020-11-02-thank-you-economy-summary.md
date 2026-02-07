@@ -2,7 +2,8 @@
 layout: post
 title: "Thank You Economy -- Summary"
 date: 2020-11-02 10:07:32 +0000
-categories: ["Book Summaries", "Business"]
+categories: [Book Summaries, Business]
+book: true
 ---
 
 On several occasions Gary mentioned that the Thank You Economy is is most underrated book. I agree, Gary too -- guessing from his retweet 😄

@@ -2,7 +2,8 @@
 layout: post
 title: "Hard Drive: Bill Gates and the Making of the Microsoft Empire -- Summary"
 date: 2019-10-14 14:46:40 +0000
-categories: ["Book Summaries", "Biographies"]
+categories: [Biographies, Book Summaries]
+book: true
 ---
 
 This book is amazing. My intuition bugged me a long time about reading a biography from Bill. I just didn't knew which one. It's not like there is one official Biography about him. Googling then I stumbled on a list of books among them was Hard Drive. It turned out to be the perfect choice.

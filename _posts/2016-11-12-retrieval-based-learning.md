@@ -2,8 +2,8 @@
 layout: post
 title: "Retrieval based learning, the best study method?"
 date: 2016-11-12 00:00:00 +0000
-categories: ["Blog"]
-tags: ["learning", "education", "brain", "neuroscience", "study", "studying"]
+categories: [Blog]
+tags: [Education, Psychology]
 ---
 
 Jeffrey Karpicke is a cognitive psychologist from Purdue University. His area of research looks at strategies for long-term learning and comprehension. He published several interesting studies [[1](http://learninglab.psych.purdue.edu/downloads/2011_Karpicke_Blunt_Science.pdf),[2](http://learninglab.psych.purdue.edu/downloads/2012_Karpicke_CDPS.pdf)] in which he questioned college students on how they would study for an exam. After they had read their notes or textbook one time, they had three options to choose how they were likely to prepare.

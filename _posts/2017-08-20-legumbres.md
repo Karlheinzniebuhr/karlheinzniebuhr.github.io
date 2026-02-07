@@ -2,8 +2,9 @@
 layout: post
 title: "Superalimentos: Legumbres"
 date: 2017-08-20 19:15:07 +0000
-categories: ["Pasajes de libros"]
-tags: ["nutricion", "salud", "medicina", "ciencia", "fitness"]
+categories: [Book Excerpts]
+tags: [Health, Science]
+book: true
 ---
 
 Estos pasajes fueron sacados del libro [Comer para no morir](https://www.amazon.com/Comer-morir-Michael-Greger-Stone/dp/844933215X?tag=kasbl023-20) de [Dr. Michael Greger](http://nutritionfacts.org).

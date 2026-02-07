@@ -2,7 +2,8 @@
 layout: post
 title: "Sam Walton: Made in America"
 date: 2017-08-13 21:42:23 +0000
-categories: ["Book Summaries", "Business"]
+categories: [Book Summaries, Business]
+book: true
 ---
 
 > Learn from one of the most successful business  men of history

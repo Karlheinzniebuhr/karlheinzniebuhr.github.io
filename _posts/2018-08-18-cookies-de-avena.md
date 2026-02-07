@@ -2,7 +2,7 @@
 layout: post
 title: "Cookies de avena"
 date: 2018-08-18 08:39:34 +0000
-categories: ["Recipes"]
+categories: [Health]
 ---
 
 Otra de mis recetas favoritas son los cookies de avena. Son tan fáciles de preparar. Sólo necesitamos 1 taza de harina de avena, 2 bananas, 1 taza de harina blanca, una pizca de canela, y media taza de harina de lino (opcional).

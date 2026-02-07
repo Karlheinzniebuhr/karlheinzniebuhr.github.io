@@ -2,7 +2,7 @@
 layout: post
 title: "Por qué deje de ver noticias"
 date: 2016-12-23 13:20:23 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 > “If you don’t read the newspaper, you’re uninformed. If you read the newspaper, you’re mis-informed.” — Mark Twain

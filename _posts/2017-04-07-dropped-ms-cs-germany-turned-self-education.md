@@ -2,8 +2,8 @@
 layout: post
 title: "Why I dropped a MS in CS from Germany and turned to self-education"
 date: 2017-04-07 20:00:48 +0000
-categories: ["Blog"]
-tags: ["education", "germany", "computer science", "Universities", "self-education"]
+categories: [Blog]
+tags: [Culture, Education, Technology]
 ---
 
 I went with a pretty high expectancy [[1](http://karlheinzniebuhr.github.io/es/2015/12/27/apuntando-a-un-estudio-en-alemania/),[2](http://karlheinzniebuhr.github.io/en/2016/08/15/Studying-in-Germany-part-1/)] to pursue a Master's degree in Computer Science at one of Germany's best Universities in Computer Science. Soon I found that the education wasn't at all as good as I had expected. The main reasons are **unnecessary complexity** or **pretended knowledge** and **academic arrogance**. I will briefly explain some of these points here without going into much detail.

@@ -2,7 +2,8 @@
 layout: post
 title: "Lessons from - The Ultimate Trading Psychology Guide"
 date: 2021-12-19 13:03:48 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 I found this book on the [Traders Reality](https://www.youtube.com/channel/UCbvtzZkMmTeM4oWvH3ziGTg) YouTube channel which is an excellent channel about trading psychology, so I decided to give it a try. This book did not disappoint. It's short and concise just as I like it, with no refillers. Many of the lessons mentioned I've already learned the hard way, through experience. I hope some of you will have an easier ride thanks to this book.

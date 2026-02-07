@@ -4,7 +4,7 @@ layout: post
 title:  "La productividad del trabajo remoto"
 date:   2015-05-31
 categories: en
-tags: [español, productividad]
+tags: [Self-Improvement]
 archived: true
 ---
 

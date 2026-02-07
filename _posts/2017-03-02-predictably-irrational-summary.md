@@ -2,8 +2,9 @@
 layout: post
 title: "Predictably Irrational -- Summary"
 date: 2017-03-02 14:57:44 +0000
-categories: ["Book Summaries", "Cognitive Science"]
-tags: ["reasoning", "self-development", "self-improvement", "rationality", "psychology", "books"]
+categories: [Book Summaries, Psychology]
+tags: [Books, Psychology, Self-Improvement]
+book: true
 ---
 
 > ### Learn how to think effectively from one of the best books on the topic

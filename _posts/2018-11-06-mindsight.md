@@ -2,7 +2,8 @@
 layout: post
 title: "Mindsight"
 date: 2018-11-06 18:06:59 +0000
-categories: ["Book Summaries", "Psychology"]
+categories: [Book Summaries, Psychology]
+book: true
 ---
 
 Mindsight is an interesting book because it has a very interdisciplinary approach which opens up many new ways of seeing how human relationships work and how we depend on each other. At the same time, the author sometimes makes claims just because they seem to fit his framework without providing solid studies to back those claims up. Other than that, I think this book can offer value to the reader. I will try to summarize the parts that were most interesting to me personally and skip the parts that I find less useful to the reader.

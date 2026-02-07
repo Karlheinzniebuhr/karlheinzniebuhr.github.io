@@ -2,7 +2,8 @@
 layout: post
 title: "The Fast Diet — Summary"
 date: 2017-01-11 16:40:12 +0000
-categories: ["Book Summaries", "Nutrition"]
+categories: [Book Summaries, Health]
+book: true
 ---
 
 > Reap the scientifically proven benefits of Intermittent fasting

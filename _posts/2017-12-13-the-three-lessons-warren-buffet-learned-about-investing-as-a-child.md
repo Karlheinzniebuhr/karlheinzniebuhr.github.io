@@ -2,7 +2,8 @@
 layout: post
 title: "The three lessons Warren Buffet learned about investing as a child"
 date: 2017-12-13 08:57:43 +0000
-categories: ["Book Excerpts", "Investing"]
+categories: [Book Excerpts, Investing]
+book: true
 ---
 
 Warren Buffet's biography [The Snowball](https://www.amazon.com/Snowball-Warren-Buffett-Business-Life-ebook/dp/B009MYD9F8/ref=sr_1_1?ie=UTF8&qid=1513169809&sr=8-1&keywords=the+snowball&tag=kasbl023-20) is a fascinating read. The following chapters will show you how Warren Buffet made his first profit from buying stocks at the age of 11, and his first big mistake.

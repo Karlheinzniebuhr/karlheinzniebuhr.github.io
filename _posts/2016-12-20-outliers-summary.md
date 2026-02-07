@@ -2,8 +2,9 @@
 layout: post
 title: "Outliers — Summary"
 date: 2016-12-20 12:29:15 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["IQ", "Intelligence", "brain", "success", "talent", "mastery"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > In this book Malcolm Gladwell asks the question: what makes high-achievers different?

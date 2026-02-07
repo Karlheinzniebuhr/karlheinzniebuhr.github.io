@@ -2,8 +2,9 @@
 layout: post
 title: "5 levels of leadership -- Book Summary"
 date: 2017-08-29 20:30:10 +0000
-categories: ["Book Summaries"]
-tags: ["leadership", "Entrepreneurship", "startups", "business", "books"]
+categories: [Book Summaries]
+tags: [Books, Business]
+book: true
 ---
 
 > Learn about highly important leadership skills

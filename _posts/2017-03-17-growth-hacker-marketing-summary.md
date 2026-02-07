@@ -2,8 +2,9 @@
 layout: post
 title: "Growth Hacker Marketing -- Summary"
 date: 2017-03-17 11:08:03 +0000
-categories: ["Book Summaries", "Business", "Creativity", "Success"]
-tags: ["marketing", "viral", "business", "success", "social"]
+categories: [Book Summaries, Business, Self-Improvement]
+tags: [Business, Culture, Self-Improvement]
+book: true
 ---
 
 > Learn how to outperform massive traditional marketing budgets with free growth hacker marketing

@@ -2,8 +2,9 @@
 layout: post
 title: "The future of the mind -- Summary"
 date: 2017-02-21 17:05:06 +0000
-categories: ["Future", "Book Summaries"]
-tags: ["mind", "brain", "neuroscience", "futuristic", "future", "sci-fi", "physics", "AI", "ML"]
+categories: [Book Summaries, Science]
+tags: [Psychology, Science, Technology]
+book: true
 ---
 
 > Learn about the future of our mind from the prominent visionary and physicist Michio Kaku

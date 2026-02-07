@@ -2,7 +2,7 @@
 layout: post
 title: "Silicon Valley and Universities trade on brand"
 date: 2017-11-22 12:44:38 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 #Garyvee nailed it once again in one of his podcasts.

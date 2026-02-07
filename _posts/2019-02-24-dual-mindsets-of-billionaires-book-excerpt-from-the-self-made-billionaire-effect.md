@@ -2,8 +2,9 @@
 layout: post
 title: "Dual mindsets of Billionaires -- Book Excerpt from The Self-made Billionaire Effect"
 date: 2019-02-24 19:52:47 +0000
-categories: ["Book Excerpts"]
-tags: ["business", "money", "books", "billionaire", "mindset"]
+categories: [Book Excerpts]
+tags: [Books, Business, Investing, Psychology]
+book: true
 ---
 
 This is a book excerpt from the book [The Self-made Billionaire Effect by   

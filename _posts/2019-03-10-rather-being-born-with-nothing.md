@@ -2,7 +2,7 @@
 layout: post
 title: "Rather being born with nothing"
 date: 2019-03-10 13:07:34 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 https://youtu.be/5Loa9UZSHAA?t=1100

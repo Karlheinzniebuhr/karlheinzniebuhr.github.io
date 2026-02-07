@@ -2,8 +2,9 @@
 layout: post
 title: "The Blackstone way of Investing"
 date: 2020-03-11 20:32:15 +0000
-categories: ["Book Excerpts", "Investing"]
-tags: ["business", "investing"]
+categories: [Book Excerpts, Investing]
+tags: [Business, Investing]
+book: true
 ---
 
 In this excerpt from [What it takes](https://www.amazon.com/What-Takes-Lessons-Pursuit-Excellence/dp/1501158147?tag=kasbl023-20), Stephen Schwarzman explains how Blackstone developed it's highly risk-averse and impersonal investing strategy. His system differs from that of Warren Buffett which I find highly interesting. Warren makes decisions on his own mostly, at Blackstone there is a process through which investing decisions have to go.

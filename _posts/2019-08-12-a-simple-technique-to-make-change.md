@@ -2,8 +2,8 @@
 layout: post
 title: "A simple technique to make change"
 date: 2019-08-12 11:34:38 +0000
-categories: ["Blog"]
-tags: ["success"]
+categories: [Blog]
+tags: [Self-Improvement]
 ---
 
 Have you ever read a book that gave you the impression that the author held nothing back? That she gave her all? That's how I felt while listening to Tony Robbins' Personal Power. I listened to his program because I felt that there was something important to learn from Tony for me.

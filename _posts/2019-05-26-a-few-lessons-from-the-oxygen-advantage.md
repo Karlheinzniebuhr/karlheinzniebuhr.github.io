@@ -2,7 +2,8 @@
 layout: post
 title: "A few lessons from -- The Oxygen Advantage"
 date: 2019-05-26 15:42:17 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 I picked up this book while reading about the Wim Hof method in the book [What doesn't kill us](https://www.karlbooklover.com/lessons-from-what-doesnt-kill-us-the-wim-hoff-method/). This book is a great complement if you are a practitioner, or simply interested in the Wim Hof breathing technique. Patrick McKeown, the author of this book, has investigated breathing and its role in people's health, as well as in athletic performance, over decades. He does a great job in explaining the science of breathing, and why breathing more isn't better. Actually, chronic overbreathing is an epidemic. Let's dive into it with an excerpt from the book.

@@ -2,7 +2,8 @@
 layout: post
 title: "One Up on Wall Street -- Summary"
 date: 2021-05-04 19:45:39 +0000
-categories: ["Book Excerpts", "Book Summaries", "Investing"]
+categories: [Book Excerpts, Book Summaries, Investing]
+book: true
 ---
 
 This is the second book I read Peter Lynch, which is one of my favorite investors. Check out the first one [here](https://www.karlbooklover.com/learn-to-earn-summary/).

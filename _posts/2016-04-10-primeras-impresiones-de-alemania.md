@@ -4,7 +4,7 @@ layout: post
 title: "Primeras impresiones de Alemania"
 date: 2016-04-10
 categories: es
-tags: [español, education, germany]
+tags: [Culture, Education]
 archived: true
 ---
 

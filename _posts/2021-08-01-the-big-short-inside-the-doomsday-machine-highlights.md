@@ -2,7 +2,8 @@
 layout: post
 title: "The Big Short: Inside the Doomsday Machine -- Highlights"
 date: 2021-08-01 10:56:11 +0000
-categories: ["Book Summaries", "Biographies", "Investing"]
+categories: [Biographies, Book Summaries, Investing]
+book: true
 ---
 
 One episode of Dirty Money where Fahmi short sells Valeant Pharmaceuticals, explains how short-sellers are natural contrarian thinkers. Howard Marks, the author of The most important thing illuminated which is one of my favorite books in investing, does a great job explaining the importance of being a contrarian.

@@ -2,8 +2,8 @@
 layout: post
 title: "How Video Games improve our Brain"
 date: 2018-05-19 11:22:15 +0000
-categories: ["Blog"]
-tags: ["gaming", "games", "brain", "neuroplasticity", "self-development"]
+categories: [Blog]
+tags: [Psychology, Self-Improvement, Technology]
 ---
 
 I'm into improving my brain through meditation, exercise, and [nutrition](https://nutritionfacts.org/topics/brain-health/). Now I found another great way to improve my brain, by playing video games. What? Yes! And a fun way it is. I'm sure fewer people would object to playing video games than to sit down and meditate, lol.

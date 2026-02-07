@@ -2,7 +2,7 @@
 layout: post
 title: "Breathwork / Ejercicios de respiración"
 date: 2024-11-28 17:12:07 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 La respiración es vista como conexión entre lo material (el cuerpo físico) y lo espiritual (fuerza vital) en muchas culturas ancestrales alrededor del mundo.

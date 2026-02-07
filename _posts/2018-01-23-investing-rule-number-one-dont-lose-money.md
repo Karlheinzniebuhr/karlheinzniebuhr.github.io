@@ -2,8 +2,9 @@
 layout: post
 title: "Investing rule number one, don't lose money"
 date: 2018-01-23 12:25:33 +0000
-categories: ["Book Excerpts", "Investing"]
-tags: ["investing", "books", "warren buffett", "business"]
+categories: [Book Excerpts, Investing]
+tags: [Books, Business, Investing]
+book: true
 ---
 
 This excerpt from the book [Snowball](https://www.amazon.com/Snowball-Warren-Buffett-Business-Life-ebook/dp/B009MYD9F8/ref=sr_1_1?ie=UTF8&qid=1516724560&sr=8-1&keywords=snowball+warren+buffett&tag=kasbl023-20) explains why taking debt to make up losses is tempting but not good.

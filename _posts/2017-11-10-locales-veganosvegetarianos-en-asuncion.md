@@ -2,8 +2,8 @@
 layout: post
 title: "Locales veganos/vegetarianos en Asunción"
 date: 2017-11-10 08:48:04 +0000
-categories: ["Blog-es"]
-tags: ["Asuncion", "Restaurantes", "Veganos", "Vegetarianos"]
+categories: [Blog]
+tags: [Culture]
 ---
 
 Hace un año publiqué una lista de locales con opciones Veganos/Vegetarianos y fué un éxito total, la gente compartió mucho al post y me di cuenta que muchos se sorprendieron de que haya tantas opciones en Asunción. Aquí está la lista actualizada de finales de 2018. Si sabes de otros lugares puedes agregar [aquí](https://docs.google.com/document/d/1P3gBfgk3ddg5PTfRcUXOXqVDUfAwQmbTvcYxHUxA5M4/edit?usp=sharing).

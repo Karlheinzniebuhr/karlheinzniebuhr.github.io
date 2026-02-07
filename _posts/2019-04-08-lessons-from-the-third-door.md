@@ -2,8 +2,9 @@
 layout: post
 title: "Lessons from -- The third Door"
 date: 2019-04-08 19:32:18 +0000
-categories: ["Book Summaries"]
-tags: ["Biographies", "auto-biographies", "success"]
+categories: [Book Summaries]
+tags: [Biographies, Self-Improvement]
+book: true
 ---
 
 [The third Door](https://www.amazon.com/Third-Door-Uncover-Successful-Launched/dp/0804136661?tag=kasbl023-20) is a very entertaining Autobiography from which you will get a lot of actionable lessons. The thing that struck me most from Alex's journey is how he looks at his frustrating experiences along the way to success. He doesn't take his failures too seriously, actually quite the opposite, he makes the most amusing stories out of them.

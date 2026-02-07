@@ -2,8 +2,8 @@
 layout: post
 title: "The logarithmic learning curve, why its possible to be good at many things"
 date: 2016-10-29 00:00:00 +0000
-categories: ["Blog"]
-tags: ["learning", "brain", "education", "self-development"]
+categories: [Blog]
+tags: [Education, Psychology, Self-Improvement]
 ---
 
 I’m always getting a kick out of learning something entirely new. Perhaps that’s why I like to read about things outside of my expertise.

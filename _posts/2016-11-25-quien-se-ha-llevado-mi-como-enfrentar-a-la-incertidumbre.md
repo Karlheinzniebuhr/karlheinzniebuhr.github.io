@@ -2,7 +2,8 @@
 layout: post
 title: "“Quien se ha llevado mi ??” Cómo enfrentar a la incertidumbre"
 date: 2016-11-25 13:44:49 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 [![](/assets/images/51MrPVVf0L._SX320_BO1204203200_-194x300.jpg)](https://www.amazon.com/gp/product/8495787091/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=8495787091&linkId=253b49fc3db242ded34c25a506dc60e9)

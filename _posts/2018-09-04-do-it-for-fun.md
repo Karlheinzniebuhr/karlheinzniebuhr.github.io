@@ -2,8 +2,8 @@
 layout: post
 title: "Do it for fun"
 date: 2018-09-04 16:45:53 +0000
-categories: ["Tech-blog", "Blog"]
-tags: ["success", "work", "career", "self-development", "self-improvement"]
+categories: [Blog, Technology]
+tags: [Business, Self-Improvement]
 ---
 
 In [this

@@ -2,8 +2,9 @@
 layout: post
 title: "Lessons from University of Berkshire Hathaway"
 date: 2018-01-11 09:28:18 +0000
-categories: ["Book Summaries"]
-tags: ["investing", "business", "books", "warren buffett", "charlie munger"]
+categories: [Book Summaries]
+tags: [Books, Business, Investing]
+book: true
 ---
 
 The book University of Berkshire Hathaway resumes the relevant lessons learned from the Shareholder meetings of Berkshire Hathaway. I got some very good insights into Warren Buffett's and Charlie Munger's wisdom from this little book.

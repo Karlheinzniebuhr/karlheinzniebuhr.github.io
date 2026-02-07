@@ -2,7 +2,8 @@
 layout: post
 title: "How a plant based diet lead him to run for hours without tiring -- Finding Ultra Book Excerpt"
 date: 2017-08-31 16:58:50 +0000
-categories: ["Book Excerpts"]
+categories: [Book Excerpts]
+book: true
 ---
 
 In the following chapter from the book [Finding Ultra](https://www.amazon.com/Finding-Ultra-Rejecting-Becoming-Discovering/dp/0307952207?tag=kasbl023-20), Rick Roll tells how changing to a plant based diet flooded him with so much energy that he started running for hours without effort. This sudden rise in energy ultimately made him an Ultra Man and EPIC5 CHALLENGE champ [[BIO](http://www.richroll.com/bio/)]. Furthermore, he was named one of the world's 25 fittest men by Men's Fitness magazine.

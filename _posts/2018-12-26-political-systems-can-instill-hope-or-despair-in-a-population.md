@@ -2,8 +2,9 @@
 layout: post
 title: "Political systems can instill Hope or Despair in a population"
 date: 2018-12-26 12:56:22 +0000
-categories: ["Book Excerpts"]
-tags: ["optimism", "success"]
+categories: [Book Excerpts]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 This part of the book [Learned optimism](https://www.amazon.com/Learned-Optimism-Change-Your-Mind/dp/1400078393?tag=kasbl023-20) shows how optimism can be influenced by a political system.

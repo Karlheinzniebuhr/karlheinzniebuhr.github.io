@@ -2,8 +2,8 @@
 layout: post
 title: "La manera mas simple de invertir en Bitcoin"
 date: 2017-05-11 14:54:38 +0000
-categories: ["Blog-es"]
-tags: ["bitcoin", "inversiones", "criptomonedas", "negocios", "economia"]
+categories: [Blog]
+tags: [Business, Crypto, Investing]
 ---
 
 ### Breve introducción

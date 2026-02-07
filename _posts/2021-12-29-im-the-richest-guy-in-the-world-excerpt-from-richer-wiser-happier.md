@@ -2,7 +2,8 @@
 layout: post
 title: "“I’m the Richest Guy in the World” -- Excerpt from Richer, Wiser, Happier"
 date: 2021-12-29 14:48:51 +0000
-categories: ["Book Excerpts", "Business", "Investing"]
+categories: [Book Excerpts, Business, Investing]
+book: true
 ---
 
 ## “I’m the Richest Guy in the World”

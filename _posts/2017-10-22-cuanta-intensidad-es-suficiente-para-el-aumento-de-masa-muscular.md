@@ -2,8 +2,8 @@
 layout: post
 title: "Hipertrofia: Cuánta intensidad es suficiente para el aumento de masa muscular?"
 date: 2017-10-22 14:30:00 +0000
-categories: ["Blog-es"]
-tags: ["deporte", "fitness", "musculacion", "fisicoculturismo", "gimnasia"]
+categories: [Blog]
+tags: [Health]
 ---
 
 El conocimiento común de los gimnasios desde que empecé a entrenar enseñaba que repeticiones bajas con pesas pesadas es mejor para el aumento de masa muscular que repeticiones altas con pesas mas livianas. Pero no teníamos una explicación muy concreta de qué exactamente significa mucho peso y poco peso.

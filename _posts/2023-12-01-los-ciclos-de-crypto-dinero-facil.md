@@ -2,8 +2,8 @@
 layout: post
 title: "Los ciclos de crypto: Dinero fácil"
 date: 2023-12-01 10:31:08 +0000
-categories: ["Blog-es"]
-tags: ["crypto", "investing"]
+categories: [Blog]
+tags: [Crypto, Investing]
 ---
 
 En este post comparto el método más óptimo y fácil de hacer dinero invirtiendo en la crypto economía según mi experiencia personal, aparte de utilizar [Iconomi](https://www.karlbooklover.com/maximizar-retorno-de-inversion-en-la-cripto-economia/).

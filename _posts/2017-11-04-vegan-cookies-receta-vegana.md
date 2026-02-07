@@ -2,8 +2,8 @@
 layout: post
 title: "Mi primera receta vegana by @poepam"
 date: 2017-11-04 15:17:50 +0000
-categories: ["Recipes"]
-tags: ["recetas veganas", "fitness"]
+categories: [Health]
+tags: [Health]
 ---
 
 Dicen que la mayoría de las personas, somos influenciables en la mayoría de los ámbitos y de los círculos sociales, hoy día puedo decir que sí, lo somos. Tal como lo dijo John C. Maxwell en su libro "Cómo influenciar en las personas" - Pequeñas disciplinas repetidas con consistencia, cada día, guían a grandes logros ganados lentamente con el tiempo-, es así que escuchar un puñado de experiencias, anécdotas inspiradoras y razones meramente éticas, hicieron que despertara en mi interés el vegetarianismo/veganismo.

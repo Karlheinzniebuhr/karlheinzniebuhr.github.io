@@ -2,8 +2,9 @@
 layout: post
 title: "Positivity -- Summary"
 date: 2017-05-02 16:57:58 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["meditation", "happiness", "mindfulness", "psychology", "health"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Health, Meditation, Psychology]
+book: true
 ---
 
 > Learn how positive emotions lead to more success and a more fulfilled life

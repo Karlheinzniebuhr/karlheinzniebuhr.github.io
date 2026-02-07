@@ -2,8 +2,9 @@
 layout: post
 title: "The food industry vs public health -- Book Excerpt from The healthiest Diet on the Planet"
 date: 2017-08-24 18:15:16 +0000
-categories: ["Book Excerpts"]
-tags: ["nutrition", "food industry", "health", "science", "medicine"]
+categories: [Book Excerpts]
+tags: [Health, Science]
+book: true
 ---
 
 The following excerpt is from Dr. McDougall's latest book, [The](https://www.amazon.com/Healthiest-Diet-Planet-Love-Pizza-Preventing/dp/0062426761?tag=kasbl023-20) [healthiest Diet on the Planet](https://www.amazon.com/Healthiest-Diet-Planet-Love-Pizza-Preventing/dp/0062426761?tag=kasbl023-20).

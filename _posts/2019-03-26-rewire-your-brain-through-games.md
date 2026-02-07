@@ -2,7 +2,8 @@
 layout: post
 title: "Rewire your brain through games"
 date: 2019-03-26 18:18:56 +0000
-categories: ["Book Excerpts"]
+categories: [Book Excerpts]
+book: true
 ---
 
 What follows is an excerpt from the book [Superbetter](https://www.amazon.com/SuperBetter-Living-Gamefully-Jane-McGonigal/dp/0143109774?tag=kasbl023-20).

@@ -2,8 +2,9 @@
 layout: post
 title: "Switch -- Summary"
 date: 2017-02-23 22:24:00 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["change", "life-lessons", "self-improvement", "mindset"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > This book will show you how to stop thinking and start doing

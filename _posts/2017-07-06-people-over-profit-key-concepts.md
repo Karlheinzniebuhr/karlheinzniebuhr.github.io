@@ -2,8 +2,9 @@
 layout: post
 title: "People over profit -- key concepts"
 date: 2017-07-06 14:39:30 +0000
-categories: ["Book Summaries", "Business", "Economics", "Success"]
-tags: ["business", "success", "economics", "startups", "money"]
+categories: [Book Summaries, Business, Investing, Self-Improvement]
+tags: [Business, Investing, Self-Improvement]
+book: true
 ---
 
 > Learn how to create long term success in your company

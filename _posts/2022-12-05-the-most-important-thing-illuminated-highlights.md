@@ -2,7 +2,8 @@
 layout: post
 title: "The Most Important Thing Illuminated - Highlights"
 date: 2022-12-05 10:58:39 +0000
-categories: ["Book Summaries", "Investing"]
+categories: [Book Summaries, Investing]
+book: true
 ---
 
 This is the most scientific book on investing I've read so far. No wonder Warren Buffett is an avid reader of Howard Marks's writeups.

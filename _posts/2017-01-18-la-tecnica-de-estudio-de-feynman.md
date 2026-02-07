@@ -2,7 +2,7 @@
 layout: post
 title: "La técnica de estudio de Feynman"
 date: 2017-01-18 18:18:15 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 ![](/assets/images/1_wHkRzwPDqBs2oJvC1Cx71A.jpeg)Soy un gran fan de Richard Feynman, en mi opinion uno de los mejores científicos y educadores de ciencia. Para los que no le conoce, [empiecen con este documental.](https://www.youtube.com/watch?v=LyqleIxXTpw&ab_channel=helberg) Pero sin entrar en mas detalle, quiero compartir la tecnica de comprensión que el utilizaba.

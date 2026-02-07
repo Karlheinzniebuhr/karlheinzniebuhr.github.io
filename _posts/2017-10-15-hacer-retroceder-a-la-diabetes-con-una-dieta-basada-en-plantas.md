@@ -2,8 +2,9 @@
 layout: post
 title: "Hacer retroceder a la diabetes con una dieta basada en plantas"
 date: 2017-10-15 09:19:15 +0000
-categories: ["Pasajes de libros"]
-tags: ["salud", "diabetes", "nutricion", "veganismo"]
+categories: [Book Excerpts]
+tags: [Health]
+book: true
 ---
 
 En los pasajes de abajo que son del libro [Comer para no morir,](https://www.amazon.com/dp/B01DV0XBU6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1&tag=kasbl023-20)Dr. Michael Greger explica como se puede revertir diabetes del tipo 2 con una alimentación basada en plantas.

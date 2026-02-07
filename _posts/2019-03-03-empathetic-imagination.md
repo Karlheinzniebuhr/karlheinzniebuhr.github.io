@@ -2,8 +2,9 @@
 layout: post
 title: "Empathetic Imagination -- Excerpt from The Self-made Billionaire Effect"
 date: 2019-03-03 22:07:03 +0000
-categories: ["Book Excerpts", "Business", "Investing"]
-tags: ["success", "business"]
+categories: [Book Excerpts, Business, Investing]
+tags: [Business, Self-Improvement]
+book: true
 ---
 
 I'm fascinated by a book which explains what Self-made Billionaires have in common. One of the key factors of self-made billionaires is their ability to be empathic enough to understand the needs of other people, and imaginative enough to find and evaluate solutions to those problems.

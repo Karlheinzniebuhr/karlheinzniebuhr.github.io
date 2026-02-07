@@ -2,8 +2,8 @@
 layout: post
 title: "Have confidence in your own reason"
 date: 2018-06-01 16:42:52 +0000
-categories: ["Blog"]
-tags: ["life-lessons", "success", "mindset"]
+categories: [Blog]
+tags: [Psychology, Self-Improvement]
 ---
 
 YouTube is another big learning place for me besides books. Today I casually watched [this video](https://youtu.be/6NQiHtbpa8s?t=561) and wrote down a quote which is very much how I think. So much so that I thought it worthy of a post.

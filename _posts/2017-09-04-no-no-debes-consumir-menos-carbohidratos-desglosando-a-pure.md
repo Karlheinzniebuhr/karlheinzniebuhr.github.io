@@ -2,7 +2,7 @@
 layout: post
 title: "No, no debes consumir menos carbohidratos -- Desglosando a PURE"
 date: 2017-09-04 16:05:37 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 Después de ser bloqueado de algunas páginas de “fitness y salud” en las redes sociales al desenmascarar sus conclusiones sobre el reciente estudio [PURE](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32252-3/fulltext?elsca1=tlpr) (*Prospective Urban and Rural Epidemiology*), me vi obligado a hacer este post.

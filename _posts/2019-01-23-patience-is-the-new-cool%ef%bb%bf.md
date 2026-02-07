@@ -2,8 +2,8 @@
 layout: post
 title: "Patience is the new cool﻿"
 date: 2019-01-23 13:37:43 +0000
-categories: ["Blog"]
-tags: ["success", "business"]
+categories: [Blog]
+tags: [Business, Self-Improvement]
 ---
 
 If you are in a situation where you feel stuck and bad because it seems like you can’t get where you want to be while other people seem to easily make it, highly recommend you go watch this interview with Gary V. and a 22 yo girl called [How One Video Can Change Your Life](https://www.youtube.com/watch?v=0e8COwvlFUc). It is one of the iconic talks that woke up many young people.

@@ -2,7 +2,8 @@
 layout: post
 title: "Salt Sugar Fat — Summary"
 date: 2017-01-18 14:18:50 +0000
-categories: ["Book Summaries", "Nutrition"]
+categories: [Book Summaries, Health]
+book: true
 ---
 
 > Learn how the food industry hooks us with salt sugar and fat. Often resulting in fatal diseases

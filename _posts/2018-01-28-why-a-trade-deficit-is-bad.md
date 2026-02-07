@@ -2,7 +2,8 @@
 layout: post
 title: "Why a trade deficit is bad"
 date: 2018-01-28 09:47:34 +0000
-categories: ["Book Excerpts"]
+categories: [Book Excerpts]
+book: true
 ---
 
 “Buffett had written an article for Fortune, “Why I’m Down On the Dollar,”20 in which he explained that he had made significant investments in foreign currencies out of a belief that the dollar would decline in value. The reason was something called the trade deficit: Americans were buying more from other countries than they were selling, and at a fast-accelerating rate. They were paying for the difference through borrowing; foreigners were buying Treasury bonds, an I.O.U. from the U.S. government. In short order, the country’s “net worth,” he said, “is being transferred abroad at an alarming rate.”

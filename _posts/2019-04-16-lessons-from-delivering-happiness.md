@@ -2,8 +2,9 @@
 layout: post
 title: "Lessons from -- Delivering Happiness"
 date: 2019-04-16 20:49:23 +0000
-categories: ["Book Summaries"]
-tags: ["books", "success", "business"]
+categories: [Book Summaries]
+tags: [Books, Business, Self-Improvement]
+book: true
 ---
 
 This [autobiography](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220?tag=kasbl023-20) did not disappoint. I especially enjoyed the first half of the book. It is where Tony recounts some of his first business ventures. The first one he created in elementary school. The inspiration came from a book he borrowed from his friend, called Free Stuff for Kids.   

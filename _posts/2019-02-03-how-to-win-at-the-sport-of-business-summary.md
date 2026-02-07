@@ -2,8 +2,9 @@
 layout: post
 title: "How to Win at the Sport of Business -- Summary"
 date: 2019-02-03 09:42:11 +0000
-categories: ["Book Summaries", "Business"]
-tags: ["Entrepreneurship"]
+categories: [Book Summaries, Business]
+tags: [Business]
+book: true
 ---
 
 I've never really followed Mark Cuban, but somehow my instinct told me I should read his book that I had bought about 3 years ago. The book did not disappoint me. I love the succinct and practical no-nonsense approach Mark has. Here are the most important lessons from his book.

@@ -2,8 +2,9 @@
 layout: post
 title: "Be willing to be lucky"
 date: 2019-04-18 18:39:22 +0000
-categories: ["Book Excerpts"]
-tags: ["books", "Biographies"]
+categories: [Book Excerpts]
+tags: [Biographies, Books]
+book: true
 ---
 
 One remark particularly stuck in my head today while reading [When I Stop Talking, You'll Know I'm Dead](https://www.amazon.com/When-Stop-Talking-Youll-Know-ebook/dp/B00351DSRI?tag=kasbl023-20). Thus, the title of this post.

@@ -2,8 +2,9 @@
 layout: post
 title: "The Laws of Love and the Laws of Life -- Book Exerpt"
 date: 2017-10-07 12:03:26 +0000
-categories: ["Book Excerpts"]
-tags: ["relationships", "books", "love", "success", "learning"]
+categories: [Book Excerpts]
+tags: [Books, Culture, Education, Self-Improvement]
+book: true
 ---
 
 This is from one of my favorite books [The 7 habits of highly effective people.](https://www.amazon.com/dp/B01069X4H0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1&tag=kasbl023-20)

@@ -2,8 +2,9 @@
 layout: post
 title: "Tony Hsieh's earlier Business experiences"
 date: 2019-04-02 23:41:19 +0000
-categories: ["Book Excerpts"]
-tags: ["business", "Biographies"]
+categories: [Book Excerpts]
+tags: [Biographies, Business]
+book: true
 ---
 
 [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220?tag=kasbl023-20). I started this book because it was mentioned several times in Alex's book The Third Door. I just felt this very intense intuition that it would turn out to be a great book to read for me at this time, turned out to be right. I love it so far. I can relate to so much of what Tony shares about his earlier experiences at work. The following chapters I particularly loved and wanted to share with you.

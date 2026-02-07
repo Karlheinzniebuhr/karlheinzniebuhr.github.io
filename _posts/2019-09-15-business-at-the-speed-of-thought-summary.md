@@ -2,8 +2,9 @@
 layout: post
 title: "Business at the Speed of Thought -- Summary"
 date: 2019-09-15 17:03:30 +0000
-categories: ["Book Summaries"]
-tags: ["Biographies", "business"]
+categories: [Book Summaries]
+tags: [Biographies, Business]
+book: true
 ---
 
 I have been wanting to read biographies about Bill Gates for a while. Searching for them brought me to this book which he wrote himself. An opportunity I wouldn't let escape.

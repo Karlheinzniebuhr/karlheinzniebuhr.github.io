@@ -2,8 +2,8 @@
 layout: post
 title: "Aprender sobre la marcha"
 date: 2017-03-12 19:19:58 +0000
-categories: ["Blog-es"]
-tags: ["aprendizaje", "Libros", "exito", "emprendimiento", "educacion"]
+categories: [Blog]
+tags: [Books, Business, Education, Self-Improvement]
 ---
 
 *“The key secret to success is not excessive expertise, but the ability to use it. Knowledge is worthless unless it is applied.” —* [Max Lukominskyi](http://thecoffeelicious.com/why-learning-is-a-new-procrastination-104b53107e8b#.zeglohbdt)

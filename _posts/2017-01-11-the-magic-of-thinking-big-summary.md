@@ -2,7 +2,8 @@
 layout: post
 title: "The magic of thinking big — Summary"
 date: 2017-01-11 19:44:05 +0000
-categories: ["Book Summaries", "Success"]
+categories: [Book Summaries, Self-Improvement]
+book: true
 ---
 
 > This book will teach you how to adopt a Success Mindset

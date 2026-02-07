@@ -2,8 +2,9 @@
 layout: post
 title: "The lean startup -- Summary"
 date: 2017-03-06 21:16:26 +0000
-categories: ["Book Summaries", "Business"]
-tags: ["startups", "Entrepreneurship", "business"]
+categories: [Book Summaries, Business]
+tags: [Business]
+book: true
 ---
 
 > Learn how to form a successful new business

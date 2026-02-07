@@ -2,7 +2,8 @@
 layout: post
 title: "Rich Dad poor Dad — Summary"
 date: 2017-01-04 00:44:07 +0000
-categories: ["Book Summaries", "Business", "Investing"]
+categories: [Book Summaries, Business, Investing]
+book: true
 ---
 
 > This book will teach you the basics of personal finance

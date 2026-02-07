@@ -2,8 +2,8 @@
 layout: post
 title: "Los diferentes tipos de consenso del Blockchain"
 date: 2017-05-31 21:50:07 +0000
-categories: ["Blog-es"]
-tags: ["bitcoin", "inversiones", "criptomonedas", "criptografia", "seguridad"]
+categories: [Blog]
+tags: [Blogging, Crypto, Investing]
 ---
 
 En un sistema descentralizado como el que usan la mayoría de las criptomonedas se da el problema de la confianza. Como uno puede verificar si todos respetan las reglas si no hay una "autoridad" en el sistema?

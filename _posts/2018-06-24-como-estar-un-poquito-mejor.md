@@ -2,7 +2,7 @@
 layout: post
 title: "Como estar un poquito mejor cada día"
 date: 2018-06-24 15:56:17 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 Tengo ganas de escribir sobre algunas cosas que creo que tienen potencial de ayudar a otras personas asi como me ayudaron. Me es curioso que como mejor persona, uno tiende a estar mejor. Es como una regla, y parece ser una regla justa. Así que, nos conviene ser mejores personas. Ahora, ser mejor persona, que significa eso? Probablemente tengamos diferentes definiciones pero podemos usar al sentido común para definir cosas universales, cosas que en todas las culturas se entienden. Por ejemplo empezando por lo mas básico, hacer sonreír a una persona es mejor que hacerla llorar y sufrir. Esas emociones cada niño reconoce intuitivamente.

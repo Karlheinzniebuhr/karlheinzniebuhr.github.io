@@ -2,8 +2,8 @@
 layout: post
 title: "Aplicando Deep Learning Style transfer"
 date: 2017-06-02 17:06:57 +0000
-categories: ["Blog-es"]
-tags: ["deep learning", "Machine Learning", "redes neuronales", "computer science", "inteligencia artificial"]
+categories: [Blog]
+tags: [Technology]
 ---
 
 En estos días empece con el curso de Deep Learning de Udacity. El primer experimento que hicimos fue transferir estilos de dibujos con Convolutional Neuronal Networks (CNN's) basados en [style-transfer](https://github.com/lengstrom/fast-style-transfer).

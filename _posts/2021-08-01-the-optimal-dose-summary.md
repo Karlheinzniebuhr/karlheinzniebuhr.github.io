@@ -2,7 +2,8 @@
 layout: post
 title: "The Optimal Dose -- Summary"
 date: 2021-08-01 12:01:39 +0000
-categories: ["Book Summaries", "Fitness", "Nutrition"]
+categories: [Book Summaries, Health]
+book: true
 ---
 
 I became interested in Vitamin D years ago after reading The Vitamin D solution, and then running a personal experiment supplementing Vitamin D, during which I didn't get the cold for more than two years. Even in a full-blown winter in Germany in which all my relatives got sick, the flu didn't catch me once.

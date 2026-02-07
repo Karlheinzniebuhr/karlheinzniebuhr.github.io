@@ -4,7 +4,7 @@ layout: post
 title:  "Experimento en curso de udacity que llevó a una libreria python."
 date:   2015-05-10
 categories: es
-tags: [español, programming, benchmark]
+tags: [Technology]
 banner_image: udacity_logo.png
 archived: true
 ---

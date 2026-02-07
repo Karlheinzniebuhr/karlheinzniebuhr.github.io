@@ -2,7 +2,8 @@
 layout: post
 title: "The meditation transformation -- Summary"
 date: 2017-12-06 10:23:53 +0000
-categories: ["Book Summaries", "Meditation"]
+categories: [Book Summaries, Meditation]
+book: true
 ---
 
 > Karl: This book is the first book I'd choose to recommend to someone interested to start meditating.

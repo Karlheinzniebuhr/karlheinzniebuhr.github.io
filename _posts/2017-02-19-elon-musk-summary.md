@@ -2,8 +2,9 @@
 layout: post
 title: "Elon Musk -- Summary"
 date: 2017-02-19 23:31:41 +0000
-categories: ["Book Summaries", "Biographies"]
-tags: ["Elon Musk", "Space Industry", "Hyperloop", "South Africa", "SolarCity", "Innovation", "Entrepreneurship"]
+categories: [Biographies, Book Summaries]
+tags: [Biographies, Business, Science]
+book: true
 ---
 
 > Get inspired by one of the most successful entrepreneurs and visionaries ever

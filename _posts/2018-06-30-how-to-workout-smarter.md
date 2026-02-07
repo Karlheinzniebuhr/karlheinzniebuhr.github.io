@@ -2,8 +2,8 @@
 layout: post
 title: "How to workout smarter"
 date: 2018-06-30 20:55:18 +0000
-categories: ["Fitness", "Blog"]
-tags: ["fitness", "health", "training", "workout"]
+categories: [Blog, Health]
+tags: [Health]
 ---
 
 [This interview with Firas Zahabi](https://www.youtube.com/watch?v=_fbCcWyYthQ) popped into my feed casually, didn't know him but I'm glad I watched it. Damn, he has a lot of wisdom. The main message he explains is that it's consistency over intensity when it comes to training. I learned this in the last year from natural bodybuilding channels mostly. Here some quotes from Firas.

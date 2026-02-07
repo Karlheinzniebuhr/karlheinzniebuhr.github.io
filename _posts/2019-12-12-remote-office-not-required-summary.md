@@ -2,8 +2,9 @@
 layout: post
 title: "Remote : Office Not Required -- Summary"
 date: 2019-12-12 17:56:55 +0000
-categories: ["Creativity", "Tech", "Book Summaries"]
-tags: ["remote-work"]
+categories: [Book Summaries, Self-Improvement, Technology]
+tags: [Business]
+book: true
 ---
 
 I became a fan of David Heinemeier since I watched the legendary talk [Snakes and Rubies](https://www.youtube.com/watch?v=cb9KDt9aXc8) (2005) where he debates web frameworks with the creator of the Django Framework. That's old tech now, but it's a highly recommended talk for those interested in how dynamic web frameworks came to be.

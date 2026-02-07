@@ -2,8 +2,9 @@
 layout: post
 title: "Black Privilege -- Summary"
 date: 2020-05-03 19:44:06 +0000
-categories: ["Biographies", "Book Summaries"]
-tags: ["Biographies", "rap-culture"]
+categories: [Biographies, Book Summaries]
+tags: [Biographies, Culture]
+book: true
 ---
 
 [Black Privilege](https://www.amazon.com/Black-Privilege-Opportunity-Comes-Create/dp/1501145304?tag=kasbl023-20) is an amusing biography to read. I won't go into detail about the many anecdotes, you have to read them in context to really enjoy them. But I'll share some of the little lessons I got out of this book.

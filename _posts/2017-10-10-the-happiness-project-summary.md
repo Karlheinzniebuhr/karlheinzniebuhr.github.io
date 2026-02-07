@@ -2,8 +2,9 @@
 layout: post
 title: "The happiness project -- Summary"
 date: 2017-10-10 13:26:20 +0000
-categories: ["Book Summaries", "Meditation"]
-tags: ["mindfulness", "meditation", "happiness", "success", "life-style"]
+categories: [Book Summaries, Meditation]
+tags: [Meditation, Psychology, Self-Improvement]
+book: true
 ---
 
 **Learn how to start your own journey towards happiness**

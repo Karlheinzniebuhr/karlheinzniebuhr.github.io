@@ -2,8 +2,9 @@
 layout: post
 title: "In learning, embrace difficulties"
 date: 2019-03-02 17:34:11 +0000
-categories: ["Book Excerpts"]
-tags: ["books"]
+categories: [Book Excerpts]
+tags: [Books]
+book: true
 ---
 
 There are two great books about the science of learning, [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=sr_1_1?keywords=mind+for+numbers&qid=1551562400&s=books&sr=1-1&tag=kasbl023-20) which I made a [summary](https://www.karlbooklover.com/a-mind-for-numbers-summary/) of and [Make it Stick](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013?tag=kasbl023-20). The following paragraphs are from the latter.

@@ -2,7 +2,8 @@
 layout: post
 title: "Permission Marketing — Summary"
 date: 2017-01-21 19:31:48 +0000
-categories: ["Book Summaries", "Business"]
+categories: [Book Summaries, Business]
+book: true
 ---
 
 > Learn how to market more effectively by taking into account customer’s self-interest

@@ -2,8 +2,9 @@
 layout: post
 title: "Willpower — Summary"
 date: 2016-12-15 07:52:08 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["willpower", "productivity", "goals", "self-improvement"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > Drawing on cutting-edge research, *Willpower* shares lessons on how to focus our strength, resist temptation, and redirect our lives.

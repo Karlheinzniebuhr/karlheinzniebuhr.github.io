@@ -2,8 +2,9 @@
 layout: post
 title: "Reality is Plastic -- Summary"
 date: 2017-04-06 21:33:38 +0000
-categories: ["Book Summaries"]
-tags: ["hypnosis", "brain", "subconscious", "psychology", "mind"]
+categories: [Book Summaries]
+tags: [Psychology]
+book: true
 ---
 
 > Learn about the surprising power of hypnosis and our subconscious mind

@@ -2,8 +2,9 @@
 layout: post
 title: "Bounce — Summary"
 date: 2016-12-30 14:56:29 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["talent", "success", "mindset", "neuroscience"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > Bounce looks at the science of attaining high performance, and how to get there

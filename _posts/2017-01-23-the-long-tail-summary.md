@@ -2,8 +2,9 @@
 layout: post
 title: "The long tail — Summary"
 date: 2017-01-23 00:07:19 +0000
-categories: ["Book Summaries", "Business"]
-tags: ["marketing", "business"]
+categories: [Book Summaries, Business]
+tags: [Business]
+book: true
 ---
 
 > Learn how to increase profit by offering more content through the Internet

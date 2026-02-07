@@ -2,7 +2,8 @@
 layout: post
 title: "Assertivity in Public Speaking"
 date: 2019-03-09 04:16:27 +0000
-categories: ["Book Excerpts"]
+categories: [Book Excerpts]
+book: true
 ---
 
 What follows is a assertiveness training session taken from the book [When I say no, I feel guilty](https://www.amazon.com/When-Say-No-Feel-Guilty/dp/0553263900?tag=kasbl023-20).

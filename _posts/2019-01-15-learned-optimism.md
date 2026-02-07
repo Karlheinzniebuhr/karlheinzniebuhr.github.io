@@ -2,7 +2,8 @@
 layout: post
 title: "Learned Optimism"
 date: 2019-01-15 20:44:01 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+book: true
 ---
 
 For

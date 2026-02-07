@@ -2,7 +2,7 @@
 layout: post
 title: "2019 goals - INVESTMENT"
 date: 2019-01-01 19:26:30 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 2018 was the second year of daily meditation practice. It was the year I was able to get out of the dark hole, and things started to get finally a little easier. It was a year where I accomplished great things professionally at my job, but had to sacrifice a lot of free time in order to maintain my meditation and workout routine. Speaking of training, I slowly started to arrange equipment and routines that allowed me to have a more consistent training schedule.

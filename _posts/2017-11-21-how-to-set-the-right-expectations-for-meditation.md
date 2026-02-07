@@ -2,8 +2,9 @@
 layout: post
 title: "Meditation: How to set the right expectations - Excerpt"
 date: 2017-11-21 20:14:17 +0000
-categories: ["Book Excerpts", "Meditation"]
-tags: ["meditation", "books", "success", "self-development", "self-improvement"]
+categories: [Book Excerpts, Meditation]
+tags: [Books, Meditation, Self-Improvement]
+book: true
 ---
 
 Excerpt from [Your 3 best superpowers](https://www.amazon.com/Your-Best-Super-Powers-Imagination/dp/1401944566?tag=kasbl023-20)

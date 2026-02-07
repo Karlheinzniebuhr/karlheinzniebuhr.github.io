@@ -2,7 +2,7 @@
 layout: post
 title: "Data scraping para análisis de datos"
 date: 2020-10-07 16:39:04 +0000
-categories: ["Blog-es", "Tech-blog"]
+categories: [Blog, Technology]
 ---
 
 ## Introducción

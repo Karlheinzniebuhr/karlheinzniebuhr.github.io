@@ -2,8 +2,9 @@
 layout: post
 title: "Arnold Schwarzenegger about motivating kids - Excerpt"
 date: 2017-11-25 11:50:15 +0000
-categories: ["Book Excerpts"]
-tags: ["books", "Biographies", "auto-biographies", "success"]
+categories: [Book Excerpts]
+tags: [Biographies, Books, Self-Improvement]
+book: true
 ---
 
 “Working with these kids taught me a lot about myself. Until then I thought I was the poster boy for the American dream. I came to the United States virtually broke, worked hard, kept focused on my goal, and made it. This really was the land of opportunity, I thought. If a kid like me could do it, anybody could. Well, that wasn’t so.

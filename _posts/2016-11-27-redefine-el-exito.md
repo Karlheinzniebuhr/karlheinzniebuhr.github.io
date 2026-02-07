@@ -2,7 +2,8 @@
 layout: post
 title: "Redefine el éxito"
 date: 2016-11-27 11:48:52 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 [Este libro muestra como uno puede alcanzar sus metas y ambiciones sin sacrificar a la salud y felicidad.](https://www.amazon.com/gp/product/6071137527/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=6071137527&linkId=eed73b783ea19c6b844b51be2d63ec26)

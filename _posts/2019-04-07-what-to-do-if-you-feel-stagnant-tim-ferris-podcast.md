@@ -2,7 +2,7 @@
 layout: post
 title: "What to do if you feel stagnant -- Tim Ferris' Podcast"
 date: 2019-04-07 20:02:47 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 I want to share this gold nugget from the Tim Ferris podcast. The episode is about Q&A and the question someone asks Tim is if he has ever felt like he was stagnant.

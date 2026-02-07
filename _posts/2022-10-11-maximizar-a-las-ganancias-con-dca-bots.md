@@ -2,8 +2,8 @@
 layout: post
 title: "Maximizar a las ganancias con DCA bots"
 date: 2022-10-11 14:34:20 +0000
-categories: ["Blog-es"]
-tags: ["crypto", "dca", "trading-bots"]
+categories: [Blog]
+tags: [Crypto]
 ---
 
 Antes de describir a la estrategia en sí, es importante que entendamos bien cómo funcionan los DCA bots. Un DCA bot no trata de predecir al precio, simplemente aprovecha a la volatilidad inherente del mercado.

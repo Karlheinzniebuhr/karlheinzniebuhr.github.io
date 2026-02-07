@@ -2,8 +2,8 @@
 layout: post
 title: "Deleting Medium's tracking Image"
 date: 2017-02-25 09:06:59 +0000
-categories: ["Blog"]
-tags: ["dev", "hacks", "medium", "tracking", "css", "security"]
+categories: [Blog]
+tags: [Blogging, Technology]
 ---
 
 Recently I moved my blog away from Medium to be able to customize it. Luckily, Medium allows its users to be the owners of their content, which is why it is possible to export the content in a collection of HTML files and one XML file.

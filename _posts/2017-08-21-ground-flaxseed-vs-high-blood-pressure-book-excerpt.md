@@ -2,8 +2,9 @@
 layout: post
 title: "Ground flaxseed vs high blood pressure -- Book Excerpt"
 date: 2017-08-21 20:36:43 +0000
-categories: ["Book Excerpts"]
-tags: ["health", "nutrition", "veganism", "medicine", "flaxseed"]
+categories: [Book Excerpts]
+tags: [Health]
+book: true
 ---
 
 The following expert is from the book [How not to die](https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115?tag=kasbl023-20) from Dr. Michael Greger.

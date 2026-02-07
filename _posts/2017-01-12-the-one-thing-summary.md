@@ -2,7 +2,8 @@
 layout: post
 title: "The ONE thing — Summary"
 date: 2017-01-12 20:01:17 +0000
-categories: ["Book Summaries", "Success"]
+categories: [Book Summaries, Self-Improvement]
+book: true
 ---
 
 > This book explains with amazing clarity the process of accomplishing big goals

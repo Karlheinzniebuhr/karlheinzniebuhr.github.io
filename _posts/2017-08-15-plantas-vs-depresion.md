@@ -2,8 +2,9 @@
 layout: post
 title: "Plantas vs Depresión"
 date: 2017-08-15 16:35:53 +0000
-categories: ["Pasajes de libros"]
-tags: ["medicina", "nutricion", "ciencia", "depresion", "veganismo"]
+categories: [Book Excerpts]
+tags: [Health, Science]
+book: true
 ---
 
 Estos pasajes quité del libro [Comer para no morir](https://www.amazon.com/Comer-morir-Michael-Greger-Stone/dp/844933215X?tag=kasbl023-20) de Dr. Michael Greger. Resalté algunos pasajes que me parecieron especialmente interesantes/importantes.

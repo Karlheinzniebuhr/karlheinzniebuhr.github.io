@@ -2,8 +2,8 @@
 layout: post
 title: "Tim Ferris on how to find a Mentor"
 date: 2019-04-26 15:59:13 +0000
-categories: ["Blog"]
-tags: ["mentoring", "learning"]
+categories: [Blog]
+tags: [Education]
 ---
 
 In a recent [Tea Time with Tim](https://open.spotify.com/episode/5dobjpVpqRvd4Dfj31R2fA), he got asked how to find a Mentor. I made some notes because his advice was the best I've encountered on this.

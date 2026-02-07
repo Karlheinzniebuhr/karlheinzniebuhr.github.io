@@ -2,8 +2,8 @@
 layout: post
 title: "Batatas y papas al horno"
 date: 2017-11-28 11:53:53 +0000
-categories: ["Recipes"]
-tags: ["comida vegana", "veganismo", "dieta basada en plantas", "fitness", "alimentacion"]
+categories: [Health]
+tags: [Health]
 ---
 
 Debido a las peticiones que recibo por consejos de la cocina basada en plantas, aquí continuo con una publicación de mis recetas favoritas. Como la mayoría de mis recetas, esta también es fácil y rápido de preparar y no requiere de habilidades de cocina especiales.

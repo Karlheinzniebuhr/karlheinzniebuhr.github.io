@@ -2,7 +2,7 @@
 layout: post
 title: "Libros , y aprender a través de la simulación mental"
 date: 2016-12-30 13:17:17 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 > “Survival machines **that can simulate the future** are one jump ahead of survival machines who can only learn on the basis of overt trial and error. The trouble with overt trial is that it takes **time** and **energy**. The trouble with overt error is that it is often **fatal**. Simulation is both **safer** and **faster**. The evolution of the capacity to simulate seems to have cumulated in subjective consciousness.”

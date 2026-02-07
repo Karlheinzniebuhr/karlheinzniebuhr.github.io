@@ -2,7 +2,8 @@
 layout: post
 title: "Secrets of the Millionaire Mind — Summary"
 date: 2017-01-10 23:45:57 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 [![](/assets/images/1_Ef-DnGFmhZxZYbYl06iyKQ.jpeg)](https://www.amazon.com/gp/product/0060763280/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0060763280&linkId=0411e75ea398871db7c5716f8493e409)

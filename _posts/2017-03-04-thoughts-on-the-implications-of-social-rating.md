@@ -2,8 +2,8 @@
 layout: post
 title: "Thoughts on the implications of social rating"
 date: 2017-03-04 12:29:06 +0000
-categories: ["Blog"]
-tags: ["Black Mirror", "TV Shows", "Philosophy", "future", "Humanity", "Nosedive"]
+categories: [Blog]
+tags: [Culture, Science]
 ---
 
 I just watched the episode [3.1 Nosedive of Black Mirror](https://www.netflix.com/watch/80104627?trackId=14170047&tctx=0%2C0%2Caae1952c-3134-499a-9a81-c2070648e946-44814249) [[Wikipedia](https://en.wikipedia.org/wiki/Nosedive)]. I was impressed by the philosophical deepness of the TV show so far, but this episode impressed me in particular due to its relevance in our society.

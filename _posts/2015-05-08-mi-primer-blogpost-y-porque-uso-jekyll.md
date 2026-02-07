@@ -4,7 +4,7 @@ layout: post
 title:  "Porqué Jekyll?"
 date:   2015-05-07 16:32:52
 categories: es
-tags: [español, blogging]
+tags: [Blogging]
 banner_image: caffeines_advice.png
 archived: true
 ---

@@ -2,8 +2,9 @@
 layout: post
 title: "A mind for numbers -- Summary"
 date: 2017-06-10 19:59:04 +0000
-categories: ["Book Summaries", "Education", "Creativity", "Science"]
-tags: ["learning", "studying", "success", "science", "education"]
+categories: [Book Summaries, Education, Science, Self-Improvement]
+tags: [Education, Science, Self-Improvement]
+book: true
 ---
 
 > Restructure your study strategy by following the insights from one of the best books about *learning how to learn*

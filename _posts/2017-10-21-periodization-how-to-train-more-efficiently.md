@@ -2,8 +2,9 @@
 layout: post
 title: "PERIODIZATION: How to train more efficiently"
 date: 2017-10-21 14:43:53 +0000
-categories: ["Book Excerpts", "Fitness"]
-tags: ["exercise", "science", "fitness", "life-style", "books"]
+categories: [Book Excerpts, Health]
+tags: [Books, Health, Science, Self-Improvement]
+book: true
 ---
 
 Everyone seems to talk about periodization training but what exactly is it? I like the explanation of Mark Lauren from his Book [You are your own gym](https://www.amazon.com/dp/B004GTLFNW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1&tag=kasbl023-20), one of my favorite exercise books and the one with which I started my new fitness journey some time ago. Let's read what Mark has to say about periodization.

@@ -2,8 +2,9 @@
 layout: post
 title: "Attached — Summary"
 date: 2016-12-12 12:32:07 +0000
-categories: ["Book Summaries", "Psychology", "Social"]
-tags: ["love", "relationships", "social"]
+categories: [Book Summaries, Culture, Psychology]
+tags: [Culture]
+book: true
 ---
 
 #### The New Science of Adult Attachment and How It Can Help YouFind — and Keep — Love

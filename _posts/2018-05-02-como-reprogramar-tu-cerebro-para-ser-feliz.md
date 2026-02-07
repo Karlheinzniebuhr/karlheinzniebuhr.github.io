@@ -2,8 +2,8 @@
 layout: post
 title: "Cómo reprogramar tu cerebro para ser feliz -- Una publicación científica"
 date: 2018-05-02 08:32:04 +0000
-categories: ["Blog-es"]
-tags: ["meditacion", "neurociencia", "neurofelicidad", "psicologia", "felicidad"]
+categories: [Blog]
+tags: [Meditation, Psychology]
 ---
 
 Últimamente leo mucho sobre la ciencia de la felicidad que está desarrollándose cada vez más en diferentes disciplinas. Si aún no sabes de qué se trata este tema y quieres aprender, creo que [esta publicación](https://www.researchgate.net/publication/269406513_COMO_REPROGRAMAR_O_TEU_CEREBRO_PARA_SER_FELIZ_2014) que casualmente encontré es una buena introducción. Para entrar en más detalle recomiendo a los libros [The happiness advantage](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549/ref=sr_1_3?ie=UTF8&qid=1525264168&sr=8-3&keywords=the+happiness+advantage&tag=kasbl023-20) y [Buddha's Brain](https://www.amazon.com/Buddhas-Brain-Practical-Neuroscience-Happiness/dp/1572246952/ref=sr_1_1?ie=UTF8&qid=1525264203&sr=8-1&keywords=the+budha+brain&tag=kasbl023-20).

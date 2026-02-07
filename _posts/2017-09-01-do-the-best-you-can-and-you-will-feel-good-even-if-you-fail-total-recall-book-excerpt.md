@@ -2,8 +2,9 @@
 layout: post
 title: "Do the best you can and you will feel good even if you fail -- Total Recall Book Excerpt"
 date: 2017-09-01 08:00:29 +0000
-categories: ["Book Excerpts"]
-tags: ["Biographies", "books", "success", "self-development", "self-improvement"]
+categories: [Book Excerpts]
+tags: [Biographies, Books, Self-Improvement]
+book: true
 ---
 
 In this excerpt from the book [Total Recall](https://www.amazon.com/Total-Recall-Unbelievably-True-Story/dp/1451662440?tag=kasbl023-20), Arnold made me think with a brilliant statement. He exemplifies with his own experience that we feel bad after failure, not due to the failure, but because we haven't done everything we could to get a successful outcome.

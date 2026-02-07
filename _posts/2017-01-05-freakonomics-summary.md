@@ -2,7 +2,8 @@
 layout: post
 title: "Freakonomics — Summary"
 date: 2017-01-05 14:38:28 +0000
-categories: ["Book Summaries", "Cognitive Science", "Economics"]
+categories: [Book Summaries, Investing, Psychology]
+book: true
 ---
 
 > Explore the incredible hidden side effects of interactions with complex systems

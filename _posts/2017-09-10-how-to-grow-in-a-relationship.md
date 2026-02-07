@@ -2,7 +2,7 @@
 layout: post
 title: "How to grow in a relationship"
 date: 2017-09-10 17:13:44 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 In this post, I want to comment on Eli J. Finkel's article [How to Fix the Person You Love](https://www.nytimes.com/2017/09/08/opinion/sunday/how-to-fix-the-person-you-love.html). I'll just change the focus and use the title, how to grow in a Relationship.

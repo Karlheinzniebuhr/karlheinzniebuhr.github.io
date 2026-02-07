@@ -2,8 +2,9 @@
 layout: post
 title: "Alibaba: The House That Jack Ma Built -- Summary"
 date: 2019-12-26 12:30:03 +0000
-categories: ["Success", "Investing", "Tech", "Book Summaries", "Biographies"]
-tags: ["books", "business", "china"]
+categories: [Biographies, Book Summaries, Investing, Self-Improvement, Technology]
+tags: [Books, Business, Culture]
+book: true
 ---
 
 Jack Ma is the co-founder of Alibaba, one of the world's biggest online Business to Business sites as well as other highly successful Chinese ventures like Alipay, Aliexpress, Tmall and Taobao. Having read [Made in America](https://www.karlbooklover.com/made-in-america/), [The Everything Store](https://www.karlbooklover.com/everything-store-summary/) and [Delivering Happiness](https://www.karlbooklover.com/lessons-from-delivering-happiness/), this book was a natural choice.

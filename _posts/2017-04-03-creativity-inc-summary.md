@@ -2,8 +2,9 @@
 layout: post
 title: "Creativity Inc. -- Summary"
 date: 2017-04-03 14:22:26 +0000
-categories: ["Book Summaries", "Creativity", "Success"]
-tags: ["creativity", "success", "business", "Steve Jobs", "Pixar"]
+categories: [Book Summaries, Self-Improvement]
+tags: [Biographies, Business, Culture, Self-Improvement]
+book: true
 ---
 
 > Learn how to create a creative working environment

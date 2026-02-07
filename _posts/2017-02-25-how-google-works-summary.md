@@ -2,8 +2,9 @@
 layout: post
 title: "How Google works -- Summary"
 date: 2017-02-25 13:53:20 +0000
-categories: ["Book Summaries", "Business", "Computer Science"]
-tags: ["Google", "Innovation", "Entrepreneurship", "business", "Culture"]
+categories: [Book Summaries, Business, Technology]
+tags: [Blogging, Business, Culture, Science]
+book: true
 ---
 
 > This book will teach you why Google hires smart-creatives, and why the company still manages to maintain a startup feeling.

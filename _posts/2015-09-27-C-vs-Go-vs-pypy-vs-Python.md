@@ -4,7 +4,7 @@ layout: post
 title:  "C vs Go vs pypy vs Python vs Javascript V8"
 date:   2015-09-28
 categories: en
-tags: [benchmark, programming, computer science]
+tags: [Technology]
 banner_image: benchmark.jpg
 archived: true
 ---

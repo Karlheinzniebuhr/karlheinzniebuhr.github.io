@@ -2,7 +2,7 @@
 layout: post
 title: "Optimize your learning — advanced learning tips by Jim Kwik"
 date: 2016-10-24 00:00:00 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 Optimize your learning — advanced learning tips by Jim Kwik

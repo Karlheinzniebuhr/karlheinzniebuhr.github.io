@@ -2,7 +2,7 @@
 layout: post
 title: "Why you should personalize your learning"
 date: 2016-10-29 00:00:00 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 I’m one of those individuals who often are uncomfortable and bored in traditional educational settings. I always learned better and had more fun doing it, when reading a book. Except when I got a very enthusiastic teacher, perhaps that’s one reason why I like MOOC’s so much, they tend to be made by teachers who are highly passionate about education. Today I happened to watch some talks about learning and the brain.

@@ -2,8 +2,9 @@
 layout: post
 title: "Essentialism -- Summary"
 date: 2017-03-30 23:07:43 +0000
-categories: ["Book Summaries", "Cognitive Science", "Success"]
-tags: ["essentialism", "productivity", "self-development", "success", "life"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Self-Improvement]
+book: true
 ---
 
 > Learn how cutting back on some things can help you succeed.

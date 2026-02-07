@@ -2,7 +2,8 @@
 layout: post
 title: "The Omnivore’s Dilemma — Summary"
 date: 2017-01-08 15:33:54 +0000
-categories: ["Book Summaries", "Nutrition"]
+categories: [Book Summaries, Health]
+book: true
 ---
 
 > Learn where to obtain a healthier, more ethical and sustainable food supply

@@ -2,8 +2,8 @@
 layout: post
 title: "Cómo practicar Mindfulness al caminar"
 date: 2017-06-28 13:32:51 +0000
-categories: ["Blog-es"]
-tags: ["meditacion", "mindfulness", "psicologia", "exito", "neuroplasticidad"]
+categories: [Blog]
+tags: [Meditation, Psychology, Self-Improvement]
 ---
 
 Los beneficios de la meditación ya fueron confirmados por cientos de estudios. El problema es que muchas veces es difícil empezar a meditar para personas que no conocen la práctica. Los que no conocen piensan que es necesario sentarse con piernas cruzadas al estilo monje budista.

@@ -2,7 +2,7 @@
 layout: post
 title: "Michael Greger: Cómo diseñar un estudio engañoso para demostrar que una dieta no tiene efecto"
 date: 2017-08-29 16:23:10 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 Escrito por [Michael Greger MD FACLM](https://translate.googleusercontent.com/translate_c?depth=1&hl=en&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://nutritionfacts.org/author/mgreger/&usg=ALkJrhjZNIoRpAMMKmFPEEtiBWlMvLQdmg) en 29 de agosto de 2017

@@ -2,8 +2,8 @@
 layout: post
 title: "Elon Musk on Corrective Feedback Loops"
 date: 2017-03-23 18:39:01 +0000
-categories: ["Blog"]
-tags: ["learning", "education", "success", "Innovation"]
+categories: [Blog]
+tags: [Education, Science, Self-Improvement]
 ---
 
 In one of his latest Interviews at the World Government Summit in Dubai, Elon Musk [got asked the question](https://youtu.be/7Lre6GxiQUE?t=1894) of what his biggest challenge in life was. Elon took some seconds to rank and filter all his challenges and then responded:

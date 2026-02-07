@@ -2,8 +2,9 @@
 layout: post
 title: "Nudge -- Summary"
 date: 2017-02-26 19:34:43 +0000
-categories: ["Book Summaries", "Cognitive Science"]
-tags: ["reasoning", "success", "self-improvement"]
+categories: [Book Summaries, Psychology]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > This book will teach you how to use incentives to make the right decisions

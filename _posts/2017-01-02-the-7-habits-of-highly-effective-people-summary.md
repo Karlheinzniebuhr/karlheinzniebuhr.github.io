@@ -2,8 +2,9 @@
 layout: post
 title: "The 7 Habits of Highly Effective People — Summary"
 date: 2017-01-02 14:21:18 +0000
-categories: ["Book Summaries", "Success", "Social"]
-tags: ["success", "self-development", "self-improvement", "networking", "relationships"]
+categories: [Book Summaries, Culture, Self-Improvement]
+tags: [Culture, Self-Improvement, Technology]
+book: true
 ---
 
 > This is one of the most inspiring and impactful books ever written

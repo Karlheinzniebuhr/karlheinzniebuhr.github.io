@@ -2,8 +2,8 @@
 layout: post
 title: "The compound effect -- Summary"
 date: 2017-02-20 14:26:23 +0000
-categories: ["Success"]
-tags: ["success", "habits", "self-improvement"]
+categories: [Self-Improvement]
+tags: [Self-Improvement]
 ---
 
 This book will teach you how to build up momentum for success gradually. Initially, change is hard because of our past negative habits, but once we built up momentum at the desired direction, our results will start to compound.

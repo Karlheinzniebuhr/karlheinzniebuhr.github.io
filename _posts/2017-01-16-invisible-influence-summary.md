@@ -2,8 +2,9 @@
 layout: post
 title: "Invisible Influence — Summary"
 date: 2017-01-16 17:26:29 +0000
-categories: ["Book Summaries", "Psychology", "Cognitive Science", "Social"]
-tags: ["psychology", "social", "reasoning", "success", "economy"]
+categories: [Book Summaries, Culture, Psychology]
+tags: [Culture, Investing, Psychology, Self-Improvement]
+book: true
 ---
 
 > Become aware of how other people influence you without you even noticing it

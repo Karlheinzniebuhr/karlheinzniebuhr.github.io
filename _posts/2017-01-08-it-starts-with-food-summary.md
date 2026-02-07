@@ -2,7 +2,8 @@
 layout: post
 title: "It starts with food — Summary"
 date: 2017-01-08 18:18:14 +0000
-categories: ["Book Summaries", "Nutrition"]
+categories: [Book Summaries, Health]
+book: true
 ---
 
 > Get some good advice about a better diet

@@ -2,8 +2,8 @@
 layout: post
 title: "How to learn the fundamentals of Computer Science"
 date: 2017-04-04 17:10:21 +0000
-categories: ["Blog"]
-tags: ["computer science", "education", "learning", "books", "engineering"]
+categories: [Blog]
+tags: [Books, Education, Technology]
 ---
 
 Over the years I've observed two bad things when it comes to computer science education. First, it simply is bad in general, with bad I mean badly structured and incomplete. Focusing on one thing but missing many other which are necessary to grasp the whole picture. In case the education is good, it still is mostly focused on a single area. I'm a holistic thinker

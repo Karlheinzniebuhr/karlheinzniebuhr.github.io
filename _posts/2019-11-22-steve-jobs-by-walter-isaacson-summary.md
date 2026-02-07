@@ -2,8 +2,9 @@
 layout: post
 title: "Steve Jobs by Walter Isaacson -- Summary"
 date: 2019-11-22 14:45:15 +0000
-categories: ["Book Summaries", "Biographies"]
-tags: ["Biographies"]
+categories: [Biographies, Book Summaries]
+tags: [Biographies]
+book: true
 ---
 
 It's been two years since I read [Becoming Steve Jobs](https://www.karlbooklover.com/becoming-steve-jobs-summary/). That's about the time I wanted to get to the official biography written by Walter Isaacson. Happily, I did, here are some gold nuggets from this great piece of work.

@@ -2,8 +2,8 @@
 layout: post
 title: "Lecciones que aprendí al invertir en criptomonedas"
 date: 2017-12-26 16:34:18 +0000
-categories: ["Blog-es"]
-tags: ["inversiones", "negocios", "economia", "criptomonedas", "bitcoin"]
+categories: [Blog]
+tags: [Business, Crypto, Investing]
 ---
 
 Ahora que nos acercamos al fin del año y en medio de mucho hype de criptomonedas me parece que sería de utilidad que reflexione sobre algunas cosas que aprendí en los meses pasados.

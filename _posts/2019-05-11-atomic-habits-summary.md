@@ -2,7 +2,8 @@
 layout: post
 title: "Atomic Habits -- Summary"
 date: 2019-05-11 19:59:41 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+book: true
 ---
 
 I can say with confidence that this book explains habits in the most concise and clear manner, from the ones I've read. James does a clear job of abstracting the core principles from all the information out there. I had read most of the ideas elsewhere before though. But if you only have time to read one book on habits, this one is not a bad choice. I'll share with you the lessons I most liked.

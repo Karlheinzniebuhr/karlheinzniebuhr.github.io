@@ -2,8 +2,8 @@
 layout: post
 title: "Primer mes con dieta basada en plantas"
 date: 2017-08-16 18:27:22 +0000
-categories: ["Blog-es"]
-tags: ["nutricion", "salud", "veganismo", "alimentacion", "Libros"]
+categories: [Blog]
+tags: [Books, Health]
 ---
 
 ### Introducción

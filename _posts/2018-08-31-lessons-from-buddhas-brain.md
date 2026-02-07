@@ -2,8 +2,9 @@
 layout: post
 title: "Lessons from Buddha's Brain"
 date: 2018-08-31 06:17:05 +0000
-categories: ["Book Summaries", "Meditation"]
-tags: ["books", "meditation", "brain", "neuroscience", "happiness"]
+categories: [Book Summaries, Meditation]
+tags: [Books, Meditation, Psychology]
+book: true
 ---
 
 This is one of my favorite books. Why? Because I love books that mix traditional knowledge with science. There is much accumulated wisdom in humanitie’s heritage but how can I know that it is true? That’s where science comes in. As an example, cancer rates are much lower in countries with higher turmeric consumption like india where it is known for its health benefits. [Studies have shown](https://nutritionfacts.org/2015/05/12/how-curry-can-kill-cancer-cells/) that curcumin, the yellow pigment in turmeric indeed lowers the risk of cancer rates. Cultural knowledge is not always right, that’s why I feel more comfortable to put it to the test.

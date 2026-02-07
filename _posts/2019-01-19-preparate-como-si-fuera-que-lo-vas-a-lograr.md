@@ -2,7 +2,7 @@
 layout: post
 title: "Prepárate como si fuera que lo vas a lograr"
 date: 2019-01-19 07:28:48 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 Un tiempo atrás hablé con un amigo sobre el destino y dije que no importa si crees en el destino o no, cuando te preparas podrás aprovechar a las oportunidades que vendrán. Hoy leí un artículo en donde se habla de eso y pensé escribir algo porque me parece tan importante.

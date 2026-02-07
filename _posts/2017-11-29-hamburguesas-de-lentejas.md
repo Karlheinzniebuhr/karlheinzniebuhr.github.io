@@ -2,7 +2,7 @@
 layout: post
 title: "Hamburguesas de lentejas"
 date: 2017-11-29 13:49:24 +0000
-categories: ["Recipes"]
+categories: [Health]
 ---
 
 En esta receta quiero enseñarte la base para hamburguesas veganas. Hay tantas formas como hacerlas que puede parecer complicado, pero en realidad es super fácil. Una vez que aprendas la base podes ir experimentando e improvisando con diferentes ingredientes.

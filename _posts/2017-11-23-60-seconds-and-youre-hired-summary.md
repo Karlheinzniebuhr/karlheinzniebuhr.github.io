@@ -2,8 +2,9 @@
 layout: post
 title: "60 seconds and you're hired -- Summary"
 date: 2017-11-23 10:57:49 +0000
-categories: ["Book Summaries", "Success"]
-tags: ["job application", "work", "success", "self-development", "self-improvement"]
+categories: [Book Summaries, Self-Improvement]
+tags: [Business, Self-Improvement]
+book: true
 ---
 
 > This book focuses on the essentials of a good job application.

@@ -2,7 +2,8 @@
 layout: post
 title: "Made to stick -- Summary"
 date: 2017-03-03 19:42:20 +0000
-categories: ["Book Summaries", "Education", "Psychology", "Success", "Business"]
+categories: [Book Summaries, Business, Education, Psychology, Self-Improvement]
+book: true
 ---
 
 > This is one of the books everyone should read. Knowing how to create ideas which stick to people's minds is fascinating and useful

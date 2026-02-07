@@ -2,8 +2,9 @@
 layout: post
 title: "Lessons from SuperBetter"
 date: 2019-09-08 11:11:24 +0000
-categories: ["Book Summaries"]
-tags: ["success"]
+categories: [Book Summaries]
+tags: [Self-Improvement]
+book: true
 ---
 
 I came across this book after watching Jane's TED talk. I absolutely love the talk and what I learned about the benefits of games. Self development can be such a dry and unpleasant thing if you're not in the right mental place, not so with games. Games are naturally fun, we play them because we want to, not because we expect to get some results out of them. Or do we? What if we'd get the best of both worlds, improving our brain while having fun? If that sounds like something you'd want, keep reading.

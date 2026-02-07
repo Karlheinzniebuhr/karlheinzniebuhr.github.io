@@ -2,7 +2,8 @@
 layout: post
 title: "The Infinite Machine -- Summary"
 date: 2021-03-28 11:05:38 +0000
-categories: ["Book Summaries", "Tech", "Book Excerpts"]
+categories: [Book Excerpts, Book Summaries, Technology]
+book: true
 ---
 
 Being very interested in DeFi (Decentralized Finance) -- I failed to find good books about that topic out there -- other than The Infinite Machine. This book narrates the story of Ethereum. It was such a pleasure reading it. I enjoy having an insight about how radical and paradigm shifting ideas came to be.

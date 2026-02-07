@@ -2,8 +2,9 @@
 layout: post
 title: "The Broken Record, a skill to stop manipulation attempts"
 date: 2019-01-26 09:39:29 +0000
-categories: ["Book Excerpts"]
-tags: ["psychology"]
+categories: [Book Excerpts]
+tags: [Psychology]
+book: true
 ---
 
 [Manuel J. Smith’s book](https://www.amazon.com/dp/B004IK8Q22/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1&tag=kasbl023-20) has quickly become one of my favorite books. Reading it is an eye opener and excellent immunizer to manipulation. Here is one particularly useful technique that will help you to be more assertive.

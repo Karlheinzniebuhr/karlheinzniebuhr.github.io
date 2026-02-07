@@ -2,8 +2,9 @@
 layout: post
 title: "Using the path of least resistance to build new habits -- Excerpt from The Happiness Advantage"
 date: 2018-04-30 16:38:07 +0000
-categories: ["Psychology", "Book Excerpts"]
-tags: ["books", "psychology", "habits", "productivity", "success"]
+categories: [Book Excerpts, Psychology]
+tags: [Books, Psychology, Self-Improvement]
+book: true
 ---
 
 In the following paragraphs, Shawn Achor explains how he managed to form a new daily habit by planning ahead and making it easier for him to play his guitar every day.

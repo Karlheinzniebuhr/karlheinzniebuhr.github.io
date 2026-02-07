@@ -2,7 +2,8 @@
 layout: post
 title: "Warren Buffet and Charlie Munger vs modern portfolio theory"
 date: 2017-12-04 12:02:56 +0000
-categories: ["Book Excerpts", "Investing"]
+categories: [Book Excerpts, Investing]
+book: true
 ---
 
 Warren Buffet and Charlie Munger explain why volatility does not equal risk. This reasoning applies beautifully to cryptocurrency investing, in my opinion. Another important lesson is to not put too much trust in charts and statistics but rather apply, as Charlie calls it, "enlightened common sense."

@@ -2,7 +2,8 @@
 layout: post
 title: "Success Through a Positive Mental Attitude -- Summary"
 date: 2017-05-19 15:06:21 +0000
-categories: ["Book Summaries", "Business", "Success"]
+categories: [Book Summaries, Business, Self-Improvement]
+book: true
 ---
 
 > This classic will teach you how a positive mental attitude leads to success

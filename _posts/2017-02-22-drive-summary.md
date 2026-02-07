@@ -2,8 +2,9 @@
 layout: post
 title: "Drive -- Summary"
 date: 2017-02-22 14:18:23 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["self-improvement", "business", "management", "money", "life"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Business, Investing, Self-Improvement]
+book: true
 ---
 
 ### Extrinsic motivation

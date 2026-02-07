@@ -2,8 +2,8 @@
 layout: post
 title: "\"Nunca va a cambiar esto.\" Cómo superar a la memoria autobiográfica generalizada."
 date: 2018-08-19 01:01:32 +0000
-categories: ["Blog-es"]
-tags: ["psicologia", "mindfulness", "meditacion"]
+categories: [Blog]
+tags: [Meditation, Psychology]
 ---
 
 Quiero escribir brevemente sobre algo que acabo de leer en el libro [Mindfulness, finding peace in a frantic world](https://www.amazon.com/Mindfulness-Eight-Week-Finding-Peace-Frantic-ebook/dp/B005NJ2T1G/ref=sr_1_3?ie=UTF8&qid=1534653956&sr=8-3&keywords=mindfulness+finding+peace). Trata sobre [overgeneral autobiographical memory](https://en.wikipedia.org/wiki/Overgeneral_autobiographical_memory) y es algo con lo que puedo identificar porque lo he experimentado.

@@ -2,8 +2,8 @@
 layout: post
 title: "Three business lessons from Billionaire Mark Cuban"
 date: 2019-01-21 19:27:21 +0000
-categories: ["Blog", "Business"]
-tags: ["success", "billionaire", "wisdom"]
+categories: [Blog, Business]
+tags: [Investing, Self-Improvement]
 ---
 
 In his book How to Win in at the Sport of Business, Mark shares some of his insights he gained over the years while becoming one of the most successful Businessmen.

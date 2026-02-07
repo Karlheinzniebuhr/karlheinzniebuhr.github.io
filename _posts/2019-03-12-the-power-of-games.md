@@ -2,8 +2,9 @@
 layout: post
 title: "The Power of Games"
 date: 2019-03-12 22:19:08 +0000
-categories: ["Book Excerpts"]
-tags: ["games", "psychology", "neuroscience", "happiness"]
+categories: [Book Excerpts]
+tags: [Psychology, Technology]
+book: true
 ---
 
 A while ago I made a post about [Janes McGonical's TED talk](https://www.karlbooklover.com/epic-mindsets/), watch it if you haven't. This is an excerpt of her book [Superbetter](https://www.amazon.com/SuperBetter-Living-Gamefully-Jane-McGonigal/dp/0143109774?tag=kasbl023-20). I highly recommend this book.

@@ -2,8 +2,9 @@
 layout: post
 title: "How we learn -- Summary"
 date: 2017-03-06 18:06:42 +0000
-categories: ["Book Summaries", "Education", "Success"]
-tags: ["learning", "study", "studying", "education", "school", "college", "university"]
+categories: [Book Summaries, Education, Self-Improvement]
+tags: [Education]
+book: true
 ---
 
 > Learn to learn, this book will teach you how to become a better learner

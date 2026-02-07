@@ -2,8 +2,9 @@
 layout: post
 title: "La enfermedad coronaria empieza en la infancia"
 date: 2018-01-27 07:40:31 +0000
-categories: ["Pasajes de libros"]
-tags: ["nutricion", "alimentacion", "veganismo", "salud"]
+categories: [Book Excerpts]
+tags: [Health]
+book: true
 ---
 
 Cuando hablo sobre alimentación en base a plantas en las redes sociales suele surgir la pregunta. "Pero y qué pasa de mi hijo/a si necesitan carne para desarrollarse?" Primero recomiendo buscarle a otra nutricionista que si esta familiarizada con la ciencia. Dar de comer carne a niños les hace daño como explica el doctor Michael Greger en su libro a continuación.

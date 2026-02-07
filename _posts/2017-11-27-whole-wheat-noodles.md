@@ -2,7 +2,7 @@
 layout: post
 title: "Easy whole wheat noodles dish"
 date: 2017-11-27 13:13:13 +0000
-categories: ["Recipes"]
+categories: [Health]
 ---
 
 Today I prepared whole wheat noodles, one of my favorites not only because they are tasty, but because they are a healthy source of carbs of course, but also protein. More interestingly, they contain a good amount of leucine, the supposedly most anabolic amino acid for those gains baby.

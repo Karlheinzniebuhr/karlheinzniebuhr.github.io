@@ -2,7 +2,7 @@
 layout: post
 title: "Hacking Willpower, Optimizing the Defaults"
 date: 2019-05-07 13:32:14 +0000
-categories: ["Success", "Blog"]
+categories: [Blog, Self-Improvement]
 ---
 
 A while back, all the craze about productivity seemed to reside on Willpower. There are several good books about that topic. But what if willpower is overrated? I started to think more about the alternative when I saw a video about [Optimizing the defaults](https://www.youtube.com/watch?v=3TFFTAIfLaU). But actually, where I learned about this principle for the first time was in the book The Happiness Advantage. The author shares a great story about someone who finally got himself to practice playing an instrument, you can read about it here; [Using the path of least resistance to build new habits](https://www.karlbooklover.com/using-the-path-of-least-resistance-to-form-new-habits/).

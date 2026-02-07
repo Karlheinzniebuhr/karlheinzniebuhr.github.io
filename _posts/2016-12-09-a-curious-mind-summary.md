@@ -2,8 +2,9 @@
 layout: post
 title: "A Curious Mind — Summary"
 date: 2016-12-09 22:16:52 +0000
-categories: ["Book Summaries", "Success", "Education"]
-tags: ["curiosity", "learning", "success", "life", "self-development"]
+categories: [Book Summaries, Education, Self-Improvement]
+tags: [Education, Self-Improvement]
+book: true
 ---
 
 > This book explores the life-changing effects curiosity can have on every person’s life.

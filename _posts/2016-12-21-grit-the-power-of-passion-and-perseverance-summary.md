@@ -2,8 +2,9 @@
 layout: post
 title: "Grit : The Power of Passion and Perseverance — Summary"
 date: 2016-12-21 14:53:16 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["passion", "work", "life", "self-improvement"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Business, Self-Improvement]
+book: true
 ---
 
 > In this book you will learn that the secret to outstanding achievement is not talent but a special blend of passion and persistence.

@@ -2,8 +2,8 @@
 layout: post
 title: "Cuál es la frecuencia de entrenamiento más eficiente para el crecimiento muscular?"
 date: 2017-10-24 09:00:21 +0000
-categories: ["Blog-es"]
-tags: ["fitness", "musculacion", "fisicoculturismo", "deporte", "atletismo"]
+categories: [Blog]
+tags: [Health]
 ---
 
 [Ya sabemos](https://www.karlbooklover.com/cuantas-pesas-son-suficientes-para-el-aumento-de-masa-muscular/) que para aumentar masa muscular es mejor entrenar con una intensidad de >50%, pero con qué frecuencia deberíamos entrenar? El bro-split clásico divide al cuerpo en 4 o más grupos para entrenar un grupo cada día. Se ve algo como:

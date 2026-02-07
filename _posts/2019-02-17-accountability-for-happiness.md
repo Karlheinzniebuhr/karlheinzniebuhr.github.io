@@ -2,8 +2,8 @@
 layout: post
 title: "Accountability for Happiness"
 date: 2019-02-17 14:25:01 +0000
-categories: ["Blog"]
-tags: ["happiness", "success"]
+categories: [Blog]
+tags: [Psychology, Self-Improvement]
 ---
 
 Thinking that something is your fault isn't fun per se. But the byproduct it brings gives you choice. If you are responsible for something, the implication is that you can change it, that the circumstance is at least in part under your control.

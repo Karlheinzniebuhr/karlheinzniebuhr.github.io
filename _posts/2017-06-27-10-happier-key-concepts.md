@@ -2,8 +2,9 @@
 layout: post
 title: "10% Happier -- key concepts"
 date: 2017-06-27 17:21:54 +0000
-categories: ["Book Summaries", "Meditation"]
-tags: ["meditation", "mindfulness", "brain", "success", "psychology"]
+categories: [Book Summaries, Meditation]
+tags: [Meditation, Psychology, Self-Improvement]
+book: true
 ---
 
 > Learn how to become happier and more successful through meditation

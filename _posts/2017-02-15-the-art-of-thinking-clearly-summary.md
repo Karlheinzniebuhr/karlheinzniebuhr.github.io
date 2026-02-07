@@ -2,8 +2,9 @@
 layout: post
 title: "The art of thinking clearly -- Summary"
 date: 2017-02-15 20:33:10 +0000
-categories: ["Book Summaries", "Cognitive Science"]
-tags: ["reasoning", "success", "decision making", "psychology", "logical-bias"]
+categories: [Book Summaries, Psychology]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > Learn how irrational our behavior is, and use that knowledge to make better decisions.

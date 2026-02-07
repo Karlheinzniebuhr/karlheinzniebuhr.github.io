@@ -2,8 +2,9 @@
 layout: post
 title: "The Accountability Mirror"
 date: 2019-02-27 20:21:21 +0000
-categories: ["Book Excerpts"]
-tags: ["self-improvement", "psychology"]
+categories: [Book Excerpts]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 I want to introduce a very powerful self-improvement concept with the following chapters from the book [Can't Hurt Me, from David Goggins](https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287?tag=kasbl023-20). In fact, this might be the most powerful/no bullshit concept ever.

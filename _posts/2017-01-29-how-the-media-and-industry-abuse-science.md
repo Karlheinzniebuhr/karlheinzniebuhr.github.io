@@ -2,7 +2,8 @@
 layout: post
 title: "Bad Science -- Summary"
 date: 2017-01-29 21:45:58 +0000
-categories: ["Book Summaries", "Science"]
+categories: [Book Summaries, Science]
+book: true
 ---
 
 > Learn how the media and big pharma manipulate Science to represent their interests.

@@ -2,8 +2,8 @@
 layout: post
 title: "Los estudios sesgados de la indústria"
 date: 2017-07-20 18:23:12 +0000
-categories: ["Blog-es"]
-tags: ["nutricion", "salud", "industria", "medicina preventiva", "ciencia"]
+categories: [Blog]
+tags: [Business, Health, Science]
 ---
 
 En este post explicaré cómo la indústria manipula/malinterpreta a estudios para crear evidencias conflictivas con el fin de generar dudas en las mentes de las personas.

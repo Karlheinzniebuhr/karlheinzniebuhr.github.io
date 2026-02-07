@@ -2,8 +2,9 @@
 layout: post
 title: "Eat that frog -- Summary"
 date: 2017-03-11 12:58:01 +0000
-categories: ["Book Summaries", "Success"]
-tags: ["self-improvement", "success", "productivity", "skills", "work"]
+categories: [Book Summaries, Self-Improvement]
+tags: [Business, Self-Improvement]
+book: true
 ---
 
 > Learn how to beat procrastination by doing what matters first

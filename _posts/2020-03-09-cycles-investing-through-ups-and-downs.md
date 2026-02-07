@@ -2,8 +2,9 @@
 layout: post
 title: "CYCLES: INVESTING THROUGH UPS AND DOWNS"
 date: 2020-03-09 13:05:24 +0000
-categories: ["Investing", "Book Excerpts"]
-tags: ["Blackstone", "investing"]
+categories: [Book Excerpts, Investing]
+tags: [Investing]
+book: true
 ---
 
 In this excerpt from [What it takes](https://www.amazon.com/What-Takes-Lessons-Pursuit-Excellence/dp/1501158147?tag=kasbl023-20), the CEO and co-founder of Backstone brings clarity to economic cycles and how to deal with them effectively in investments.

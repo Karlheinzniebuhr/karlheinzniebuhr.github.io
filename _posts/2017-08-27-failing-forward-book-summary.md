@@ -2,8 +2,9 @@
 layout: post
 title: "Failing forward -- Book Summary"
 date: 2017-08-27 21:07:03 +0000
-categories: ["Book Summaries"]
-tags: ["success", "failure", "self-development", "self-improvement"]
+categories: [Book Summaries]
+tags: [Self-Improvement]
+book: true
 ---
 
 > Learn to think differently about failure

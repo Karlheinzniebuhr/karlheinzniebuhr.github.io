@@ -2,7 +2,8 @@
 layout: post
 title: "The China Study — Summary"
 date: 2017-01-08 13:38:33 +0000
-categories: ["Book Summaries", "Nutrition"]
+categories: [Book Summaries, Health]
+book: true
 ---
 
 > Learn how a change in your diet can prevent and sometimes even reverse diseases.

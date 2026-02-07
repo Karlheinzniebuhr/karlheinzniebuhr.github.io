@@ -2,8 +2,9 @@
 layout: post
 title: "Charlie Munger's favorite Books"
 date: 2017-03-12 21:31:26 +0000
-categories: ["Book Recommendations"]
-tags: ["books", "investing", "education", "science", "reading"]
+categories: [Book Excerpts]
+tags: [Books, Education, Investing, Science]
+book: true
 ---
 
 > “In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time—none. Zero. You'd be amazed at how much Warren reads—and how much I read. My children laugh at me. They think I'm a book with a couple of legs sticking out.” - Charlie

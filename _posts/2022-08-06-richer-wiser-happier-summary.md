@@ -2,7 +2,8 @@
 layout: post
 title: "Richer, Wiser, Happier -- Summary"
 date: 2022-08-06 11:04:23 +0000
-categories: ["Investing", "Book Summaries"]
+categories: [Book Summaries, Investing]
+book: true
 ---
 
 Found this book thanks to a podcast and it has become one of my favorite books about not only investing but general wisdom for a better life.

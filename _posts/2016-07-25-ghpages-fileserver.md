@@ -4,7 +4,7 @@ layout: post
 title:  "Github pages fileserver"
 date:   2016-07-25
 categories: en
-tags: [fileserver, hosting, github, programming]
+tags: [Blogging, Technology]
 banner_image: ghpages-fileserver.png
 archived: true
 ---

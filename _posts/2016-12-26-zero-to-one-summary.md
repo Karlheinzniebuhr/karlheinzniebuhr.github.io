@@ -2,8 +2,9 @@
 layout: post
 title: "Zero to One — Summary"
 date: 2016-12-26 11:29:24 +0000
-categories: ["Book Summaries", "Business", "Economics", "Success"]
-tags: ["startups", "business", "economy", "strategy", "success"]
+categories: [Book Summaries, Business, Investing, Self-Improvement]
+tags: [Business, Investing, Self-Improvement]
+book: true
 ---
 
 > *Zero to One* presents a new way of thinking about innovation

@@ -2,8 +2,9 @@
 layout: post
 title: "The power of Habit — Summary"
 date: 2016-12-14 10:05:42 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["habits", "productivity", "self-improvement", "brain"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > This book takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed.

@@ -2,7 +2,8 @@
 layout: post
 title: "Plants, Performance and the Endocannabinoid System -- Summary"
 date: 2020-12-14 09:21:51 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 Found this book in my library and decided to give it a read. It's a quick read and very interesting. I didn't know that CBD is as widely used in high performance sports. Here are some of my highlighted parts of the book.

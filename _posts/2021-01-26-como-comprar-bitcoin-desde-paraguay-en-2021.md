@@ -2,7 +2,7 @@
 layout: post
 title: "Cómo comprar Bitcoin desde Paraguay en 2021"
 date: 2021-01-26 08:55:14 +0000
-categories: ["Blog-es", "Investing"]
+categories: [Blog, Investing]
 ---
 
 Decidí rehacer un post popular del 2017 porque las cosas han cambiado. Ahora es posible comprar bitcoin con una taza super baja del 2% desde Paraguay. Y sin intermediario.

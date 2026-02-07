@@ -2,8 +2,8 @@
 layout: post
 title: "Cómo aprender a pensar utilizando IA"
 date: 2025-02-02 14:28:11 +0000
-categories: ["Blog-es"]
-tags: ["AI"]
+categories: [Blog]
+tags: [Technology]
 ---
 
 Mucho debate hay sobre como la educación debe cambiar en la era de inteligencia artificial.

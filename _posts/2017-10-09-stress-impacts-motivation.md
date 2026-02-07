@@ -2,8 +2,9 @@
 layout: post
 title: "Stress impacts motivation"
 date: 2017-10-09 13:39:06 +0000
-categories: ["Book Excerpts"]
-tags: ["sports", "endurance", "success", "nutrition", "plant-based"]
+categories: [Book Excerpts]
+tags: [Health, Self-Improvement]
+book: true
 ---
 
 I've read many books about motivation, [drive](https://www.karlbooklover.com/drive-summary/) and [willpower](https://www.karlbooklover.com/willpower-summary/), but I had never seen lack of motivation from the stress angle. It makes a lot of sense, as I myself feel more energized and motivated since I switched to a plant-based diet. Brendan Brazier's explains in his book [Thrive](https://www.amazon.com/Thrive-Diet-Brendan-Brazier/dp/0143052365?tag=kasbl023-20) that stress is a big deal when it comes to unfulfilled goals and lack of ambition in peoples lives. Here is what he has to say:

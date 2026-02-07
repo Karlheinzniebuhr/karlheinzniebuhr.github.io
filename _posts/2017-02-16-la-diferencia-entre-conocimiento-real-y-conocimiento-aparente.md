@@ -2,7 +2,7 @@
 layout: post
 title: "La diferencia entre conocimiento real y conocimiento aparente"
 date: 2017-02-16 15:01:31 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 > *“Nunca me permito dar una opinión sobre algo de lo cual no conozca mejor el argumento de la otra persona, que ella misma.” [[1](http://www.azquotes.com/quote/1250141)]*

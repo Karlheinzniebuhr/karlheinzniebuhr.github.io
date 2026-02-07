@@ -2,8 +2,9 @@
 layout: post
 title: "Why some people don't get value out of self-help books"
 date: 2017-10-19 15:26:03 +0000
-categories: ["Blog", "Books"]
-tags: ["success", "self-development", "self-improvement", "books", "learning"]
+categories: [Blog, Book Excerpts]
+tags: [Books, Education, Self-Improvement]
+book: true
 ---
 
 Today I came across a review on Goodreads which pretty well sums up the notion most people have about self-help books:

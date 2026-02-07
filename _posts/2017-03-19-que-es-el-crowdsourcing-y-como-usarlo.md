@@ -2,8 +2,8 @@
 layout: post
 title: "Qué es el crowdsourcing y cómo usarlo"
 date: 2017-03-19 16:41:34 +0000
-categories: ["Blog-es"]
-tags: ["crowdsourcing", "empresas", "negocios", "logistica", "trabajo", "emprendimiento"]
+categories: [Blog]
+tags: [Business, Culture]
 ---
 
 En estas semanas probé por primera vez el crowdsourcing para hacer un diseño de Remera para mi Blog. Decidí hacer a través de [FREELANCER.COM](https://www.freelancer.com/affiliates/karlpy), una plataforma de crowdsourcing famosa en donde uno puede ofrecer servicios o contratar a los servicios de miles de personas. Se puede contratar a diseñadores, escritores, servicios de venta y marketing, servicios de Informática, programadores, contadores, etc.

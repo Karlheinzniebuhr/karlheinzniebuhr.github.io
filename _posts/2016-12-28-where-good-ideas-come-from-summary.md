@@ -2,8 +2,9 @@
 layout: post
 title: "Where good Ideas come from — Summary"
 date: 2016-12-28 13:21:53 +0000
-categories: ["Book Summaries", "Psychology", "Success", "Creativity"]
-tags: ["ideas", "Innovation", "creativity", "brain", "self-improvement"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Psychology, Science, Self-Improvement]
+book: true
 ---
 
 > This book identifies the key patterns behind genuine innovation

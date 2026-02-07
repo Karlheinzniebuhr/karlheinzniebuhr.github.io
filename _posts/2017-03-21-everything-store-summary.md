@@ -2,8 +2,9 @@
 layout: post
 title: "The everything store -- Summary"
 date: 2017-03-21 18:31:45 +0000
-categories: ["Biographies", "Book Summaries", "Books", "Business", "Success"]
-tags: ["Entrepreneurship", "success", "business", "AI", "books"]
+categories: [Biographies, Book Excerpts, Book Summaries, Business, Self-Improvement]
+tags: [Books, Business, Self-Improvement, Technology]
+book: true
 ---
 
 > Learn from one of the biggest visionaries and entrepreneurs, the mind behind Amazon.

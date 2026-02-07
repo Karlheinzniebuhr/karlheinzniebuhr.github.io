@@ -2,8 +2,9 @@
 layout: post
 title: "Small Giants — Summary"
 date: 2017-01-23 20:28:04 +0000
-categories: ["Book Summaries", "Business", "Economics"]
-tags: ["success", "business", "startups", "money", "work"]
+categories: [Book Summaries, Business, Investing]
+tags: [Business, Investing, Self-Improvement]
+book: true
 ---
 
 > Learn how you can become a giant with a small company

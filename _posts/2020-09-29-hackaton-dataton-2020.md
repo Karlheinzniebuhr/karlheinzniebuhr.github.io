@@ -2,7 +2,7 @@
 layout: post
 title: "Hackatón - Datatón 2020"
 date: 2020-09-29 10:22:00 +0000
-categories: ["Blog-es", "Tech-blog"]
+categories: [Blog, Technology]
 ---
 
 En la semana pasada se hizo el primer (según mi conocimiento) evento de datos abiertos en Paraguay. El evento consistió en varias charlas a las que por razones no pude asistir. En donde si participé fue en el hackatón. Quiero compartir brevemente mi experiencia en el hackatón.

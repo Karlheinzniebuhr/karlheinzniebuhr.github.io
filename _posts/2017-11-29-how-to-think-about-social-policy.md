@@ -2,7 +2,7 @@
 layout: post
 title: "Warren Buffet: How to think about social policy"
 date: 2017-11-29 11:59:48 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 [In this talk](https://youtu.be/_3sP8Iu8w7o?t=3214) to Nebraska students, Warren Buffet explains how we should think about designing our world.*This is how he explained it in mostly his words.*

@@ -2,8 +2,9 @@
 layout: post
 title: "Flow -- Summary"
 date: 2017-02-22 22:30:24 +0000
-categories: ["Book Summaries"]
-tags: ["self-improvement", "self-development", "work", "life", "happiness", "productivity"]
+categories: [Book Summaries]
+tags: [Business, Psychology, Self-Improvement]
+book: true
 ---
 
 > This book will explain to you how to attain a perfect satisfying work experience or help you improve other activities and your overall happiness.

@@ -2,8 +2,8 @@
 layout: post
 title: "Recomiendo implementar al minimalismo/esencialismo"
 date: 2018-01-27 10:03:35 +0000
-categories: ["Blog-es"]
-tags: ["esencialismo", "minimalismo", "productividad", "estilo de vida", "exito"]
+categories: [Blog]
+tags: [Self-Improvement]
 ---
 
 Desde que aprendí sobre minimalism y essentialism soy un gran fan y estoy aplicando a esos conceptos y estilos de vida.

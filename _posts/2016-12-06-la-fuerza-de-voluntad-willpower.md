@@ -2,7 +2,8 @@
 layout: post
 title: "La fuerza de voluntad (‘Willpower’)"
 date: 2016-12-06 13:07:46 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 [*Willpower* es uno de los libros más importantes de desarrollo personal en inglés.](https://www.amazon.com/gp/product/0143122231/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143122231&linkId=6de77408964ed7c07e229e31f6830355) Lastimosamente, al parecer no hay una traducción en español aún. Pero aquí van las lecciones principales del libro.

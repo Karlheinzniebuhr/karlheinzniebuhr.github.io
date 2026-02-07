@@ -2,7 +2,7 @@
 layout: post
 title: "Linear regression with gradient descent"
 date: 2017-06-08 12:25:47 +0000
-categories: ["Machine Learning", "Tech-blog"]
+categories: [Technology]
 ---
 
 This post is based on the linear regression live coding session from Siraj Raval (Udacity).

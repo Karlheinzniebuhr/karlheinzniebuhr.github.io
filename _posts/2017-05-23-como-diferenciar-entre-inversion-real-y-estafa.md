@@ -2,8 +2,8 @@
 layout: post
 title: "Cómo diferenciar entre Inversión real y Estafa"
 date: 2017-05-23 16:22:33 +0000
-categories: ["Blog-es"]
-tags: ["bitcoin", "ethereum", "criptomonedas", "inversiones", "fraudes"]
+categories: [Blog]
+tags: [Crypto, Investing]
 ---
 
 > "Si la oportunidad de negocio se le ofrece a cualquiera, tu eres el negocio"

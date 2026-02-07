@@ -2,8 +2,8 @@
 layout: post
 title: "Mi opinion sobre las cripto-tecnologías en el 2018 💰"
 date: 2018-01-08 18:08:22 +0000
-categories: ["Blog-es"]
-tags: ["criptomonedas", "cripto-tecnologia", "crypto", "bitcoin", "economia"]
+categories: [Blog]
+tags: [Crypto, Investing]
 ---
 
 [Link del Post](https://www.facebook.com/karlbooklover/posts/10213621222192608) en Facebook

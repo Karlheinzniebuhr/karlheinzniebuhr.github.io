@@ -2,7 +2,7 @@
 layout: post
 title: "Plant based panqueques"
 date: 2018-08-17 20:42:01 +0000
-categories: ["Recipes"]
+categories: [Health]
 ---
 
 Así como el mbeju, otra de mis recetas favoritas son los panqueques. Son fáciles de preparar, y si le pongo harina de lino y avena, super nutritivos.

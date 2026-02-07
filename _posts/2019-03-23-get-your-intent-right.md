@@ -2,7 +2,7 @@
 layout: post
 title: "Get your intent right"
 date: 2019-03-23 15:07:17 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 > ...intent is the only thing that matters the reason I'm not scared of anything is I know where my intent is

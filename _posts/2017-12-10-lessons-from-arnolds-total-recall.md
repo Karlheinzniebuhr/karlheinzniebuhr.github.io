@@ -2,8 +2,9 @@
 layout: post
 title: "Lessons from Arnold's Total Recall"
 date: 2017-12-10 15:25:13 +0000
-categories: ["Book Summaries", "Biographies"]
-tags: ["Biographies", "books", "learning", "self-development", "self-improvement"]
+categories: [Biographies, Book Summaries]
+tags: [Biographies, Books, Education, Self-Improvement]
+book: true
 ---
 
 Lately, I'm reading more and more biographies and this one was certainly great not just because I love bodybuilding and have seen Arnold as an idol since I was a little kid, but also because this book gave me a deep insight into all his incredible achievements and the things he learned along the way.

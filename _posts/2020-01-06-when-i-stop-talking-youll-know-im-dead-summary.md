@@ -2,7 +2,8 @@
 layout: post
 title: "When I Stop Talking, You'll Know I'm Dead -- Summary"
 date: 2020-01-06 10:58:55 +0000
-categories: ["Success", "Social", "Creativity", "Book Summaries", "Biographies"]
+categories: [Biographies, Book Summaries, Culture, Self-Improvement]
+book: true
 ---
 
 This book went into my reading list while reading [The Third Door](https://www.karlbooklover.com/lessons-from-the-third-door/). In that book, the author's first mentor asked him to read the first chapter of When I Stop Talking, You'll Know I'm Dead.

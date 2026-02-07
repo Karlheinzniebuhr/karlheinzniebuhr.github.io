@@ -2,8 +2,9 @@
 layout: post
 title: "Mastery -- Summary"
 date: 2017-07-01 18:01:38 +0000
-categories: ["Book Summaries", "Success"]
-tags: ["mastery", "success", "money", "skills", "self-development"]
+categories: [Book Summaries, Self-Improvement]
+tags: [Investing, Self-Improvement]
+book: true
 ---
 
 > Learn how to achieve success by learning from history's geniuses

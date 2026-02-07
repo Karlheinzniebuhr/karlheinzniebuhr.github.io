@@ -2,7 +2,8 @@
 layout: post
 title: "Liftoff -- Highlights"
 date: 2021-09-18 19:25:25 +0000
-categories: ["Book Summaries", "Tech", "Business", "Biographies"]
+categories: [Biographies, Book Summaries, Business, Technology]
+book: true
 ---
 
 > “Can you believe that thing, or something like it, is going to take people to another planet for the first time in 4.5 billion years? I mean, probably. It may not work. But it probably will.”

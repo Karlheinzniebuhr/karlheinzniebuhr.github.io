@@ -2,7 +2,7 @@
 layout: post
 title: "How to upload thousands of contacts to Google"
 date: 2018-08-04 11:26:35 +0000
-categories: ["Tech-blog"]
+categories: [Technology]
 ---
 
 Today a colleague asked me for help. The boss asked him to type in about 6000 registers of Name/Phone number on to Google Contacts. I thought, "there must be a better way" (borrowed that one from Raymond Hettinger).

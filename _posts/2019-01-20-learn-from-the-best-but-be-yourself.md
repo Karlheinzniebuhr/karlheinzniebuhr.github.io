@@ -2,8 +2,8 @@
 layout: post
 title: "Learn from the best but be yourself"
 date: 2019-01-20 15:46:06 +0000
-categories: ["Blog"]
-tags: ["success"]
+categories: [Blog]
+tags: [Self-Improvement]
 ---
 
 I’m a big fan of

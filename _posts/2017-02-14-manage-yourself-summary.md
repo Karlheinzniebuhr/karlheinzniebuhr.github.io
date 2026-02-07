@@ -2,7 +2,8 @@
 layout: post
 title: "Manage Yourself -- Summary"
 date: 2017-02-14 19:32:36 +0000
-categories: ["Book Summaries", "Success"]
+categories: [Book Summaries, Self-Improvement]
+book: true
 ---
 
 > This book will teach you how to become the CEO of your life.

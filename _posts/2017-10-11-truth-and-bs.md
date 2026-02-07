@@ -2,8 +2,9 @@
 layout: post
 title: "Research: How to tell fact from fiction -- Excerpt"
 date: 2017-10-11 11:34:23 +0000
-categories: ["Book Excerpts", "Nutrition"]
-tags: ["medicine", "nutrition", "plant-based", "research", "science"]
+categories: [Book Excerpts, Health]
+tags: [Health, Science]
+book: true
 ---
 
 In the following excerpt from Dr. Garth Davis's book [Proteinaholic](https://www.amazon.com/Proteinaholic-Obsession-Meat-Killing-About/dp/1515958779?tag=kasbl023-20) he explains how to recognize valid research and manipulated/biased/sponsored research.

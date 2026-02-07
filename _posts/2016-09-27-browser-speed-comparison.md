@@ -4,7 +4,7 @@ layout: post
 title:  "Browser speed test 2016, Safari the ultimate winner?"
 date:   2016-09-27
 categories: en
-tags: [programming]
+tags: [Technology]
 banner_image: browser-post.png
 archived: true
 ---

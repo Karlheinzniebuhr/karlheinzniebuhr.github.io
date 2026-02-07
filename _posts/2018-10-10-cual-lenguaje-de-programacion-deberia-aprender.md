@@ -2,8 +2,8 @@
 layout: post
 title: "Cuál lenguaje de programación debería aprender?"
 date: 2018-10-10 09:03:44 +0000
-categories: ["Blog-es"]
-tags: ["programacion", "software", "tecnologia", "lenguajes de programacion"]
+categories: [Blog]
+tags: [Technology]
 ---
 
 Este es un tema sensible ya que depende mucho de lo que quieras hacer. Cada lenguaje tiene sus trade-offs (pro y contra). Pero en hay algunas pautas muy útiles.

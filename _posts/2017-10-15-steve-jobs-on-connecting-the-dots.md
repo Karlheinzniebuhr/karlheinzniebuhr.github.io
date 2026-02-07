@@ -2,8 +2,8 @@
 layout: post
 title: "Steve Jobs on connecting the dots"
 date: 2017-10-15 16:42:06 +0000
-categories: ["Blog"]
-tags: ["success", "spirituality", "wisdom", "knowledge"]
+categories: [Blog]
+tags: [Books, Meditation, Self-Improvement]
 ---
 
 One night while I was walking through the streets of Asunción and listening to the audiobook [Becoming Steve Jobs](https://www.amazon.com/Becoming-Steve-Jobs-Evolution-Visionary-ebook/dp/B00N6PCWY8/ref=sr_1_5?s=digital-text&ie=UTF8&qid=1508099044&sr=1-5&keywords=steve+jobs+biography&tag=kasbl023-20) I picked up a gold nugget which I really liked. I had seen his commencement speech at Stanford before but somehow this idea hadn't stuck with me before.

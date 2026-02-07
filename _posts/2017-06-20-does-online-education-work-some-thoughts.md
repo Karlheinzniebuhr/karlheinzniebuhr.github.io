@@ -2,8 +2,8 @@
 layout: post
 title: "Does Online Education work? Some thoughts"
 date: 2017-06-20 14:29:34 +0000
-categories: ["Education", "Blog"]
-tags: ["education", "mooc", "computer science", "AI"]
+categories: [Blog, Education]
+tags: [Education, Technology]
 ---
 
 I'm one of those happy guys who participated in the legendary 2011 Stanford MOOC, Introduction to Artificial Intelligence. That course made me (and thousands of students around the world) discover a whole different and revolutionary method of learning.

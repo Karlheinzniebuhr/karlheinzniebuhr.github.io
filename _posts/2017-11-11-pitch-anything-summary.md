@@ -2,8 +2,9 @@
 layout: post
 title: "Pitch anything -- Summary"
 date: 2017-11-11 13:03:45 +0000
-categories: ["Book Summaries", "Cognitive Science", "Social"]
-tags: ["persuation", "psychology", "success", "money", "business"]
+categories: [Book Summaries, Culture, Psychology]
+tags: [Business, Investing, Psychology, Self-Improvement]
+book: true
 ---
 
 > This book will show you how to persuade and achieve a dominant position

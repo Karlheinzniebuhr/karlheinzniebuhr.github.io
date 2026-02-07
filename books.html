@@ -1,0 +1,71 @@
+---
+layout: default
+title: Books
+---
+<div class="site-content">
+    <div class="inner">
+        <main class="site-main">
+            <header class="page-header">
+                <h1 class="page-title">Books</h1>
+                <p class="page-description">Book summaries, excerpts, and key takeaways from great reads.</p>
+            </header>
+
+            {% assign book_posts = site.posts | where: "book", true | where_exp: "p", "p.archived != true" %}
+
+            {% assign summaries = book_posts | where_exp: "p", "p.categories contains 'Book Summaries'" %}
+            {% assign excerpts = book_posts | where_exp: "p", "p.categories contains 'Book Excerpts'" %}
+
+            {% if summaries.size > 0 %}
+            <section class="books-section">
+                <h2 class="books-section-title">
+                    <span class="books-section-icon">&#128214;</span>
+                    Book Summaries
+                    <span class="books-section-count">{{ summaries.size }}</span>
+                </h2>
+                <div class="books-grid">
+                    {% for post in summaries %}
+                    <a href="{{ site.baseurl }}{{ post.url }}" class="book-card">
+                        <h3 class="book-card-title">{{ post.title }}</h3>
+                        <div class="book-card-meta">
+                            <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+                            {% if post.categories.size > 1 %}
+                            <span class="book-card-tags">
+                                {% for cat in post.categories %}{% unless cat == "Book Summaries" or cat == "Book Excerpts" %}{{ cat }}{% unless forloop.last %}, {% endunless %}{% endunless %}{% endfor %}
+                            </span>
+                            {% endif %}
+                        </div>
+                    </a>
+                    {% endfor %}
+                </div>
+            </section>
+            {% endif %}
+
+            {% if excerpts.size > 0 %}
+            <section class="books-section">
+                <h2 class="books-section-title">
+                    <span class="books-section-icon">&#128196;</span>
+                    Book Excerpts
+                    <span class="books-section-count">{{ excerpts.size }}</span>
+                </h2>
+                <div class="books-grid">
+                    {% for post in excerpts %}
+                    <a href="{{ site.baseurl }}{{ post.url }}" class="book-card">
+                        <h3 class="book-card-title">{{ post.title }}</h3>
+                        <div class="book-card-meta">
+                            <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+                            {% if post.categories.size > 1 %}
+                            <span class="book-card-tags">
+                                {% for cat in post.categories %}{% unless cat == "Book Summaries" or cat == "Book Excerpts" %}{{ cat }}{% unless forloop.last %}, {% endunless %}{% endunless %}{% endfor %}
+                            </span>
+                            {% endif %}
+                        </div>
+                    </a>
+                    {% endfor %}
+                </div>
+            </section>
+            {% endif %}
+
+        </main><!-- .site-main -->
+        {% include sidebar.html %}
+    </div><!-- .inner -->
+</div><!-- .site-content -->

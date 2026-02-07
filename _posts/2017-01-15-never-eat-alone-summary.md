@@ -2,8 +2,9 @@
 layout: post
 title: "Never eat alone — Summary"
 date: 2017-01-15 23:29:32 +0000
-categories: ["Book Summaries", "Psychology", "Success", "Social"]
-tags: ["networking", "social", "success", "self-development", "marketing"]
+categories: [Book Summaries, Culture, Psychology, Self-Improvement]
+tags: [Business, Culture, Self-Improvement, Technology]
+book: true
 ---
 
 > Learn how to network from the modern day “How to win friends and influence people.”

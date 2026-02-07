@@ -2,8 +2,9 @@
 layout: post
 title: "Assertively Dealing with Manipulation, an Example"
 date: 2019-02-28 21:26:12 +0000
-categories: ["Book Excerpts"]
-tags: ["psychology"]
+categories: [Book Excerpts]
+tags: [Psychology]
+book: true
 ---
 
 [When I Say No, I Feel Guilty](https://www.amazon.com/When-Say-No-Feel-Guilty/dp/0553263900?tag=kasbl023-20) by Manuel J. Smith has become one of my all-time favorite books. This book is like a vaccine against manipulation. I'm so grateful to my instinctual attraction to this book despite it not being popular nor new or anything. One of those rare books that are truly undervalued.

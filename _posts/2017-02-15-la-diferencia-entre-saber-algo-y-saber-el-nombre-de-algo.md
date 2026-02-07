@@ -2,7 +2,7 @@
 layout: post
 title: "La diferencia entre saber algo, y saber el nombre de algo"
 date: 2017-02-15 12:58:36 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 Richard Feynman, del cual soy un gran fan, tenía bien claro la diferencia entre saber algo, y aparentar saber algo. En una de sus entrevistas el explica en pocas palabras la diferencia entre las dos cosas.

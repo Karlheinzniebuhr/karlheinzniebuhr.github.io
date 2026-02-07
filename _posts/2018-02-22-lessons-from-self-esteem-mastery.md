@@ -2,7 +2,8 @@
 layout: post
 title: "Lessons from Self Esteem Mastery"
 date: 2018-02-22 09:44:44 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+book: true
 ---
 
 [![](/assets/images/esteem-1.jpg)](https://www.amazon.com/Self-Esteem-Mastery-Workbook-Included-ebook/dp/B01CPDA5TK/ref=sr_1_1?ie=UTF8&qid=1519306808&sr=8-1&keywords=self+esteem+mastery&tracking_id=kasbl023-20)

@@ -2,8 +2,9 @@
 layout: post
 title: "Patient Urgency -- Excerpt from The Self-made Billionaire Effect"
 date: 2019-04-23 19:21:31 +0000
-categories: ["Book Excerpts", "Biographies", "Business", "Investing"]
-tags: ["business", "success", "Entrepreneurship"]
+categories: [Biographies, Book Excerpts, Business, Investing]
+tags: [Business, Self-Improvement]
+book: true
 ---
 
 Last time we read about [Empathetic Imagination](https://www.karlbooklover.com/empathetic-imagination/), one of the defining characteristics of self-made Billionaires. Another characteristic is Patient Urgency. It means feeling an urgency to have everything in place at the right time and sustaining that urgency during prolonged periods of time.

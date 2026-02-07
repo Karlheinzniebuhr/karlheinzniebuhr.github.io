@@ -2,7 +2,8 @@
 layout: post
 title: "What is inner contentment ? -- Book Excerpt"
 date: 2017-10-08 23:22:05 +0000
-categories: ["Book Excerpts"]
+categories: [Book Excerpts]
+book: true
 ---
 
 In this excerpt from [The Art of Happiness](https://www.amazon.com/dp/B002UK6NO0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1&tag=kasbl023-20) the Dalai Lama explains the difference between beneficial and less beneficial desires.

@@ -2,8 +2,9 @@
 layout: post
 title: "The Talent Code — Summary"
 date: 2016-12-31 11:37:46 +0000
-categories: ["Book Summaries", "Success", "Psychology"]
-tags: ["learning", "education", "self-improvement", "self-development", "success"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Education, Self-Improvement]
+book: true
 ---
 
 [![](/assets/images/1_SJjBzSF145HffjGqC7Ia4w.jpeg)](https://www.amazon.com/gp/product/055380684X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=055380684X&linkId=7b3e2630b05516164a725a8db6d23413)

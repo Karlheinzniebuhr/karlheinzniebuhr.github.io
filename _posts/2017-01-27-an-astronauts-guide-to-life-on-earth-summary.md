@@ -2,8 +2,9 @@
 layout: post
 title: "An Astronaut’s Guide to Life on Earth — Summary"
 date: 2017-01-27 16:06:54 +0000
-categories: ["Book Summaries", "Science", "Success", "Biographies"]
-tags: ["space", "science", "success", "Biographies", "self-development"]
+categories: [Biographies, Book Summaries, Science, Self-Improvement]
+tags: [Biographies, Science, Self-Improvement]
+book: true
 ---
 
 > Learn about preparation from one of the people who are the best at preparation, an astronaut

@@ -2,8 +2,8 @@
 layout: post
 title: "7 Habits for Success from a Software Engineer"
 date: 2018-08-24 16:36:28 +0000
-categories: ["Blog"]
-tags: ["success", "habits", "knowledge", "self-development", "self-improvement"]
+categories: [Blog]
+tags: [Books, Self-Improvement]
 ---
 
 Normally I'm suspicious of list of steps to success because success is very hard to sum up like that. Even if you get it right, it's likely to be misread by people. But these points come from a Software engineer which I admire for his deep insights. [[video](https://www.youtube.com/watch?v=uVqoU2FzBiA)]

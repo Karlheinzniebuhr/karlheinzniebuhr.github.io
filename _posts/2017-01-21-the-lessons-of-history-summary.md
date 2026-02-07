@@ -2,7 +2,8 @@
 layout: post
 title: "The lessons of history — Summary"
 date: 2017-01-21 00:46:43 +0000
-categories: ["Book Summaries", "History"]
+categories: [Book Summaries, Culture]
+book: true
 ---
 
 > This book shows how civilizations evolve and how they shape us

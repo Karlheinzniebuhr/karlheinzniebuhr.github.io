@@ -2,8 +2,9 @@
 layout: post
 title: "Como no morir de enfermedad coronaria"
 date: 2018-01-21 12:50:46 +0000
-categories: ["Pasajes de libros"]
-tags: ["alimentacion", "veganismo", "nutricion", "salud", "medicina"]
+categories: [Book Excerpts]
+tags: [Health]
+book: true
 ---
 
 Los pasajes a continuación son del libro [Comer para no morir](https://www.amazon.com/Comer-para-morir-cient%C3%ADficamente-enfermedades-ebook/dp/B01DV0XBU6/ref=sr_1_1?ie=UTF8&qid=1516553274&sr=8-1&keywords=comer+para+no+morir&tag=kasbl023-20) de [Dr. Michael Greger](https://nutritionfacts.org/).

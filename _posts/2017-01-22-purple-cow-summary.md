@@ -2,7 +2,8 @@
 layout: post
 title: "Purple cow — Summary"
 date: 2017-01-22 22:30:11 +0000
-categories: ["Book Summaries", "Business"]
+categories: [Book Summaries, Business]
+book: true
 ---
 
 > Learn how make your products stand out

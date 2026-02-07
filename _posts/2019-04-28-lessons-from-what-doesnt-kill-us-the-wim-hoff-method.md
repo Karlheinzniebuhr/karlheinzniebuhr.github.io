@@ -2,8 +2,9 @@
 layout: post
 title: "Lessons from -- What Doesn't Kill Us & The Wim Hoff Method"
 date: 2019-04-28 10:53:11 +0000
-categories: ["Book Summaries", "Book Excerpts"]
-tags: ["wimhof", "meditation"]
+categories: [Book Excerpts, Book Summaries]
+tags: [Health, Meditation]
+book: true
 ---
 
 I read this book because I'm very interested in the Wim Hoff method. The book is but a little longer than it should be. But hey, no problem as we can always skip the parts we don't need and so I did.   

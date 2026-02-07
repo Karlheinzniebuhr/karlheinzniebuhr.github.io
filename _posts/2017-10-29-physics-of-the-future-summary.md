@@ -2,7 +2,8 @@
 layout: post
 title: "Physics of the future -- Summary"
 date: 2017-10-29 13:53:21 +0000
-categories: ["Book Summaries", "Future"]
+categories: [Book Summaries, Science]
+book: true
 ---
 
 Want to stretch your imagination and learn about technology at the same time? Read this book

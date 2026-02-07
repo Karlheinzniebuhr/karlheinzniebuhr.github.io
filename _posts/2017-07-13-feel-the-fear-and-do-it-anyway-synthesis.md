@@ -2,8 +2,9 @@
 layout: post
 title: "Feel the fear and do it anyway -- Synthesis"
 date: 2017-07-13 18:21:14 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["success", "psychology", "self-development", "self-improvement", "books"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Books, Psychology, Self-Improvement]
+book: true
 ---
 
 > Learn how to overcome fear and live your life in power and love

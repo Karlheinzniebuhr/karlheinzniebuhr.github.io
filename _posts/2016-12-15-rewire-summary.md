@@ -2,8 +2,9 @@
 layout: post
 title: "Rewire — Summary"
 date: 2016-12-15 11:21:52 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["brain", "neuroplasticity", "habits", "success"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > Rewire gives readers a road–map to overcoming the most common self-destructive habits

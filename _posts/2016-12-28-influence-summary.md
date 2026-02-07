@@ -2,8 +2,9 @@
 layout: post
 title: "Influence — Summary"
 date: 2016-12-28 22:29:46 +0000
-categories: ["Book Summaries", "Psychology", "Success", "Social"]
-tags: ["influence", "psychology", "persuasion", "success", "business"]
+categories: [Book Summaries, Culture, Psychology, Self-Improvement]
+tags: [Business, Psychology, Self-Improvement]
+book: true
 ---
 
 > This book will teach you the six universal principles of persuasion, how to use them and how to defend yourself against them.

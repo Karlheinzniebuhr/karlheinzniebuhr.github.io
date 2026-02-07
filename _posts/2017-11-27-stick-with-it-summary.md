@@ -2,8 +2,9 @@
 layout: post
 title: "Stick with it -- Summary"
 date: 2017-11-27 09:09:18 +0000
-categories: ["Book Summaries"]
-tags: ["behavior", "habits", "success", "self-development", "self-improvement"]
+categories: [Book Summaries]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > A scientific way to create lasting change in your behavior

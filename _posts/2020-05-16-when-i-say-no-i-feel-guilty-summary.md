@@ -2,8 +2,9 @@
 layout: post
 title: "When I say no, I feel guilty -- Summary"
 date: 2020-05-16 16:22:16 +0000
-categories: ["Book Summaries", "Psychology", "Social"]
-tags: ["psychology", "assertiveness"]
+categories: [Book Summaries, Culture, Psychology]
+tags: [Culture, Psychology]
+book: true
 ---
 
 I can't remember exactly how I found this book but this is one of the most underrated psychology/self-development books In my opinion. This is a pragmatic book, it spends very little time on theory. Most of the content are examples of exercises the author performed with his students, or accounts of personal experiences of his students after they applied the assertiveness techniques to their lives.

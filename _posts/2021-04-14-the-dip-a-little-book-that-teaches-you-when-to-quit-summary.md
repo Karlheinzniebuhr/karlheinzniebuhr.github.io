@@ -2,7 +2,8 @@
 layout: post
 title: "The Dip: A Little Book That Teaches You When to Quit -- Summary"
 date: 2021-04-14 14:05:03 +0000
-categories: ["Book Summaries", "Books", "Psychology"]
+categories: [Book Excerpts, Book Summaries, Psychology]
+book: true
 ---
 
 I learned about this book in the TV show Billions. A judge mentioned it to make a point that a lawyer shouldn't give up so easily. Of course on my reading list it went.

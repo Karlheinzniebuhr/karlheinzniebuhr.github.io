@@ -2,8 +2,9 @@
 layout: post
 title: "La soja vs el cáncer de mama"
 date: 2017-10-30 12:52:39 +0000
-categories: ["Pasajes de libros"]
-tags: ["salud", "soja", "cancer", "prevencion", "veganismo"]
+categories: [Book Excerpts]
+tags: [Health]
+book: true
 ---
 
 En estos pasajes de [su libro](https://www.amazon.com/Comer-morir-Michael-Greger-Stone/dp/844933215X?tag=kasbl023-20), Dr Greger explica los beneficios del consumo de soja en cuanto al cáncer de mama.

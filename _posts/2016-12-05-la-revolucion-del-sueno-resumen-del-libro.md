@@ -2,7 +2,8 @@
 layout: post
 title: "La revolución del sueño (Resumen del libro)"
 date: 2016-12-05 16:33:14 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 Dormir menos tiempo se considera una insignia de honor en muchas industrias. Pero resulta que comprometer nuestro sueño es un precio caro.

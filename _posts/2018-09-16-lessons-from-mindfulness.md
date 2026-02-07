@@ -2,8 +2,9 @@
 layout: post
 title: "Lessons from Mindfulness"
 date: 2018-09-16 14:47:47 +0000
-categories: ["Book Summaries", "Meditation"]
-tags: ["meditation", "mindfulness", "success", "self-development"]
+categories: [Book Summaries, Meditation]
+tags: [Meditation, Self-Improvement]
+book: true
 ---
 
 Mindfulness

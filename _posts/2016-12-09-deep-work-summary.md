@@ -2,8 +2,9 @@
 layout: post
 title: "Deep work — Summary"
 date: 2016-12-09 20:45:56 +0000
-categories: ["Book Summaries", "Success"]
-tags: ["productivity", "self-development", "self-improvement", "work"]
+categories: [Book Summaries, Self-Improvement]
+tags: [Business, Self-Improvement]
+book: true
 ---
 
 > This book explores the ability to focus without distraction on cognitively demanding tasks.

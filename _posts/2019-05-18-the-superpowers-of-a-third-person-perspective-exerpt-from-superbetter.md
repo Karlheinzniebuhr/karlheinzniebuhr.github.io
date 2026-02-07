@@ -2,7 +2,8 @@
 layout: post
 title: "The Superpowers of a third-person perspective -- Exerpt from SuperBetter"
 date: 2019-05-18 09:59:28 +0000
-categories: ["Success", "Book Excerpts"]
+categories: [Book Excerpts, Self-Improvement]
+book: true
 ---
 
 While reading about self-distancing or self-reflection from a third person perspective I had to think about David Goggins. He's who many would agree on, one of the bravest and toughest people alive. And he tends to talk about himself in the third person. Coincidence? I don't think so. I was so freaking excited while reading it that I decided to make a post immediately. Here is the excerpt from [SuperBetter](https://www.amazon.com/SuperBetter-Living-Gamefully-Jane-McGonigal/dp/0143109774?tag=kasbl023-20).

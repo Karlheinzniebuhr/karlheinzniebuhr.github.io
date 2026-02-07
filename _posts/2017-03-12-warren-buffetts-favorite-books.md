@@ -2,8 +2,9 @@
 layout: post
 title: "Warren Buffett's favorite Books"
 date: 2017-03-12 21:29:51 +0000
-categories: ["Book Recommendations"]
-tags: ["books", "warren buffet", "reading", "self-development", "self-improvement"]
+categories: [Book Excerpts]
+tags: [Books, Investing, Self-Improvement]
+book: true
 ---
 
 > investors – large and small – should instead read Jack Bogle’s The Little Book of Common Sense Investing"I insist on a lot of time being spent, almost every day, to just sit and think. That is very uncommon in American business. I read and think. So I do more reading and thinking, and make less impulse decisions than most people in business. I do it because I like this kind of life." - Warren Buffet

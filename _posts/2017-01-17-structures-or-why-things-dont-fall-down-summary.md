@@ -2,7 +2,8 @@
 layout: post
 title: "Structures: Or Why Things Don’t Fall Down — Summary"
 date: 2017-01-17 15:46:29 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 > Learn what holds structures together and gain interesting insight in material engineering

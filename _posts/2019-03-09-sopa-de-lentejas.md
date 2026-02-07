@@ -2,8 +2,8 @@
 layout: post
 title: "Sopa de lentejas"
 date: 2019-03-09 20:27:44 +0000
-categories: ["Recipes"]
-tags: ["vegan", "vegan-food"]
+categories: [Health]
+tags: [Health]
 ---
 
 Esta sopa es facil de preparar y increiblemente deliciosa/nutritiva. Especial para el invierno, y para los que practican deportes como yo y por lo tanto se benefician de una buena cantidad de proteínas.

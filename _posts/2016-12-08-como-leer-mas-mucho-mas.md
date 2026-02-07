@@ -2,7 +2,7 @@
 layout: post
 title: "Cómo leer más , mucho más!"
 date: 2016-12-08 21:02:22 +0000
-categories: ["Blog-es"]
+categories: [Blog]
 ---
 
 > “Me gustaría leer pero no tengo tiempo.”

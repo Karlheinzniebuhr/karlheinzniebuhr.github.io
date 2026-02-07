@@ -2,8 +2,9 @@
 layout: post
 title: "Mastery by George Leonard -- Summary"
 date: 2017-11-10 10:20:58 +0000
-categories: ["Book Summaries"]
-tags: ["books", "success", "learning", "self-development", "self-improvement"]
+categories: [Book Summaries]
+tags: [Books, Education, Self-Improvement]
+book: true
 ---
 
 Learn what characteristics are necessary to achieve mastery

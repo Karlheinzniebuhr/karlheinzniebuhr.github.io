@@ -2,8 +2,8 @@
 layout: post
 title: "Perspective changes the game"
 date: 2019-02-12 22:03:18 +0000
-categories: ["Blog"]
-tags: ["business"]
+categories: [Blog]
+tags: [Business]
 ---
 
 Absolutely sure that one of the most important things I learned about lately is perspective. Let me clarify that statement, I didn't experience perspective the first time, already did that years ago through difficult experiences, but it wasn't until listening to [GaryVee](https://youtu.be/cvE0VyR9cO4?t=191) that I understood perspective is really a big, huge thing.

@@ -2,7 +2,8 @@
 layout: post
 title: "Thinking Fast and Slow — Summary"
 date: 2017-01-06 20:09:12 +0000
-categories: ["Book Summaries", "Cognitive Science"]
+categories: [Book Summaries, Psychology]
+book: true
 ---
 
 > Learn the two sides of our thinking. Automatic, fast, intuitive, and emotional vs slower, more deliberative, and more logical reasoning.

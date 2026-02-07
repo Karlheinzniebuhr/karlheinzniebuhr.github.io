@@ -2,7 +2,8 @@
 layout: post
 title: "Lessons from -- How to Fail at Almost Everything and Still Win Big"
 date: 2019-05-30 11:54:55 +0000
-categories: ["Book Summaries", "Success"]
+categories: [Book Summaries, Self-Improvement]
+book: true
 ---
 
 How did I get to this book? I got interested in it after watching an Tim Ferris interview with Scott. Happy I am that I did pick it up. Not that I agree with everything in the book, far from it, but there are a few gold nuggets which I really liked. After all, that's what reading is about, picking up the things we value. I don't understand people who talk trash about a book just because they disagree with one bit of it. Anyways, let's get into some more details.

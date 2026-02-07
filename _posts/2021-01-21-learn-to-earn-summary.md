@@ -2,7 +2,8 @@
 layout: post
 title: "Learn to Earn -- Summary"
 date: 2021-01-21 18:25:01 +0000
-categories: ["Book Summaries", "Investing", "Business"]
+categories: [Book Summaries, Business, Investing]
+book: true
 ---
 
 I discovered Peter Lynch while listening to The Art of Investing - Lessons from History's Greatest Traders. That audiobook is like a mini MBA in investing. A great starting point to discover people to follow and books to read.

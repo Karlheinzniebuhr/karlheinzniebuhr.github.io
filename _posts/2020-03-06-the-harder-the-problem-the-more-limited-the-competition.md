@@ -2,8 +2,9 @@
 layout: post
 title: "THE HARDER THE PROBLEM, THE MORE LIMITED THE COMPETITION"
 date: 2020-03-06 08:51:03 +0000
-categories: ["Book Excerpts", "Business"]
-tags: ["investing", "Wall-Street", "Blackstone"]
+categories: [Book Excerpts, Business]
+tags: [Investing]
+book: true
 ---
 
 What follows is an excerpt from the founder of Backstone Stephen A. Schwarzman's Biography. Blackstone is the largest alternative investment firm in the world. This is my favorite chapter so far in this book. It is so interesting to me because Stephen describes his thinking process when he created a new company. What he was looking for, his priorities. So much insight in so little text.

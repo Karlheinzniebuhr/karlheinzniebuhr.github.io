@@ -2,8 +2,9 @@
 layout: post
 title: "Learn to have control over your autonomous nervous system"
 date: 2019-03-04 21:49:26 +0000
-categories: ["Book Excerpts"]
-tags: ["iceman", "meditation", "willpower", "health", "vitality"]
+categories: [Book Excerpts]
+tags: [Health, Meditation, Psychology]
+book: true
 ---
 
 If I had read this title a short while ago I would probably have scoffed it off at first but not any longer. I recently became interested in Wim Hof's teachings and physical feats of survival because I noticed that he uses breathing techniques. Breathing techniques were something on my mind since a friend who practices yoga told me how powerful they were.

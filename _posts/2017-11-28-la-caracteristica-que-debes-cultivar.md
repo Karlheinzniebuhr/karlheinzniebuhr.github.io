@@ -2,8 +2,8 @@
 layout: post
 title: "La característica que debes cultivar"
 date: 2017-11-28 13:10:30 +0000
-categories: ["Blog-es"]
-tags: ["warren buffet", "exito", "success", "desarrollo personal", "Libros"]
+categories: [Blog]
+tags: [Books, Investing, Self-Improvement]
 ---
 
 Warren Buffet es el inversor más famoso y exitoso del mundo. Pero su sabiduría va mucho más allá de eso. Es un lector ávido y atribuye su éxito a eso. En este post explicaré algo que me pareció muy curioso cuando lo leí. El valor que ponen Warren Buffet y Charlie Munger (otro nombre que deberías googlear, o mejor aún, [comprar su libro](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018/ref=la_B001JRYRMA_1_1?s=books&ie=UTF8&qid=1511886529&sr=1-1&tag=kasbl023-20)) sobre la personalidad de una persona.

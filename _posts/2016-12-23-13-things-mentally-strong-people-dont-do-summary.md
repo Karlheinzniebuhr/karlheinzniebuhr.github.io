@@ -2,8 +2,9 @@
 layout: post
 title: "13 Things Mentally Strong People Don’t Do — Summary"
 date: 2016-12-23 11:53:30 +0000
-categories: ["Book Summaries", "Psychology", "Success"]
-tags: ["mindset", "success", "psychology", "self-improvement", "self-development"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > Mental strength isn’t about acting tough; it’s about feeling empowered to overcome life’s challenges.

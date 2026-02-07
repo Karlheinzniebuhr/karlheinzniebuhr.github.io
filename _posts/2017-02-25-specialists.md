@@ -2,8 +2,8 @@
 layout: post
 title: "\"Don't be, or hire a specialist\" ?"
 date: 2017-02-25 16:29:49 +0000
-categories: ["Blog"]
-tags: ["Entrepreneurship", "success", "jobs", "economy", "business", "life"]
+categories: [Blog]
+tags: [Business, Investing, Self-Improvement]
 ---
 
 Some thoughts on this quote mentioned by Jonathan Rosenberg.

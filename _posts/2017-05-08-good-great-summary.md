@@ -2,8 +2,9 @@
 layout: post
 title: "Good to great -- Summary"
 date: 2017-05-08 18:53:49 +0000
-categories: ["Book Summaries", "Business", "Success"]
-tags: ["Entrepreneurship", "success", "business", "startups"]
+categories: [Book Summaries, Business, Self-Improvement]
+tags: [Business, Self-Improvement]
+book: true
 ---
 
 > Learn what differentiates Great Companies from Good Companies

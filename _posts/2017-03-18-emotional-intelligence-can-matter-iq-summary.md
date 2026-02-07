@@ -2,8 +2,9 @@
 layout: post
 title: "Emotional Intelligence: Why It Can Matter More Than IQ -- Summary"
 date: 2017-03-18 21:36:13 +0000
-categories: ["Book Summaries", "Cognitive Science", "Success"]
-tags: ["emotions", "Intelligence", "success", "brain", "self-development"]
+categories: [Book Summaries, Psychology, Self-Improvement]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 > Learn to manage your emotions so that you can use them to your benefit

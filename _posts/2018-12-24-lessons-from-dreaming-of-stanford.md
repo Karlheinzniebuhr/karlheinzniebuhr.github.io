@@ -2,7 +2,8 @@
 layout: post
 title: "Lessons from Dreaming of Stanford"
 date: 2018-12-24 19:07:27 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 I bought this book at a moment where I had to make a decision between going to a summer course I had won a 50% scholarship for, or not going and being able to do a lot of different things in the next year which were also very important for me. In other words, I had to sacrifice some things while setting priorities.

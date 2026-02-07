@@ -2,7 +2,7 @@
 layout: post
 title: "Love of learning can be useful"
 date: 2019-11-26 12:45:19 +0000
-categories: ["Blog"]
+categories: [Blog]
 ---
 
 Mark Cuban loves to learn. He just enjoys learning new things. He likes to build a foundation of knowledge which he then can use to build businesses. The premise is, *you have to have a basic understanding of what you are going to do business with*.

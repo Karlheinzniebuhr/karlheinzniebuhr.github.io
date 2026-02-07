@@ -2,7 +2,7 @@
 layout: post
 title: "How to disable Samsung's annoying Bloatware"
 date: 2018-09-25 09:40:23 +0000
-categories: ["Tech-blog"]
+categories: [Technology]
 ---
 
 If there is something that infuriates me it is bloatware that cannot be disabled. I happened to get a notification every few minutes from "Samsung Experience Service" for the last couple of weeks.

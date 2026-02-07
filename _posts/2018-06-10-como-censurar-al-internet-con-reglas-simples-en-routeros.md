@@ -2,8 +2,8 @@
 layout: post
 title: "Como censurar al Internet  con reglas simples en RouterOS"
 date: 2018-06-10 13:07:35 +0000
-categories: ["Blog-es", "Tech-blog"]
-tags: ["mikrotik", "routeros"]
+categories: [Blog, Technology]
+tags: [Technology]
 ---
 
 Por supuesto estoy muy en contra de la censura. Pero si entendemos como funciona la censura, también nos podemos defender. Así que decidí aprovechar el conocimiento que adquirí sobre RouterOS en la certificación de Mikrotik para tratar de cortarme el servicio de Torrent con un Router Hap Lite.

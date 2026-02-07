@@ -2,8 +2,8 @@
 layout: post
 title: "Un estudio controlado de mindfulness"
 date: 2018-06-05 10:44:39 +0000
-categories: ["Blog-es"]
-tags: ["mindfulness", "meditacion"]
+categories: [Blog]
+tags: [Meditation]
 ---
 
 Hoy encontré un [video](https://www.youtube.com/watch?v=kr6i6kD13nk) de [Julieta Galante, una investigadora de Cognitive and Behavioural Neuroscience](https://www.neuroscience.cam.ac.uk/directory/profile.php?mjg231) que realizó un estudio sobre mindfulness de altísima calidad en la universidad de Cambridge.

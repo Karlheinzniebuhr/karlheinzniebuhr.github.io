@@ -2,7 +2,7 @@
 layout: post
 title: "Neuro-Associative Conditioning"
 date: 2019-08-25 17:01:55 +0000
-categories: ["Psychology", "Success", "Blog"]
+categories: [Blog, Psychology, Self-Improvement]
 ---
 
 Today I'll finally share the gist of Neuro-Associative Conditioning or NAC. NAC is a form of (re) programming habits. I learned about NAC in Tony Robbin's Personal Power ll which according to Wikipedia "*is the best-selling personal improvement program of all time with more than 35 million tapes distributed worldwide.*"

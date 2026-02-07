@@ -2,8 +2,8 @@
 layout: post
 title: "Ahorrar puede ser divertido"
 date: 2018-10-02 13:50:57 +0000
-categories: ["Blog-es"]
-tags: ["ahorro", "negocios"]
+categories: [Blog]
+tags: [Business, Investing]
 ---
 
 Hay mucho que decir sobre el ahorro. En mi experiencia, no tiene por qué ser una cuestión de disciplina como la mayoría de personas lo ven. Ahorrar no debe implicar dejar de disfrutar la vida. Muy al contrario, puede mejorar la vida si lo hacemos correctamente.

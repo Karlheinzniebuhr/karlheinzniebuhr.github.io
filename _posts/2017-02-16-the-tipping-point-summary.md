@@ -2,7 +2,8 @@
 layout: post
 title: "The tipping point -- Summary"
 date: 2017-02-16 21:33:08 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 > This book will teach you how little things can have a big impact when the time and circumstances are right

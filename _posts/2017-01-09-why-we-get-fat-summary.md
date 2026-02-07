@@ -2,7 +2,8 @@
 layout: post
 title: "Why we get fat — Summary"
 date: 2017-01-09 11:58:32 +0000
-categories: ["Book Summaries", "Nutrition"]
+categories: [Book Summaries, Health]
+book: true
 ---
 
 > Learn how an overly carbohydrate rich diet can cause us to get fat and sick

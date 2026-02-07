@@ -2,8 +2,8 @@
 layout: post
 title: "Technical vs fundamental analysis"
 date: 2017-12-08 16:54:28 +0000
-categories: ["Blog"]
-tags: ["investing", "trading", "cryptocurrency", "money", "business"]
+categories: [Blog]
+tags: [Business, Crypto, Investing]
 ---
 
 Let's discuss the pro and cons of technical vs fundamental analysis. I'll list the arguments made in the book [Technical Analysis of the Financial Markets](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive-ebook/dp/B00BWVKM4U/ref=sr_1_1?ie=UTF8&qid=1512762023&sr=8-1&keywords=technical+analysis+of+the+financial+markets&tag=kasbl023-20) and add my own thoughts. Quotations from the book are marked in *italics*.

@@ -2,8 +2,8 @@
 layout: post
 title: "How to reduce latency for gaming"
 date: 2018-12-16 09:25:29 +0000
-categories: ["Blog"]
-tags: ["networking", "tech"]
+categories: [Blog]
+tags: [Technology]
 ---
 
 When having problems with latency the first advice is to check the distance of the server and issues with your Internet Service Provider. But there is something that might cause you problems if you have a slow Internet connection, bandwidth (BW) usage.

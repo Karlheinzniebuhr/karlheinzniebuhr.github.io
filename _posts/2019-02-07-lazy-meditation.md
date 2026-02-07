@@ -2,8 +2,8 @@
 layout: post
 title: "Lazy meditation"
 date: 2019-02-07 20:58:09 +0000
-categories: ["Blog"]
-tags: ["meditation", "success"]
+categories: [Blog]
+tags: [Meditation, Self-Improvement]
 ---
 
 Sometimes my meditation consists of just sitting and thinking, often while listening to music. Yes meditating with music is awesome, heck, I can meditate even with Heavy Metal. This is unlike most people think about meditation, most think about it as calming thoughts, and that is certainly a byproduct of this activity too, but not necessarily the goal. This style is very helpful because no expectations means not getting frustrated about doing it right. Call it 'lazy' meditation.

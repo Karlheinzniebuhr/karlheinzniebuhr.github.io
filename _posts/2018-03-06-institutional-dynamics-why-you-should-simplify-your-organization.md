@@ -2,8 +2,8 @@
 layout: post
 title: "Institutional dynamics, why you should simplify your organization"
 date: 2018-03-06 16:04:21 +0000
-categories: ["Blog"]
-tags: ["business", "investing", "money", "management", "success"]
+categories: [Blog]
+tags: [Business, Investing, Self-Improvement]
 ---
 
 I live in Paraguay where labor is cheap. Everywhere you see people performing work which could easily be automated or done more efficiently. That is what I noticed when I moved to Germany. There weren't security guards in front of every medium to big business, not even in the banks. Sure, it is safer over there, but the staff in markets, service stations etc was also less numerous than in Paraguay. In Germany, labor is expensive so businesses try to automatize everything they can. For instance, when there was something going on on the road, you would often see a portable traffic light.

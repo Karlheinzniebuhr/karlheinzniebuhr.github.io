@@ -2,7 +2,8 @@
 layout: post
 title: "Anything You Want: 40 Lessons for a New Kind of Entrepreneur -- Summary"
 date: 2019-06-06 19:45:54 +0000
-categories: ["Book Summaries", "Biographies"]
+categories: [Biographies, Book Summaries]
+book: true
 ---
 
 The first time I encountered Derek was in the Tim Ferris podcast. I loved the common sense and pragmatism he exuded so naturally, his book went straight to my reading list. Here are some of the lessons he taught me.

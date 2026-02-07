@@ -2,8 +2,9 @@
 layout: post
 title: "How to SMART read"
 date: 2017-02-15 15:14:35 +0000
-categories: ["Education", "Books", "Blog"]
-tags: ["reading", "learning", "books", "knowledge", "success"]
+categories: [Blog, Book Excerpts, Education]
+tags: [Books, Education, Self-Improvement]
+book: true
 ---
 
 These are some of the basics about reading I got from Tai Lopez's material.

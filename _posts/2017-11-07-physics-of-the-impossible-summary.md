@@ -2,7 +2,8 @@
 layout: post
 title: "Physics of the impossible -- Summary"
 date: 2017-11-07 15:47:04 +0000
-categories: ["Book Summaries"]
+categories: [Book Summaries]
+book: true
 ---
 
 > Take a journey into the world of spectacular and futuristic physics

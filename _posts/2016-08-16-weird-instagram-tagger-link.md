@@ -4,7 +4,7 @@ layout: post
 title:  "Weird Instagram tagger link"
 date:   2016-08-16
 categories: en
-tags: [security]
+tags: [Technology]
 banner_image: insta_tagger.png
 archived: true
 ---

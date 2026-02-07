@@ -2,8 +2,9 @@
 layout: post
 title: "Machine Learning -- Summary"
 date: 2017-02-18 13:47:00 +0000
-categories: ["Book Summaries", "Computer Science"]
-tags: ["Machine Learning", "Artificial Intelligence", "AI", "Statistics", "Mathematics", "Neuronal Networks"]
+categories: [Book Summaries, Technology]
+tags: [Technology]
+book: true
 ---
 
 > This book will teach you a solid understanding about the basics of Machine Learning

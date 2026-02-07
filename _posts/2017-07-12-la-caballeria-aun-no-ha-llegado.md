@@ -2,8 +2,9 @@
 layout: post
 title: "\"La caballería aún no ha llegado...\""
 date: 2017-07-12 01:13:40 +0000
-categories: ["Pasajes de libros"]
-tags: ["desarrollo personal", "exito", "psicologia", "Libros", "español"]
+categories: [Book Excerpts]
+tags: [Books, Psychology, Self-Improvement]
+book: true
 ---
 
 Estaba leyendo el libro [Empieza donde estas](https://www.amazon.com/Comienza-donde-estas-Spanish-Gardner/dp/160738020X?tag=kasbl023-20) y encontré unos párrafos que tratan de la autosuficiencia y creo que muchos se van a poder identificar.

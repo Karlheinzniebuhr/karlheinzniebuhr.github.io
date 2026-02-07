@@ -2,8 +2,9 @@
 layout: post
 title: "10 days to faster reading — Summary"
 date: 2016-12-07 15:13:13 +0000
-categories: ["Book Summaries", "Success"]
-tags: ["learning", "self-improvement", "self-development", "books", "reading"]
+categories: [Book Summaries, Self-Improvement]
+tags: [Books, Education, Self-Improvement]
+book: true
 ---
 
 [![](/assets/images/1_VH26tLMAi1j0NmdEw9KSWA.jpeg)](http://amzn.to/2h5Uav7)

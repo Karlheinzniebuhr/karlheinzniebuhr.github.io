@@ -2,8 +2,9 @@
 layout: post
 title: "As a Man Thinketh — Summary"
 date: 2016-12-12 17:41:00 +0000
-categories: ["Book Summaries", "Success"]
-tags: ["positive thinking", "self-improvement", "self-development", "LOA"]
+categories: [Book Summaries, Self-Improvement]
+tags: [Psychology, Self-Improvement]
+book: true
 ---
 
 In [this book](http://amzn.to/2hojSv2), you will learn how your thoughts shape your life.

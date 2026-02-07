@@ -2,7 +2,8 @@
 layout: post
 title: "Follow your gut — Summary"
 date: 2017-02-06 23:05:44 +0000
-categories: ["Nutrition", "Book Summaries"]
+categories: [Book Summaries, Health]
+book: true
 ---
 
 *Learn how important our gut is to our health and brain*

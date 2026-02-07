@@ -2,7 +2,8 @@
 layout: post
 title: "Warren Buffett explains the ideal business"
 date: 2018-01-28 15:14:00 +0000
-categories: ["Book Excerpts", "Investing"]
+categories: [Book Excerpts, Investing]
+book: true
 ---
 
 “That year, 15,000 people came to Omaha’s Woodstock for Capitalists. Buffett’s $36 billion fortune was once again exceeded only by Bill Gates’s. He had bounced back, almost to the top of the heap.

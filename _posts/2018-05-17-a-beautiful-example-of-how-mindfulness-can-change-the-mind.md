@@ -2,8 +2,9 @@
 layout: post
 title: "A beautiful example of how mindfulness can change the mind -- Book excerpt from Mindsight"
 date: 2018-05-17 07:43:02 +0000
-categories: ["Book Excerpts"]
-tags: ["mindfulness", "meditation", "psychology", "brain", "neuroscience"]
+categories: [Book Excerpts]
+tags: [Meditation, Psychology]
+book: true
 ---
 
 I'm currently reading three books in parallel, Mindsight, Buddha's brain and The Buddha walks into a bar. All three books show how we can rewire our brain with practice although, from slightly different angles. That's what makes it so interesting to read them at the same time. Yesterday I read a few chapters of [Mindsight](https://www.amazon.com/Mindsight-New-Science-Personal-Transformation/dp/0553386395?tag=kasbl023-20) in which the author tells an anecdote about how one of his patients was able to overcome his aggression and depression through mindfulness meditation. It is the best accounts of the power of mindfulness I've read so far so I want to share it. You will learn how through practice, we can switch to an observer perspective in our brains -- more specifically, the prefrontal cortex -- so that we don't get swiped away by our emotions as easily as before.

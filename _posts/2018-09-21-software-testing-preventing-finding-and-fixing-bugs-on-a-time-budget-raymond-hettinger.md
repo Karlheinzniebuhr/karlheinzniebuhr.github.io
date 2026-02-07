@@ -2,8 +2,8 @@
 layout: post
 title: "Software Testing: Preventing, Finding, and Fixing Bugs on a Time Budget - Raymond Hettinger"
 date: 2018-09-21 14:12:12 +0000
-categories: ["Tech-blog"]
-tags: ["python", "technology", "programming", "software"]
+categories: [Technology]
+tags: [Blogging, Technology]
 ---
 
 Raymond Hettinger is one of the people I enjoy most giving tech talks. He is one of the people who know how to give very down to earth explanation about many complicated and fun topics. He also loves Python as I do, the difference being that he is a big contributor and bigger expert on Python. Definitely check out his talks on YouTube. In this post, I made some notes from his recent talk called [Keynote - Preventing, Finding, and Fixing Bugs On a Time Budget | Raymond Hettinger @ PyBay2018](https://www.youtube.com/watch?v=ARKbfWk4Xyw)

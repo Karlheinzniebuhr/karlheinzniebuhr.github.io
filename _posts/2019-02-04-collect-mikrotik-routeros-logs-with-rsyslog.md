@@ -2,8 +2,8 @@
 layout: post
 title: "Collect Mikrotik RouterOS Logs with Rsyslog"
 date: 2019-02-04 10:30:14 +0000
-categories: ["Tech-blog"]
-tags: ["mikrotik", "routeros"]
+categories: [Technology]
+tags: [Technology]
 ---
 
 Logs are useful, I'd even say the most important thing for Sysadmins and Network Admins and often Developers also. So I'm surprised why I took so long to implement a central log collection for my network. I use Mikrotik which Operating System is called RouterOS. In RouterOS you go to System > Logging to configure remote logging.

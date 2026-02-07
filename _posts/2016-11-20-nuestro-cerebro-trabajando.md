@@ -2,8 +2,9 @@
 layout: post
 title: "Nuestro cerebro trabajando -- Resumen"
 date: 2016-11-20 01:29:13 +0000
-categories: ["Book Summaries"]
-tags: ["Libros"]
+categories: [Book Summaries]
+tags: [Books]
+book: true
 ---
 
 [Your brain at work](https://www.amazon.com/gp/product/0061771295/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061771295&linkId=9c9e51217a6f491bd739321b8206b1e5) se llama el libro del cual hice un resumen la vez pasada en YouTube.
