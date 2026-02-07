@@ -18,7 +18,7 @@
     <section class="widget widget-recent-posts">
         <h2 class="widget-title">Latest Posts</h2>
         <ul class="recent-posts">
-            {% assign recent = site.posts | where_exp: "p", "p.archived != true and p.book != true" %}
+            {% assign recent = site.posts | where_exp: "p", "p.archived != true" | where_exp: "p", "p.book != true" %}
             {% for post in recent limit:6 %}
             <li class="recent-item"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%B %-d, %Y" }}</span></li>
             {% endfor %}
