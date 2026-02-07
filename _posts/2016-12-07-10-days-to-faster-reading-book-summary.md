@@ -16,7 +16,7 @@ Read more of the things which will actually serve you. Here are some useful ques
 1. Why am I reading this?
 2. Why do I need this information?
 
-If you can’t come up with good answers for this two questions, don’t read it.
+If you can’t come up with good answers for these two questions, don’t read it.
 
 ### Use previewing
 

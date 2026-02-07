@@ -16,7 +16,7 @@ In this book, we will learn how to overcome these kinds of common mistakes.
 #### Our two “selves”
 
 Why do we often choose the wrong one of two choices even if we know that it is the wrong one? That’s because we act on the automatic self, not the conscious self.
-Automatic self and conscious self is a way to describe our actions based on habits (automatic self) and based on rational thought and reason (conscious self).
+Automatic self and conscious self are a way to describe our actions based on habits (automatic self) and based on rational thought and reason (conscious self).
 When we do something we know is bad and regret it later, it is because we acted on our automatic self.
 So how can we solve these bad behaviors?
 
@@ -24,7 +24,7 @@ So how can we solve these bad behaviors?
 
 To fix our bad behaviors we have to either strengthen our conscious self so that we make the right decisions, this is going to use some [willpower](https://karlbooklover.com/willpower-book-summary-1ef159dfa729#.kn49pjuc1). Or we can change our automatic self by changing our habits.
 It has recently been discovered that learning causes our brains to grow new cells, it's called neuroplasticity. We can use this phenomenon to rewire our brains.
-For example, if the nerve cells “go to the gym” connect with the cells “stay in the until my workout is done” due to our repeated action, then those two areas will be increasingly bond together.
+For example, if the nerve cells “go to the gym” connect with the cells “stay in the gym until my workout is done” due to our repeated action, then those two areas will be increasingly bound together.
 The solution then is, to replace bad habits with good habits. [Read this summary for more on habits.](https://www.karlbooklover.com/the-power-of-habit-summary/)
 Some habits are clearly good, for example brushing our teeth, and others are clearly bad, like smoking.
 > But there are other habits which we may think are good, but are actually bad.
@@ -54,7 +54,7 @@ Example: If someone breaks into your house, anger may give you the courage to de
 > The trick is to not let emotions build up internally.
 
 Sometimes the unconscious mind causes trouble as a form of crying for help. Trying to get attention. But often we don’t want to ask for help because we fear rejection.
-Example: Richard O’Connor, the author of this book encountered a 16-year-old boy who had problems with drugs. He dropped his stash in front of his mother intentionally as O’Connor learned after pressing him about it. The boy told him in tears that he just wanted a caring mother. If is mother reprimanded him it would mean she cared.
+Example: Richard O’Connor, the author of this book encountered a 16-year-old boy who had problems with drugs. He dropped his stash in front of his mother intentionally as O’Connor learned after pressing him about it. The boy told him in tears that he just wanted a caring mother. If his mother reprimanded him it would mean she cared.
 As we’ve seen strong emotions find ways to express themselves in potentially destructive behaviors if we don’t address them.
 But there are also other types of self-destructive tendencies.
 
@@ -80,7 +80,7 @@ Your ultimate goal is to strengthen your willpower and increase self-control.
 
 Initially, it is hard to break an addiction or form a new habit, but gradually it takes less effort. Self-control is like a habit too, if you practice it becomes easier.
 An example of using the principle of “fake it till you make it”. Pretend to be kinder. Even if you feel like you fake it, you’ll feel good about yourself and the reactions you get from other people. This will further motivate you to keep doing kind things until it becomes a habit.
-You can increase your willpower by being healthier. Eat healtheir foods and exercise, so your brain will function better.
+You can increase your willpower by being healthier. Eat healthier foods and exercise, so your brain will function better.
 Parent yourself. You can even slightly punish yourself if necessary. If your brain associates negative stimulus with your temptation, that temptation will lose strength.
 
 #### Surround yourself with positive people

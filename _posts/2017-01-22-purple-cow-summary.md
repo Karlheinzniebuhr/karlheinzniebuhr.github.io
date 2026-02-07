@@ -14,7 +14,7 @@ book: true
 
 There was a time where just a few companies advertised. Ads were such a rare thing that they were very effective. People’s attention was captured by the products, and businesses had a great return on investment from advertisements.
 
-But that changed quickly. Nowadays ads are everywhere. Whether TV, radio or the internet, people get flooded with advertisements which make them indifferent to them. We tend just to ignore ads unless they contain something specific for which we were lucking for. Ads no longer are something unusual, they are the norm, which is why they have become inefficient.
+But that changed quickly. Nowadays ads are everywhere. Whether TV, radio or the internet, people get flooded with advertisements which make them indifferent to them. We tend just to ignore ads unless they contain something specific for which we were looking. Ads no longer are something unusual, they are the norm, which is why they have become inefficient.
 
 #### Remarkable marketing
 

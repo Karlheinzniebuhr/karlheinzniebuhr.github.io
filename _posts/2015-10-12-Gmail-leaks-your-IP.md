@@ -9,9 +9,9 @@ banner_image: ip_test.png
 archived: true
 ---
 
-I thought that Gmail always substituted the origin IP from our E-mail's. But this isn’t always the case.
+I thought that Gmail always substituted the origin IP from our E-mails. But this isn’t always the case.
 
-I made some tests after noticing that E-mails send via Gmail from the Apple Mail application had my personal IP address in the header. 
+I made some tests after noticing that E-mails sent via Gmail from the Apple Mail application had my personal IP address in the header. 
 <!--more-->
 {% highlight text %}
 Received: from [192.168.2.2](host-24-140.b8.cmm.com.py. [200.**.183.***])
@@ -93,4 +93,4 @@ Content-Type: multipart/alternative; boundary=001a1145bb36566dcc0521ee8b37
 {% endhighlight %}
 
 #### Wrapping Up 
-Depending on what method you use to send E-mails via Gmail, it can show your personal IP in the header, for example when using it via desktop applications. If you wan't to protect your personal IP address you should send your mail from the Web Client or make sure that mails sent via your mobile application are anonymised. 
+Depending on what method you use to send E-mails via Gmail, it can show your personal IP in the header, for example when using it via desktop applications. If you want to protect your personal IP address you should send your mail from the Web Client or make sure that mails sent via your mobile application are anonymised. 

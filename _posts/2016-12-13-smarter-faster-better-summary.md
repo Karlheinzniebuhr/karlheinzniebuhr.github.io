@@ -16,7 +16,7 @@ book: true
 Have you ever felt excited about something, for example, a new project, but after a while that excitement faded away?
 Researchers at Columbia University found that people feel more motivated when they have greater control over the situation and when they get to make choices.
 Neuropsychologist Mauricio Delgado found that “motivation centers” light up in the brain whenever we get to make a choice. Even something simple as selecting a color in a video game has this effect.
-Now let’s apply this principle to situations when we are stuck with a task. Whenever you feel stuck, let yourself make a decision. Go for a 15 minutes walk and then come back to what you were doing, be creative.
+Now let’s apply this principle to situations when we are stuck with a task. Whenever you feel stuck, let yourself make a decision. Go for a 15-minute walk and then come back to what you were doing, be creative.
 However, we need to remember how our choices contribute to the bigger goals.
 
 ### Remember the bigger picture (the WHY)

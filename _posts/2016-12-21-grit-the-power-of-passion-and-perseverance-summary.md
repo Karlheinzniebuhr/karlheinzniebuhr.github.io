@@ -11,10 +11,10 @@ book: true
 
 [![](/assets/images/1_vxulDMG1y6WRF-7jBp2LNA.jpeg)](http://amzn.to/2ieLi5U)
 
-#### We tend to self-deceive us about the key to success
+#### We tend to deceive ourselves about the key to success
 
 When people are asked about what they think is more important for success, hard work or natural talent, they tend to choose hard-work. But when individuals are presented with someone who’s skill is supposed to com from natural talent, they tend to find it more appealing than skill from a hard working person.
-In several nation-wide surveys in the US, participants were asked: “Which quality is more important fro success: Talent or hard work?”. About 66% favored hard work (grit, determination).
+In several nation-wide surveys in the US, participants were asked: “Which quality is more important for success: Talent or hard work?”. About 66% favored hard work (grit, determination).
 When musical experts were asked the same question by psychologist Chia-Jung Tsay, the majority said that practice and hard work is the key to success.
 Then the same musical experts have presented two identical recordings from the same musician, but being told that one piece was from a naturally talented musician and the other one from a musician who had put in years of hard work.
 Here is the catch, the experts told the naturally talented musician to be superior to the hard working one, even though both pieces came from the exact same musician!
@@ -69,5 +69,5 @@ Psychologist Daeun Park found that second-grade children who were ranked with em
 The same effect holds true if parents instill the belief to their children that bad grades reflect a lack of intelligence rather than lack of effort.
 > The lesson: Parents and teachers should motivate their children to work harder and explain to them that they can achieve if they put in the grit.
 
-The key takeaway from this book is: With grit (determination/effort/perseverance) you can overcome many obstacles, oven lack of talent, to reach your goal.
+The key takeaway from this book is: With grit (determination/effort/perseverance) you can overcome many obstacles, even lack of talent, to reach your goal.
 [Get the book here.](http://amzn.to/2ieLi5U)

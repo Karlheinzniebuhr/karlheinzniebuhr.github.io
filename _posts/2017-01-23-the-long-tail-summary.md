@@ -30,7 +30,7 @@ Once the production price is very small or non-existent, however, many people ar
 
 For people to get the products they want, they have to be able to find them. It can be hard to do so often when searching for specific things. For example, a person searching for a rare out of print book could go to a bookstore and see if he or she finds it there. But the odds of finding it would be extremely low.
 If there were a way to search all bookstores at once, the probability to find the product would be much higher. Companies which offer such a service are called aggregators. Amazon, Ebay, iTunes, and Rhapsody are such companies. There are two types of aggregators, digital and hybrid. Digital aggregators can offer virtually unlimited goods because offering them does not cost them extra money.
-Hybrid aggregators like Amazon offer both digital and physical products. A physical product which takes up costly space has to make a minimum amount of sells to justify its storage.
+Hybrid aggregators like Amazon offer both digital and physical products. A physical product which takes up costly space has to make a minimum amount of sales to justify its storage.
 
 #### Traditional vs. online retailers
 

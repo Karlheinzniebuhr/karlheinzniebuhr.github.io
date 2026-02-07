@@ -14,7 +14,7 @@ book: true
 
 The start to success happens in a change of your mindset. You have to let limiting beliefs go and start thinking BIG. Belief is very important, feel 100% capable of accomplishing your dreams.
 
-The more you will believe that you can do what you want, the most creative power will your mind generate. You can accomplish anything as long as your belief is proportional to the dimension of your goal.
+The more you will believe that you can do what you want, the more creative power your mind will generate. You can accomplish anything as long as your belief is proportional to the dimension of your goal.
 
 A nice side effect of believing in yourself is that other people start believing in you too.
 
@@ -34,7 +34,7 @@ Our mentality is influenced by your surrounding much the same as your health is 
 
 Successful people surround themselves with other successful people. If you surround yourself with high-quality friends and people, their quality will catch on to you. Also, they will support you with your goals and become your partners in success.
 
-#### Threat everyone with respect
+#### Treat everyone with respect
 
 We all depend on others, especially successful people. Nobody pulls themselves up alone. Preserving and nurturing relationships with other people is crucial.
 
@@ -66,4 +66,4 @@ The first step towards your goal is setting your goal, then act on it. To accomp
 
 For example, you can learn how to be a better learner. The faster you learn the faster you will be able to improve all areas of your life including your goal. Always invest in yourself.
 
-[What are you waiting? Get this book now](https://www.amazon.com/gp/product/0671646788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0671646788&linkId=cc7ddb3221cfc1e8d61b4948ee2e6d6d)!
+[What are you waiting for? Get this book now](https://www.amazon.com/gp/product/0671646788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0671646788&linkId=cc7ddb3221cfc1e8d61b4948ee2e6d6d)!

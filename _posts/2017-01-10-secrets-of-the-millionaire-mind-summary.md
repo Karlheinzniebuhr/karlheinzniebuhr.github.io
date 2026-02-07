@@ -42,7 +42,7 @@ Gathering information about how to change unfortunately isn’t sufficient. We h
 
 You have to be ready to make the sacrifices necessary to become wealthy. If that means working 16 hours per day for a certain period, then commit to it.
 
-> You have to constantly grow. Wealth grows only if you grow. Make learning a daily habit. Constantly push yourself to do whatever necessary to become a better version of yourself. Study, attend seminars, learn from other people, keep a strong curiosity, and keep doing introspections regularily.
+> You have to constantly grow. Wealth grows only if you grow. Make learning a daily habit. Constantly push yourself to do whatever necessary to become a better version of yourself. Study, attend seminars, learn from other people, keep a strong curiosity, and keep doing introspections regularly.
 
 #### Learn to take fate into your own hands
 

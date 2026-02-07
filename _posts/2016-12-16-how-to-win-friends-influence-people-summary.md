@@ -56,7 +56,7 @@ Encourage other people to speak for themselves. Show natural interest for them. 
 Everyone likes good listeners, but people enjoy even more someone who is knowledgeable about things they are interested in.
 People love to talk about things which are important to them, so naturally, they like other people who share their interests.
 Theodore Roosevelt thoroughly prepared himself before he met someone, reading everything he could about the other person’s interests. He understood that his ability to talk about the thing the other person values most would win him their grace.
-If you don’t know the others person interests, you can ask them about the one thing everyone likes to talk about, themselves.
+If you don’t know the other person's interests, you can ask them about the one thing everyone likes to talk about, themselves.
 > “Talk to people about themselves, and they will listen for hours”
 
 > ~Benjamin Disraeli
@@ -72,7 +72,7 @@ Whenever you meet someone new, try to remember their name and details they say. 
 
 #### Avoid arguments
 
-Perhaps you noticed that nine times out of then, arguments don’t result in anything positive. Both parties will only resent each other and stand more firmly in their position than before.
+Perhaps you noticed that nine times out of ten, arguments don’t result in anything positive. Both parties will only resent each other and stand more firmly in their position than before.
 There is no point in arguing, therefore the only solution is to avoid such disputes from the start.
 Whenever you encounter opposition to your ideas, there is no need to find an agreement. You don’t have to impose your ideas on them. It is of enough value that others challenge your views. Be thankful for their input and think about their reasoning without starting to argue.
 If two people agree on everything, then one of them is dispensable, but if they argue all the time, there can be no productive discussion.

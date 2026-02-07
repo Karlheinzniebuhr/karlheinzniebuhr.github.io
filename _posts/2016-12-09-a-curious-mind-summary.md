@@ -10,7 +10,7 @@ book: true
 > This book explores the life-changing effects curiosity can have on every person’s life.
 
 [![](/assets/images/1_-PGe33FDtDfmGYaGW1VEbQ.jpeg)](https://www.amazon.com/gp/product/1476730776/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1476730776&linkId=26d91d7227e06c47a8fe5fecd78f1a86)
-Why is it that we stop wondering about the world when we grow up? As children, we ask questions all the time. But as we grow up we tend to loose this thirst for knowledge and learning.
+Why is it that we stop wondering about the world when we grow up? As children, we ask questions all the time. But as we grow up we tend to lose this thirst for knowledge and learning.
 [A curious mind](https://www.amazon.com/gp/product/1476730776/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1476730776&linkId=26d91d7227e06c47a8fe5fecd78f1a86) shows you why it is vital to rediscover our love to figure things out. And how our culture, careers and even democracy depends on our curiosity.
 
 #### Curiosity is an essential tool for gathering knowledge
@@ -18,7 +18,7 @@ Why is it that we stop wondering about the world when we grow up? As children, w
 We know that knowledge is power, but what’s the best way to acquire it?
 The single most important factor is curiosity. The more curious you are, the more information you will collect. The more information you collect, the more options you have to react to changing situations.
 Sam Walton, the founder of Walmart, applied this principle with great success. Every Saturday morning he held meetings with his top 500 managers asking them what they’d seen when visiting Walmart’s competitors. He wanted to know every detail about his rivals so that he could learn any interesting ideas.
-> The knowledge he gained from this meetings by his curiosity allowed him to optimize his stores and make Walmart lead the market.
+> The knowledge he gained from these meetings by his curiosity allowed him to optimize his stores and make Walmart lead the market.
 
 #### Curiosity can help you conquer your fears
 

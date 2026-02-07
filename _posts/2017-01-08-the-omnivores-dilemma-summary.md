@@ -10,11 +10,11 @@ book: true
 
 [![](/assets/images/1_tokkG671B54q_PruedFp-A.jpeg)](https://www.amazon.com/gp/product/0143038583/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143038583&linkId=9b0c8fdf6abeb3ca6beb90e4e133f3ef)
 
-In the hunter-gatherer era, the nutrition of our ancestors was pretty much defined by their environment. But in our modern interconnected the world, where a product is shipped across the world, there are a plethora of choices available. This is known as the omnivore’s dilemma. We have to choose among countless options every time we go to a supermarket.
+In the hunter-gatherer era, the nutrition of our ancestors was pretty much defined by their environment. But in our modern interconnected world, where a product is shipped across the world, there are a plethora of choices available. This is known as the omnivore’s dilemma. We have to choose among countless options every time we go to a supermarket.
 
 #### Industrial agriculture produces cheap food, but with high environmental and ethical costs
 
-There was a time where all food was produced on local farms. But nowadays local, seasonal food is not enough to feed the world. Modern agriculture optimizes production in every area. Industrial agriculture may produce out-off-season foods and cheap meat, but it comes at a big cost. Chemicals in the air, ground, water and our food, and the unethical treatment of animals spread diseases and present a big problem.
+There was a time where all food was produced on local farms. But nowadays local, seasonal food is not enough to feed the world. Modern agriculture optimizes production in every area. Industrial agriculture may produce out-of-season foods and cheap meat, but it comes at a big cost. Chemicals in the air, ground, water and our food, and the unethical treatment of animals spread diseases and present a big problem.
 
 #### The problem of too much corn
 
@@ -58,7 +58,7 @@ The so-called management-intensive grazing is a technique where animals are move
 
 This technique is one of the best ways to optimize production while maintaining sustainability. The method makes use of the coevolutionary relationship between cows and grass, something that is completely ignored in industrial agriculture.
 
-Cows eat their favorite grass instead of harmful corn which makes them healtheir and thus results in healtheir meat. Gras also has a positive environmental impact as it absorbs thousands of pounds of carbon out of the atmosphere.
+Cows eat their favorite grass instead of harmful corn which makes them healthier and thus results in healthier meat. Grass also has a positive environmental impact as it absorbs thousands of pounds of carbon out of the atmosphere.
 
 Local farms are a good ethical, environmental and economical alternative to industrialized agriculture. They don’t compromise ethical concerns, health and sustainability over profits.
 

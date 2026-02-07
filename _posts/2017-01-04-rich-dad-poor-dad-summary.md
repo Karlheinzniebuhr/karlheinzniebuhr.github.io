@@ -105,7 +105,7 @@ The most common form of laziness is staying busy. **Being busy is a way people g
 
 Deep down most people know they are only avoiding something, that’s why they often get irritated if someone reminds them of that fact.
 
-They a too busy to take care of their wealth. Too busy to take care of their health and even family.
+They are too busy to take care of their wealth. Too busy to take care of their health and even family.
 
 **Habits** 
 Success is formed by more than education. It consists of certain habits. Wealthy people always work on themselves. They invest in themselves first.

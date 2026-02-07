@@ -32,7 +32,7 @@ Lastly, the message has to be frequently repeated. A targeted, frequent ad is mu
 
 #### Permission marketing is more targeted and cost efficient
 
-Being more targeted has two implications. Frist the cost is reduced, instead of flooding people with ads they are likely not interested in, people are targeted with ads which they are likely to be interested in. Airlines, for instance, can encourage customers to stay loyal to their airline by offering them bonus points for free travel. In exchange, they can offer customers targeted ads.
+Being more targeted has two implications. First the cost is reduced, instead of flooding people with ads they are likely not interested in, people are targeted with ads which they are likely to be interested in. Airlines, for instance, can encourage customers to stay loyal to their airline by offering them bonus points for free travel. In exchange, they can offer customers targeted ads.
 
 Online retailer like Amazon make great use of targeted ads. Amazon stores all of its customer’s activities and thus can target specific ads they are likely to be interested in.
 

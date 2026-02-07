@@ -27,11 +27,11 @@ Foods such as kale, swiss chard, collard greens, romaine lettuce, cabbage, and b
 
 #### The incomplete picture about the Mediterranean diet and other misconceptions
 
-Many Americans hold the belief that the healthy Mediterranean diet owns it’s reputation to large amounts of olive oil, white bread, and pasta. But they forget that Cretans also performed physical activity every day and consumed large quantities of vegetables, fruits, fish and beans. After the 1950s, the Cretan population started to eat more meat, cheese, and fish while performing less physical work, which led them to be as overweight as Americans now.
+Many Americans hold the belief that the healthy Mediterranean diet owes its reputation to large amounts of olive oil, white bread, and pasta. But they forget that Cretans also performed physical activity every day and consumed large quantities of vegetables, fruits, fish and beans. After the 1950s, the Cretan population started to eat more meat, cheese, and fish while performing less physical work, which led them to be as overweight as Americans now.
 
 #### Protein is not as healthy as the American Society believes
 
-Many American believe that a lot of proteins are essential in the diet and that they are mainly to be obtained from meat and dairy. But results of the research have shown that meat and other animal products are the main culprits for illnesses such as cancer and cardiovascular diseases [ [see The China Study](https://www.karlbooklover.com/the-china-study-summary/) ].
+Many Americans believe that a lot of proteins are essential in the diet and that they are mainly to be obtained from meat and dairy. But results of the research have shown that meat and other animal products are the main culprits for illnesses such as cancer and cardiovascular diseases [ [see The China Study](https://www.karlbooklover.com/the-china-study-summary/) ].
 Moreover, studies have shown that faster growth during puberty — supposedly brought by a lot of protein consumption — increases the risk of cancer in adult life.
 
 #### Governmental agencies, the media, and even scientists spread false information about food

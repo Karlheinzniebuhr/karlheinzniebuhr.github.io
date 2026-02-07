@@ -38,7 +38,7 @@ But depending on what you do, you’ll also need the equipment necessary to prac
 
 #### Practical intelligence
 
-Sociologist Annette Lareau found that children from wealtheir families tend to have more chances for success than children from poorer households. That is because of practical intelligence.
+Sociologist Annette Lareau found that children from wealthier families tend to have more chances for success than children from poorer households. That is because of practical intelligence.
 > Practical intelligence is a procedural knowledge which enables you to change situations to get what you want.
 
 In other words, the ability to interact and negotiate with other people including authority figures, to know who to ask what, how and when.
@@ -46,9 +46,9 @@ In other words, the ability to interact and negotiate with other people includin
 
 This means that children from a poorer background tend to have less practical intelligence.
 
-#### Where you geographically com from, can have an impact on what you achieve
+#### Where you geographically come from, can have an impact on what you achieve
 
-The “Asians are good at math” stereotype actually has some fundament.
+The “Asians are good at math” stereotype actually has some foundation.
 One reason is language. When children learn the words for numbers in Asian languages, they learn to add them up too.
 Another reason could be the work ethic of rice farming. Farming rice is much harder than farming Western crops. It demands precision, coordination, and patience.
 > Research has shown that students from western countries give up on math problems far sooner than students in eastern countries do.

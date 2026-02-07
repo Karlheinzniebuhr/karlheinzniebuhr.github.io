@@ -35,12 +35,12 @@ After a week-long break, the students were invited back to be tested on how well
 ### Study strategy comparisons
 
 A recent [review](http://psi.sagepub.com/content/14/1/4.full?ijkey=Z10jaVH/60XQM&keytype=ref&siteid=sppsi) of 10 different study techniques was published in the journal Psychological Science in the Public Interest in 2013.
-It was an extensive review looking at the scientific literature of effective learning methods. This included techniques like highlighting, summarization, keyword mnemonics, and rereading. They researchers then labeled each method with a rank of low, moderate, or high for overall effectiveness.
+It was an extensive review looking at the scientific literature of effective learning methods. This included techniques like highlighting, summarization, keyword mnemonics, and rereading. The researchers then labeled each method with a rank of low, moderate, or high for overall effectiveness.
 Out of the ten techniques, only two got a top rating of “high” for effectiveness. Those two being distributed **practice** and, of course, **practice testing**.
 
 ### What is a good way to Practice Test?
 
-One old school, yet extremely effective method are Flashcards. It doesn’t have to be on paper. You can use [Anki](https://ankiweb.net/decks/) which lets you create your own flashcards on your PC/Mac and synchronize them between all of your devices.
+One old school, yet extremely effective method is Flashcards. It doesn’t have to be on paper. You can use [Anki](https://ankiweb.net/decks/) which lets you create your own flashcards on your PC/Mac and synchronize them between all of your devices.
 Personally, I am a big fan of digital flashcards. Whenever learning something new I use to create some flashcards in parallel, that way I’m able to practice recall later and thus, impregnate the knowledge to my long term memory.
 
 ### Key Takeaway

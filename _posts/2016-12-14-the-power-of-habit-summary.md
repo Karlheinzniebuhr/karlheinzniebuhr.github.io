@@ -20,7 +20,7 @@ Research shows that about 40% of our daily activities are based on habits instea
 ### The three general parts of habits
 
 1. An external cue, for example, your alarm clock, creates an overall spike in your brain activity as your brain decides which habit is appropriate for the situation.
-2. Once the best routine (if available) is decided, the brain switches to “autopilot mode” until you finished your routine, for example brushing your teeth.
+2. Once the best routine (if available) is decided, the brain switches to “autopilot mode” until you finish your routine, for example brushing your teeth.
 3. Finally, comes the reward. Your brain activity increases once more as it registers the completion of the routine and you get the reward of feeling good. In this case a minty-fresh sensation in your mouth. Also, the link between the cue and the routine gets reinforced.
 
 Learning and maintaining habits happen in the part of the brain called basal ganglia, a part of the brain which even works if the rest of the brain is damaged. That’s why habits are incredibly resilient.

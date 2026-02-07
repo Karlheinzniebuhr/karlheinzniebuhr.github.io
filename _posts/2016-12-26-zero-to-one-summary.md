@@ -15,7 +15,7 @@ book: true
 
 What do we really mean by thinking about the future? Surely we mean things which will be different from today. And for things to be different there has to be change or progress.
 There are two types of progress, horizontal or extensive progress, and vertical or intensive progress.
-Extensive progress means expanding on existing ideas or innovations. For example by copying what works. One example of horizontal progress would be mass-producing phones and distribute them to developing countries.
+Extensive progress means expanding on existing ideas or innovations. For example by copying what works. One example of horizontal progress would be mass-producing phones and distributing them to developing countries.
 Intensive progress means creating something fundamentally new, something which didn’t exist before. One example of vertical progress would be to build a smartphone from a regular one.
 Predicting vertical progress is hard because we have to imagine things which don’t exist yet. You need to be able to see the present differently because the future will be inherently different than the present.
 The author is so convinced of the importance of the ability to see things differently that he asks candidates in job interviews to cite a popular belief they disagree with.
@@ -51,7 +51,7 @@ The definite attitude in contrast is to think about the future as something whic
 > In the indefinite attitude, process trumps substance.
 
 The author argues that indefinite attitude is what’s dysfunctional in modern society. People prepare for nothing in particular. Instead, they prepare for a completely unknown future, often spending a decade to assemble a bewilderingly diverse résumé but at the end, they are prepared for nothing in particular.
-A definite person, in contrast, determines the best think to do and then does it. Wouldn’t it make more sense if a student focuses only on one subject and then master it completely?
+A definite person, in contrast, determines the best thing to do and then does it. Wouldn’t it make more sense if a student focuses only on one subject and then master it completely?
 
 #### Indefinite pessimism
 
@@ -59,7 +59,7 @@ Optimists welcome the future, pessimists fear it. Combine pessimism with “inde
 > Indefinite pessimists look out onto a bleak future but don’t know what to do about it.
 
 Since Europe succumbed to undirected bureaucratic drift in the 1970s, the Eurozone can be described by indefinite pessimism. Nobody seems to be in charge and the whole zone is a slow-motion crisis. Europeans are reactive instead of proactive and just hope that things don’t get worse.
-The indefinite pessimism believes that a decline is inevitable, but he doesn’t know when and how, so he might as well try to live through the daily routine and work for vacations in the meantime.
+The indefinite pessimist believes that a decline is inevitable, but he doesn’t know when and how, so he might as well try to live through the daily routine and work for vacations in the meantime.
 
 #### Definite pessimism
 
@@ -81,7 +81,7 @@ Karl Marx and Friedrich Engels saw that the 19th-century business class generate
 > To the indefinite optimist, the future will be better but he does not know exactly how, so he won’t design specific plans.
 
 Instead of building radically new products, indefinite optimists opt for rearranging already-invented ones. Remember horizontal growth?
-Indefinite optimism calls for bankers and lawyers instead of engineers. Since there is no concrete vision and plan for the future, the only way to make money is a focus in finance and diversify. Diversification is important since an indefinite optimist doesn’t see anything substantive about the future.
+Indefinite optimism calls for bankers and lawyers instead of engineers. Since there is no concrete vision and plan for the future, the only way to make money is a focus on finance and diversify. Diversification is important since an indefinite optimist doesn’t see anything substantive about the future.
 
 #### Secrets
 

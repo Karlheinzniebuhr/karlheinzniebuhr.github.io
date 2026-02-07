@@ -9,7 +9,7 @@ banner_image: hash_function.png
 archived: true
 ---
 
-In this post I will cover and expand a little bit on something from the [CS101 Course of Udacity](https://www.udacity.com/courses/cs101) with [David Evans](https://twitter.com/udacitydave). If you like this topic I definitively recommend you to check it out, it's free. 
+In this post I will cover and expand a little bit on something from the [CS101 Course of Udacity](https://www.udacity.com/courses/cs101) with [David Evans](https://twitter.com/udacitydave). If you like this topic I definitely recommend you to check it out, it's free. 
 <!--more-->
 **Introduction** 
 *"The problem of measuring cost, analysing algorithms and designing algorithms that work well when the input size scales, is one of the most important and interesting problems in computer science."* 
@@ -32,7 +32,7 @@ This can be fixed by solving two problems:
 
 In Python this data structure or type is called a dictionary. It provides the exact same functionality, so you could use it directly. But in order to better understand how a hash table works, let's make one. 
 
-Our hash function, called hash_string, takes a string and the number of buckets b as input and outputs a number between 0 and b-1. You can use two Python operators to convert characters to numbers and viceversa. The **ord** (for ordinal) which converts a one letter string into a number, and **chr** (for character) which turns a number back into a one-letter string. This two operators are inverses which means that one function is the reverse of the other. 
+Our hash function, called hash_string, takes a string and the number of buckets b as input and outputs a number between 0 and b-1. You can use two Python operators to convert characters to numbers and viceversa. The **ord** (for ordinal) which converts a one letter string into a number, and **chr** (for character) which turns a number back into a one-letter string. These two operators are inverses which means that one function is the reverse of the other. 
 {% highlight python %}
 ord(<one-letter string>) → Number
 chr(<Number>) → <one-letter string>

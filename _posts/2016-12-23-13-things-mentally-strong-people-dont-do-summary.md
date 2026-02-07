@@ -32,7 +32,7 @@ How often when something bad happens to us, do we feel sorry for ourselves think
 > You can’t escape misfortune but you can change and control how you respond to it.
 
 Let’s say you suffer from a car accident and are hospitalized in a bed. You could either dwell in a cycle of bitterness or you could start working out hard at physiotherapy.
-You can’t undo the accident but you can choose how to feel about it now and how to react. We often cling to the illusion that we can control everything and that impulse can hold us back. Because we loose time and energy on things we cannot change, when we should spend energy on things we can change.
+You can’t undo the accident but you can choose how to feel about it now and how to react. We often cling to the illusion that we can control everything and that impulse can hold us back. Because we lose time and energy on things we cannot change, when we should spend energy on things we can change.
 Trying to control everything often backfires and makes everything worse. For example trying to control circumstances in a relationship can lead you to focus exclusively on that part, failing to focus on improving your relationship where you should.
 After James’s divorce, he was worried that his ex-wife would try to turn their daughter against him. But instead of focusing on his daughter, showing her how much he loved her, he wasted his energy trying to control his ex-wife’s behavior. His wrong focus lead to the outcome he was trying to prevent, it damaged his relationship with his daughter.
 
@@ -48,7 +48,7 @@ Of course as children we often have no choice. Children of alcoholics for exampl
 #### Fear hinders change
 
 The comfort of familiarity often can prevent us from taking action and make changes. Making changes can be scary, we have to enter new territory. We will have to confront unfamiliar situations which can make us feel uncomfortable.
-But think how much improvement just some small changes could bring to your life. Changes could be as small as becoming more conscious of your health, start working out and changing to a healtheir diet.
+But think how much improvement just some small changes could bring to your life. Changes could be as small as becoming more conscious of your health, start working out and changing to a healthier diet.
 That wouldn’t be too scary, would it?
 Many people are scared to start a weight-loss program because they think that would imply to stop eating tasty food and spending all their time sweating in the gym. That mindset makes it much harder to start.
 Another example is the fear of risk. Many people don’t open their own business because they are scared to end up without income if they quit their day job.
@@ -73,6 +73,6 @@ Mental strength isn’t about burying emotions. Burying emotions backfires soone
 Become aware of your bad habits and how they hold you back from your goals. Then take adjustments every day and change those bad habits one by one.
 Learn to shift your negative emotions when you experience them. You can learn to focus on more positive emotions. Whenever you compare yourself to others, remember yourself that you have your own skills and talents.
 Make a list of your goals, write them all down. Whenever you feel discouraged read through your list and imagine them one by one. Change your mindset.
-> Successful people have a different mindset than normal people do.Constantly improve your mindset, learn to focus your emotions positively and make decisions towards your goals.
+> Successful people have a different mindset than normal people do. Constantly improve your mindset, learn to focus your emotions positively and make decisions towards your goals.
 
 [Get the book here](https://www.amazon.com/gp/product/0062358294/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062358294&linkId=6910573c8b7a499f4538325f9d32a20f)

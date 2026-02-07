@@ -11,7 +11,7 @@ Conceivably that preference of mine has something to do with the fact that we le
 ![](/assets/images/0_Tmo0VTVUINsO9jAP.png)
 Another side effect of getting better at a task it that we take less and less time in the execution of it as seen in the performance time of this graph. Once again, the time improvement in our performance slows down logarithmically.
 ![](/assets/images/0_KiQvKR14Krhk5Isb.png)
-Imagine the time you could save in mastering a task you have to perform often. A carefully chosen inversion of some hours of earnest practice/learning could potentially save hundreds of hours later.
+Imagine the time you could save in mastering a task you have to perform often. A carefully chosen investment of some hours of earnest practice/learning could potentially save hundreds of hours later.
 **Summing-Up**
 The first hours of practice when acquiring a new skill have the biggest impact because it is when our brains undergo the greatest structural changes (long term memory due to neuroplasticity). This is somewhat contrary to the notion that it is easier for you to learn new information when it is composed of concepts that you are already familiar with. See [this post for more details.](https://www.karlbooklover.com/learn-faster-by-linking-information/)
 My interpretation of these two seemingly contradictory learning mechanics is that acquiring new knowledge has little impact once a big amount of particular expertise is already present. In other words, a person who is an expert in X can learn a new concept of X faster but compared to his/her prior knowledge, that new piece of information added just a tiny fraction to the already present knowledge in X.

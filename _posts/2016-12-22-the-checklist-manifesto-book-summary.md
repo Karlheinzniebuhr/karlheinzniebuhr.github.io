@@ -25,14 +25,14 @@ In the 1970s, the philosophers Samuel Gorovitz and Alasdair MacIntyre published 
 Even enhanced by technology, our physical and mental powers are limited. Much of the world and universe is outside our understanding and control.
 In the realms which we do have control over, however, there are two reasons why we may fail nonetheless, ignorance and ineptitude.
 
-- Ignorance means when we err because science has given us only a partial understanding and incomplete understanding of the world and how it works.
+- Ignorance means when we err because science has given us only a partial and incomplete understanding of the world and how it works.
 - Ineptitude means that the knowledge exists, yet we fail to apply it correctly.
 
 There is one simple strategy which helps avoid ineptitude, a checklist. You may scoff at checklists and turn them down as only useful for to-do lists, however when checklists contain all essential items and are concise. They are very powerful tools.
 
 #### Checklists have to be clear and concise.
 
-Once important aspect of checklists is “killer items.” They are items which if not completed, could lead to disaster.
+One important aspect of checklists is “killer items.” They are items which if not completed, could lead to disaster.
 Example: One case of a “killer item” could be a reminder to identify a patient’s allergies before surgery.
 Although checklists should contain all essential items, they shouldn’t be thorough guides. They should be readable around one minute after that people can become distracted and skip vital steps. The veteran pilot Daniel Boorman says that around five to nine items are ideal.
 > Checklists should be clear and user friendly.
@@ -42,12 +42,12 @@ Example: A nurse had checked off the steps for a procedure before it had even st
 #### DO-CONFIRM and READ-DO checklists
 
 Checklists can be divided into do-confirm and read-do lists. The difference is that in do-confirm lists, team members perform their jobs from memory and experience, often separately. Then they stop and confirm with their checklists that everything that was supposed to be done was done.
-With an READ-DO checklist, on the other hand, people carry out the tasks as they check them off — it’s more like a recipe. So for any new checklist created from scratch, you have to pick the type that makes the most sense for the situation.
+With a READ-DO checklist, on the other hand, people carry out the tasks as they check them off — it’s more like a recipe. So for any new checklist created from scratch, you have to pick the type that makes the most sense for the situation.
 
 #### Team communication is greatly enhanced by checklists
 
 Often it is of vital importance that teams communicate efficiently. For example the captain of a plane has to communicate with air control to check if the airport is clear to land, the co-pilot would not know when or if to take control, the flight crew wouldn’t know when to conduct safety checks, and so on.
-> Communication can be enhanced greatly by a checklists which includes steps that are aimed at improving the flow of information.
+> Communication can be enhanced greatly by a checklist which includes steps that are aimed at improving the flow of information.
 
 #### Checklists have already saved many lives
 

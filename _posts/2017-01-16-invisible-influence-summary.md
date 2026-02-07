@@ -32,7 +32,7 @@ Blindly following other people can also lead us to make clearly wrong decisions,
 
 #### The snob effect, when people want to stand out from the rest
 
-Have you ever heard or made the statement “that is too mindstream”? Well, it turns out that many people want to differentiate themselves from the rest. And if something is mainstream, for example, a band, then liking that band would be imitating most people and therefore not being unique.
+Have you ever heard or made the statement “that is too mainstream”? Well, it turns out that many people want to differentiate themselves from the rest. And if something is mainstream, for example, a band, then liking that band would be imitating most people and therefore not being unique.
 Two important factors in economic theory are quality and price. With those two factors, outside forces have an effect on what choices we make, but there is also the snob effect. The snob effect is a principle which states that the more the general population likes something, the less interested many of us become.
 This principle may explain why many successful athletes have at least one older sibling. If the first born succeeds in academic achievement, the second may attempt to differentiate himself through sports.
 But the snob effect is dependent on our background. In general, Americans feel a stronger need to differentiate themselves while Asians care more about social harmony. Furthermore, class lines are another factor. People from the middle-class tend to be eager to set themselves apart while working class people tend to like something if many of their peers do too.

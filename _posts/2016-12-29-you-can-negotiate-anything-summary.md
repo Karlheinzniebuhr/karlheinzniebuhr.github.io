@@ -11,7 +11,7 @@ book: true
 
 [![](/assets/images/1_-0F13QA-zBSyLuYxRvyp4Q.jpeg)](https://www.amazon.com/gp/product/0553281097/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0553281097&linkId=1b5ea73486c4a4fd2f1f1224b38e0338)
 We all negotiate on a daily basis. Whether it is with our family, friends, business partners, or tax officials.
-Negotiations are ubiquitous, though. So you’d better start to developing your skills in negotiations, it will serve you well in life.
+Negotiations are ubiquitous, though. So you’d better start developing your skills in negotiations, it will serve you well in life.
 
 #### Know whom to talk to
 

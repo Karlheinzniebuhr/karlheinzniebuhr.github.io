@@ -52,7 +52,7 @@ One area of such randomness are dreams. Neuroscientists have discovered that sle
 #### Serendipity on an individual or collective level
 
 At a collective level, serendipity can be facilitated through physical spaces. For example, take the modern cultural innovations of the 1920’s. Many of them were a result of poets, writers, and artists meeting at the Parisian cafés. Those interactions lead to the diffusion and combination of ideas.
-On an individual level, serendipity is a matter of introducing different ideas into your consciousness. Benjamin Franklin made use of this principle by working on multiple projects simultaneously. Doing so enabled him no form new connections between projects.
+On an individual level, serendipity is a matter of introducing different ideas into your consciousness. Benjamin Franklin made use of this principle by working on multiple projects simultaneously. Doing so enabled him to form new connections between projects.
 Philosopher John Locke understood the importance of cross-referencing back in 1652. He indexed the content of his commonplace book, a scrapbook of interesting thoughts and findings. The book helped him connect new ideas and hunches.
 
 #### Neurons, chaos, and creativity
@@ -70,7 +70,7 @@ Similarly, error plays a significant role in science. It is thanks to errors tha
 
 Exaptation in Evolutionary Biology is a trait which was developed for a specific purpose but eventually obtained an entirely different functionality. Feathers for example initially were evolved to regulate as a mechanism to regulate temperature, but today birds use them to fly.
 In a similar way, many innovations were invented by reusing old ideas and concepts. Johannes Gutenberg for example, used the concept of a 1000-year-old invention, the wine screw press, to create the world’s first printing press.
-[In the book Smarter Faster Better](https://www.karlbooklover.com/smarter-faster-better-summary/), the author mentions a [study](https://www.kellogg.northwestern.edu/faculty/uzzi/htm/papers/Science-2013-Uzzi-468-72.pdf) which found that the most creative papers were those which viewed a great amount of prior knowledge from a different ankle and made unusual connections and combinations.
+[In the book Smarter Faster Better](https://www.karlbooklover.com/smarter-faster-better-summary/), the author mentions a [study](https://www.kellogg.northwestern.edu/faculty/uzzi/htm/papers/Science-2013-Uzzi-468-72.pdf) which found that the most creative papers were those which viewed a great amount of prior knowledge from a different angle and made unusual connections and combinations.
 > The lesson: Unconventional uses of old ideas spur innovation.
 
 [Get the book here](https://www.amazon.com/gp/product/1594485380/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1594485380&linkId=476114d3eb555ca1fd18b4bf10ff7fee)📕

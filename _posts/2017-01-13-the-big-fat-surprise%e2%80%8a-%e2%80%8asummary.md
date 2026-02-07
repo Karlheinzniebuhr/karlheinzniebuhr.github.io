@@ -34,7 +34,7 @@ It is mainly from Key’s realization that the general idea came that saturated 
 The assumption that saturated fats cause heart disease was quickly established in the mainstream through Key’s influence on prominent institutions such as the American Heart Association (AHA), and the TIME magazine.
 Another study called the Framingham Study concluded that people were more likely to suffer from heart disease when they had high levels of cholesterol. This combined with the AHA report lead to the widespread acceptance of the diet-heart hypothesis.
 But at least two studies have opposed Keys’ hypothesis. The first study was performed in the 1950s. The study found that individuals who cut back on red meat had lower cholesterol levels and blood pressure and thus faced a lower risk of heart disease.
-The curiosity came when 26 members of the low-read-meat group and 6 members of the control group died. None of the 6 members in the control group died due to heart disease while 8 deaths of the low-read-meat group were caused by heart disease.
+The curiosity came when 26 members of the low-red-meat group and 6 members of the control group died. None of the 6 members in the control group died due to heart disease while 8 deaths of the low-read-meat group were caused by heart disease.
 Another challenge to the diet-heart hypothesis was found when a group of researchers measured the blood pressure of Masai tribesmen. The tribe had a diet which consisted of 60% of saturated fats such as meat, blood, and milk. The tribesmen’s blood pressure was 50% lower than an average American.
 While studies against the diet-heart hypothesis have mostly been ignored, the data still generated motivation to further study the link between food and heart disease in the scientific community.
 
@@ -51,7 +51,7 @@ After Judd had found that a diet high in trans fats caused a rise in cholesterol
 Some food makers started using palm oil, oil from genetically engineered soybeans or even liquid vegetable oils such as sunflower oil. But vegetable oils go rancid, so they weren’t a good choice for packaged foods.
 Vegetable oils are useful for frying. However, a 2010 report from the Agency for Research on Cancer illustrated that when vegetable oils are heated to temperatures used in most fryers, they likely release substances which are carcinogenic to humans.
 Gerald McNeill, the vice president of one of the country’s largest suppliers of edible oil, told the author about the scary consequences of using vegetable oils for frying which he had observed shortly after restaurants went trans free in 2007.
-When those oils are heated, they produce a compound called aldehyde which interferes with DNA and formaldehyde which is toxic. Furthermore, oxidized oils form polymers which create a “thick gunk.” The gunk is so sticky, it sticks to the bottom of fryers, and clog’s up drains.
+When those oils are heated, they produce a compound called aldehyde which interferes with DNA and formaldehyde which is toxic. Furthermore, oxidized oils form polymers which create a “thick gunk.” The gunk is so sticky, it sticks to the bottom of fryers, and clogs up drains.
 The gunk also infests the surroundings through the mist coming off the fryer and collecting in all kinds of places like floors, walls, workers uniforms, etc. This sticky substance wouldn’t easily go off through hand scraping and not even with sand blasters.
 
 #### HDL-cholesterol vs. LDL-cholesterol

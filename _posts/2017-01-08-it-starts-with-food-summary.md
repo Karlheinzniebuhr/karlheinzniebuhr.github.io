@@ -12,7 +12,7 @@ book: true
 
 #### How food influences the mind and immune system
 
-Food producers know how to take advantage of our hardwired tastes. We evolved a taste for sweets which provide us with immediate energy, fatty foods which give us a lot of calories long-term energy, and salt, wich keeps us hydrated.
+Food producers know how to take advantage of our hardwired tastes. We evolved a taste for sweets which provide us with immediate energy, fatty foods which give us a lot of calories long-term energy, and salt, which keeps us hydrated.
 Fast food is engineered to provide a supernormal stimulus to our sense of taste. They are purposefully made sweeter, saltier and fattier than non-processed foods. Those foods then naturally make us crave them a lot more.
 Food scrambles with our brain because every time we eat highly processed foods such as a chocolate bar, our brain releases dopamine, which is a neurotransmitter that makes us feel pleasure. The more our body craves dopamine triggered from chocolate, the more we want to eat, creating a feedback loop.
 Furthermore, many chemical compounds of processed foods cannot be processed well by the body, causing confusion of the immune system which can lead to chronic inflammation, a condition where the body attacks itself.
@@ -24,7 +24,7 @@ The gut acts as a filter, a barrier which comprises 80% of your immune system. G
 #### Hormones and food
 
 Food can scramble with your hormones. The hormone which regulates blood sugar levels is called insulin. It tells the body to store extra sugar as glycogen so that it can be used later for energy. Once the glycogen reserves are filled up, however, the body proceeds to store excess sugar as triglycerides (fat).
-Once sugar gets stored as fat, however, another imbalance is triggered, leptin. Leptin tells your brain to stop eating when you are full, but your brain cannot respond to leptin effectively once to much sugar is consumed.
+Once sugar gets stored as fat, however, another imbalance is triggered, leptin. Leptin tells your brain to stop eating when you are full, but your brain cannot respond to leptin effectively once too much sugar is consumed.
 Once the communication between your gut and brain is messed up, (leptin resistance) your body thinks you are too skinny, further pushing your body to store fat leading to a lipid overload.
 All this stuffing is bad for your cells which are why they become insulin resistant. To protect themselves, cells start ignoring insulin, which makes the body release even more insulin.
 

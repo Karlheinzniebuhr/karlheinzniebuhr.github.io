@@ -26,7 +26,7 @@ Then there are **moral incentives**, which stem from the inherent feelings of pe
 
 #### Setting incentives can have unexpected side effects
 
-In a study daycare in Haifa, there was a problem with parents arriving late to pick up their children. The children were supposed to be picked up at 4 p.m. but very often parents ver late. The results were anxious children and at least one unhappy teacher who had to wait until the parents arrive.
+In a study daycare in Haifa, there was a problem with parents arriving late to pick up their children. The children were supposed to be picked up at 4 p.m. but very often parents were very late. The results were anxious children and at least one unhappy teacher who had to wait until the parents arrive.
 
 Some economists heard about this rather common dilemma and offered a solution. Fining the parents, why should the day-care center take care of the kids for free?
 

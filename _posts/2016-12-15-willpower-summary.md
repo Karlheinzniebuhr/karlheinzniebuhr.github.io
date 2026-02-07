@@ -14,7 +14,7 @@ Modern science has given us a better understanding of what willpower is, how it 
 
 ### Willpower is like a muscle
 
-Imagine you “killed it” at the gym and now your legs your legs and arms wobble at every move you make. Your muscles are so exhausted that you can barely brush your teeth. Your Willpower works much the same way.
+Imagine you “killed it” at the gym and now your legs and arms wobble at every move you make. Your muscles are so exhausted that you can barely brush your teeth. Your Willpower works much the same way.
 We have a limited amount of willpower on a daily basis. Any task, even trivial ones like choosing one food over another will contribute to our willpower depletion.
 The author realized his own study where he placed participants in a room that smelled of freshly baked cookies. The participants were divided into two groups. One group got to eat cookies, while the other had to eat radishes instead.
 The second part of the experiment consisted in geometry puzzles which the participants had to solve. The group which had not used willpower to fight the urge to eat cookies quit on average 12 minutes later than the group which had to use up willpower to resist the cookies.

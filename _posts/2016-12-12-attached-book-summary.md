@@ -16,7 +16,7 @@ book: true
 Do you know that creeping feeling when you know you will be separated from your partner or loved ones for a while? That distress is caused by the feelings of attachment for one another. It is a strong bond that two people share with each other. Some examples of attachment are mother-child relationships or romantic relationships.
 Interestingly these bonds come with many benefits. It gives us a secure emotional foundation which helps us remain calm in strenuous situations.
 Being able to hold your partner’s hand during times of stress, reassures you that he or she will help you through the trouble and makes those bad situations feel much less frightening.
-This was observed in a study that aimed to find out more about the healing effects of attachment. Female participants were put in stressful situations, giving some of them the opportunity to hold their partner’s hand. The participants who hold the hands of their partners had less activity in their hypothalamus, the part of the brain that makes us feel emotional pressure.
+This was observed in a study that aimed to find out more about the healing effects of attachment. Female participants were put in stressful situations, giving some of them the opportunity to hold their partner’s hand. The participants who held the hands of their partners had less activity in their hypothalamus, the part of the brain that makes us feel emotional pressure.
 Conversely, those who lack these kinds of emotional bonds are at greater peril of unhappiness and health risks. In fact, when we are in an unhappy relationship we also suffer physically. Our blood pressure rises due to discomfort which can lead to medical problems such as heart disease.
 
 ### The desire for attachment is embedded in our genes
@@ -38,7 +38,7 @@ If that feels like the way you or your partner behave then one of you has an anx
 ### Avoiding attachment means cravings for independence in a relationship
 
 Imagine you are in a relationship where you feel confined due to the neediness of your partner. If that’s your case then you have probably an avoidant attachment style.
-A person whit that tendency tries to maintain their autonomy while in a relationship. They struggle to recognize the (needy) feelings of others and thus are difficult to maintain relationships with.
+A person with that tendency tries to maintain their autonomy while in a relationship. They struggle to recognize the (needy) feelings of others and thus are difficult to maintain relationships with.
 However this doesn’t mean that avoidants don’t have a need for attachment, they just express it differently.
 Avoidants need to think of their partners in a more positive way, looking at the source of conflict within themselves and seeing the problem from the partners perspective.
 
@@ -78,6 +78,6 @@ After discussing the issue, you’ll find yourself relieved to have dealt with t
 ### Find a partner who fulfills your needs.
 
 True love is powerful, but if someone with a great need for closeness falls in a relationship with someone with an avoidant attachment style, their relationship is likely not to work that well.
-The secret to a happy relationship is to find someone who can meet your needs. Effective communication is the way to **ensure** you will find a partner with does exactly that.
+The secret to a happy relationship is to find someone who can meet your needs. Effective communication is the way to **ensure** you will find a partner who does exactly that.
 Hope this will help you to find your ideal relationship
 [Get the book](http://amzn.to/2gvtJ4T)

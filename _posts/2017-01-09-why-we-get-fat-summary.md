@@ -34,8 +34,8 @@ Before the rise of agriculture, our ancestors lived as hunters and gatherers. As
 #### Too many carbohydrates over a long time can cause insulin resistance and other problems
 
 Long time overexposure can make cells irresponsive to insulins signaling. By eating foods rich in carbohydrates all the time, we cause a constant release of insulin which can cause diabetes or high blood pressure over the long term.
-The regular insulin rushes cause our cells to become resistant to the signal, which in cause causes the body to release more insulin, causing a catch-22 situation.
-There is perhaps also a relation between a diet high in carbohydrates and breast cancer. Japanese woman are usually unlikely to get breast cancer, but once they immigrated to the US, they mirror those of other women in the US.
+The regular insulin rushes cause our cells to become resistant to the signal, which in turn causes the body to release more insulin, causing a catch-22 situation.
+There is perhaps also a relation between a diet high in carbohydrates and breast cancer. Japanese women are usually unlikely to get breast cancer, but once they immigrated to the US, they mirror those of other women in the US.
 [ *The book suggests that the fact that immigrant people from all over the world suffer from many common western diseases only after they immigrated, should be attributed to carbohydrates. But this may have more to do with a plant based diet as resulting from a lot of research exposed in the book* [*The China Study*](https://www.karlbooklover.com/the-china-study-summary/)*.* ]
 
 #### Avoid foods rich in carbohydrates to lose weight

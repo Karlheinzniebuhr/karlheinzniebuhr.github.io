@@ -22,14 +22,14 @@ Who suffers most? The poor of course, lower-class workers often have to take sev
 #### Schoolchildren perform better when they follow their natural circadian rhythms.
 
 A 1998 study by Brown University showed that children did well when school started at 8:25, but suffered when their schedules changed requiring them to be in the class by 7:20.
-Getting up earlier disrupts students natural sleep-wake rhythm or circadian rhythm. Which makes them pathologically tired.
+Getting up earlier disrupts students' natural sleep-wake rhythm or circadian rhythm. Which makes them pathologically tired.
 A 2011 study in Israel found that student’s attention levels improved considerably when they began class at 8:30 instead of 7:30 a.m., they ended up scoring much better in tests.
 
 #### Nap rooms, daylight and work from home = more productivity
 
 Sleeping at work isn’t a sign of laziness, to the contrary, workspaces benefit when they let their employees catch up on sleep.
 Daylight is important too, a 2014 Study at the University of Illinois found that employees who work at windowless offices lose an average of 46 minutes of sleep per night, because our organism needs daylight to maintain the circadian rhythms.
-Offices with flexible hours are more productive because employees get better sleep and save travel time. A Stanford study on workers in China found that employees who worked from home where up to 13% more productive than those who only worked in the office.
+Offices with flexible hours are more productive because employees get better sleep and save travel time. A Stanford study on workers in China found that employees who worked from home were up to 13% more productive than those who only worked in the office.
 
 #### Electronic devices keep us up at night.
 
