@@ -90,8 +90,8 @@ With the rise of the internet, a plethora of comparison websites arose. Enabling
 
 #### It is often hard to distinguish correlation from causation
 
-A human tendency is to assume that if X increased in correlation with Y, that X is related to Y and that X caused Y or vice-versa. **But often it is only correlation, not causation.**  
-   
+A human tendency is to assume that if X increased in correlation with Y, that X is related to Y and that X caused Y or vice-versa. **But often it is only correlation, not causation.** 
+ 
 Most people believe that money plays a huge role in politics, and in fact, data shows that candidates with expensive campaigns usually win. The tendency is to attribute their success to the money they invested in their campaign. But in fact, the correlation can be traced back to the pragmatic tendency of people.
 
 When people don’t always back up their favorite candidate, they either try to make a difference in a close race between several candidates or they back a clear favorite.
@@ -104,7 +104,7 @@ In 1989 the crime rates increased by 80% over the previous 15 years. Experts pre
 
 Everything from tougher gun control, an improving economy, increased police force, innovative policing, and increased prison reliance was proposed as an explanation. But it turns out that the real factor was much more remote.
 
-Later analysis has shown that the proposed factors had only a small effect on crime rates.   
+Later analysis has shown that the proposed factors had only a small effect on crime rates. 
 *The biggest factor of all wasn’t even mentioned at the time.*
 
 One study showed that children who went unborn in the earliest years of legalized abortion would’ve been 50% more likely to live in poverty and 60% more likely to grow up in a single-parent household. Growing up in a single-parent household roughly doubles the child’s propensity to crime. Since 1973, 16 years after the legalization of abortion, there were significantly less grown ups likely to become criminals, hence the drop in crime from then on.

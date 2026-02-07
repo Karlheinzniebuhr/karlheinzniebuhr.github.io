@@ -48,7 +48,7 @@ Interestingly, rats exposed to plant based proteins like wheat or soy didn’t e
 
 These studies reveal that plant-based diets can prevent the promotion of cancer. Woman are better off with a plant-based diet because it reduces the probability of getting breast cancer considerably.
 
-A plant-based diet is also healthier because of the high fiber contents. High-fiber diets correlate to lower cholesterol in the blood and lower instances of colon and rectal cancer.
+A plant-based diet is also healtheir because of the high fiber contents. High-fiber diets correlate to lower cholesterol in the blood and lower instances of colon and rectal cancer.
 
 Plant-based diets also provide precious antioxidant nutrients, which fight off damaging free radicals in the body. Free radicals can cause macular degeneration which can lead to gradual blindness.
 

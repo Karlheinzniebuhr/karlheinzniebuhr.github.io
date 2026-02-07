@@ -7,7 +7,7 @@ tags: [Books, Business, Investing, Psychology]
 book: true
 ---
 
-This is a book excerpt from the book [The Self-made Billionaire Effect by   
+This is a book excerpt from the book [The Self-made Billionaire Effect by 
 John Sviokla](https://www.amazon.com/Self-made-Billionaire-Effect-Extreme-Producers/dp/159184763X?tag=kasbl023-20). The book caught my attention first when I saw an interview with Tai Lopez and GaryVee. [Tai mentioned this book](https://youtu.be/Nv4HSYEp1bI?t=400) when Gary explained how he lives by seemingly contradictory principles like patience and an urgent drive to act. Being egotistical while having great humility. Being grateful for being lucky while recognizing that hard work is what matters.
 
 This way of thinking fascinates me and the book helped me to get a better understanding of that mindset.
@@ -16,7 +16,7 @@ This way of thinking fascinates me and the book helped me to get a better unders
 
 > The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.
 >
->  —F. SCOTT FITZGERALD
+> —F. SCOTT FITZGERALD
 
 **I**n 1984, Dietrich Mateschitz was a bored, forty-year-old marketing executive at the German cosmetics company Blendax. He spent his days peddling toothpaste and cosmetics to retailers around the world. “All I could see was the same grey airplanes, the same grey suits, the same grey faces. All the hotel bars looked the same, and so did the women in them. I asked myself whether I wanted to spend the next decade as I’d spent the previous one.”[1](ms-local-stream://EpubReader_5E145C47BE3949E293B864A6BD17427F/Content/OEBPS/9780698185029_EPUB-15.xhtml#EndnoteNumber3) Then on a routine trip to Thailand—like dozens of others he had taken—Mateschitz had an insight that would change his career.
 

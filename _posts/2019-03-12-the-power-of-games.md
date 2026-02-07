@@ -71,7 +71,7 @@ The game was that simple: adopt a secret identity, recruit allies, battle the ba
 
 What happened next with the game surprised me. After a few months, I put up a blog post and a short video online explaining how to play. Not everybody has a concussion, and not everyone wants to be “the slayer,” so I renamed the game *SuperBetter*.
 
-Why SuperBetter? Everyone had told me to “get better soon” while I was recovering from the concussion, but I didn’t want just to get better, as in back to normal. I wanted to get *super*better: happier and healthier than I’d been before the injury.
+Why SuperBetter? Everyone had told me to “get better soon” while I was recovering from the concussion, but I didn’t want just to get better, as in back to normal. I wanted to get *super*better: happier and healtheir than I’d been before the injury.
 
 Soon I started hearing from people all over the world who were adopting their own secret identities, recruiting their own allies, and fighting their own bad guys. They were getting “superbetter” at facing challenges like depression and anxiety, surgery and chronic pain, migraines and Crohn’s disease, healing a broken heart and finding a job after years of unemployment. People were even playing it for extremely serious, even terminal diagnoses, like stage-five cancer and Lou Gehrig’s disease (ALS). And I could tell from their messages and their videos that the game was helping them in the same ways that it helped me.
 

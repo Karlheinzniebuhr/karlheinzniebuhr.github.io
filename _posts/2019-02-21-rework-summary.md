@@ -7,7 +7,7 @@ tags: [Books, Business, Self-Improvement]
 book: true
 ---
 
-Definitively this book is under my top books that deliver high value in a concise manner. No fillers made it into this book that is for sure! Just as I like it.   
+Definitively this book is under my top books that deliver high value in a concise manner. No fillers made it into this book that is for sure! Just as I like it. 
 This book will give you practical and proven business advice. No jargon, no academical theory, just down to earth information. Things that should be common sense, but are often ignored.
 
 #### How to get started with your business

@@ -15,7 +15,7 @@ Last time we read about [Empathetic Imagination](https://www.karlbooklover.com/e
 
 > They always say time changes things, but you actually have to change them yourself.
 >
->    
+> 
 > *—*ANDY WARHOL
 
 Groupon founder Eric Lefkofsky has a clear vision of the imaginative ideas he wants to support now and a decade from now. “Ideas that are local, social, and mobile in orientation are going to do well in the next ten years,” he told us in December 2012 when we met at his office in Chicago. That’s the idea behind Groupon, which Lefkofsky launched in 2008, and the operating philosophy of Lightbank, the venture capital firm he runs with his business partner Brad Keywell. “Our long-term theme is that biotech and life sciences are eventually going to be as exciting as the Internet has been in the past decade, but we aren’t in that space yet.”1

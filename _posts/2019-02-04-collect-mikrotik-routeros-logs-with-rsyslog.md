@@ -23,7 +23,7 @@ system logging add topics=warning action=rsyslog;
 system logging add topics=critical action=rsyslog;
 ```
 
-The machine I'm using to collect the logs runs Rsyslog v8.   
+The machine I'm using to collect the logs runs Rsyslog v8. 
  First, let's create a new logfile and give it the right permissions.
 
 ```
@@ -40,7 +40,7 @@ Add this to the config file:
 if ($fromhost-ip != "127.0.0.1" ) then /var/log/mikrotik.log
 ```
 
-What this config does is it looks for all logs coming from other than the localhost, which in our case are the Mikrotik routers.  
+What this config does is it looks for all logs coming from other than the localhost, which in our case are the Mikrotik routers. 
 Restart Rsyslog and you should be able to see the first logs coming in.
 
 ```

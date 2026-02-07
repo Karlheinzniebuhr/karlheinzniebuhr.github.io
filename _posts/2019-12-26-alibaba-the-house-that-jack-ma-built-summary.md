@@ -37,7 +37,7 @@ Alibaba also invested in a firm called China Smart Logistics or Cainiao, which i
 
 #### Finance
 
-Alipay is Alibaba's payment solution. But it's much more than a simple payment solution. It handles trust through a service called an escrow. The definition of escrow is: *a bond, deed, or other document kept in the custody of a third party and taking effect only when a specified condition has been fulfilled.*  Trust is highly sensitive in online business.
+Alipay is Alibaba's payment solution. But it's much more than a simple payment solution. It handles trust through a service called an escrow. The definition of escrow is: *a bond, deed, or other document kept in the custody of a third party and taking effect only when a specified condition has been fulfilled.* Trust is highly sensitive in online business.
 
 > By far the most popular online payment tool in China, Alipay handles more than three-quarters of a trillion dollars a year in online transactions, three times the volume of PayPal and one-third of the $2.5 trillion global online payments market. In the peak early minutes of Singles’ Day 2015, Alipay handled over eighty-five thousand payments per second.
 

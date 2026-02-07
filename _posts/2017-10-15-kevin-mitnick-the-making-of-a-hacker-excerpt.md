@@ -6,7 +6,7 @@ categories: [Book Excerpts]
 book: true
 ---
 
-> *Yjcv ku vjg pcog qh vjg uauvgo wugf da jco qrgtcvqtu  
+> *Yjcv ku vjg pcog qh vjg uauvgo wugf da jco qrgtcvqtu 
 > vq ocmg htgg rjqpg ecnnu?*
 
 **M**y instinct for finding a way around barriers and safeguards began very early. At about age one and a half, I found a way to climb out of my crib, crawl to the child gate at the door, and figure out how to open it. For my mom, it was the first wake-up call for all that was to follow.

@@ -38,7 +38,7 @@ But depending on what you do, you’ll also need the equipment necessary to prac
 
 #### Practical intelligence
 
-Sociologist Annette Lareau found that children from wealthier families tend to have more chances for success than children from poorer households. That is because of practical intelligence.
+Sociologist Annette Lareau found that children from wealtheir families tend to have more chances for success than children from poorer households. That is because of practical intelligence.
 > Practical intelligence is a procedural knowledge which enables you to change situations to get what you want.
 
 In other words, the ability to interact and negotiate with other people including authority figures, to know who to ask what, how and when.

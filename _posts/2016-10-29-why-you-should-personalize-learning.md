@@ -18,5 +18,5 @@ The takeaway is, don't force yourself to learn in a traditional way if you notic
 So we should definitely push ourselves in order to increase the difficulty, this could be for example reading complicated material from time to time, not just accessible novels.
 The most important factor is practice, through our behavior and practice our brain changes. I also would add meditation, the way it changes the structure and performance of the brain is backed up by hundreds of studies.
 
-Hope that helps :)  
+Hope that helps :) 
 Karl

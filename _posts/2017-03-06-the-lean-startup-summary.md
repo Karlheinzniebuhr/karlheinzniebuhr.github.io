@@ -57,7 +57,7 @@ It is tempting to look at different growth metrics which actually don't mean muc
 ### Core metrics offer valuable data
 
 Core metrics offer valuable data like increases in the number of paying customers or numbers of recommendations, reviews, etc.
-Each startup has to find it's own metrics as they differ in each startup. It is helpful to compare how new customers behave compared to old ones. This process is called cohort analysis.
+Each startup has to find its own metrics as they differ in each startup. It is helpful to compare how new customers behave compared to old ones. This process is called cohort analysis.
 Only if you are doing better than the previous months are you growing. Learn from the data and make the necessary adjustments.
 Summary: Startups should employ the scientific method to find a sustainable business model and assure growth. A minimum viable product enables such an experiment by launching a demo, putting it to the test, and then learning from the feedback.
 Liked this summary? Support me by buying the book [here](https://www.amazon.com/gp/product/0307887898/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0307887898&linkId=5abccb80ba92ca35779e5e0fc1af88b7).

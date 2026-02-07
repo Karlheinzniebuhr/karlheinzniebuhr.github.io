@@ -78,41 +78,41 @@ The wealthy understand taxes, and they handle them fundamentally different than 
 
 Here is how employees differ from corporations. **Employees earn, get taxed and try to live on what is left. A corporation earns, then spends everything it can, and is taxed on anything that is left.**
 
-This simple strategy is one of the biggest legal tax loopholes that the rich use.   
+This simple strategy is one of the biggest legal tax loopholes that the rich use. 
 You can learn how to minimize your taxes too. It’s just a matter of educating yourself about the loopholes in the system. By learning how the tax system works, you can reduce how much is taken from you.
 
 #### Overcoming obstacles
 
 There are five main reasons why people are still unable to generate substantial asset columns, even if they possess the financial knowledge.
 
-**Fear**  
+**Fear** 
 The author points out that he has never met a rich person who has never lost money, but he has met a lot of poor people who have never lost a dime. The lesson is clear, becoming rich does imply learning to manage the fear of risks.
 
 Everyone has a fear of losing money, but the fear is not the problem, **it is how you handle that fear what makes the difference.**
 
-Failure inspires winners and defeats losers.   
+Failure inspires winners and defeats losers. 
 Winners are not afraid of losing. Winners know that losing will only motivate and inspire them to work even harder. Losers won’t even try because they can’t handle failure.
 
 **Most people struggle financially because they play not to lose, instead of playing to win.**
 
-**Cynicism**  
+**Cynicism** 
 People’s doubts keep them poor. Getting out of the rat race is technically easy. But doubts keep them crippled.
 
 **Instead of analyzing like the winners, the cynics prefer to criticize. Their critique blinds them to see the opportunities.**
 
-**Laziness**  
+**Laziness** 
 The most common form of laziness is staying busy. **Being busy is a way people get out of the way of facing what they don’t want to face.**
 
 Deep down most people know they are only avoiding something, that’s why they often get irritated if someone reminds them of that fact.
 
 They a too busy to take care of their wealth. Too busy to take care of their health and even family.
 
-**Habits**  
+**Habits** 
 Success is formed by more than education. It consists of certain habits. Wealthy people always work on themselves. They invest in themselves first.
 
 **Start building habits which bring you closer to your goal**. Make reading a daily habit. Do something for your physical health every day. Dedicate time to the things that matter most.
 
-**Arrogance**  
+**Arrogance** 
 **Arrogant people often lose money because they think that what they don’t know is not important.**
 
 People often use arrogance to hide their ignorance. If you want to be successful, you have to learn to be humble.

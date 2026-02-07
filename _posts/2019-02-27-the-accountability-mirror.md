@@ -23,7 +23,7 @@ I reached for the shaving cream, smoothed a thin coat over my face, unwrapped a 
 
 After shaving peach fuzz from my cheeks and chin, I lathered up my scalp. I was desperate for a change. I wanted to become someone new.
 
-“You don’t see people in the military sagging their pants. You need to stop talking like a wanna-be-gangster. None of this shit is gonna cut it! No more taking the easy way out! It’s time to grow the fuck up!”  
+“You don’t see people in the military sagging their pants. You need to stop talking like a wanna-be-gangster. None of this shit is gonna cut it! No more taking the easy way out! It’s time to grow the fuck up!” 
 Steam billowed all around me. It rippled off my skin and poured from my soul. What started as a spontaneous venting session had become a solo intervention.
 
 “It’s on you,” I said. “Yeah, I know shit is fucked up. I know what you’ve been through. I was there, bitch! Merry fucking Christmas. Nobody is coming to save your ass! Not your mommy, not Wilmoth. Nobody! It’s up to you!”
@@ -32,10 +32,10 @@ By the time I was done talking, I was shaved clean. Water pearled on my scalp, s
 
 The ritual was simple. I’d shave my face and scalp every night, get loud, and get real. I set goals, wrote them on Post-It notes, and tagged them to what I now call the Accountability Mirror, because each day I’d hold myself accountable to the goals I’d set. At first my goals involved shaping up my appearance and accomplishing all my chores without having to be asked.
 
-Make your bed like you’re in the military every day!  
- Pull up your pants!  
- Shave your head every morning!  
- Cut the grass!  
+Make your bed like you’re in the military every day! 
+ Pull up your pants! 
+ Shave your head every morning! 
+ Cut the grass! 
  Wash all dishes!
 
 The Accountability Mirror kept me on point from then on, and though I was still young when this strategy came through me, since then I’ve found it useful for people at any stage in life. You could be on the cusp of retirement, looking to reinvent yourself. Maybe you’re going through a bad break-up or have gained weight. Perhaps you’re permanently disabled, overcoming some other injury, or are just coming to grips with how much of your life you’ve wasted, living without purpose. In each case, that negativity you’re feeling is your internal desire for change, but change doesn’t come easy, and the reason this ritual worked so well for me was because of my tone.

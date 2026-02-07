@@ -15,7 +15,7 @@ After they had read their notes or textbook one time, they had three options to 
 
 1. Go back and study all or parts of the material
 2. Try to recall the material without restudying after
-3. Do something else  
+3. Do something else 
 
 Only 18 percent of students would choose to recall information after reading it. 57 percent said they would reread their notes or textbook.
 
@@ -47,7 +47,7 @@ It was an extensive review looking at the scientific literature of effective lea
 
 Out of the ten techniques, only two got a top rating of “high” for effectiveness. Those two being distributed **practice** and, of course, **practice testing**.
 
-### What is a good way to Practice Test?  
+### What is a good way to Practice Test? 
 
 One old school, yet extremely effective method are Flashcards. It doesn't have to be on paper. You can use [Anki](https://ankiweb.net/decks/) which lets you create your own flashcards on your PC/Mac and synchronize them between all of your devices.
 

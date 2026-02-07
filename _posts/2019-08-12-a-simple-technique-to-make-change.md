@@ -18,13 +18,13 @@ The trick is to become conscious about your negative associations, once you do t
 
 1. Write down some important actions you must take or habits you must change. *For example, starting to workout 3 times per week.*
 2. Make a list of the negative associations (pain) you associate with each action.
-   - *Example:* 
-     - *Training sucks.*
-     - *It's of no use if I start because I can't form a consistent exercise habit.*
+ - *Example:* 
+ - *Training sucks.*
+ - *It's of no use if I start because I can't form a consistent exercise habit.*
 3. Make a list about the pleasure you will get once you successfully establish a habit with each action. Really go into great detail and imagine everything you write down.
-   - Example:
-     - If I form a habit of working out, within a year I will be in great shape and look the way I've always wanted to.
-     - I will have more than enough energy to do all the things I want to.
+ - Example:
+ - If I form a habit of working out, within a year I will be in great shape and look the way I've always wanted to.
+ - I will have more than enough energy to do all the things I want to.
 
 In this example, you should also debate your negative associations. For instance, if exercise sucks then why are there many people who love exercising so badly that they do anything to not miss a workout. A logical conclusion you must make is that your assumption about exercise is wrong. Write down all arguments to disprove each one of your negative associations.
 

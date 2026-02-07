@@ -66,7 +66,7 @@ Checklist para investigar evidencias de estudios:
 - - Primero ver de donde proviene el estudio y quién lo financió.
 
 - - Hacer un background check de las personas que realizaron el estudio para ver si son financiados por alguna entidad con intereses propios que cumplir.
-  - Entender cómo la indústria trata de generar estudios sesgados y ver si se usaron esos métodos en el estudio presente.
+ - Entender cómo la indústria trata de generar estudios sesgados y ver si se usaron esos métodos en el estudio presente.
 
 - Tener en cuenta el sesgo de confirmación propio al investigar.
 

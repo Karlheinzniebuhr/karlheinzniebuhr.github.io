@@ -30,7 +30,7 @@ Instead of being overwhelmed with life's stressors, we immerse ourselves fully i
 
 The first and obvious benefit of mindfulness is better decision making. The author tells an anecdote from his own life when a colleague told him that he would never become a big-time anchorman. Instead of responding with anger as his ego would have liked to, he calmly asked his boss how he could improve his work.
 But the benefits of mindfulness don't stop here, it can actually change our brains. [A Harvard MRI study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/) observed that people who had taken an eight-week mindfulness course through meditation had developed thicker gray matter in areas of the brain associated with self-awareness and compassion.
-Mindfulness also shrinks regions of the brain associated with stress and fear as shown in [this study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064574). Self-compassion improves your decision making by allowing you to acknowledge and forgive mistakes and accept your flaws. Thus compassion towards yourself leads to healthier behavior such as quitting smoking, as studies have shown.
+Mindfulness also shrinks regions of the brain associated with stress and fear as shown in [this study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064574). Self-compassion improves your decision making by allowing you to acknowledge and forgive mistakes and accept your flaws. Thus compassion towards yourself leads to healtheir behavior such as quitting smoking, as studies have shown.
 Likewise, compassion towards others helps us become more fulfilled people, once again showing how useful being selfish in a clever way can be.
 
 ### Taming your ego doesn't convert you into a pushover

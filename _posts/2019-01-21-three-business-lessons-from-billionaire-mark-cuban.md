@@ -10,7 +10,7 @@ In his book How to Win in at the Sport of Business, Mark shares some of his insi
 
 #### Everyone is a genius in a bull market
 
-Do you remember the crypto hype a while back? All of a sudden everyone seemed to be an expert in investing and crypto. Therein lies the lesson, in a bull market everyone is a genius. The same applies in Business which is why you have to practice to be brutally honest with yourself. It might just be that your business is in a very profitable place not because it creates more value compared to other similar businesses, but because it is riding a success wave.   
+Do you remember the crypto hype a while back? All of a sudden everyone seemed to be an expert in investing and crypto. Therein lies the lesson, in a bull market everyone is a genius. The same applies in Business which is why you have to practice to be brutally honest with yourself. It might just be that your business is in a very profitable place not because it creates more value compared to other similar businesses, but because it is riding a success wave. 
  But those waves don’t last forever. And as Warren Buffet says, when the tide goes out you see who’s swimming naked. Make sure you are offering the best possible value!
 
 #### Win the battles you are in before you take on new battles

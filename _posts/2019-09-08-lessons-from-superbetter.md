@@ -13,14 +13,14 @@ I came across this book after watching Jane's TED talk. I absolutely love the ta
 >
 > Being gameful means bringing the psychological strengths you naturally display when you play games—such as optimism, creativity, courage, and determination—to your real life.
 >
->  **SuperBetter**
+> **SuperBetter**
 
 Jane experienced a brain concussion which caused her to be in constant pain and eventually she became depressed. She started having suicidal thoughts. One day she decided that she'd either kill herself or turn her suffering into a game. She became "Jane the Concussion Slayer".
 
-> Why a game? By the time I hit my head in 2009, I’d been researching the psychology of games for nearly a decade. In fact, I was the first person in the world to earn a Ph.D. studying the psychological strengths of gamers and how those strengths can translate to real-world problem solving. I knew from my years of research at the University of California at Berkeley that when we play a game, we tackle tough challenges with more creativity, more determination, and more optimism. We’re also more likely to reach out to others for help. And I wanted to bring these gameful traits to my real-life challenge.  
+> Why a game? By the time I hit my head in 2009, I’d been researching the psychology of games for nearly a decade. In fact, I was the first person in the world to earn a Ph.D. studying the psychological strengths of gamers and how those strengths can translate to real-world problem solving. I knew from my years of research at the University of California at Berkeley that when we play a game, we tackle tough challenges with more creativity, more determination, and more optimism. We’re also more likely to reach out to others for help. And I wanted to bring these gameful traits to my real-life challenge. 
 > So I created a simple recovery game called “Jane the Concussion Slayer.” This became my new *secret identity*, a way to start feeling heroic and determined instead of hopeless.
 >
->  **SuperBetter**
+> **SuperBetter**
 
 To read more about Jane's Story, read [The Power of Games](https://www.karlbooklover.com/the-power-of-games/).
 
@@ -64,7 +64,7 @@ But research shows that not everyone who experiences a trauma goes on to have po
 
 > And so I set off on another two years of research. And here’s what I discovered: you *can* experience the benefits of post-traumatic growth without the trauma, if you are willing to undertake an extreme challenge in your life—such as running a marathon, writing a book, starting a business, becoming a parent, quitting smoking, or making a spiritual journey. Researchers call this *post-ecstatic growth.* Ann Marie Roepke, a practicing clinical psychologist who first identified the phenomenon as a University of Pennsylvania doctoral candidate, describes it as “gains without pains”—or at least, far fewer pains.6 It works the same way post-traumatic growth does, except you get to choose your own challenge. Instead of waiting for life to throw a terrible trauma at you, you can cultivate post-ecstatic growth at any time by intentionally undertaking a meaningful project or mission that creates significant stress and challenge for you. This stressful adventure you’ve chosen for yourself creates the necessary conditions for you to struggle and grow as much as someone who is battling a trauma.
 >
->  SupperBetter
+> SupperBetter
 
 ## Benefits of playing games
 
@@ -127,7 +127,7 @@ Do-your-best goals can alleviate performance anxiety which might be more importa
 
 > Adopting a do-your-best goal means putting forth your best effort, without concern for the results. You generally hope to do well, but you have no specific expectations for what you might achieve. The marathon runner’s do-your-best goal would be “Try to finish this race without walking, but if you have to walk, that’s okay, too. Just do your best!” The credit card debtor’s do-your-best goal might be “I’ll pay more attention to what I’m spending and try to avoid buying things I can’t afford.”
 >
->  SuperBetter
+> SuperBetter
 
 A strategy goal is another great goal type for long and difficult goals which might generate too much anxiety as to focus on them directly.
 
@@ -143,7 +143,7 @@ The vagus nerve stretches from your brain to your intestines. It connects virtua
 
 > Because the vagus nerve is so essential to so many biological and psychological functions, its health is an excellent measure of your mind-and-body resilience. Nearly twenty-five years of research, in fact, has consistently shown that the tone, or strength, of the vagus nerve is the single best measure of how effectively a person’s heart, lungs, and brain respond to stress.
 >
->  SuperBetter
+> SuperBetter
 
 You can strengthen the vagus nerve by having better ratio between positive and negative emotions. The higher the ratio, the stronger the vagal tone. Positive emotions have been shown to make people more resilient to illness and injury as well as rising life expectancy by ten years.
 

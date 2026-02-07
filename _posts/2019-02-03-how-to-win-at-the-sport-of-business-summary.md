@@ -25,7 +25,7 @@ Mark had no Idea what the future would bring up for him when he lived in Dallas 
 
 #### Make good use of the time you have
 
-When Mark would start working in the software industry without a technical background besides some job experience with computers, he would just read manuals every night. Reading manuals every night would give him the edge to be ahead in the curve. *"Every night I would read some after getting home, no matter how late."*  
+When Mark would start working in the software industry without a technical background besides some job experience with computers, he would just read manuals every night. Reading manuals every night would give him the edge to be ahead in the curve. *"Every night I would read some after getting home, no matter how late."* 
  Living with a bunch of other Students in an apartment Mark partied a lot in his twenties and his life was generally unorganized, but that didn't stop him from making use of the time he had. He used every moment he could get.
 
 #### Doing your own thing, creating your own company, can be the most energizing thing
@@ -36,26 +36,26 @@ Mark had a lot more jobs and got fired way more often than most people. When he 
 
 #### READ! Consuming relevant information gives you the advantage, but most people don't do it
 
-In business, you often don't know if you are doing it right or wrong, by the time you find out someone has set you out of business. Mark told himself that he could afford little mistakes as long as he avoided the big ones. He would continually search for new ideas by reading every book and magazine he could. He didn't care about the cost, any good idea would lead to a customer or a solution and pay many times over for the books.  
+In business, you often don't know if you are doing it right or wrong, by the time you find out someone has set you out of business. Mark told himself that he could afford little mistakes as long as he avoided the big ones. He would continually search for new ideas by reading every book and magazine he could. He didn't care about the cost, any good idea would lead to a customer or a solution and pay many times over for the books. 
  He figured that everything he read was public and available to anyone. But still, most people didn't want it. When he went to meetings talking about tidbits he'd read about he expected people to respond, but they hadn't read it.
 
-> "Most people won't put in the time to get a knowledge advantage."  
->  Mark thinks that by putting in enough time consuming all the information available he can get an advantage in any technology business.   
->  "A guy with minimal computer background could compete with far more experienced guys just because he put in the time to learn all he could."
+> "Most people won't put in the time to get a knowledge advantage." 
+> Mark thinks that by putting in enough time consuming all the information available he can get an advantage in any technology business. 
+> "A guy with minimal computer background could compete with far more experienced guys just because he put in the time to learn all he could."
 
 Reading more than three hours almost every day gives Mark a level of comfort and confidence in his business and a huge advantage.
 
 #### The one thing you can control in life is Effort
 
-One of the biggest lessons for Mark came from this quote:   
- "In sports, the only thing a player can truly control is effort. The same applies to business. The only thing any entrepreneur, salesperson or anyone in any position can control is their effort." We must make sure though that we aren't lying to ourselves about how hard we work. Sometimes our effort is just being busy without being productive.   
- One common mistake is to measure effort by the number of hours spent at work. That's the worst way to measure effort.   
- "Effort is measured by setting goals and getting results."  
+One of the biggest lessons for Mark came from this quote: 
+ "In sports, the only thing a player can truly control is effort. The same applies to business. The only thing any entrepreneur, salesperson or anyone in any position can control is their effort." We must make sure though that we aren't lying to ourselves about how hard we work. Sometimes our effort is just being busy without being productive. 
+ One common mistake is to measure effort by the number of hours spent at work. That's the worst way to measure effort. 
+ "Effort is measured by setting goals and getting results." 
  "The one requirement for success in our business lives in effort. Either you make the commitment to get results or you don't."
 
 #### You won't know what you are destined to be until you try different things and find out
 
-*"If you're asking, I don't think people "know" what they are destined to be until they try it for the first couple of times."*  
+*"If you're asking, I don't think people "know" what they are destined to be until they try it for the first couple of times."* 
  Don't settle over something you would like to have -- for example, a house or car -- over what it is you would do on an hourly basis. You must love your work that is the biggest priority.
 
 #### You only have to be right once!
@@ -64,7 +64,7 @@ The interesting thing about business is that no one is keeping scores of your fa
 
 #### Be willing to prepare!
 
-Mark learned something very important from Bobby Knight. Something he would remind himself of whenever he failed. Whenever he started a new business.   
+Mark learned something very important from Bobby Knight. Something he would remind himself of whenever he failed. Whenever he started a new business. 
  *"Everyone has got the will to win; it's only those with the will to prepare that do win."*
 
 #### Don't drown in opportunity, focus on one thing at a time!

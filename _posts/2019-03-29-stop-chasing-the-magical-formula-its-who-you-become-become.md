@@ -6,7 +6,7 @@ categories: [Blog]
 tags: [Psychology, Self-Improvement]
 ---
 
-Quincy Jones said that Nat King Cole used to always tell him: ‘Quincy, your music can be no more or no less than you are as a human being.’    
+Quincy Jones said that Nat King Cole used to always tell him: ‘Quincy, your music can be no more or no less than you are as a human being.’  
 The more biographies I read, the more I'm convinced that there are no magical steps to become successful as people often want to believe.
 
 Why do we romanticize easy to-do steps instead of personal-growth in general? I'm not sure why but I suppose because it is much easier to communicate certain isolated steps than a whole, complex story. Especially with the Internet and those click-baity headlines.

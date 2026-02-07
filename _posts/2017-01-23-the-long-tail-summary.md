@@ -46,8 +46,8 @@ Studies have shown that traditionally retailers sell less because customers have
 #### Follow these steps to incorporate a long tail in your online business strategy.
 
 1. Reduce the cost of making a lot of products available
-   2. Make sure customers can access your products easily from a variety of places, in other words, increase availability.
-   3. Help your customers make a decision to increase a purchase likelihood.
+ 2. Make sure customers can access your products easily from a variety of places, in other words, increase availability.
+ 3. Help your customers make a decision to increase a purchase likelihood.
 
 [Click here to get the book ?](https://www.amazon.com/gp/product/1401309666/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1401309666&linkId=d4bf4eb3957eaf19c7cd5998e3a810ab)
 Personal remark: [A Quote from Shane Perrish’s mental model’s post.](https://www.farnamstreetblog.com/mental-models/)

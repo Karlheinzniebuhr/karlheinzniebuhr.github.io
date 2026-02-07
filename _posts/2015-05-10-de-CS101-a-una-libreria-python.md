@@ -16,9 +16,9 @@ archived: true
 #### La historia
 Todo empezó en el curso de <a href="https://www.udacity.com/course/cs101" target="_blank">CS 101</a>&nbsp;en <span class="lG">Udacity</span> donde gracias a&nbsp;<a href="https://twitter.com/antoniogbo" target="_blank">Un amigo</a>&nbsp;que conocí en el foro me metí en un análisis interesante.
 <!--more-->
-Se trataba de dos algoritmos para hacer una [tabla hash](http://es.wikipedia.org/wiki/Tabla_hash) para un [motor de búsqueda](http://es.wikipedia.org/wiki/Motor_de_b%C3%BAsqueda). El poder de los motores de búsqueda consiste en la velocidad con la cual logran asociar terminos de búsqueda con cientos de millones de posibles resultados. La arquitectura que utilizan motores de búsqueda como google es mucho mas compleja hablando de la totalidad pero se basan en algo bastante simple. Las tablas hash. Una tabla hash es una estructura de datos que asocia llaves o claves con valores. Hasta ahí todo normal, nada tan especial, el problema es que si existen millones de registros, el buscador tendría que correr a través de todo el registro cada vez que alguien haga una búsqueda, simplemente sería demasiado costoso y lento.  Publicaré otro post explicando como se soluciona este problema, ahora siguiendo con el tema del curso. Según el <span class="lG">profesor</span>&nbsp;<a href="http://www.cs.virginia.edu/~evans/" target="_blank">David Evans</a>&nbsp;uno de los dos algoritmos que habíamos hecho en clases era más rápido, lo cual resultó no ser cierto como descubrió un amigo que abrió un&nbsp;<a href="http://forums.udacity.com/questions/100164089/challenging-the-professor-testing-times-need-your-help-to-analyze-this-fun-discovery" target="_blank">POST</a>&nbsp;en <span class="lG">el foro de Udacity</span>. Sólo le faltaba ayuda con el algoritmo de comparación. Esto capto inmediatamente mi interés y empece a dedicar mi sábado de noche a crear un algoritmo que tomaría nuestros dos algoritmos de la clase para comprobar cual de ellos es mas rápido.
+Se trataba de dos algoritmos para hacer una [tabla hash](http://es.wikipedia.org/wiki/Tabla_hash) para un [motor de búsqueda](http://es.wikipedia.org/wiki/Motor_de_b%C3%BAsqueda). El poder de los motores de búsqueda consiste en la velocidad con la cual logran asociar terminos de búsqueda con cientos de millones de posibles resultados. La arquitectura que utilizan motores de búsqueda como google es mucho mas compleja hablando de la totalidad pero se basan en algo bastante simple. Las tablas hash. Una tabla hash es una estructura de datos que asocia llaves o claves con valores. Hasta ahí todo normal, nada tan especial, el problema es que si existen millones de registros, el buscador tendría que correr a través de todo el registro cada vez que alguien haga una búsqueda, simplemente sería demasiado costoso y lento. Publicaré otro post explicando como se soluciona este problema, ahora siguiendo con el tema del curso. Según el <span class="lG">profesor</span>&nbsp;<a href="http://www.cs.virginia.edu/~evans/" target="_blank">David Evans</a>&nbsp;uno de los dos algoritmos que habíamos hecho en clases era más rápido, lo cual resultó no ser cierto como descubrió un amigo que abrió un&nbsp;<a href="http://forums.udacity.com/questions/100164089/challenging-the-professor-testing-times-need-your-help-to-analyze-this-fun-discovery" target="_blank">POST</a>&nbsp;en <span class="lG">el foro de Udacity</span>. Sólo le faltaba ayuda con el algoritmo de comparación. Esto capto inmediatamente mi interés y empece a dedicar mi sábado de noche a crear un algoritmo que tomaría nuestros dos algoritmos de la clase para comprobar cual de ellos es mas rápido.
 
-Después de muchas pruebas llegamos a la conclusión que el profesor estaba equivocado, le avise por Twitter y me respondió en poco tiempo lo cual me sorprendió, profesores tan abiertos a críticas quisiera haber tenido más en la facultad.  
+Después de muchas pruebas llegamos a la conclusión que el profesor estaba equivocado, le avise por Twitter y me respondió en poco tiempo lo cual me sorprendió, profesores tan abiertos a críticas quisiera haber tenido más en la facultad. 
 
 [El link del tweet](https://twitter.com/UdacityDave/status/448893996517953536)
 
@@ -46,7 +46,7 @@ Este fue el mail de Dave:
 
 <p>In Python, numbers are implemented in a more complex way where a variable amount of storage can be used for each number and the largest numbers that can be represented are huge (there is no fixed maximum, but eventually, of course, the amount of memory available in your machine for the Python program will run out). So, we will get the correct answer regardless of whether the % is done inside or outside the loop.</p>
 
-<p>The question of cost, then, depends on the costs of doing all the extra % operations versus the cost of doing all the arithmetic on large numbers. The cost of the modulo operator depends a lot on the actual value of the modulus. If it is a power of two and numbers are represented in some sensible binary format, we can do the modulo operation by just chopping off (or zeroing) all bits to the right of the modulus; even for big numbers, this should only take one machine instruction. If the modulus is an arbitrary number though, computing a % b requires doing a very expensive division. So, it makes sense that doing this everytime through the loop is more expensive than doing the big number additions and only one % operation.</p>
+<p>The question of cost, then, depends on the costs of doing all the extra % operations versus the cost of doing all the arithmetic on large numbers. The cost of the modulo operator depends a lot on the actual value of the modulus. If it is a power of two and numbers are represented in some sensible binary format, we can do the modulo operation by just chopping off (or zeroing) all bits to the right of the modulus; even for big numbers, this should only take one machine instruction. If the modulus is an arbitrary number though, computing a % b requires doing a very expensive division. So, it makes sense that doing this every time through the loop is more expensive than doing the big number additions and only one % operation.</p>
 
 <p>My guess would be that if you pick the number of buckets as a power of two (e.g., 1024 instead of 1000), and try this experiment again on very long strings, that the version with the % inside the loop will actually be faster. But, I haven't done the experiments yet, so perhaps you will prove me wrong again!</p>
 
@@ -59,7 +59,7 @@ Thanks,<br><span class="lG">Udacity</span> Forums</p><p style="color:rgb(51,51,5
 <small style="font-family:'Lucida Grande',Trebuchet,Helvetica,sans-serif;font-size:12px"></small></p></div></td></tr></tbody></table></center></div><br>
 
 ## <A NAME="libreria">La librería</A>
-Todo lo mencionado anteriormente pasó en 2014, un año mas tarde tuviendo una discusión en el chat con amigos programadores me puso a reutilizar ese código hecho para el curso para comparar dos algoritmos. El tema es el siguiente, [timeit](https://docs.python.org/2/library/timeit.html), el método que viene con la librería estándar de python permite medir el tiempo de ejecución de código esta diseñado para medir "code snippets".  [(Snippet es un término del idioma inglés utilizado en programación para referirse a pequeñas partes recusables de código fuente.)](http://es.wikipedia.org/wiki/Snippet) Lo cual no me gusta para nada en la mayoría de casos, mayormente quiero comparar dos funciones y ver cuál es mas eficiente. No conociendo a ninguna librería que permite hacer eso me puse a crear mi propia librería [https://github.com/Karlheinzniebuhr/pythonbenchmark/](https://github.com/Karlheinzniebuhr/pythonbenchmark/) .
+Todo lo mencionado anteriormente pasó en 2014, un año mas tarde tuviendo una discusión en el chat con amigos programadores me puso a reutilizar ese código hecho para el curso para comparar dos algoritmos. El tema es el siguiente, [timeit](https://docs.python.org/2/library/timeit.html), el método que viene con la librería estándar de python permite medir el tiempo de ejecución de código esta diseñado para medir "code snippets". [(Snippet es un término del idioma inglés utilizado en programación para referirse a pequeñas partes recusables de código fuente.)](http://es.wikipedia.org/wiki/Snippet) Lo cual no me gusta para nada en la mayoría de casos, mayormente quiero comparar dos funciones y ver cuál es mas eficiente. No conociendo a ninguna librería que permite hacer eso me puse a crear mi propia librería [https://github.com/Karlheinzniebuhr/pythonbenchmark/](https://github.com/Karlheinzniebuhr/pythonbenchmark/) .
 
 En el documento readme están las indicaciones pero lo mencionaré aquí brevemente en español.
 
@@ -76,10 +76,10 @@ a,b,c,d,e = 10,10,10,10,10
 algo = [a,b,c,d,e]
 
 def miFuncion(algo):
-    time.sleep(0.4)
+ time.sleep(0.4)
 
 def miFuncionOptimizada(algo):
-    time.sleep(0.2)
+ time.sleep(0.2)
 
 # test de comparación
 compare(miFuncion, miFuncionOptimizada, 10, algo)
@@ -99,11 +99,11 @@ algo = [a,b,c,d,e]
 # se declaran los decoradores encima de las dos funciones a comparar
 @measure
 def myFunction(algo):
-    time.sleep(0.4)
+ time.sleep(0.4)
 
 @measure
 def myOptimizedFunction(algo):
-    time.sleep(0.2)
+ time.sleep(0.2)
 
 # se llama a las funciones para que se ejecuten
 myFunction(algo)

@@ -17,7 +17,7 @@ On [my blog](http://www.karlbooklover.com/blog/), I noticed, after importing the
 >
 > Best regards,
 
-Oh, "tracking image", now that's interesting. It seems like Medium want's to know where the content is going after all. I didn't like the CSS option, though, because it would still be loaded from medium's servers. That's when I started deleting the tracking image HTML part in Wordpress.
+Oh, "tracking image", now that's interesting. It seems like Medium wants to know where the content is going after all. I didn't like the CSS option, though, because it would still be loaded from medium's servers. That's when I started deleting the tracking image HTML part in WordPress.
 > <img src="https://medium.com/\_/stat?event=post.clientViewed&referrerSource=full\_rss&postId=ad649657d256" width="1" height="1" />
 
 When you export your content, and before you import it to your new platform, just use an Editor like Atom and search for the above code in all files and replace it with an empty string --> "", that will solve the problem.

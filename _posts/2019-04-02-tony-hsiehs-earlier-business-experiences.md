@@ -331,10 +331,10 @@ life.
 As a thought experiment, I made a list of all the things I would do with the money if I had it:
 
 - I would buy a condo or loft in San Francisco so that I’d have a place to live that I could call my own, instead of renting
-  a place and living with a roommate.
+ a place and living with a roommate.
 - I would buy a big-screen TV and build a home theater.
 - I would want to be able to go on mini vacations (long weekends) whenever I wanted to, to places like Las Vegas, New York,
-  Miami, and LA.
+ Miami, and LA.
 - I would buy a new computer.
 - I would start another company, because I really enjoyed the idea of building and growing something.
 

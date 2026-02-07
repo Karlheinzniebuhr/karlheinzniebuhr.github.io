@@ -7,13 +7,13 @@ categories: [Health]
 
 Así como el mbeju, otra de mis recetas favoritas son los panqueques. Son fáciles de preparar, y si le pongo harina de lino y avena, super nutritivos.
 
-- Ingredientes:  
-  1 taza de harina de avena  
-  1/2 taza de harina de lino  
-  2 tazas de harina blanca  
-  3 Bananas matchacadas o 2 tazas de frambuesas
+- Ingredientes: 
+ 1 taza de harina de avena 
+ 1/2 taza de harina de lino 
+ 2 tazas de harina blanca 
+ 3 Bananas matchacadas o 2 tazas de frambuesas
 
-Preparación  
+Preparación 
 Preparar la harina de avena y lino en la licuadora. Mezclar con los demás ingredientes secos. Agregar un poquito de canela y clavo de olor. Agregar los ingredientes sólidos (banana/frambuesas).
 
 Agregar leche vegetal o agua hasta tener la consistencia correcta.Cocinar a fuego lento en un sartén antiadhesivo.

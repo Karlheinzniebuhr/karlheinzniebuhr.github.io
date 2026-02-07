@@ -11,7 +11,7 @@ I’m one of those individuals who often are uncomfortable and bored in traditio
 
 So we should definitely push ourselves in order to increase the difficulty, this could be for example reading complicated material from time to time, not just accessible novels. The most important factor is practice, through our behavior and practice our brain changes. I also would add meditation, the way it changes the structure and performance of the brain is backed up by hundreds of studies.
 
-Hope that helps :)  
+Hope that helps :) 
 Karl
 
 *Originally published at* [*karlheinzniebuhr.github.io*](http://karlheinzniebuhr.github.io/en/2016/10/29/why-you-should-personalize-learning/) *on October 29, 2016.*

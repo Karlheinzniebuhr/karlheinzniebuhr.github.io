@@ -13,7 +13,7 @@ This book entered my reading list while listening to the Tim Ferriss [show 367](
 >
 > And so in my first year at Google, John Doerr, who had placed me here at Google, said, “You need a coach.” And I said, “I don’t need a coach. I’m really good.” And he said after some back and forth he said, “Well, do tennis players have coaches?” And I said, “Yes.” And then he got me. I had to say, “Okay.” So we met and then the rest is history.
 >
->  **Eric Schmidt**
+> **Eric Schmidt**
 
 Bill changed my perspective through this book. Reading the stories about him, the results he got, really made me think and reconsider things. It wasn't just the book, also the personal work-related experiences I've had. Somehow combining my personal experience with the wisdom from this book made things click in me. This is a great book to read in its entirety, but I will do my best and try to summarize the best of it here.
 

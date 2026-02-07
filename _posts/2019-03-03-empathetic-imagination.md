@@ -15,7 +15,7 @@ I'm fascinated by a book which explains what Self-made Billionaires have in comm
 
 > Inspiration exists, but it has to find us working.
 >
->  —PABLO PICASSO
+> —PABLO PICASSO
 
 When a twenty-four-year-old Joe Mansueto began buying mutual funds in the early 1980s he was wading into lonely territory. Mutual funds had been around since before the Great Depression, but they were a niche product for a niche audience—only wealthy individuals invested in the stock market, and most of them used brokers who pushed individual stocks. Relatively few brokers promoted mutual funds, resulting in few individual investors’ buying them.
 

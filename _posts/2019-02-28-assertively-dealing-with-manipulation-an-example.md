@@ -13,10 +13,10 @@ Let's dive in into an example where a student of systematic assertive therapy us
 
 ---
 
-***Dialogue #14***  
-**Jack gets a refund  
-of $1,800 from  
-a used-car  
+***Dialogue #14*** 
+**Jack gets a refund 
+of $1,800 from 
+a used-car 
 dealer.**
 
 Jack is a part-time student who also works as a physiotherapist to support himself. He is dissatisfied with his occupation and is taking classes to get his degree and learn other occupational skills. Jack’s old car finally gave up and had to be towed to a junk yard. Jack had known that it was only a matter of time until his old car would fall apart and he had prepared to purchase a new one by saving a portion of his salary for two years. Consequently, he immediately purchased a used car from a dealer the day after his old one failed. Since he had the money in the bank, Jack paid the entire $1,800 cost by check. On the day after he purchased his “new” car, its automatic transmission started to leak heavily. Jack brought the car back to the dealer and the salesman promised to have it fixed. Two days after getting it back from the repair shop, the transmission started to leak again. He consulted with me and we talked in detail about his options on getting further repairs, another car, or his money back, and how he could assertively cope with this problem. On the way back to the dealer the next day, the car kept stalling and was restarted only with great difficulty, eventually needing a push. As he drove into the dealer’s lot, Jack decided that he wanted his money back and no further business with this used-car dealer.

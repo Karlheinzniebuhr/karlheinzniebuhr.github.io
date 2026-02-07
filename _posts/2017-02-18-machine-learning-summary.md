@@ -21,7 +21,7 @@ Machine Learning: Learning Algorithm --> Training Data --> Learned Algorithm -->
 
 #### Why does Machine Learning work
 
-Machine Learning (ML) works because we suppose that in all data there is a pattern. Think about your shopping activity on big online retailers like Amazon. You probably have a preference for certain categories of goods, like technology or books. More detailed patterns once enough data is available. For example, a person who buys baby products probably has a baby or is expecting a baby. Now it's time to introduce a new term, hidden factors. Hidden factors in the last example are the baby. It is not named explicitly in the collected shopping data but can be inferred from the shopping activity. This inference of a hidden model is the core of ML.
+Machine Learning (ML) works because we suppose that in all data there is a pattern. Think about your shopping activity on big online retailers like Amazon. You probably have a preference for certain categories of goods, like technology or books. More detailed patterns once enough data is available. For example, a person who buys baby products probably has a baby or is expecting a baby. Now its time to introduce a new term, hidden factors. Hidden factors in the last example are the baby. It is not named explicitly in the collected shopping data but can be inferred from the shopping activity. This inference of a hidden model is the core of ML.
 The challenge then is to have enough training data and sufficient computing power to process and learn from that data.
 
 #### ML, statistics and data analytics

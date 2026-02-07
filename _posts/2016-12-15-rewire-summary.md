@@ -80,7 +80,7 @@ Your ultimate goal is to strengthen your willpower and increase self-control.
 
 Initially, it is hard to break an addiction or form a new habit, but gradually it takes less effort. Self-control is like a habit too, if you practice it becomes easier.
 An example of using the principle of “fake it till you make it”. Pretend to be kinder. Even if you feel like you fake it, you’ll feel good about yourself and the reactions you get from other people. This will further motivate you to keep doing kind things until it becomes a habit.
-You can increase your willpower by being healthier. Eat healthier foods and exercise, so your brain will function better.
+You can increase your willpower by being healthier. Eat healtheir foods and exercise, so your brain will function better.
 Parent yourself. You can even slightly punish yourself if necessary. If your brain associates negative stimulus with your temptation, that temptation will lose strength.
 
 #### Surround yourself with positive people

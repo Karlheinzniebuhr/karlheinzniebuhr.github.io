@@ -16,7 +16,7 @@ This point is far more important than most of us think. Sometimes we have to hit
 
 #### Accept failure
 
-If you wither about failures you will take longer to go back to work on what's important or worse, fail to recover altogether. Change your relationship with failure, think about it like this: "To get to my objective I need to overcome 10 embarassing failures." Now every time you fail you will feel great because you know you are one failure closer to your goal.
+If you wither about failures you will take longer to go back to work on what's important or worse, fail to recover altogether. Change your relationship with failure, think about it like this: "To get to my objective I need to overcome 10 embarrassing failures." Now every time you fail you will feel great because you know you are one failure closer to your goal.
 
 #### Stay humble
 

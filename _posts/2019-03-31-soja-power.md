@@ -161,7 +161,7 @@ las células musculares.
 
 Glutamine (per 100g)
 
-|  |  |
+| | |
 | --- | --- |
 | Soy | 10.5g |
 | Milk Protein | 8.8g |
@@ -212,7 +212,7 @@ este aminoácido.
 
 Arginine (per 100g)
 
-|  |  |
+| | |
 | --- | --- |
 | Soy | 7.6g |
 | Beef | 6.3g |

@@ -58,7 +58,7 @@ The so-called management-intensive grazing is a technique where animals are move
 
 This technique is one of the best ways to optimize production while maintaining sustainability. The method makes use of the coevolutionary relationship between cows and grass, something that is completely ignored in industrial agriculture.
 
-Cows eat their favorite grass instead of harmful corn which makes them healthier and thus results in healthier meat. Gras also has a positive environmental impact as it absorbs thousands of pounds of carbon out of the atmosphere.
+Cows eat their favorite grass instead of harmful corn which makes them healtheir and thus results in healtheir meat. Gras also has a positive environmental impact as it absorbs thousands of pounds of carbon out of the atmosphere.
 
 Local farms are a good ethical, environmental and economical alternative to industrialized agriculture. They don’t compromise ethical concerns, health and sustainability over profits.
 

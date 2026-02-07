@@ -54,7 +54,7 @@ If you want to become wealthy, you have to like and admire wealthy people. If yo
 
 #### Set high goals & associate with the right people
 
-“If you want to fly with the eagles, don’t swim with the ducks!”   
+“If you want to fly with the eagles, don’t swim with the ducks!” 
 You must learn to think on a big scale! Millionaires set the bar high. They don’t conform themselves with a secure and sufficient income like most people. **Millionaires set their sights on lots of money.**
 
 > Big thinking leads to big actions. Weak thinking leads to weak actions.

@@ -14,9 +14,9 @@ At the [2019 Earnings Call](https://youtu.be/LHXZuWoikpk?t=288) Elon explained h
 
 > So, it's kind of a no-brainer. It's really, do you want something that prints money? And if it doesn't print money, we'll fix it or take it back. It's kind of a no-brainer.
 >
->  — Elon
+> — Elon
 
-What he means is this.   
+What he means is this. 
 (Your electric-bill with Tesla's Solar Energy + Tesla's loan) < Your former electric-bill
 
 The principle is simple: If you make something that saves your Client's money from day one, you'll win.
@@ -33,13 +33,13 @@ When asked how to build and grow successfully a company, and how managing a tiny
 
 > "In a little company, your skills as an individual make a huge difference. In large companies, you have to be kind of a force multiplier. You have to teach large number of people the right approaches. Whatever you reward, will happen."
 >
->  — Elon Paraphrased
+> — Elon Paraphrased
 
 I remember vividly how Charlie Munger uses to emphasize incentives. Here's a quote from The Psychology of Human Misjudgment.
 
 > Well, I think I’ve been in the top 5% of my age cohort all my life in understanding the power of incentives, and all my life I’ve underestimated it. And never a year passes but I get some surprise that pushes my limit a little farther.
 >
->  — Charlie Munger in The Psychology of Human Misjudgment
+> — Charlie Munger in The Psychology of Human Misjudgment
 
 ### Integrate your Teams
 
@@ -47,7 +47,7 @@ When asked how he manages his teams in a large organization:
 
 > In any given product, you can see the organizational errors manifest themselves in the product.
 >
->  — Elon
+> — Elon
 
 The problem is that if you have decoupled teams, blind spots are formed. And often things don't work out as expected when you try to integrate those teams' work.
 
@@ -55,13 +55,13 @@ Elon explained that you often get sub-system optimization instead of overall-sys
 
 > Everyone should be chief engineer, everyone should at least have a cursory understanding of the whole system, even though they may have deep expertise in one arena.
 >
->  — Elon Paraphrased
+> — Elon Paraphrased
 
 Steve Jobs was a great practitioner of deep collaboration. He forced teams to collaborate.
 
 > Because he believed that Apple’s great advantage was its integration of the whole widget—from design to hardware to software to content—he wanted all departments at the company to work together in parallel. The phrases he used were “deep collaboration” and “concurrent engineering.”
 >
->  — Steve Jobs by Walter Isaacson
+> — Steve Jobs by Walter Isaacson
 
 He even went much further, designing the Pixar building in a way to promote random encounters of people which lead to unplanned collaborations. “If a building doesn’t encourage that, you’ll lose a lot of innovation and the magic that’s sparked by serendipity,” he said.
 
@@ -71,7 +71,7 @@ Elon emphasized on the importance of a humble mindset.
 
 > People tend to assume they're right. You're definitively wrong in some degree. Your goal is to be less wrong tomorrow.
 >
->  — Elon Paraphrased
+> — Elon Paraphrased
 
 ### How to get great engineering talent
 
@@ -79,4 +79,4 @@ The big HR question, how do companies get great talent? For Elon, once again thi
 
 > If you want to get great engineering talent, the work itself needs to be exciting. The best engineers want to work on the most innovative things. Otherwise, they leave.
 >
->  — Elon Paraphrased
+> — Elon Paraphrased

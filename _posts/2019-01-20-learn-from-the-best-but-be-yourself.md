@@ -8,10 +8,10 @@ tags: [Self-Improvement]
 
 I’m a big fan of
 Gary V., particularly his message. But don’t like how some people
-try to copy him and other succesful peole 1:1. You might get better
+try to copy him and other successful people 1:1. You might get better
 at some things copying people, but it isn’t really the best thing
 you can do. The best asset you have is being yourself. I learned this
-from experience and because other succesful people repeatedly preach
+from experience and because other successful people repeatedly preach
 it.
 
 It is almost common knowledge by now but I still am surprised at how easy it is to try to be fake just to impress people or being accepted. But it is foolish. Most perceive if we aren’t authentic and they don’t like it. I feel like being more myself is another key element of the long list of benefits I get from meditation.

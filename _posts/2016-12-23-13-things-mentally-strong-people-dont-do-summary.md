@@ -48,7 +48,7 @@ Of course as children we often have no choice. Children of alcoholics for exampl
 #### Fear hinders change
 
 The comfort of familiarity often can prevent us from taking action and make changes. Making changes can be scary, we have to enter new territory. We will have to confront unfamiliar situations which can make us feel uncomfortable.
-But think how much improvement just some small changes could bring to your life. Changes could be as small as becoming more conscious of your health, start working out and changing to a healthier diet.
+But think how much improvement just some small changes could bring to your life. Changes could be as small as becoming more conscious of your health, start working out and changing to a healtheir diet.
 That wouldn’t be too scary, would it?
 Many people are scared to start a weight-loss program because they think that would imply to stop eating tasty food and spending all their time sweating in the gym. That mindset makes it much harder to start.
 Another example is the fear of risk. Many people don’t open their own business because they are scared to end up without income if they quit their day job.

@@ -24,11 +24,11 @@ Those are essentially the opposite of the top 5 regrets people have on their dea
 Here is what you have to build up:
 
 1. Physical resilience
-   1. Workout, even just going for a walk has great benefits to physical and mental health.
+ 1. Workout, even just going for a walk has great benefits to physical and mental health.
 2. Mental resilience (Willpower)
-   1. Tackle little challenges.
+ 1. Tackle little challenges.
 3. Emotional resilience (Curiosity, love)
-   1. If you can manage to experience three positive emotions for every one negative emotion over the course of an hour, a day or whatever timespan, you unlock the three-to-one positive emotion ratio which will give you better health and the ability to tackle any problem you are facing.
+ 1. If you can manage to experience three positive emotions for every one negative emotion over the course of an hour, a day or whatever timespan, you unlock the three-to-one positive emotion ratio which will give you better health and the ability to tackle any problem you are facing.
 4. Social resilience
 
 So I think you got the idea, small little steps will get you scoring high. Or as one of my lemmas go - step by step  you get ahead. What you need is some CONSISTENCY.

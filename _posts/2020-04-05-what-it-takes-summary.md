@@ -45,7 +45,7 @@ When starting Blackstone, Pete and Stephen wen through dozens of interviews with
 
 ## Go for it, for real and don't give up
 
-> For me, the greatest rewards in life have come from creating something new, unexpected, and impactful. I am constantly in pursuit of excellence. When people ask me how I succeed, my basic answer is always the same: I see a unique opportunity, and I go for it with everything I have.  
+> For me, the greatest rewards in life have come from creating something new, unexpected, and impactful. I am constantly in pursuit of excellence. When people ask me how I succeed, my basic answer is always the same: I see a unique opportunity, and I go for it with everything I have. 
 > And I never give up.
 
 As Arnold tells in his [biography](https://www.karlbooklover.com/lessons-from-arnolds-total-recall/) and as I've experienced myself. If you honestly give it all, you'll either succeed or feel better about failing because you know you gave your best.

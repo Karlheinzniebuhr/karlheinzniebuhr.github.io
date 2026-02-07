@@ -93,53 +93,53 @@ So there you have it, this is only a fraction of the information and value you w
 Resources:
 
 1. Staw, B., Sutton, R., & Pelled, L. (1994). Employee positive emotion and favorable
-   outcomes at the workplace. Organization Science, 5, 51–71.
+ outcomes at the workplace. Organization Science, 5, 51–71.
 2. Diener, E., Nickerson, C., Lucas, R. E., & Sandvik, E. (2002). Dispositional affect
-   and job outcomes. Social Indicators Research, 229–259.
+ and job outcomes. Social Indicators Research, 229–259.
 3. Danner, D., Snowdon, D., & Friesen, W. (2001). Positive emotions in early life and
-   longevity: Findings from the nun study. Journal of Personality and Social
-   Psychology, 80, 804–813.
+ longevity: Findings from the nun study. Journal of Personality and Social
+ Psychology, 80, 804–813.
 4. Master, J. C., Barden, R. C., & Ford, M. E. (1979). Affective states, expressive
-   behavior, and learning in children. Journal of Personality and Social Psychology ,
-   37, 380–90.
+ behavior, and learning in children. Journal of Personality and Social Psychology ,
+ 37, 380–90.
 5. Bryan, T., & Bryan, J. (1991). Positive mood and math performance. Journal of
-   Learning Disabilities, 24, 490–494.
+ Learning Disabilities, 24, 490–494.
 6. Kopelman, S., Rosette, A. S., & Thompson, L. (2006). The three faces of Eve:
-   Strategic displays of positive, negative, and neutral emotions in negotiations.
-   Organizational Behavior and Human Decision Processes, 99, 81–101.
+ Strategic displays of positive, negative, and neutral emotions in negotiations.
+ Organizational Behavior and Human Decision Processes, 99, 81–101.
 7. Estrada, C. A., Isen, A. M., & Young, M. J. (1997). Positive affect facilitates
-   integration of information and decreases anchoring in reasoning among physicians.
-   Organizational Behavior and Human Decision Processes, 72, 117–135.
+ integration of information and decreases anchoring in reasoning among physicians.
+ Organizational Behavior and Human Decision Processes, 72, 117–135.
 8. Lyubomirsky, S., Sheldon, K., & Schade, D. (2005). Pursuing happiness: the
-   architecture of sustainable change. Review of General Psychology , 9, 111–131.
+ architecture of sustainable change. Review of General Psychology , 9, 111–131.
 9. Shapiro, S. L., Schwartz, G.E.R., & Santerre, C. (2005). Meditation and positive
-   psychology. In Snyder, C. R., & Lopez, S. J. (Eds.), Handbook of Positive
-   Psychology (pp. 632–645). New York: Oxford University Press.
+ psychology. In Snyder, C. R., & Lopez, S. J. (Eds.), Handbook of Positive
+ Psychology (pp. 632–645). New York: Oxford University Press.
 10. (April 3, 2006). Just the expectation of a mirthful laughter experience boosts
-    endorphins 27 percent, HGH, 87 percent. American Physiological Society.
-    Retrieved at www.physorg.com/news63293074.html.
+ endorphins 27 percent, HGH, 87 percent. American Physiological Society.
+ Retrieved at www.physorg.com/news63293074.html.
 11. Post, S. G. (2005). Altruism, happiness, and health: It’s good to be good.
-    International Journal of Behavioral Medicine, 12, 66–77; Schwartz et al. (2003).
-    Altruistic social interest behaviors are associated with better mental health.
-    Psychosomatic Medicine, 65, 778–785.
+ International Journal of Behavioral Medicine, 12, 66–77; Schwartz et al. (2003).
+ Altruistic social interest behaviors are associated with better mental health.
+ Psychosomatic Medicine, 65, 778–785.
 12. Lyubomirsky, S. (2007). The How of Happiness . New York: Penguin, at 127–129.
 13. Gerber, G. L., Gross, et al. (1980). The “main-streaming” of America: Violence
-    profile no. 11. Journal of Communication, 30, 10–29. As cited in Barbara
-    Fredrickson’s Positivity, at 173.
+ profile no. 11. Journal of Communication, 30, 10–29. As cited in Barbara
+ Fredrickson’s Positivity, at 173.
 14. Babyak, M., Blumenthal, J., Herman, S., Khatri, P., Doraiswamy, P., Moore, K.,
-    Craighead, W., Baldewicz, T., & Krishnan, K. (2000). Exercise treatment for major
-    depression: Maintenance of therapeutic benefit at ten months. Psychosomatic
-    Medicine, 62, 633–638.
+ Craighead, W., Baldewicz, T., & Krishnan, K. (2000). Exercise treatment for major
+ depression: Maintenance of therapeutic benefit at ten months. Psychosomatic
+ Medicine, 62, 633–638.
 15. Emmons, R. A. (2007). Thanks! How the New Science of Gratitude Can Make
-    You Happier. New York: Houghton Mifflin.
+ You Happier. New York: Houghton Mifflin.
 16. For a sampling of the extensive scientific literature on optimism, see: Carver, C.
-    S., & Scheier, M. F. (2005). Optimism. In Snyder, C. R., & Lopez, S. J. (Eds.),
-    Handbook of Positive Psychology (pp. 632–645). New York: Oxford University
-    Press; Scheier, M. F., Weintraub, J. K., & Carver, C. S. (1986). Coping with stress:
-    Divergent strategies of optimists and pessimists. Journal of Personality and Social
-    Psychology, 51, 1257–1264.
+ S., & Scheier, M. F. (2005). Optimism. In Snyder, C. R., & Lopez, S. J. (Eds.),
+ Handbook of Positive Psychology (pp. 632–645). New York: Oxford University
+ Press; Scheier, M. F., Weintraub, J. K., & Carver, C. S. (1986). Coping with stress:
+ Divergent strategies of optimists and pessimists. Journal of Personality and Social
+ Psychology, 51, 1257–1264.
 17. Wiseman, R. (2003). The luck factor. The Skeptical Inquirer, 27, 1–5.
 18. Bright, J. E., Pryor, R.G.L., & Harpham, L. (2005). The role of chance events in
-    career decision making. Journal of Vocational Behavior , 66, 561–576.
+ career decision making. Journal of Vocational Behavior , 66, 561–576.
 19. Burton, C., & King, L. (2004). The health benefits of writing about intensely positive
-    experiences. Journal of Research in Personality , 38, 150–163.
+ experiences. Journal of Research in Personality , 38, 150–163.

@@ -38,7 +38,7 @@ Companies often take advantage of the previous point. They know that people make
 
 ### Nudges can help people
 
-Nudges are incentives which lead people in the right direction without forcing them to make a particular decision. For example, a shop can nudge customers to buy healthier foods by placing fruit close to the entry point and placing candies further back.
+Nudges are incentives which lead people in the right direction without forcing them to make a particular decision. For example, a shop can nudge customers to buy healtheir foods by placing fruit close to the entry point and placing candies further back.
 Companies have used nudges for a long time, supermarkets, for example, may place the most expensive products on eye level and certain things along the waiting line so that people buy things they otherwise would've skipped.
 People often use nudges to change their behavior. If a person knows that by going out to a certain place he or she will likely make wrong decisions -- drinking too much for example -- not going to that place in the first place would be a nudge.
 There are even websites like Stickk.com which let people make public commitment contracts, putting their money on the stack to ensure that they will push through and accomplish their goals. The money is there so that if they don't accomplish their goals, it automatically gets donated to a person or organization which they initially selected.
