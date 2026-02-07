@@ -92,6 +92,5 @@ To: karl* <karl********@gmail.com>
 Content-Type: multipart/alternative; boundary=001a1145bb36566dcc0521ee8b37
 {% endhighlight %}
 
-
 #### Wrapping Up    
 Depending on what method you use to send E-mails via Gmail, it can show your personal IP in the header, for example when using it via desktop applications. If you wan't to protect your personal IP address you should send your mail from the Web Client or make sure that mails sent via your mobile application are anonymised.  

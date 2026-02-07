@@ -73,4 +73,4 @@ In a similar way, many innovations were invented by reusing old ideas and concep
 [In the book Smarter Faster Better](https://www.karlbooklover.com/smarter-faster-better-summary/), the author mentions a [study](https://www.kellogg.northwestern.edu/faculty/uzzi/htm/papers/Science-2013-Uzzi-468-72.pdf) which found that the most creative papers were those which viewed a great amount of prior knowledge from a different ankle and made unusual connections and combinations.
 > The lesson: Unconventional uses of old ideas spur innovation.
 
-[Get the book here](https://www.amazon.com/gp/product/1594485380/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1594485380&linkId=476114d3eb555ca1fd18b4bf10ff7fee)📕![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=6df2bfc282b5)
+[Get the book here](https://www.amazon.com/gp/product/1594485380/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1594485380&linkId=476114d3eb555ca1fd18b4bf10ff7fee)📕

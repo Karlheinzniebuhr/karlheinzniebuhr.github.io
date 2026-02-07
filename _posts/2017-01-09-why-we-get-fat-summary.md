@@ -45,4 +45,3 @@ The sweeter the food, the more simple, easily digestible carbohydrates it contai
 Sugar-containing drinks are to be avoided, and even cereal products and starchy foods contain a lot of energy.
 Vegetables, in contrast, have a low impact on blood sugar and thus release less insulin. If we get more slowly digestible food in our diet, instead of sugar-rich food, we not only prevent the storage of fat (anabolic state), we also help the body release fat as energy (catabolic state).
 [Get the book here.](https://www.amazon.com/gp/product/0307474259/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0307474259&linkId=504f491cd145606764fcfecbf349042d)
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=6416771b66)

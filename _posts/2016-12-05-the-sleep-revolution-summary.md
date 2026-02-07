@@ -37,4 +37,3 @@ According to a 2015 consumer mobility report survey, 71% of people keep their sm
 Being emotionally invested in Social media causes higher rates of anxiety according to Heath Cleland Woods, a sleep researcher at the University of Glasgow.
 Then there is the blue light emitted from devices which also keeps us awake because it suppresses your natural production of melatonin. So try to not use your electronic devices some hours before sleep and read a book instead. Or use applications such as [flux](https://justgetflux.com).
 [Get the book.](https://www.amazon.com/gp/product/1101904003/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1101904003&linkId=f398738dc522d639f98f2840d3aecab1)
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=b4a9b2660bca)

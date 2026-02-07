@@ -79,4 +79,3 @@ Today it’s fairly easy to accomplish automation. You could, for example, **out
 There should be no communication **bottleneck**. Everyone has to be able to communicate freely without requiring you as an intermediary. Productivity will probably even rise if you remove yourself as a bottleneck because decisions can be made faster and thus problems solved earlier. All the while you can dedicate your time to whatever you want, and even create new automated income streams.
 [Get the book](https://www.amazon.com/gp/product/0307465357/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0307465357&linkId=fc26f0c939cd8f2985557a6b85bacc6b)
 [Click here to read a fantastic review of this book](https://thepowermoves.com/the-4-hour-work-week/)
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=366721555a3a)

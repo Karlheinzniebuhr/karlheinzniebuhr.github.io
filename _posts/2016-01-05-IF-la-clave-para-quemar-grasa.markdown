@@ -18,7 +18,6 @@ Para entender más sobre la capacidad del cuerpo de funcionar con sus reservas d
 
 Ahora descartando el mito de las 5-6 comidas, podemos concentrarnos al IF. Yo lo descubrí casualmente, fue llamativo para mi la cantidad de testimonios positivos de una gran cantidad de canales Fitness de YouTube, estudios científicos, paginas web etc. Por lo cual decidí investigarlo mas a fondo.
 
-
 Para empezar es importante cuales son las fuentes de energía primaria del cuerpo
 
 Las fuentes de energía del cuerpo
@@ -86,7 +85,6 @@ Creo que uno de los problemas mayores para muchas personas es que hay tantas var
 Hay un principio que en el mundo fitness es especialmente válido. Tiene que haber un balance entre eficacia y practicidad, tiene que haber eficiencia. Por mas efectivo que algo sea, tiene que ser aplicable sin mucha logística de lo contrario no será de gran utilidad para muchas personas, solo las pocas que poseen y están dispuestos a sacrificar la fuerza de voluntad necesaria para cumplirlo. Si es demasiado complicado o tiene demasiado protocolo como para que las personas puedan comprenderlo e implementarlo en su vida cotidiana, poco o nada se usará. Muchos ni lo probarán y los pocos que lo hacen tarde o temprano se desmotivarán por no poder cumplirlo y lo dejarán por completo.
  Por este motivo compilé mi propia versión del IF que es básicamente un 8/16 menos estricto.
 
-
 **Karl’s IF**
 ---------
 
@@ -102,7 +100,6 @@ hambre y es esencial para el buen funcionamiento del cuerpo.
 
 5. Deja que las cosas sean simples y placenteras  
 
-
 Para aprender más recomiendo leer el libro [Eat stop Eat](http://www.eatstopeat.com/) de Brad Pilon. Podes descargar la versión en español haciendo click en la imagen de abajo.
 
 <a href="http://www.infoculturismo.com/archivos/dietas/Eat_Estop_Eat.zip">
@@ -114,7 +111,6 @@ Otra cosa que te servirá mucho en mi opinion es aprender a estimar calorías. U
 **Conclusión**  
 Con todos los beneficios del IF probablemente no tendrás que preocuparte mas casi por tu consumo de calorías, obtendrás mejor salud, productividad y podrás lograr tus metas de fitness de forma mucho mas cómoda. Pero de igual forma, y más si te cuesta dejar algunos hábitos de bebidas o comidas muy calóricas, te será de gran beneficio si aprendes a estimar tu consumo diario de calorías. Porque por más que IF ayuda en quemar grasa, no se puede violar la ley de consumo y gasto de calorías. Para perder peso hay que quemar más calorías de las que se consumen.  No dudes en preguntarme en los comentarios cualquier duda.  
 Un Saludo  
-
 
 Referencias  
 [https://www.youtube.com/watch?v=gu8KqV90pKk](https://www.youtube.com/watch?v=gu8KqV90pKk)  

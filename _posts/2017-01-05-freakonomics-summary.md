@@ -112,5 +112,3 @@ One study showed that children who went unborn in the earliest years of legalize
 > The lesson: Don’t rush to make predictions, they often so distant that even experts look in the wrong places.
 
 [Get Freakonomics here](https://www.amazon.com/gp/product/0061234001/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061234001&linkId=174e68152260526e23f1449d455ba7f6).?❤️
-
-![](/assets/images/stat)

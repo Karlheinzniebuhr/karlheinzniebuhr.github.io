@@ -44,12 +44,12 @@ Obviamente este estudio va tener como resultado que comer colesterol (huevos) no
 
 ![](/assets/images/Screen-Shot-2017-07-20-at-13.16.11-300x188.png)
 Otro método que utiliza la indústria para evitar encontrar una relación de causa y efecto son los estudios observacionales, por ejemplo para demostrar que no hay una relación entre el consumo de las grasas saturadas y el aumento de colesterol en la sangre. La relación es tan fuerte que hasta se creó una equación que demuestra la relación linear enter el aumento del consumo de grasas saturadas y el colesterol.
-![](/assets/images/Screen-Shot-2017-08-06-at-10.36.43-300x207.png) https://www.ncbi.nlm.nih.gov/pubmed/9006469[/caption]
+![](/assets/images/Screen-Shot-2017-08-06-at-10.36.43-300x207.png) https://www.ncbi.nlm.nih.gov/pubmed/9006469
 El siguiente gráfico muestra la alta capacidad de predicción de la fórmula de arriba.
-![](/assets/images/Screen-Shot-2017-08-06-at-10.35.27-272x300.png) https://www.ncbi.nlm.nih.gov/pubmed/5846902[/caption]
+![](/assets/images/Screen-Shot-2017-08-06-at-10.35.27-272x300.png) https://www.ncbi.nlm.nih.gov/pubmed/5846902
 Pero por qué entonces algunos estudios fallan en mostrar una relación entre el consumo de grasas saturadas y colesterol en la sangre? El problema radica en el método de estudio y el hecho de que no todos respondemos de la misma manera a un consumo mayor de grasas saturadas. En algunas personas el colesterol va a subir más rapidamente que en otras al ingerir grasas saturadas. Para contrarrestar ese factor se requiere de estudios de intervención como veremos enseguida.
 En [este paper](https://www.ncbi.nlm.nih.gov/pubmed/313701) se consideraron tres tipos de estudios para encontrar una relación entre colesterol y grasas saturadas y se encontró qué los [estudios transversales](https://es.wikipedia.org/wiki/Estudio_transversal) son incapaces de detectar una relación debido a la variabilidad individial de las personas a las grasas saturadas. Los estudios de intervención si pueden detectar la relación ya que implican un cambio en el consumo de grasas saturadas lo cual cancela la variabilidad individual. Es simple estadística.
-![](/assets/images/Screen-Shot-2017-08-06-at-13.35.00-300x153.png) https://www.ncbi.nlm.nih.gov/pubmed/313701[/caption]
+![](/assets/images/Screen-Shot-2017-08-06-at-13.35.00-300x153.png) https://www.ncbi.nlm.nih.gov/pubmed/313701
 Sabemos esto desde 1979.
 ![](/assets/images/Screen-Shot-2017-08-06-at-14.05.43-300x148.png)
 Entonces, qué haría la indústria si quiere fomentar el consumo de productos animales? BINGO, simplemente necesitaría un investigador "amigable" como por ejemplo, Ronald M. Krauss, el cual esta financiado por la National Diary Council desde 1989. Tambié recibe dinero de la National Beef Association y de la Veronica & Atkins foundation, en otras palabras, quién mejor para combinar todos los estudios observacionales que estadísticamente estan destinados a fallar, para mostrar un resultado que esté en el interés de la indústria?

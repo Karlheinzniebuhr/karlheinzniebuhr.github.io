@@ -62,4 +62,3 @@ In one case the flight’s first officer tried to tell the exhausted captain tha
 
 [Get the book here.](http://amzn.to/2hPL9ZQ)
 [Subscribe to my weekly newsletter.](https://tinyletter.com/booklover)
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=90300cb5636f)

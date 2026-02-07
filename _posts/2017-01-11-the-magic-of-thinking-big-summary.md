@@ -67,5 +67,3 @@ The first step towards your goal is setting your goal, then act on it. To accomp
 For example, you can learn how to be a better learner. The faster you learn the faster you will be able to improve all areas of your life including your goal. Always invest in yourself.
 
 [What are you waiting? Get this book now](https://www.amazon.com/gp/product/0671646788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0671646788&linkId=cc7ddb3221cfc1e8d61b4948ee2e6d6d)!
-
-![](/assets/images/stat)

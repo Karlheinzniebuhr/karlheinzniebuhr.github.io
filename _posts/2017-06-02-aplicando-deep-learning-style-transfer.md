@@ -18,7 +18,7 @@ A continuación algunas de las imágenes que cree con el modelo pre-entrenado co
 
 #### Las imágenes originales
 
-![](/assets/images/3-775x1024.jpg) Mi amiga L. alias "Bati"[/caption]
+![](/assets/images/3-775x1024.jpg) Mi amiga L. alias "Bati"
 ![](/assets/images/2.jpg)
 
 #### Imagenes resultantes al estilo [Leonid Afremov](https://afremov.com/Leonid-Afremov-bio.html)

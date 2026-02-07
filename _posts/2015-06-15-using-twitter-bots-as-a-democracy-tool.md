@@ -28,7 +28,6 @@ Apparently the twitter API wasn’t amused.
 Fortunately I could solve this by rising the inferior time limit of the random time function. The twitter API gets suspicious if there are several new tweets in a short time period (Twitter engineers if you are reading this, don't update your code.) And that’s it, now you can deliver meaningful tweets 24/7.  
 Cheers
 
-
 #### [I'll post the main code below, for more details check it out on Github](https://github.com/Karlheinzniebuhr/pyrawebs)
 
 #### pyrawebs.py
@@ -131,10 +130,7 @@ ACCESS_TOKEN_SECRET = '8d8O2ZjuoTIUGXjbHCoJqpYxd13KtqxYhrX'
 @ usted va a pagar de su propio bolsillo el aumento del costo del internet? #pyrawebs
 {% endhighlight %}
 
-
 # [Check out the code and tutorial on Github](https://github.com/Karlheinzniebuhr/pyrawebs)
-
-
 
 Resources:  <br>
 <A NAME="1" href="https://www.eff.org/deeplinks/2015/06/turning-tide-against-online-spying-paraguay">[1] https://www.eff.org/deeplinks/2015/06/turning-tide-against-online-spying-paraguay</A>  <br>

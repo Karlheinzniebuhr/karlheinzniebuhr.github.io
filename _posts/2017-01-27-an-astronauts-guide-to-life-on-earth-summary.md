@@ -40,4 +40,3 @@ Astronauts on the ISS spend their time by exercising, researching and performing
 Once back to the ground, astronauts often have a new appreciation for life on earth. Space is not only fascinating but also lethal to life. Having this realization made Hadfield develop a new perspective on life on earth. Finally, what he learned as an astronaut helped him a lot for a normal earth-life too.
 If you liked this summary, please click ? so that more people can find it.
 [Click here to get the book.](https://www.amazon.com/gp/product/0316253030/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0316253030&linkId=4065a4a11fee555152ae539a88263be1)
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=476664c415bb)

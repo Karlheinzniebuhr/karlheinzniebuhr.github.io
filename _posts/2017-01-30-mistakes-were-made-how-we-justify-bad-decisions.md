@@ -54,4 +54,4 @@ Opening yourself to criticism of others helps you to become better faster. In th
 Anecdotal reports seem to suggest that doctors tend to be less likely sued if they commit errors. In politics, it seems admitting mistakes can be detrimental to an individuals popularity, which may be why it didn’t happen again after John F. Kennedy apologized for the Bay of Pigs disaster.
 > Thoughts: Admitting errors can be helpful in nearly all situations. The strongest factor may be that it leads to feedback from other people which lets us learn faster.
 
-[Get the book here](https://www.amazon.com/gp/product/0544574788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0544574788&linkId=9965cbec19d4aa47561253db0a6a0f24)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=7d585cd67214)
+[Get the book here](https://www.amazon.com/gp/product/0544574788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0544574788&linkId=9965cbec19d4aa47561253db0a6a0f24)

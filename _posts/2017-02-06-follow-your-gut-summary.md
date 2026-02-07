@@ -45,5 +45,3 @@ Antibiotics can cure bacterial diseases. Unfortunately, they don’t differentia
 Studies have shown that antibiotic treatment within the first six months of a person’s life can disrupt the development of Bifidobacterium which plays an important role for our immune system. This can lead to the development of abnormal weight gain, asthma and allergies later in life.
 
 [Click here to get the book?](https://www.amazon.com/gp/product/1476784744/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1476784744&linkId=87251e930bf024db7451717954f5d294)
-
-![](/assets/images/stat)

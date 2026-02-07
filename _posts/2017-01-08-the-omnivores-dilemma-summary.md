@@ -65,5 +65,3 @@ Local farms are a good ethical, environmental and economical alternative to indu
 > It is better for our health, the environment, as well as animals, to buy from small local farms instead of industrial ones.
 
 [Get the book here ?](https://www.amazon.com/gp/product/0143038583/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143038583&linkId=9b0c8fdf6abeb3ca6beb90e4e133f3ef)
-
-![](/assets/images/stat)

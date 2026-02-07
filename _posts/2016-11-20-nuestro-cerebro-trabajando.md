@@ -32,5 +32,3 @@ Espero que ayudó esto
 Saludos,
 
 Karl
-
-![](/assets/images/stat)

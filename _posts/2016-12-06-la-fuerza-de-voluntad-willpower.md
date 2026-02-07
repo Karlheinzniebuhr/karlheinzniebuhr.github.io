@@ -39,4 +39,3 @@ Otra estrategia es poner objetivos mensuales en vez de diarios. Planes de largo 
 Esto se debe a que planes de muy corto plazo utilizan más recursos en relación a los beneficios que producen. Son más difíciles de mantener y muchas veces distraen de los objetivos más grandes. Lo cual explica por qué los alumnos que utilizaron planes diarios dejaron de utilizarlos después de poco tiempo mientras que el grupo que usaba objetivos mensuales lo seguía haciendo un año mas tarde, y seguía teniendo las mejores notas.
 [Si quieres aprender más, puedes obtener al libro aquí.](https://www.amazon.com/gp/product/0143122231/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143122231&linkId=a0690ddabc7c55c2253d4883ab8d7053)
 [No te olvides de seguir mi blog para aprender más.](http://medium.com/karlamantedelibros)
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=8fb3aae27eb1)

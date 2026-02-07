@@ -56,4 +56,4 @@ For deep practice to be effective, you have to raise the difficulty while practi
 This was shown well in one study with babies. The study showed that the speed at which babies improve their walking ability is proportional to how frequently they fail and try again.
 > The lesson: Failure is necessary to improve skills.
 
-[Get the book here](https://www.amazon.com/gp/product/055380684X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=055380684X&linkId=7b3e2630b05516164a725a8db6d23413)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5a2711469f6b)
+[Get the book here](https://www.amazon.com/gp/product/055380684X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=055380684X&linkId=7b3e2630b05516164a725a8db6d23413)

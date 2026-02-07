@@ -42,4 +42,3 @@ Syntopical reading means you investigate a chosen question or topic and pick the
 It is a **mix of inspectional and analytical reading** because the topic you are interested in is the one being investigated, not the subject of any particular book. Instead of forming a complete picture of the books, you pick the relevant passages for your investigation.
 [Get “How To Read a Book” here ?.](https://www.amazon.com/gp/product/0671212095/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0671212095&linkId=beec92a974a9ea014086d6e67c69ec7b)
 Ready to learn more? Check out [“10 days to faster reading”](https://www.karlbooklover.com/10-days-to-faster-reading-book-summary/).
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=7f32f9cfd10c)

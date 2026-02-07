@@ -75,4 +75,4 @@ Learn to shift your negative emotions when you experience them. You can learn to
 Make a list of your goals, write them all down. Whenever you feel discouraged read through your list and imagine them one by one. Change your mindset.
 > Successful people have a different mindset than normal people do.Constantly improve your mindset, learn to focus your emotions positively and make decisions towards your goals.
 
-[Get the book here](https://www.amazon.com/gp/product/0062358294/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062358294&linkId=6910573c8b7a499f4538325f9d32a20f)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=6185f7b9962a)
+[Get the book here](https://www.amazon.com/gp/product/0062358294/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0062358294&linkId=6910573c8b7a499f4538325f9d32a20f)

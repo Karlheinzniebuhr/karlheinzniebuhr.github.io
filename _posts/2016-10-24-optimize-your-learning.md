@@ -34,5 +34,4 @@ Now let’s go into the details about every state.
     - You can change your state in two ways, either by changing your mind (by asking questions) or changing your body (physical exercises).
 - **Teach**! Teaching helps to solidify knowledge and understanding further.
 
-
 That's all, remember to apply these principles, because knowledge is only potential power, it becomes power when we act on it.

@@ -43,5 +43,3 @@ Fatigue is another problem for materials such as metal. Fatigue occurs when a he
 Why I would recommend this book to you: This book will give you a nice journey through the history and development of structures. This is one of Elon Musk’s favorite books, probably due to his interest in car and rocket structures, which motivated me to read it.
 
 ### [Click here to get the book](https://www.amazon.com/gp/product/0306812835/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0306812835&linkId=bb3ae7830961ce5ca732452bbf74e073)
-
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=cff80d61f4f7)

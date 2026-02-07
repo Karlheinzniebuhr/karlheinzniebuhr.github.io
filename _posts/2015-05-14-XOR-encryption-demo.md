@@ -32,7 +32,6 @@ Check out my code on [Github](https://github.com/Karlheinzniebuhr/XOR-encryption
 The script takes a keyboard input from the user (**message**), and generates a random password with the **same length**.
 ***Note that it's important that the password has the same length than the message.***
 
-
 This is the entire script
 {% highlight python %}
 import random
@@ -53,8 +52,6 @@ def xor(a,b):
 		else:
 			bits += '0'
 	return bits
-
-
 
 def toBin(string):
 	return ''.join('{:08b}'.format(ord(character)) for character in string)
@@ -81,7 +78,6 @@ print("message in binary is: " + '"' + str(decrypted_message) + '"\n\n')
 print("message in Ascii is: " + '"' + toAsc(str(decrypted_message)) + '"\n\n')
 
 {% endhighlight %}
-
 
 The function that does the encryption is the following. It takes two bit strings as input (the message and the key), iterates over them and applies XOR to every bit. This is symbolised by ⊕ and is represented by the following "truth table", where + represents "true" or 1 and − represents "false" or 0.
 
@@ -117,7 +113,6 @@ The function that does the encryption is the following. It takes two bit strings
 </tr>
 </tbody></table>
 
-
 {% highlight python %}
 
 def xor(a,b):
@@ -134,7 +129,6 @@ def xor(a,b):
 
 {% endhighlight %}
 
-
 This code snippet generates the random key, we assume this to be a truly random string.
 
 {% highlight python %}
@@ -150,14 +144,11 @@ def toAsc(bin_text):
 	return ''.join(chr(int(bin_text[i:i+8], 2)) for i in xrange(0, len(bin_text), 8))
 {% endhighlight %}
 
-
 Output
 {% include image_full.html imageurl="/images/posts/xor.png" title="" caption="XOR" %}
 
-
 Feel free to experiment with the code, I hope someone will find this as useful as I did to get a better understanding of the XOR encryption process. Questions are welcome.
 [https://github.com/Karlheinzniebuhr/XOR-encryption-demo/](https://github.com/Karlheinzniebuhr/XOR-encryption-demo/ "XOR-encryption-demo")
-
 
 ###**Update**
 After some great feedback on Reddit I made some updates to the code, namely switching to os.urandom() which is better suited for cryptographic use than random.choice().

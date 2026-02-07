@@ -67,7 +67,6 @@ Una dieta baja en proteínas? NOPE. No es una opción para personas que hacen ej
 <a name="TLDR">TLDR:</a>
 En resumen: En general para perder peso, el mejor método es eliminar una gran parte de los carbohidratos de la dieta. Y para tener resultados fenomenales en bajar de peso y aumentar masa muscular en paralelo recomiendo probar al IF del cual hablo [en este post.](http://karlheinzniebuhr.github.io/es/fitness/2016/01/05/IF-la-clave-para-quemar-grasa/)
 
-
 Gracias a mi Bro [Armin](https://www.facebook.com/armin.rasouli) por la ayuda en la corrección de este Blogpost!  
 
 Referencias:  

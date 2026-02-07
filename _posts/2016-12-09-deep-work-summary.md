@@ -53,4 +53,3 @@ Plan your evenings and weekends around activities other than those involving Int
 Feel free to share and recommend this summary if you liked it.
 [Check out the book here.](https://www.amazon.com/gp/product/1455586692/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1455586692&linkId=7be48e22ba4c13207e4c145b6e3786ce)
 Happy reading ?
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=2e34f4d74420)

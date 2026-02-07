@@ -72,5 +72,3 @@ It is useful to surround yourself with people who are also thinking big. Your cl
 If you squander your resources, you won’t get far. Saving is just as important as amassing money. Choose carefully where to invest your money in. Also, keep your living cost at a minimum.
 
 [Learn to reprogram your mind now, get the book ?](https://www.amazon.com/gp/product/0060763280/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0060763280&linkId=0411e75ea398871db7c5716f8493e409)
-
-![](/assets/images/stat)

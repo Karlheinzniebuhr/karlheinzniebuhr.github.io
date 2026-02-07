@@ -30,7 +30,6 @@ Siguió con un mail y un post explicando el motivo por el cual la teoría en est
 
 Este fue el mail de Dave:
 
-
 <div style="margin:0px"><center><table style="border:20px solid rgb(229,235,248);margin:10px auto;width:750px;text-align:left"><tbody><tr><td style="padding:20px"><div><a href="http://forums.udacity.com/" style="border:0px" target="_blank">
 
 <img src="https://d125fmws0bore1.cloudfront.net/assets/udacity_share-46db4b8faf075a5af5a1070a7fa0ad3639783609ff45f447e4ea467fe3aa9d32.png" alt="Udacity Discussion Forum" border="0" style="height:50px"></a>
@@ -85,7 +84,6 @@ def miFuncionOptimizada(algo):
 # test de comparación
 compare(miFuncion, miFuncionOptimizada, 10, algo)
 
-
 {% endhighlight %}
 
 **Caso 2: Utilizando la función compare**
@@ -111,14 +109,11 @@ def myOptimizedFunction(algo):
 myFunction(algo)
 myOptimizedFunction(algo)
 
-
 {% endhighlight %}
-
 
 Si bien este método no esta tan preciso como el método timeit que viene inlcuido con python, es lo suficientemente preciso para la mayoría de casos. La precisión en este caso esta definida por la granularidad del reloj de la plataforma (sistema operativo) en donde se esta ejecutando el programa.
 Espero que a más personas les sirva la librería, recibo sugerencias y contribuciones con gusto.
 Saludos
-
 
 ## *** UPDATE ***
 La libreria ahora esta disponible en el gestor de paquetes PyPi. Podes instalarla con este comando:

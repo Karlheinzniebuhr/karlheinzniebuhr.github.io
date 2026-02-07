@@ -75,5 +75,3 @@ Despite the rise and fall of many civilizations, often their contributions live 
 So even if history often repeats itself — unless all knowledge is destroyed — human knowledge and technology will continue to rise.
 
 [Click here to get the book NOW](https://www.amazon.com/gp/product/143914995X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=143914995X&linkId=b368a6d2376c6e79d64fe2cafac244d1)
-
-![](/assets/images/stat)

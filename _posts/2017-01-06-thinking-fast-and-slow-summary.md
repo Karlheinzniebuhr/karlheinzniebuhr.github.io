@@ -88,4 +88,3 @@ The gamble would have an expected positive outcome as you would win more than yo
 Many similar observations have lead to the conclusion that people fear losses more than they value gain. In other words, we have a loss aversion.
 Imagine another example where you’d win $200 on tails and lose $100 on heads.
 Most people prefer to gamble in this scenario. That is because of the “loss aversion ratio” which defines the balance of win and loss you are willing to take. In this case, if you’d accept to gample, that would mean that your loss aversion ratio is 2. For most people, it is 1.5 to 2.5. Loss aversion tends to increase when the stakes rise.
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=7a2331e24ba2)

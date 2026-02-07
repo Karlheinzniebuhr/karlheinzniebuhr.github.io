@@ -56,4 +56,3 @@ Ask yourself the focusing question every day
 Prioritize your to-do lists
 Stop multitasking
 ?[Click here to get this Masterpiece and start focusing on the ONE thing.](https://www.amazon.com/gp/product/1885167776/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1885167776&linkId=0fe78af6c44e382225e6792b7ae95479)?
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=c329bb2196dd)

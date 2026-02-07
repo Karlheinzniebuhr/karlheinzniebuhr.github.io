@@ -44,12 +44,9 @@ Es como que caminando el cerebro es mas creativo, de hecho existe un [estudio de
 - Reduce el estrés  
 - Quema grasa  
 
-
 **Conclusión**
 Si el hecho de nutrir al cerebro escuchando audiolibros y disfrutar de las caminatas no te convencieron de hacer del caminar un hábito regular, deberían haberte convencido los beneficios para la salud. Y para tener aún más potencial de quemar grasa recomiendo caminar a la mañana en ayuno y combinar con [IF para tener máximos resultados en perdida de grasa](karlheinzniebuhr.github.io/es/fitness/2016/01/05/IF-la-clave-para-quemar-grasa/).  
 Hasta pronto
-
-
 
 Resources:  
 [https://www.youtube.com/channel/UC6HKoewppuwDGj-S3vuf03Q](https://www.youtube.com/channel/UC6HKoewppuwDGj-S3vuf03Q)  

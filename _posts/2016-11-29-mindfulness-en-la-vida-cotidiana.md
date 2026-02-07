@@ -29,5 +29,3 @@ Nuestra mente tiende a acordarse del pasado o preocuparse por el futuro, pero co
 [Puedes obtener al libro aquí para ver más detalles.](https://www.amazon.com/gp/product/8449322774/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=8449322774&linkId=b91c5e9f2b51d965649cc75cd8174c0e)
 
 [*Si quieres revisar más reseñas de libros, dale clic en seguir a mi blog personal.*](http://medium.com/karlamantedelibros)
-
-![](/assets/images/stat)

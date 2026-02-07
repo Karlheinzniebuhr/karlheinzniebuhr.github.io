@@ -98,7 +98,6 @@ compare(lookup, hashtable_lookup, 10, index10, 'udacity')
 Output:  
 {% include image_full.html imageurl="/images/posts/10.png" title="" caption="" %}
 
-
 So far the lookup function is faster than the hash table lookup. This is probably due to the fact that the index size is so tiny, the cost of going through the 10 values is cheaper than calculating the hash of the keyword.  
 Lets test with an index of 100.  
 {% highlight python %}

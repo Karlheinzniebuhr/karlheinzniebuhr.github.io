@@ -82,4 +82,3 @@ People learn through osmosis. Learning directly from another person is a superio
 Recap: The key factors of good networking are generosity, openness, and determination.
 *How this book will help you**This book will help you to improve your* *social skills**, become better at connecting with people, and therefore open many doors for success in your life.*
 [Get the book](https://www.amazon.com/gp/product/0385346654/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0385346654&linkId=24c869e3ac42991576be900137620ffa)
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=6a50a73e9d15)

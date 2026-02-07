@@ -51,4 +51,3 @@ A good way to perform such a self-analysis is by honestly answering a variety of
 To accomplish positive outcomes, we have to think positively or “feed” positive things to our subconscious mind. Increase positive impulses such as love and enthusiasm.
 *Personal remark: This book is a classic and contains very useful advice as well as some weird parts, but as always in life, it is useful to sort out the good stuff. The author dedicated a big part of his life to the study of success. I highly recommend this book to everyone interested in the topic.*
 [Get the book here](https://www.amazon.com/gp/product/1912032678/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1912032678&linkId=8bcc72d6c2173ffc57f4623863e482a2)
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=cce1060e138c)

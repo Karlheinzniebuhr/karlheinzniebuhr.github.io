@@ -38,5 +38,3 @@ Esto es algo que una y otra vez veo recomendar a los autores. Hay estadísticas 
 Saludos
 
 Karl
-
-![](/assets/images/stat)

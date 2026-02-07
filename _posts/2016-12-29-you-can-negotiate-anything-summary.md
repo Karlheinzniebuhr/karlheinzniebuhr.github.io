@@ -86,4 +86,3 @@ Whenever negotiating something it could be easy to take things personally. Try t
 Sometimes playing emotionally can help your situation, for example when a cop calls you over, you’d be better off playing a confused tourist in a hurry and at the brink of tears than to enter into an argument.
 Being likable is powerful, if you like a sales persona at a particular store, you are more likely to shop there. Even courtrooms are not immune to likeability, sometimes the juries will absolve someone of guilt despite overwhelming evidence, simply because the prosecutor seems unpleasant.
 [Get the book here.](https://www.amazon.com/gp/product/0553281097/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0553281097&linkId=1b5ea73486c4a4fd2f1f1224b38e0338)
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=714551647821)

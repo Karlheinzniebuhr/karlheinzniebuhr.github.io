@@ -111,7 +111,6 @@ In homework 2 we had to use Proverif to analyze different types of protocols and
 
 I would rate the difficulty of the homework as challenging based on the comments of other students as well as my own appraisal.
 
-
 ## Grading: Norm-Referenced Grading at it's best?
 The AI exam consisted of about 6 pages of exercises which weren't that difficult but rather time consuming. With a hard time limit of two hours, there was little time for hesitation. Students had to compute every algorithm by hand quickly to finish on time although the difficulty was moderate.  
 One unexpected thing happened, though. After the exam evaluation, it was announced that the minimum amount of points to pass was changed from 50% to 60% resulting in the following mapping of points-grades.  

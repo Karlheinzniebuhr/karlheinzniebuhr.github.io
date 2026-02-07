@@ -25,8 +25,8 @@ Cual es el patrón aquí? Correcto! **La tendencia general es que el valor suba*
 Hay varias teorías sobre lo que causa inflación pero lo mas común parece ser inflación de moneda. Cuando entra mas dinero en un sistema de lo que se require, su valor disminuye. Es la ley básica de economía, suministro y demanda.
 Cada país normalmente tiene una institución encargada de regular el suministro de dinero a la economía. Pero que pasaría si ese mecanismo consistiría en una formula matemática? Bienvenidos al mundo de las monedas digitales! Bitcoin tiene un algoritmo especial encargado de regular la dificultad de mineo de la moneda. Se le denomina controlled supply (suministro controlado).
 El algoritmo consiste en una fórmula que reduce la recompensa para minear un 50% cada 210,000 bloques. Para aprender mas detalles leer [este post](https://en.bitcoin.it/wiki/Controlled_supply).
-![](/assets/images/Controlled_supply-block_reward_halving.png) En este gráfico se ve la reducción de la recompensa o en otras palabras, la intruducción a monedas nuevas en el sistema.[/caption]
-![](/assets/images/Controlled_supply-supply_over_block_height.png) En este gráfico se ve la curva logarítmica de suministro de moneda.[/caption]
+![](/assets/images/Controlled_supply-block_reward_halving.png) En este gráfico se ve la reducción de la recompensa o en otras palabras, la intruducción a monedas nuevas en el sistema.
+![](/assets/images/Controlled_supply-supply_over_block_height.png) En este gráfico se ve la curva logarítmica de suministro de moneda.
 > Quiz: Haciendo inferencia de las matemáticas detrás de Bitcoin y la ley de suministro-demanda, a qué conclusión llegas con respecto al valor a largo plazo de la moneda?
 
 Respuesta: Las matemáticas aseguran que la moneda no tenga inflación al ajustar la [dificultad de mineo](https://www.bitcoinmining.com/what-is-bitcoin-mining-difficulty/). Al mismo tiempo sabemos que la demanda del bitcoin parece crecer cada año. Entonces la consecuencia natural sería que el valor de la moneda siga subiendo. Ya que la demanda aumenta pero el suministro queda estable.

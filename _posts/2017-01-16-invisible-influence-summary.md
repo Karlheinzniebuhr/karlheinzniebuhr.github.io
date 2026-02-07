@@ -52,4 +52,3 @@ If a student is far behind his schoolwork, he will probably prefer to avoid comp
 #### *How this book will help you*
 
 *This book will help you to spot those hidden forces which shape people’s behavior so that you become conscious of, and even take advantage of them.*
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=cc83108ae366)

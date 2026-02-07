@@ -80,4 +80,4 @@ After discussing the issue, you’ll find yourself relieved to have dealt with t
 True love is powerful, but if someone with a great need for closeness falls in a relationship with someone with an avoidant attachment style, their relationship is likely not to work that well.
 The secret to a happy relationship is to find someone who can meet your needs. Effective communication is the way to **ensure** you will find a partner with does exactly that.
 Hope this will help you to find your ideal relationship
-[Get the book](http://amzn.to/2gvtJ4T)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=e83e0b2c3c99)
+[Get the book](http://amzn.to/2gvtJ4T)

@@ -90,4 +90,4 @@ Once you’ve gained more self-control and mindfulness, you can build stronger r
 ### Know yourself
 
 Look at yourself as an outsider and figure out anything you need or want to improve on yourself. Then meditate, understand your feelings and thoughts, correct self-destructive behavior and become the person you want to be.
-[Click here to get the book.](https://www.amazon.com/gp/product/0147516323/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0147516323&linkId=7cc5caeb061f526dc5cf96f383f33f53)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=c426c976ba4b)
+[Click here to get the book.](https://www.amazon.com/gp/product/0147516323/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0147516323&linkId=7cc5caeb061f526dc5cf96f383f33f53)

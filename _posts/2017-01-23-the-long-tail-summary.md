@@ -52,5 +52,3 @@ Studies have shown that traditionally retailers sell less because customers have
 [Click here to get the book ?](https://www.amazon.com/gp/product/1401309666/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1401309666&linkId=d4bf4eb3957eaf19c7cd5998e3a810ab)
 Personal remark: [A Quote from Shane Perrish’s mental model’s post.](https://www.farnamstreetblog.com/mental-models/)
 > What the book doesn’t get at is the relationship between these standards-driven industries where the Long Tail doesn’t matter, and the content industries where it does. There *aren’t* Long Tails everywhere.
-
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=a37e5fed5e2c)

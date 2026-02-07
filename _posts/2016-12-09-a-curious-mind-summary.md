@@ -48,4 +48,3 @@ New and specific questions like that show you’re genuinely interested in your 
 
 [If you are now curious to learn more, check out the book here.](https://www.amazon.com/gp/product/1476730776/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1476730776&linkId=26d91d7227e06c47a8fe5fecd78f1a86)
 Happy reading ?
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=ac3341f17bca)

@@ -39,4 +39,4 @@ Your goals have to be clearly defined but without being overly specific, because
 ### Save willpower by forming habits
 
 Whenever you can form habits, forming habits uses up willpower, but once they are formed they become automatic and help you save willpower. [Read more about habits here.](https://www.karlbooklover.com/the-power-of-habit-summary/)
-[Get the book here.](https://www.amazon.com/gp/product/0143122231/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143122231&linkId=5ecba5d69300d617984c970010efd533)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=1ef159dfa729)
+[Get the book here.](https://www.amazon.com/gp/product/0143122231/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143122231&linkId=5ecba5d69300d617984c970010efd533)

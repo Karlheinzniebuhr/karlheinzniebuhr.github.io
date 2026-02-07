@@ -75,4 +75,3 @@ Challenging the low-fat dogma, cardiologist Robert Atkins wrote the bestseller â
 
 [Get the book](https://www.amazon.com/gp/product/1451624433/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1451624433&linkId=2cdd7026c37d4effb75da67738998117)
 *Personal note: Having read nearly a dozen bestselling books about nutrition it seems to me that plant-based diets are the biggest player when it comes to preventing diseases.* *Check out the Summary of the [China Study](https://www.karlbooklover.com/the-china-study-summary/) for moreÂ details. Also, [watch this very good critique of the book.](https://www.youtube.com/watch?v=qmKv1m2SVio)*
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=8d22a374509e)

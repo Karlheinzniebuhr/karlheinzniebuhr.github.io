@@ -21,4 +21,3 @@ Espero que se pudo aprender algo de este resumen, no olvides en recomendarlo,
 Salud ?
 [Ah, y sígueme aquí para mas artículos en español](https://medium.com/karlamantedelibros)
 [Karl](http://twitter.com/NiebuhrKarl)
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=5d8ef867963e)

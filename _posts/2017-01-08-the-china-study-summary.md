@@ -95,5 +95,3 @@ There is a synergy between a healthy diet capable of preventing diseases and phy
 Are you ready to change your life with a more safer, more educated diet?
 
 [Get the book now ?](https://www.amazon.com/gp/product/1941631568/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1941631568&linkId=5a7755b7ea44061a035e9328cfe28cfb)
-
-![](/assets/images/stat)

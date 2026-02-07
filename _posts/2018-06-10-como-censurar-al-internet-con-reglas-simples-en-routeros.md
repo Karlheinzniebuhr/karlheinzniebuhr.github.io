@@ -17,25 +17,17 @@ Hice unas reglas de regex pattern matching en IP > Firewall > Layer 7 Protocols
 
 add comment="" name=torrent-wwws regexp="^.*(get|GET).+(torrent|thepiratebay|isohunt|entertane|demonoid|btjunkie|mininova|flixflux|torrentz|vertor|h33t|btscene|bitunity|bittoxic|thunderbytes|entertane|zoozle|vcdq|bitnova|bitsoup|meganova|fulldls|btbot|flixflux|seedpeer|fenopy|gpirate|commonbits).*\$"
 
-
-
 # Now we put in a firewall rule to block with this L7.
 
 /ip firewall filter
 
 add action=drop chain=forward comment="block torrent wwws" disabled=no layer7-protocol=torrent-wwws
 
-
-
-
-
 # Lets block DNS queries based on the same regex.
 
 /ip firewall layer7-protocol
 
 add comment="" name=torrent-dns regexp="^.+(torrent|thepiratebay|isohunt|entertane|demonoid|btjunkie|mininova|flixflux|torrentz|vertor|h33t|btscene|bitunity|bittoxic|thunderbytes|entertane|zoozle|vcdq|bitnova|bitsoup|meganova|fulldls|btbot|flixflux|seedpeer|fenopy|gpirate|commonbits).*\$"
-
-
 
 # Here’s the firewall rule to block:
 

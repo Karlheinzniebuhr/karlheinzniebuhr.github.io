@@ -34,7 +34,6 @@ Empecé con el foro http://www.lajaula.com.py/ en el cual deje que la [araña we
 En esta imagen ya se ve un patron de palabras muy familiares en nuestro país.
 {% include image_full.html imageurl="/images/posts/captura-dict-lajaula.png" title="" caption="Lajaula" %}
 
-
 Luego procese la pagina de abc-color, ultimahora, datamexguarani, portalguarani y el foro paraguayo en skyscrapercity ademas de unas otras paginas que prefiero no nombrar por seguridad. En cada pagina coleccionaba entre 20 y 55.000 palabras únicas. Ahora solo quedaba unificar todos los diccionarios y eliminar las palabras duplicadas.
 En esta tarea los comando bash son la mejor ayuda. Primero puse los diferentes diccionarios en una carpeta.
 Luego junte, odene y elimine los duplicados.
@@ -63,10 +62,7 @@ En total la lista contiene 8.000.000 números vs los **10<sup>10</sup>** = 10,00
 
 **<a href="karlheinzniebuhr.github.io/downloads/wordlists/NumerosTelPY.txt" download>Descargar Dict-Numeros-Paraguay</a>**
 
-
 Favor solo usar para hacking ético.  No me hago responsable del mal uso de los diccionarios.
-
-
 
 Otros links:  
 <a href="https://chrome.google.com/webstore/detail/whatsapp-flooder/gifobmlikjfiopmddbgcnolkgkbbbiie">Whatsapp flooder</a>

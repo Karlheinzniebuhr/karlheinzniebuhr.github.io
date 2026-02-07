@@ -53,5 +53,3 @@ Permission marketing stems from a century ago where businesses had to rely on wo
 Another important factor contributed to the rise of permission marketing, the advent of cheap two-way communication platforms, the biggest facilitator of which was the Internet. The Internet offers an easy, cheap and ubiquitous way to establish a dialog with customers.
 
 [Click here to get the book](https://www.amazon.com/gp/product/0684856360/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0684856360&linkId=081c2bacbb9ddc9a3e4ef9e48d300249)
-
-![](/assets/images/stat)

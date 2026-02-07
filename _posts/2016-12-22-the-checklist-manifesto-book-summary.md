@@ -61,4 +61,4 @@ Example: Jody Adams, a chef at Rialto Restaurant in Boston, uses checklists as r
 Financiers use checklists to check whether to invest in a company or not. They enable them to build a quick method to evaluate investments.
 > Use checklists to avoid errors and make use of complex knowledge in an effective way.
 
-[Get the book here](http://amzn.to/2hKdfFB)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=bb7eac3ba360)
+[Get the book here](http://amzn.to/2hKdfFB)

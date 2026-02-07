@@ -61,5 +61,4 @@ Retrieval turns out to be one of the most efficient uses of your study time, use
 
 Cheers 👽
 
-
 [source](http://thebrainflux.com/how-to-learn-faster-using-retrieval/)

@@ -71,5 +71,3 @@ While in some countries government interventions have had great success, restric
 > The solution seems to be more awareness from the consumers.
 
 [Click here to get the book and start becoming more conscious about a healthy nutrition](https://www.amazon.com/gp/product/0812982193/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0812982193&linkId=b1c3f3fc51891be18d379fe86afdf0bd)
-
-![](/assets/images/stat)

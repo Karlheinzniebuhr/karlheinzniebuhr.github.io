@@ -93,5 +93,3 @@ Project planning is often an unnatural non-structured process. Natural planning 
 Once your ideas are organized, you start finding concrete steps to accomplish them and getting closer to your goal.
 
 [Get the book here](https://www.amazon.com/gp/product/0143126563/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0143126563&linkId=d9e1d7e39c1a8a426b3381418e4447eb)
-
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=df4e192b06d8)

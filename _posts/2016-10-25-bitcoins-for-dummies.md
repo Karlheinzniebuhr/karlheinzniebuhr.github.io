@@ -30,7 +30,6 @@ Si uno usa servicios como Coinbase, siempre tiene la facilidad de llamar a la em
 
 En síntesis, hasta los servicios menos anónimos de bitcoin generalmente siguen ofreciendo una forma de pago mas anónima que transacciones tradicionales.
 
-
 ### Enviando fondos a través de Coinbase  
 ![](/images/posts/coinbase.png)
 
@@ -53,7 +52,6 @@ Si no tienes posibilidad de realizar esa transferencia, puedes comprar bitcoins 
 7. Transferir bitcoins a tu wallet de wirex desde tu wallet de coinbase (por ejemplo).
 
 8. Pagar con tu tarjeta en casi cualquier lugar en cualquier país, sin necesidad de hacer contratos con un banco ;)
-
 
 ### La tarjeta de débito virtual de e-coin (completamente gratis)  
 ![](/images/posts/ecoin.png)

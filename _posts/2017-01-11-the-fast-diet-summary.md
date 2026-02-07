@@ -81,5 +81,3 @@ Studies have shown that two weeks of fasting for 20 hours every other day result
 When we fast, our body uses stored fat cells as energy. These cells are which disturb insulin from working properly, thus fasting leads to fewer fat cells and increased insulin efficiency.
 
 Intermittent fasting has proved to increase vitality and longevity. Are you ready to give it a try? [Click here to get the book ?.](https://www.amazon.com/gp/product/150110201X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=150110201X&linkId=3ae7cba4d4db1a8477ee6cc942d4bf0c)
-
-![](/assets/images/stat)

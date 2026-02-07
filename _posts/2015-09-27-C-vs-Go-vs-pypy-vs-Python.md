@@ -195,8 +195,6 @@ L_.str:                                 ## @.str
 .subsections_via_symbols
 {% endhighlight %}
 
-
-
 Go with command line argument
 {% highlight c %}
 package main
@@ -229,7 +227,6 @@ $ otool -tvV loop_sum_go
 
 C  
 {% include image_full.html imageurl="/images/posts/c-cmd.png" title="" caption="" %}
-
 
 What also is interesting is that it doesn’t seem to matter much if I pass in bigger numbers, here trying with 1.000.000.000  
 {% include image_full.html imageurl="/images/posts/c-cmd2.png" title="" caption="" %}

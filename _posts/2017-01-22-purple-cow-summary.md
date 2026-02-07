@@ -47,5 +47,3 @@ A simple slogan is a powerful way to convey the main message behind a product. Y
 You should also measure the efficiency of ads and make adjustments. If your ads are not effective, stop investing in them and try something different instead.
 
 [Click here to get the book ?](https://www.amazon.com/gp/product/1591843170/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1591843170&linkId=e2092240290eb8cb2b1bdea3cb6f22d2)
-
-![](/assets/images/stat)

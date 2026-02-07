@@ -122,5 +122,3 @@ People often use arrogance to hide their ignorance. If you want to be successful
 [Get the book here?](https://www.amazon.com/gp/product/1612680011/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kasbl023-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1612680011&linkId=7844e24aaa58fa5ef405fce8b1fdfb7f)
 
 [Subscribe to my mailing list](https://tinyletter.com/booklover).
-
-![](/assets/images/stat)

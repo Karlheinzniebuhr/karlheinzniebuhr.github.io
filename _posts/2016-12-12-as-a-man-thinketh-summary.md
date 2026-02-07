@@ -23,4 +23,4 @@ The thing is, whether we are victims of our circumstances or not, it is not usef
 Our dreams and aspirations are what give us the impetus to turn our goals into achievements. That’s why it is crucial to keep your dreams alive. Let go of all negative and distracting thoughts and focus on the thoughts which get you closer to your goal.
 Dream purposefully about the outcome you desire and discipline your mind to focus on what you want. It isn't easy, especially when you are just starting to direct your thoughts, but your mind is like a muscle, with practice you will become better at it.
 Hope you’ll learn to empower your thoughts.
-[Get the book](http://amzn.to/2hojSv2)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=ab8efff58186)
+[Get the book](http://amzn.to/2hojSv2)

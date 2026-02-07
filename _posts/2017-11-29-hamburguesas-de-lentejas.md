@@ -26,4 +26,4 @@ Preparación:
 - Servir
 
 Buen provecho! 🙌
-![](/assets/images/20171205_115438-1024x768.jpg) En estas mezcle lentejas con poroto negro y agregue un poco de brócoli y chipotles[/caption]
+![](/assets/images/20171205_115438-1024x768.jpg) En estas mezcle lentejas con poroto negro y agregue un poco de brócoli y chipotles

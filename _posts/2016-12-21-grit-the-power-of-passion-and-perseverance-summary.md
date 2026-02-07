@@ -70,4 +70,4 @@ The same effect holds true if parents instill the belief to their children that 
 > The lesson: Parents and teachers should motivate their children to work harder and explain to them that they can achieve if they put in the grit.
 
 The key takeaway from this book is: With grit (determination/effort/perseverance) you can overcome many obstacles, oven lack of talent, to reach your goal.
-[Get the book here.](http://amzn.to/2ieLi5U)![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=92618f8a6a5c)
+[Get the book here.](http://amzn.to/2ieLi5U)

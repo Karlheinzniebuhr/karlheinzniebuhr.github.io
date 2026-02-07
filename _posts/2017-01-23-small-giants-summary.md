@@ -33,4 +33,3 @@ Small companies often deeply care about local communities because they play a ma
 #### Small companies tend to have more loyal employees
 
 Caring for their surrounding community and staff pays off for small companies. In return, they get more loyalty from their employees. One manager of a Chicago-based picture framing company was offered a $10.000 raise in annual salary from a competitor. He refused because he felt that the other company did not treat its employees as fairly as AFS.
-![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=9b64e0e7956)
