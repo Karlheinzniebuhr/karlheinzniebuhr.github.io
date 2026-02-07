@@ -16,7 +16,7 @@ This point is far more important than most of us think. Sometimes we have to hit
 
 #### Accept failure
 
-If you wither about failures you will take longer to go back to work on what's important or worse, fail to recover altogether. Change your relationship with failure, think about it like this: "To get to my objective I need to overcome 10 embarrassing failures." Now every time you fail you will feel great because you know you are one failure closer to your goal.
+If you worry about failures you will take longer to go back to work on what's important or worse, fail to recover altogether. Change your relationship with failure, think about it like this: "To get to my objective I need to overcome 10 embarrassing failures." Now every time you fail you will feel great because you know you are one failure closer to your goal.
 
 #### Stay humble
 
@@ -36,4 +36,4 @@ Find your inner motivation. Don't just do things because you are told to. For ex
 
 #### Continuously learn
 
-Something I noticed is that if I find the joy of doing something, I learn faster, better all the while having lots of fun. Adopt a continuos learning mindset and try to make it as fun as possible. If you want to learn more about how happines defines success click [this link](https://www.karlbooklover.com/lessons-from-the-happiness-advantage/).
+Something I noticed is that if I find the joy of doing something, I learn faster, better all the while having lots of fun. Adopt a continuous learning mindset and try to make it as fun as possible. If you want to learn more about how happines defines success click [this link](https://www.karlbooklover.com/lessons-from-the-happiness-advantage/).

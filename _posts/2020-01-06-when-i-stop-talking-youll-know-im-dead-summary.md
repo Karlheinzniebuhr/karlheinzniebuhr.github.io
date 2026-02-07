@@ -60,7 +60,7 @@ A recipe to make no significant progress is to just stay in place once you are h
 >
 > Now, as I said, every few days, another crew of guys shipped in from the Aleutian Islands, picked up their checks, and went on a spree. So when these guys, chilled to the bone, holding their cash, came into the street, what's the first thing they saw? The Sachs Men's Shop. I decided to tell a story, to package a fantasy right in the big front window. I made a beach scene there, with a guy in a bathing suit sitting beside a gorgeous girl, drinking rum under an umbrella as waves break. The men stood there, mesmerized. Then they came in and talked to me. I took some of their money and in return set them up with a whole package, the plane tickets, the Florida hotel, the clothes, the beach stuff--everything but the girl. It was the Star of Ardaban all over again.
 >
-> By the time of my discharge, I was running the show. I was not sure I would ever again have such a firm handle on things. Mr. Sachs asked me to stay on as a civilian, but this made me laugh. I was anxious to get back. This much I knew: As soon as you feel comfortable, that's when its time to start over.
+> By the time of my discharge, I was running the show. I was not sure I would ever again have such a firm handle on things. Mr. Sachs asked me to stay on as a civilian, but this made me laugh. I was anxious to get back. This much I knew: As soon as you feel comfortable, that's when it's time to start over.
 
 ## Be willing to be lucky
 

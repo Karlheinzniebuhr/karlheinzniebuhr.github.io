@@ -19,7 +19,7 @@ It's been two years since I read [Becoming Steve Jobs](https://www.karlbooklover
 
 ## Aversion to authority
 
-It was no coincidence that Steve's team at apple later identified as pirates. He was a rebel by nature which gave him trouble at school.
+It was no coincidence that Steve's team at Apple later identified as pirates. He was a rebel by nature which gave him trouble at school.
 
 > Even before Jobs started elementary school, his mother had taught him how to read. This, however, led to some problems once he got to school. “I was kind of bored for the first few years, so I occupied myself by getting into trouble.” It also soon became clear that Jobs, by both nature and nurture, was not disposed to accept authority. “I encountered authority of a different kind than I had ever encountered before, and I did not like it. And they really almost got me. They came close to really beating any curiosity out of me.” 
 > His school, Monta Loma Elementary, was a series of low-slung 1950s buildings four blocks from his house. He countered his boredom by playing pranks. “I had a good friend named Rick Ferrentino, and we’d get into all sorts of trouble,” he recalled. “Like we made little posters announcing ‘Bring Your Pet to School Day.’ It was crazy, with dogs chasing cats all over, and the teachers were beside themselves.” Another time they convinced some kids to tell them the combination numbers for their bike locks. “Then we went outside and switched all of the locks, and nobody could get their bikes. It took them until late that night to straighten things out.” When he was in third grade, the pranks became a bit more dangerous. “One time we set off an explosive under the chair of our teacher, Mrs. Thurman. We gave her a nervous twitch.” 
@@ -45,7 +45,7 @@ I came to understand the power of having a business partner with complementary s
 
 > The ultimate combination of pranks and electronics—and the escapade that helped to create Apple—was launched one Sunday afternoon when Wozniak read an article in *Esquire* that his mother had left for him on the kitchen table. It was September 1971, and he was about to drive off the next day to Berkeley, his third college. The story, Ron Rosenbaum’s “Secrets of the Little Blue Box,” described how hackers and phone phreakers had found ways to make long-distance calls for free by replicating the tones that routed signals on the AT&T network. “Halfway through the article, I had to call my best friend, Steve Jobs, and read parts of this long article to him,” Wozniak recalled. He knew that Jobs, then beginning his senior year, was one of the few people who would share his excitement.
 
-Woz and Steve went on to build a replica of the blue box which brought out the best of them. The engineering ability of Woz, and the attention to detail, as well as business savy of Jobs.
+Woz and Steve went on to build a replica of the blue box which brought out the best of them. The engineering ability of Woz, and the attention to detail, as well as business savvy of Jobs.
 
 > It was then that they reached an important milestone, one that would establish a pattern in their partnerships: Jobs came up with the idea that the Blue Box could be more than merely a hobby; they could build and sell them. “I got together the rest of the components, like the casing and power supply and keypads, and figured out how we could price it,” Jobs said, foreshadowing roles he would play when they founded Apple. The finished product was about the size of two decks of playing cards. The parts cost about $40, and Jobs decided they should sell it for $150.
 
@@ -76,7 +76,7 @@ I was surprised that Steve actually learned a lot of the traits that later made 
 
 ## Starting Apple
 
-Steve Wozniak came up with the first personal computer with a keyboard to insert commands. Woz the kind of guy he was, just gave it away free at the homebrew computer club. That's' when Jobs' instincts kicked in.
+Steve Wozniak came up with the first personal computer with a keyboard to insert commands. Woz the kind of guy he was, just gave it away free at the homebrew computer club. That's when Jobs' instincts kicked in.
 
 > So he convinced Wozniak to stop giving away copies of his schematics. Most people didn’t have time to build it themselves anyway, Jobs argued. “Why don’t we build and sell printed circuit boards to them?” It was an example of their symbiosis. “Every time I’d design something great, Steve would find a way to make money for us,” said Wozniak. Wozniak admitted that he would have never thought of doing that on his own. “It never crossed my mind to sell computers. It was Steve who said, ‘Let’s hold them in the air and sell a few.’” 
 > Jobs worked out a plan to pay a guy he knew at Atari to draw the circuit boards and then print up fifty or so. That would cost about $1,000, plus the fee to the designer. They could sell them for $40 apiece and perhaps clear a profit of $700. Wozniak was dubious that they could sell them all. “I didn’t see how we would make our money back,” he recalled. He was already in trouble with his landlord for bouncing checks and now had to pay each month in cash. 
@@ -84,7 +84,7 @@ Steve Wozniak came up with the first personal computer with a keyboard to insert
 
 ## Learning Marketing from Mike Markkula
 
-Another key person Steve learned his genius from was Mike Markkula. Specifically, Mike though Steve how to package and market products. Jobs met Mike after an investor recommended he should hire a person who understands marketing, distribution and how to write a business plan. Jobs met with 3 people, one of them was Mike.
+Another key person Steve learned his genius from was Mike Markkula. Specifically, Mike taught Steve how to package and market products. Jobs met Mike after an investor recommended he should hire a person who understands marketing, distribution and how to write a business plan. Jobs met with 3 people, one of them was Mike.
 
 > Jobs immediately liked Markkula. “He was short and he had been passed over for the top marketing job at Intel, which I suspect made him want to prove himself.” He also struck Jobs as decent and fair. “You could tell that if he could screw you, he wouldn’t. He had a real moral sense to him.” Wozniak was equally impressed. “I thought he was the nicest person ever,” he recalled. “Better still, he actually liked what we had!” 
 > Markkula proposed to Jobs that they write a business plan together. “If it comes out well, I’ll invest,” Markkula said, “and if not, you’ve got a few weeks of my time for free.” Jobs began going to Markkula’s house in the evenings, kicking around projections and talking through the night. “We made a lot of assumptions, such as about how many houses would have a personal computer, and there were nights we were up until 4 a.m.,” Jobs recalled. Markkula ended up writing most of the plan. “Steve would say, ‘I will bring you this section next time,’ but he usually didn’t deliver on time, so I ended up doing it.” 

@@ -8,7 +8,7 @@ tags: [Business, Technology]
 
 Yesterday I sat down to enjoy [Elon's interview](https://www.youtube.com/watch?v=lS3nIyetS4I&t=5s) at Air Force Space Pitch Day and wrote down some notes. Elon is brilliant at distilling business to the core principles. It's his way of applying first-principles thinking.
 
-### Make something that print's money
+### Make something that prints money
 
 At the [2019 Earnings Call](https://youtu.be/LHXZuWoikpk?t=288) Elon explained his business model for Tesla's Solar Energy.
 
@@ -35,7 +35,7 @@ When asked how to build and grow successfully a company, and how managing a tiny
 >
 > — Elon Paraphrased
 
-I remember vividly how Charlie Munger uses to emphasize incentives. Here's a quote from The Psychology of Human Misjudgment.
+I remember vividly how Charlie Munger used to emphasize incentives. Here's a quote from The Psychology of Human Misjudgment.
 
 > Well, I think I’ve been in the top 5% of my age cohort all my life in understanding the power of incentives, and all my life I’ve underestimated it. And never a year passes but I get some surprise that pushes my limit a little farther.
 >

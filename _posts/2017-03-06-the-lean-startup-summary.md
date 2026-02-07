@@ -19,7 +19,7 @@ The primary thing a startup must do is find a sustainable business model. Withou
 The startup has to find out what customers want and how to offer it so that money can be made from it. This process requires constant learning, better even, validated learning, which means using a scientific approach. Validated learning works like this.
 First, come up with a hypothesis about whether certain products will be successful in a given market. Then test that hypothesis, by validating it with customers the startup can find out if it will enable a sustainable business model.
 A perfect example represents the success story of Zappos. Zappos formed the hypothesis that people would be willing to buy shoes online. To test that idea, the startup put photographs of shoes in shoe stores and put them up in a fake web shop. Once people actually tried to buy the shoes online, Zappos had confirmed its hypothesis. This simple approach laid the foundation for one of the most successful business models of the last decade.
-In a founder needs a leap of faith, she needs to believe that the startup will be successful and act accordingly. To succeed, the gap between believing and knowing has to be overcome, and that can be done by making sure the product will deliver value and that there will be a bigger market later so that the startup has room for growth.
+A founder needs a leap of faith, she needs to believe that the startup will be successful and act accordingly. To succeed, the gap between believing and knowing has to be overcome, and that can be done by making sure the product will deliver value and that there will be a bigger market later so that the startup has room for growth.
 
 ### The minimal viable product has to be launched ASAP to get feedback
 

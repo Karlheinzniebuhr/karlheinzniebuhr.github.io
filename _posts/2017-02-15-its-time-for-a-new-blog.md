@@ -9,7 +9,7 @@ banner_image: books.jpg
 archived: true
 ---
 
-Since I started my Blog on Jekyll in 2015, I've had great fun and experiences. [One of my Blogposts still gets thousands of visits every month](http://karlheinzniebuhr.github.io/en/2015/09/28/C-vs-Go-vs-pypy-vs-Python/). But now its time to move to a new platform. I've always liked the simplicity and the control over a platform like this, but there are also some cons.
+Since I started my Blog on Jekyll in 2015, I've had great fun and experiences. [One of my Blogposts still gets thousands of visits every month](http://karlheinzniebuhr.github.io/en/2015/09/28/C-vs-Go-vs-pypy-vs-Python/). But now it's time to move to a new platform. I've always liked the simplicity and the control over a platform like this, but there are also some cons.
 
 Even though markdown is very easy to use, when one wants to focus exclusively on writing, a good editor is simply better. When I focus on writing about books like I currently do a lot, I don't want to insert markdown etc manually. Even though using ATOM it is so simple to update (commit-push) my page with a simple keyboard shortcut, it's not the same.
 

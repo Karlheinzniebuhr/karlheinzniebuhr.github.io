@@ -48,5 +48,5 @@ At this point, you should be convinced of the [benefits of meditation](http://li
 
 Your mind will inevitably wander off to other things, this is ok and when it happens,  simply refocus to your breathing without judgment.
 The first encounter with mindfulness will probably happen while you meditate, like an itchy nose or sore legs. Simply observe the pain with impartiality and without reacting. Eventually, you will be able to apply mindfulness to more complex discomforts and situations.
-That's it, mediation is that easy.
+That's it, meditation is that easy.
 [Get the book.](https://www.amazon.com/10-Happier-Self-Help-Actually-Works/dp/0062265431/ref=sr_1_1?ie=UTF8&qid=1498583964&sr=8-1&keywords=10+percent+happier&tag=kasbl023-20)

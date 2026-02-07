@@ -43,7 +43,7 @@ Alipay is Alibaba's payment solution. But it's much more than a simple payment s
 
 ## Helping your people
 
-Jack seems like an unconventional co-founder. From the get, he shared stackes with all of his employees. Jack cares for his people.
+Jack seems like an unconventional co-founder. From the get, he shared stakes with all of his employees. Jack cares for his people.
 
 > Joe’s first task was to document Alibaba’s shareholders: “I called him up and said, ‘Jack, I’m incorporating the company. Who are the shareholders?’ He faxed me a list of the names. My jaw dropped, because every single one of those kids in the apartment was on the list, as a shareholder. So from day one, he gave away quite a lot .” But as Joe looked through the eighteen names he realized that “everybody was a crucial part of the team, whether an engineer or in customer service.” He laughed as he recalled the nickname Potato for cofounder Lucy Peng, which she used when answering emails sent from Alibaba’s Western customers.
 

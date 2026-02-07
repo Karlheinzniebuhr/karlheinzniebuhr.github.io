@@ -28,7 +28,7 @@ We tend to cope with overly complex information by taking instinctive our "gut" 
 For example, smokers may cope with their habit by thinking and arguing that they know one person who smoked his or her entire life and lived healthily to old age. Cherry picking one person and ignoring thousands of examples and studies which show otherwise might only make you feel good if you lack the complete picture, namely, knowledge about those studies.
 But even if people have a complete knowledge, that doesn't at all mean that they will act accordingly. For example, a doctor, knowing cigarette's hazard, might still smoke.
 
-### Laking Willpower
+### Lacking Willpower
 
 Often, however, it is the case that people indeed consciously know they are doing the wrong thing, but they do it anyway because they lack the [willpower](https://www.karlbooklover.com/willpower-summary/) to overcome their bad [habits](https://www.karlbooklover.com/the-power-of-habit-summary/).
 
@@ -38,7 +38,7 @@ Companies often take advantage of the previous point. They know that people make
 
 ### Nudges can help people
 
-Nudges are incentives which lead people in the right direction without forcing them to make a particular decision. For example, a shop can nudge customers to buy healtheir foods by placing fruit close to the entry point and placing candies further back.
+Nudges are incentives which lead people in the right direction without forcing them to make a particular decision. For example, a shop can nudge customers to buy healthier foods by placing fruit close to the entry point and placing candies further back.
 Companies have used nudges for a long time, supermarkets, for example, may place the most expensive products on eye level and certain things along the waiting line so that people buy things they otherwise would've skipped.
 People often use nudges to change their behavior. If a person knows that by going out to a certain place he or she will likely make wrong decisions -- drinking too much for example -- not going to that place in the first place would be a nudge.
 There are even websites like Stickk.com which let people make public commitment contracts, putting their money on the stack to ensure that they will push through and accomplish their goals. The money is there so that if they don't accomplish their goals, it automatically gets donated to a person or organization which they initially selected.

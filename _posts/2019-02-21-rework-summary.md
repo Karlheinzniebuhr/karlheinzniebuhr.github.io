@@ -72,7 +72,7 @@ Don't build long to-do lists. They will be ignored anyway. Instead, focus on exe
 
 #### Throw less at the problem
 
-When things aren't working, the natural inclination is to throw more at them. That make s the problem bigger, cut back instead. There is a good chance your project will end up better because you will be able to sort out what truly matters.
+When things aren't working, the natural inclination is to throw more at them. That makes the problem bigger, cut back instead. There is a good chance your project will end up better because you will be able to sort out what truly matters.
 
 #### Focus your business on things that won't change
 
@@ -92,7 +92,7 @@ Deciding when to launch can be hard, there is always something you can improve o
 
 #### Use something real as an example, not documents and words
 
-People read documents and words differently. There will be many interpretations and miss-interpretations will cause confusion and lost time. That's why you want to get something that is real right away. That's when you get a true understanding.
+People read documents and words differently. There will be many interpretations and misinterpretations will cause confusion and lost time. That's why you want to get something that is real right away. That's when you get a true understanding.
 
 #### Interruptions are the enemy of productivity
 

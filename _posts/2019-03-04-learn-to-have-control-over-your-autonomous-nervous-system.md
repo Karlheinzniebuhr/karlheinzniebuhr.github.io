@@ -11,7 +11,7 @@ If I had read this title a short while ago I would probably have scoffed it off 
 
 I'm already a daily meditator, why not explore related techniques? Especially after recognizing a pattern between yoga and Wim Hof's technique.
 
-Reading a book about a skeptical investigative journalist trying to debunk Wim who ended up being an avid practitioner of his training seemed like a good idea too start.
+Reading a book about a skeptical investigative journalist trying to debunk Wim who ended up being an avid practitioner of his training seemed like a good idea to start.
 
 In the following chapters you will learn about our nervous system, about its relationship with the environment and how we can learn to intentionally control parts of our deeper nervous system which normally operates isolated from our conscious control.
 

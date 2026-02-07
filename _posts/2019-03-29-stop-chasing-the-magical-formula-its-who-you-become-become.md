@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stop chasing the magical formula, It's who you become become"
+title: "Stop chasing the magical formula, It's who you become"
 date: 2019-03-29 11:13:08 +0000
 categories: [Blog]
 tags: [Psychology, Self-Improvement]

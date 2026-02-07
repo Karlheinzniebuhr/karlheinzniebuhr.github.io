@@ -9,7 +9,7 @@ book: true
 
 Learn how to be yourself
 [![](/assets/images/gift-199x300.jpg)](https://www.amazon.com/dp/B00BS03LL6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1&tag=kasbl023-20)
-Most of us don't live out their true desires but instead, live according to other peoples rules. The problem with trying to fulfill other's expectations, however, is that we will never satisfy them all and even if we do, we are still not funfilled because we don't really like what we are doing. So how can we live according to our true passion?
+Most of us don't live out their true desires but instead, live according to other peoples rules. The problem with trying to fulfill other's expectations, however, is that we will never satisfy them all and even if we do, we are still not fulfilled because we don't really like what we are doing. So how can we live according to our true passion?
 
 ### Be authentic
 

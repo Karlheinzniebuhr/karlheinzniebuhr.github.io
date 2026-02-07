@@ -53,7 +53,7 @@ Larry and Sergey loved the idea of Google being a "disorg". An engineering organ
 
 ## How to do meetings
 
-What about meetings? In my experience, in companies, they use to waste a lot of people's time. The problem is when too many people are in the same room. It is difficult to resolve specific issues when you have to talk about things that are general so that everyone knows what you are talking about.
+What about meetings? In my experience, in companies, they used to waste a lot of people's time. The problem is when too many people are in the same room. It is difficult to resolve specific issues when you have to talk about things that are general so that everyone knows what you are talking about.
 
 One on one meetings, on the other hand, tend to be very productive in my experience. I realize how good a meeting was when I come out of it with clarity about what to do next, with tons of work that just needs execution.
 

@@ -31,7 +31,7 @@ After messing up an investment he himself approved, Schwarzman implemented a met
 
 ## Don't give up
 
-When starting Blackstone, Pete and Stephen wen through dozens of interviews without getting any clients to sign. Giving up would have seemed the right thing to do for most people.
+When starting Blackstone, Pete and Stephen went through dozens of interviews without getting any clients to sign. Giving up would have seemed the right thing to do for most people.
 
 > I had to do something. I left Pete and ran into the street to try to hail a taxi. In no time, the rain soaked through my jacket and shirt straight to my skin. My clothes were hanging off me like rags, the water streaming into my eyes and down my face. Every time I thought I finally had a taxi, someone else grabbed it before me. Desperate and drenched, I spotted a cab sitting at a red light and ran over to it. I banged on the back window and held up a limp twenty-dollar bill, hoping the bribe would be enough for the passenger to let us get in with him. He stared at me through the glass. I must have looked bizarre, hammering on the window in my sopping wet suit. He refused. Two more people did the same. I raised my offer to thirty dollars and finally someone accepted.
 >

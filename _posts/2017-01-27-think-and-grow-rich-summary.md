@@ -38,12 +38,12 @@ Faith and many other traits are something not everyone has. Use auto-suggestion 
 
 #### Become a constant learning machine
 
-Getting a formal degree won’t do the job, in fact, much “uneducated people” have become successful and rich. One example is Henry Ford. Ford knew that he didn’t have to know all the facts, it was enough that he knew whom to ask.
+Getting a formal degree won’t do the job, in fact, many “uneducated people” have become successful and rich. One example is Henry Ford. Ford knew that he didn’t have to know all the facts, it was enough that he knew whom to ask.
 Know where to get the information and keep learning through whatever means possible. Take courses, read books, find mentors, attend university, but most importantly, make learning a daily habit.
 
 #### Know thyself
 
-To fix common reasons for failure, like lack of resolving, procrastination, etc., you need to have sufficient self-awareness so that you take the actions against these weaknesses.
+To fix common reasons for failure, like lack of resolve, procrastination, etc., you need to have sufficient self-awareness so that you take the actions against these weaknesses.
 A good way to perform such a self-analysis is by honestly answering a variety of questions like: Why haven’t I achieved my goal? Have I fixed my procrastination issue?
 
 #### Positive emotions

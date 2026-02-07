@@ -14,7 +14,7 @@ In the following paragraphs, Shawn Achor explains how he managed to form a new d
 #### THE 20-SECOND RULE
 
 How to Turn Bad Habits into Good Ones by Minimizing Barriers to Change 
-D uring one of the first trainings I ever gave on Wall Street, an impatient-looking man 
+During one of the first trainings I ever gave on Wall Street, an impatient-looking man 
 stood up in the back of the room and shouted over the heads of his fellow analysts. 
 “Shawn, I know you’re from Harvard and everything, but isn’t this all a huge waste of 
 time? Isn’t positive psychology just common sense?” 
@@ -274,7 +274,7 @@ least resistance has on us. By using fMRI technology to analyze people’s brain
 exposure to the sound, he found a nearly universal negative emotional response. And yet 
 amazingly, 80 million Nokia users have it as their ringtone. Why would they keep the ring 
 that grates on their ears and sends them into an emotional tailspin every time they get a 
-call? Because it’s the default option. And whether we’re aware or it or not, default 
+call? Because it’s the default option. And whether we’re aware of it or not, default 
 options are everywhere, shaping our choices and our behavior in all areas of our lives. 
 At the grocery store, we buy more food off shelves that directly meet our eye and less 
 off those that require us to look up or kneel down. 14 Every retailer knows this, and you 

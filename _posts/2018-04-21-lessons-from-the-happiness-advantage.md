@@ -12,13 +12,13 @@ I recently stumbled on [Shawn Achor's Ted Talk about Happiness](https://www.yout
 What the cult of the average does is, in simple terms, ignore the outliers in our data. Actually in psychology for many years attention was paid to the outliers, but to the negative ones. That is until Martin Seligman popularized positive psychology. Martin said something like, "Let's not only look at the negative, let's also look at the positive outliers.
 The reason why we want to look at the positive outliers, the people who are the happiest, most successful, is because they represent the potential. Studying them can teach us how they got there, and applying that knowledge to the rest of us can have immensely positive outcomes. So since Shawn also wrote a book, I naturally had to read it. Let me quote and explain the parts of Shawn's book I most like.
 **Positive psychology at work**
-Most people believe that if they are successful, they will eventually become happy. This formula has been thought to most of us by schools, parents, society or companies. It turns out this formula is flawed. To know why let's apply common sense first and then look at the studies. If success means happiness, why then are there so many unhappy people which by today's standard of success, should be happy? And why are many people living in (today's standards) poverty so happy?
+Most people believe that if they are successful, they will eventually become happy. This formula has been taught to most of us by schools, parents, society or companies. It turns out this formula is flawed. To know why let's apply common sense first and then look at the studies. If success means happiness, why then are there so many unhappy people which by today's standard of success, should be happy? And why are many people living in (today's standards) poverty so happy?
 More than a decade of research in psychology and neuroscience has shown that the relationship between success and happiness works the other way around. It turns out that happiness is the precursor to success. Happiness and optimism fuel performance, leading to better outcomes. While waiting to be happy limits our brain's potential for success.
 **The effects of depression**
 A 2004 Harvard Crimson poll found that 4 in 5 Harvard students suffer from depression at least once during the school year and nearly half of them from depression so severe that they can't function.
-When Shawn first entered Harvard he observed a common pattern among the students. First, they would be excited about their privilege to study at Harvard, but soon they would frett incessantly about their future, competition, workload, and stress. Not only the most negative students have a negative mindset, their academic performance was affected most.
+When Shawn first entered Harvard he observed a common pattern among the students. First, they would be excited about their privilege to study at Harvard, but soon they would fret incessantly about their future, competition, workload, and stress. Not only the most negative students have a negative mindset, their academic performance was affected most.
 In 2006, Dr. Tal Ben-Shahar opened what would become Harvard's most popular course,  [Positive Psychology 1504](https://positivepsychologyprogram.com/harvard-positive-psychology-course-1504/). Over 1200 students enrolled in the first semesters, Shawn and his colleagues realized that students were there because they were starving to be happier.
-The students were highly intelligent and had mastered some of the hardest academic courses, but they hadn't been thought how to maximize their brain's potential to find meaning and happiness.
+The students were highly intelligent and had mastered some of the hardest academic courses, but they hadn't been taught how to maximize their brain's potential to find meaning and happiness.
 **The power of happiness**
 Let's fly very briefly through some very interesting studies. As I said, studies in psychology and neuroscience have shown that we become more successful when we are happier. For example,
 
@@ -53,7 +53,7 @@ What this means is that even if our happiness baseline fluctuates around on a da
 
 ## Meditate
 
-> Neuroscientists have found that monka who spend years meditating actually grow their left prefrontal cortex, the part of the brain most resposible for feeling happy.
+> Neuroscientists have found that monka who spend years meditating actually grow their left prefrontal cortex, the part of the brain most responsible for feeling happy.
 
 You don't need to meditate for years to reap the benefits though, 10 to 20 minutes a day can have a big positive impact. Studies have shown that we experience more feelings of calm and contentment right after meditating. As well as heightened awareness and empathy.
 Regular meditation can permanently rewire the brain to raise levels of happiness, lower stress and improve immune function.
@@ -72,7 +72,7 @@ Psychologist Robert Emmons has spent nearly his entire career studying gratitude
 And it's not that people are only grateful because they are happier. Gratitude has proven to be a significant cause of positive outcomes. When researchers pick random volunteers and train them to be more grateful over a period of a few weeks, they become happier and more optimistic, feel more socially connected and experience a better quality of sleep while having fewer headaches than control groups.
 **Practice optimism**
 Optimism is a tremendously powerful predictor of work performance. Studies show that optimists set more, and more difficult goals, stay more engaged in face of difficulty and rise above obstacles more easily than pessimists. Optimists cope better in high-stress situations and are able to maintain higher levels of well-being during hardship.
-> Richard Wiseman proved in a clever way that expecting positive outcomes actually make them more likely to arise.
+> Richard Wiseman proved in a clever way that expecting positive outcomes actually makes them more likely to arise.
 
 Wiseman studied why some of us seem to be consistently lucky while other's don't. It turns out that it comes down to whether people think they are lucky. Wiseman demonstrated this by asking volunteers to read through a newspaper and count how many photos were in it. The people who claimed to be lucky took mere seconds to accomplish this task, while the unlucky ones took an average of two minutes.
 Why? Because on the second page a large message read: "Stop counting, there are 43 photos in this newspaper." But it gets even better, halfway through the newspaper was another message that read. "Stop counting, tell the experimenter you have seen this and win $250."
@@ -84,7 +84,7 @@ So write down those "3 good things" that happened today, this will train your br
 Even after stopping the exercise, they remained significantly happier and showed higher levels of optimism. The better they got at scanning the world for good things to write down, the more good things they saw even without trying.
 A good variation of the "three good things" exercise is to maintain a short journal entry about a positive experience. Researchers Chad Burton and Laura King have found that journaling about positive experiences has at least an equally powerful effect.
 One of their experiments in which people who were instructed to write down positive experiences for 20 minutes, three times per week, showed that they experienced larger spikes of happiness, and even fewer symptoms of illness three months later, compared to a control group that wrote about neutral topics.
-Personally, I like to journaling because it gives me a way to analyze events and plan for the future.
+Personally, I like journaling because it gives me a way to analyze events and plan for the future.
 So there you have it, this is only a fraction of the information and value you will get out of this book, which is one of my favorites. So I can only recommend you get it.
 [Click here to buy the book on Amazon](https://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance/dp/0307591549/ref=sr_1_2?ie=UTF8&qid=1524311977&sr=8-2&keywords=the+happiness+advantage&tag=kasbl023-20)
 

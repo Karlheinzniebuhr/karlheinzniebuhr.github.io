@@ -9,7 +9,7 @@ book: true
 
 [When I Say No, I Feel Guilty](https://www.amazon.com/When-Say-No-Feel-Guilty/dp/0553263900?tag=kasbl023-20) by Manuel J. Smith has become one of my all-time favorite books. This book is like a vaccine against manipulation. I'm so grateful to my instinctual attraction to this book despite it not being popular nor new or anything. One of those rare books that are truly undervalued.
 
-Let's dive in into an example where a student of systematic assertive therapy uses what he learned to get a refund from his car dealer.
+Let's dive into an example where a student of systematic assertive therapy uses what he learned to get a refund from his car dealer.
 
 ---
 

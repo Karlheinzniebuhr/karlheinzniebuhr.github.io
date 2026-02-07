@@ -6,7 +6,7 @@ categories: [Book Excerpts]
 book: true
 ---
 
-What follows is a assertiveness training session taken from the book [When I say no, I feel guilty](https://www.amazon.com/When-Say-No-Feel-Guilty/dp/0553263900?tag=kasbl023-20).
+What follows is an assertiveness training session taken from the book [When I say no, I feel guilty](https://www.amazon.com/When-Say-No-Feel-Guilty/dp/0553263900?tag=kasbl023-20).
 
 ---
 

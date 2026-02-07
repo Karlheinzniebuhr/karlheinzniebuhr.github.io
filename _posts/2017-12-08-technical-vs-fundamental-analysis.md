@@ -34,7 +34,7 @@ Let me explain why, at least for long-term investing, the fundamental approach i
 They carefully analyze the value of a business they are interested in, not paying attention to current market trends. Why? Warren puts it this way, if he had listened to his dad who told him that it was not a good time to get into the security business, he would still have the 10,000$ he started with.
 Another argument against technical analysis is false precision in charts. Buffet claims that investment managers make things more complicated than they are and Munger adds that the worst mistakes are made from the nicest graphs and that what is really needed is enlightened common sense. They act on the principle: **"I would rather be vaguely right than precisely wrong".**
 **Examples from my own experience**
-I started playing with cryptocurrencies about 6 months ago. I managed to make some good money with trading initially but then learned the hard way, losing about the same amount I had initially made. This experience thought me several lessons.
+I started playing with cryptocurrencies about 6 months ago. I managed to make some good money with trading initially but then learned the hard way, losing about the same amount I had initially made. This experience taught me several lessons.
 
 1. Trading consumes a huge amount of time. You have to spend every day analyzing trends and making sure to sell at the right moment. Even if you can make use of automatic sell and buy triggers, you still will have to invest some time.
 2. It is much riskier to trade than to just invest in a currency you can be sure which will get more value over time.
