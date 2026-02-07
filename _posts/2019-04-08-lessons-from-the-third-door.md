@@ -115,7 +115,7 @@ Wozniak is very happy, and he prioritizes his happiness as you will learn from t
 
 #### Maintaining an Intern Mindset
 
-When Alex interviewed Pitbull he thought him how to preserve a student's mindset.
+When Alex interviewed Pitbull he taught him how to preserve a student's mindset.
 
 > “The best thing I learned from Luther Campbell,” Pitbull said, “was that there’s nothing better than to be an intern in life. The best CEOs in business started out as interns. Because when you go from intern to CEO, no one can bullshit you. But all you can do is help them. ‘Look, I already did that job. I know exactly what it took to make that happen.’ ”
 

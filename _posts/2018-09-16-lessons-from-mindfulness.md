@@ -58,7 +58,7 @@ like a buddha](https://www.amazon.com/Sit-Like-Buddha-Pocket-Meditation/dp/16118
 or “good” meditation session. I’m sure everyone that tried to meditate can
 relate to the feeling you get if your thoughts just keep exploding while you
 try to imitate a monk like you know from those pics on the Internet, lol. Sit
-like a Buddha thought me to see that frustration as ally. Truth is, it is the
+like a Buddha taught me to see that frustration as ally. Truth is, it is the
 perfect opportunity to train self-kindness.
 
 > Any mind-wandering, restlessness or boredom that arises can be acknowledged as allies of your attention training.

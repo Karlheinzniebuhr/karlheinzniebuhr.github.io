@@ -41,7 +41,7 @@ People generally are going to behave according to how much you trust and how you
 
 ## Don't imitate big business!
 
-Lots of books about entrepreneurship, as well as my own experience as a client, thought me that often a business or even a team starts to lose it's magic when you put in operations as big businesses do.
+Lots of books about entrepreneurship, as well as my own experience as a client, taught me that often a business or even a team starts to lose its magic when you put in operations as big businesses do.
 
 > Many big businesses get away with staggering amounts of inefficiency and bureaucracy and seem fine for years. Once a corporate behemoth has built a big fat moat around a herd of cash cows, who cares how many cow herders they have or how little they get done?
 >

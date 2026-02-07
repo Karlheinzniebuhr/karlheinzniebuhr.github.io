@@ -13,7 +13,7 @@ In my [character strengths profile survey](https://www.viacharacter.org/), love 
 
 For a while, it seemed to me that I had no particular strength. Having such a wide range of interests even seemed bad for me in today's ever more specialized world. Then the startup happened and suddenly my wide range of knowledge became useful. But that's a topic for a separate post.
 
-Also, the book The Self-made Billionaire Effect thought me about Producers & Performers. Performers being highly specialized individuals able to perform in a specific area. Producers are those with the ability to synthesize a wide range of ideas and knowledge, take risk and spot new opportunities in the market. There is an upcoming summary of this book.
+Also, the book The Self-made Billionaire Effect taught me about Producers & Performers. Performers being highly specialized individuals able to perform in a specific area. Producers are those with the ability to synthesize a wide range of ideas and knowledge, take risk and spot new opportunities in the market. There is an upcoming summary of this book.
 
 When asked about AI Mark replied:
 

@@ -89,7 +89,7 @@ Bill names a dozen of future use cases of the internet, most of which already ha
 
 ## The Internet's role in education
 
-I've said it many times, online courses revolutionized my career. The first big online course I took was An introduction to Artificial Intelligence from Stanford, lead by Sebastian Thrun and Peter Norvig. That course thought me more about education than about AI. I fell in love with education. Those were some of the most interesting, enthusiastic teachers, I've had and I loved that I could progress at my own pace, during the time of day of my choice. Not to forget that it was the first time I had access to a course from a top university in the world from Paraguay. Bill predicted that the Internet would revolutionize education.
+I've said it many times, online courses revolutionized my career. The first big online course I took was An introduction to Artificial Intelligence from Stanford, lead by Sebastian Thrun and Peter Norvig. That course taught me more about education than about AI. I fell in love with education. Those were some of the most interesting, enthusiastic teachers, I've had and I loved that I could progress at my own pace, during the time of day of my choice. Not to forget that it was the first time I had access to a course from a top university in the world from Paraguay. Bill predicted that the Internet would revolutionize education.
 
 > Programs like this have spread to schools all over the world. The effects have been impressive. A recent report shows that students who regularly use computers gain many skills. They write more often and better; they have better analysis skills; they express themselves more creatively; they work more independently, and they are better at problem solving and critical thinking.
 

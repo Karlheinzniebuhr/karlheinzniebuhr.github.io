@@ -53,7 +53,7 @@ What this means is that even if our happiness baseline fluctuates around on a da
 
 ## Meditate
 
-> Neuroscientists have found that monka who spend years meditating actually grow their left prefrontal cortex, the part of the brain most responsible for feeling happy.
+> Neuroscientists have found that monks who spend years meditating actually grow their left prefrontal cortex, the part of the brain most responsible for feeling happy.
 
 You don't need to meditate for years to reap the benefits though, 10 to 20 minutes a day can have a big positive impact. Studies have shown that we experience more feelings of calm and contentment right after meditating. As well as heightened awareness and empathy.
 Regular meditation can permanently rewire the brain to raise levels of happiness, lower stress and improve immune function.

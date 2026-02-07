@@ -24,4 +24,4 @@ wasn’t until I found truly wise people like Charlie Munger and
 Warren Buffett, that I started absorbing everything, every book,
 every interview I could find about them.
 
-So I’m sorry if I offend people who think they can just sit on their ass all day thinking that they can magically attract good outcomes, you will have to place that faith on the work you put in to achieve your goal, whether that is becoming happier, wealtheir or whatever else. At least that’s the only reliable way I’ve learned so far through experience, observation and reading many books.
+So I’m sorry if I offend people who think they can just sit on their ass all day thinking that they can magically attract good outcomes, you will have to place that faith on the work you put in to achieve your goal, whether that is becoming happier, wealthier or whatever else. At least that’s the only reliable way I’ve learned so far through experience, observation and reading many books.

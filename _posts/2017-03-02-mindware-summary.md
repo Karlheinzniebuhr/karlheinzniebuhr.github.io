@@ -29,7 +29,7 @@ This is how the representative heuristic works. It leads us to make conclusions 
 
 ### Loss aversion
 
-Most people's fear of risk is higher than the desire to win. This has been shown by many experiments. In one such experiment participants didn't enter a bet where they could either win or loose money until they stood to win at least twice the amount they would lose.
+Most people's fear of risk is higher than the desire to win. This has been shown by many experiments. In one such experiment participants didn't enter a bet where they could either win or lose money until they stood to win at least twice the amount they would lose.
 
 ### The endowment effect
 

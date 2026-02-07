@@ -25,7 +25,7 @@ So how can we practice authenticity? By speaking and acting out our mind on a da
 The word perfectionism may sound positive but actually, it's a trap. It is different than striving to be your best version. It is not the same as self-improvement but rather it is a shield to protect from the fear of shame.
 Perfectionism, in other words, is the belief that you can live and act perfectly, this is an illusion because nobody can be perfect. The perfectionists' mind fails to recognize this and instead thinks that she has to do even better regardless of whether that is possible.
 Instead of helping to become better, perfectionism can often be paralyzing, as the person might stop acting out on something due to the fear of rejection or failure. The best way to deal with this issue is, to be honest about our shame and remind ourselves to do things for ourselves, not for others.
-For example, if you want to exercise, instead of doubting and fearing the reaction of others in the gym or from your social circle in case you don't get the expected results, just do it for yourself. If you know that something will make you feel better and healtheir then that is the only reason you need.
+For example, if you want to exercise, instead of doubting and fearing the reaction of others in the gym or from your social circle in case you don't get the expected results, just do it for yourself. If you know that something will make you feel better and healthier then that is the only reason you need.
 
 ### Cultivate resilience and perspective
 

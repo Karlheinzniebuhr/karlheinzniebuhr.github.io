@@ -51,7 +51,7 @@ Thinking positively don't mean you have to ignore negative things. It just means
 
 ### Don't be conformed, set the bar high for yourself
 
-As explained int the book [The Talent Code](https://www.karlbooklover.com/the-talent-code-summary/) and [Bounce](https://www.karlbooklover.com/bounce-summary/), you have to set the bar high in order to keep progressing. If you think "I'm good enough" then you inevitably will plateau or even loose your skill. Keep setting high expectations for yourself.
+As explained int the book [The Talent Code](https://www.karlbooklover.com/the-talent-code-summary/) and [Bounce](https://www.karlbooklover.com/bounce-summary/), you have to set the bar high in order to keep progressing. If you think "I'm good enough" then you inevitably will plateau or even lose your skill. Keep setting high expectations for yourself.
 If you keep expecting improvement from yourself, you'll become a leader. People who are leaders don't need other people to tell them what to do.
 
 ---

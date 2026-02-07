@@ -168,7 +168,7 @@ Bringing big ideas to the market required more than imagination. It required the
 
 ## See the Relative Risk
 
-Contrary to most people, producers view risk as relative, not absolute. They assess their options based on what they might loose if they don't act, not just what they might risk by acting.
+Contrary to most people, producers view risk as relative, not absolute. They assess their options based on what they might lose if they don't act, not just what they might risk by acting.
 
 ### The Producer-Performer duality. Find your complement
 
